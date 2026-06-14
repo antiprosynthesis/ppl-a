@@ -376,7 +376,7 @@ The correct option is marked like this:
 - [x] It contains special symbols to indicate the conditions at the aerodrome visually to over-flying aircraft
 - [ ] It is a specially marked area to pick up or drop towing objects
 
-**54.** What is the meaning of this sign at an aerodrome? See figure (ALW-011)
+**54.** What is the meaning of this sign at an aerodrome?
   
 ![ALW-011](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/ALW-011.jpg)
 
@@ -422,7 +422,7 @@ The correct option is marked like this:
 - [x] rotating beacon installed at an airport or aerodrome to indicate its location to aircraft pilots from the air.
 - [ ] fixed beacon installed at an airport or aerodrome to indicate its location to aircraft pilots from the air.
 
-**60.** What is shown on the illustrated sign? See figure (ALW-020)
+**60.** What is shown on the illustrated sign?
   
 ![ALW-020](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/ALW-020.jpg)
 
@@ -648,7 +648,7 @@ The correct option is marked like this:
 - [ ] Blue
 - [ ] Green
 
-**92.** What is shown on the printed sign? See figure (ALW-019)
+**92.** What is shown on the printed sign?
   
 ![ALW-019](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/ALW-019.jpg)
 

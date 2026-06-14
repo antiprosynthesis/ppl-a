@@ -110,7 +110,7 @@ The correct option is marked like this:
 - [ ] Limitations
 - [ ] Normal procedures
 
-**16.** The position of the center of gravity equals... See figure (PFP-052e)
+**16.** The position of the center of gravity equals...
   
 ![PFP-052e](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFP-052e.jpg)
 
@@ -135,7 +135,7 @@ The correct option is marked like this:
 - [ ] A higher flap setting decreases ground roll and increases lift-off speed and climb performance
 - [ ] A higher flap setting increases ground roll, lift-off speed, and climb performance
 
-**19.** How does the aircraft configuration influence take-off performance while all other parameters remaining constant? See figure (PFP-007)
+**19.** How does the aircraft configuration influence take-off performance while all other parameters remaining constant?
   
 ![PFP-007](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFP-007.jpg)
 
@@ -165,7 +165,7 @@ The correct option is marked like this:
 - [ ] It remains constant below 5000 ft
 - [ ] It decreases
 
-**23.** The beginning of the green arc (2) indicates which airspeed? See figure (PFP-008)
+**23.** The beginning of the green arc (2) indicates which airspeed?
   
 ![PFP-008](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFP-008.jpg)
 
@@ -359,7 +359,7 @@ The correct option is marked like this:
 - [ ] 37.7 USG
 - [x] 48.4 USG
 
-**45.** According to the aeronautical chart, Friesach/Hirt (LOKH) has a 707 m grass runway. Prevailing runway is 17 due to a surface wind of 18010KT. The required landing distance for your aircraft under present conditions is 550 m. Considering the NOTAM below, is it safe to plan LOKH as an alternate aerodrome? See figure (PFP-026)
+**45.** According to the aeronautical chart, Friesach/Hirt (LOKH) has a 707 m grass runway. Prevailing runway is 17 due to a surface wind of 18010KT. The required landing distance for your aircraft under present conditions is 550 m. Considering the NOTAM below, is it safe to plan LOKH as an alternate aerodrome?
   
 ![PFP-026](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFP-026.jpg)
 
@@ -375,7 +375,7 @@ The correct option is marked like this:
 - [ ] Runway 24L/06R at Palma de Mallorca (LEPA) airport will be closed from November 21st 2011 2200 local time until November 22nd 2011 0500 local time
 - [x] Runway 24L/06R at Palma de Mallorca (LEPA) airport will be closed from November 21st 2011 2200 UTC until November 22nd 2011 0500 UTC
 
-**47.** Up to which altitude is an overflight prohibited according to the NOTAM? See figure (PFP-024)
+**47.** Up to which altitude is an overflight prohibited according to the NOTAM?
   
 ![PFP-024](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFP-024.jpg)
 
@@ -549,7 +549,7 @@ The correct option is marked like this:
 - [ ] 25.4 cm
 - [x] 24.8 cm
 
-**71.** The position of the center of gravity (including fuel) equals... See figure(PFP-053e)
+**71.** The position of the center of gravity (including fuel) equals...
   
 ![PFP-053e](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFP-053e.jpg)
 

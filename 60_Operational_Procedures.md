@@ -96,7 +96,7 @@ The correct option is marked like this:
 - [ ] Fog
 - [ ] Stable high pressure areas
 
-**14.** Which phenomenon may be expected at point 3 of the miroburst? See figure (OPR-001)
+**14.** Which phenomenon may be expected at point 3 of the miroburst?
   
 ![OPR-001](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/OPR-001.jpg)
 
@@ -105,7 +105,7 @@ The correct option is marked like this:
 - [ ] Decrease in climb rate
 - [ ] Constant rate of descent
 
-**15.** Which phenomenon may be expected at point 2 of the microburst? See figure (OPR-001)
+**15.** Which phenomenon may be expected at point 2 of the microburst?
   
 ![OPR-001](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/OPR-001.jpg)
 

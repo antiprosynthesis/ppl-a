@@ -278,7 +278,7 @@ The correct option is marked like this:
 - [x] Macho attitude and invulnerability
 - [ ] Impulsivity and carefulness
 
-**40.** The ideal level of arousal is at which point in the diagram? See figure (HPL- 002) P = Performance A = Arousal / Stress
+**40.** The ideal level of arousal is at which point in the diagram? P = Performance A = Arousal / Stress
   
 ![HPL-002](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/HPL-002.jpg)
 
@@ -294,7 +294,7 @@ The correct option is marked like this:
 - [x] 1, 2, 3, 4
 - [ ] 1, 2, 3
 
-**42.** At which point in the diagram will a pilot find himself to be overstrained? See figure (HPL-002) P = Performance A = Arousal / Stress
+**42.** At which point in the diagram will a pilot find himself to be overstrained? P = Performance A = Arousal / Stress
   
 ![HPL-002](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/HPL-002.jpg)
 

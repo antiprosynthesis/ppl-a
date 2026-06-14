@@ -250,7 +250,7 @@ The correct option is marked like this:
 - [ ] Stratiform and ice clouds
 - [ ] Layered and lifted clouds
 
-**36.** What cloud type does the picture show? See figure (MET-002).
+**36.** What cloud type does the picture show?
   
 ![MET-002](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/MET-002.jpg)
 
@@ -259,7 +259,7 @@ The correct option is marked like this:
 - [ ] Stratus
 - [ ] Altus
 
-**37.** What cloud type does the picture show? See figure (MET-004).
+**37.** What cloud type does the picture show?
   
 ![MET-004](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/MET-004.jpg)
 
@@ -338,7 +338,7 @@ The correct option is marked like this:
 - [x] It destablises due to warming of air in the lower troposphere
 - [ ] It stablises due to warming of air in the lower troposphere
 
-**48.** The symbol labeled (2) as shown in the picture is a / an... See figure (MET-005)
+**48.** The symbol labeled (2) as shown in the picture is a / an...
   
 ![MET-005](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/MET-005.jpg)
 
@@ -354,7 +354,7 @@ The correct option is marked like this:
 - [ ] In coastal areas during daytime wind from the coast and forming of cumulus clouds, dissipation of clouds during evening and night
 - [x] Strongly developed cumulus clouds (Cb) with showers of rain and thunderstorms, gusting wind followed by cumulus clouds with isolated showers of rain
 
-**50.** The symbol labeled (1) as shown in the picture is a / an... See figure (MET-005)
+**50.** The symbol labeled (1) as shown in the picture is a / an...
   
 ![MET-005](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/MET-005.jpg)
 
@@ -377,7 +377,7 @@ The correct option is marked like this:
 - [ ] Medium visibility with lowering cloud bases, onset of prolonged precipitation
 - [ ] Poor visibility, formation of overcast or ground-covering stratus clouds, snow
 
-**53.** The symbol labeled (3) as shown in the picture is a / an... See figure (MET-005)
+**53.** The symbol labeled (3) as shown in the picture is a / an...
   
 ![MET-005](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/MET-005.jpg)
 
@@ -456,7 +456,7 @@ The correct option is marked like this:
 - [ ] Thin Altostratus and Cirrostratus clouds with light and steady precipitation.
 - [ ] Overcast low stratus (high fog) with no precipitation.
 
-**64.** What weather phenomenon designated by "2" has to be expected on the lee side during the illustrated conditions? See figure (MET-001).
+**64.** What weather phenomenon designated by "2" has to be expected on the lee side during the illustrated conditions?
   
 ![MET-001](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/MET-001.jpg)
 

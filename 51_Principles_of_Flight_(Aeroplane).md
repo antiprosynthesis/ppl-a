@@ -26,7 +26,7 @@ The correct option is marked like this:
 - [ ] lift without drag.
 - [ ] drag and lift.
 
-**4.** Number 2 in the drawing corresponds to the... See figure (PFA-010)
+**4.** Number 2 in the drawing corresponds to the...
   
 ![PFA-010](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFA-010.jpg)
 
@@ -35,7 +35,7 @@ The correct option is marked like this:
 - [ ] chord line.
 - [ ] angle of attack.
 
-**5.** The angle (alpha) shown in the figure is referred to as... See figure (PFA-003) DoF: direction of airflow
+**5.** The angle (alpha) shown in the figure is referred to as... DoF: direction of airflow
   
 ![PFA-003](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFA-003.jpg)
 
@@ -51,7 +51,7 @@ The correct option is marked like this:
 - [ ] tapering.
 - [ ] trapezium shape.
 
-**7.** Which point on the aerofoil is represented by number 1? See figure (PFA-009)
+**7.** Which point on the aerofoil is represented by number 1?
   
 ![PFA-009](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFA-009.jpg)
 
@@ -263,7 +263,7 @@ The correct option is marked like this:
 - [x] Wing dihedral
 - [ ] Elevator
 
-**37.** Which constructive feature is shown in the figure? See figure (PFA-006) L: Lift
+**37.** Which constructive feature is shown in the figure? L: Lift
   
 ![PFA-006](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFA-006.jpg)
 
@@ -670,7 +670,7 @@ The correct option is marked like this:
 - [ ] Propeller pitch is decreased, sink rate is increased
 - [ ] Propeller pitch is decreased, sink rate is decreased
 
-**94.** Point number 1 in the figure indicates which flight state? See figure (PFA-008)
+**94.** Point number 1 in the figure indicates which flight state?
   
 ![PFA-008](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFA-008.jpg)
 
@@ -679,7 +679,7 @@ The correct option is marked like this:
 - [ ] Best gliding angle
 - [ ] Slow flight
 
-**95.** Point number 5 in the figure indicates which flight state? See figure (PFA-008)
+**95.** Point number 5 in the figure indicates which flight state?
   
 ![PFA-008](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFA-008.jpg)
 

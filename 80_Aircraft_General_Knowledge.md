@@ -89,7 +89,7 @@ The correct option is marked like this:
 - [ ] excessive engine rpm and cylinder defects.
 - [ ] intense erosion or high wear.
 
-**13.** Number 1 on the gear designates the... See figure (AGK-005)
+**13.** Number 1 on the gear designates the...
   
 ![AGK-005](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-005.jpg)
 
@@ -217,7 +217,7 @@ The correct option is marked like this:
 - [ ] 4 Cylinder 2 stroke
 - [x] 4 Cylinder; 4 stroke
 
-**31.** Which part of the cycle of a four-stroke Otto engine can be seen in the attachment? See figure (AGK-008)
+**31.** Which part of the cycle of a four-stroke Otto engine can be seen in the attachment?
   
 ![AGK-008](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-008.jpg)
 
@@ -226,7 +226,7 @@ The correct option is marked like this:
 - [ ] Third stroke - power
 - [x] Second stroke - compression
 
-**32.** Which part of the cycle of a four-stroke Otto engine can be seen in the attachment? See figure (AGK-007)
+**32.** Which part of the cycle of a four-stroke Otto engine can be seen in the attachment?
   
 ![AGK-007](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-007.jpg)
 
@@ -508,7 +508,7 @@ The correct option is marked like this:
 - [ ] Speed range not to exceed
 - [ ] Speed range in smooth air
 
-**72.** The red marking at the end of the yellow arc (5) indicates which airspeed? See figure (PFP-008)
+**72.** The red marking at the end of the yellow arc (5) indicates which airspeed?
   
 ![PFP-008](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFP-008.jpg)
 
@@ -629,7 +629,7 @@ The correct option is marked like this:
 - [x] Operational limits
 - [ ] Operational areas
 
-**89.** Which wing configuration is shown in the attachment? See figure (AGK-002)
+**89.** Which wing configuration is shown in the attachment?
   
 ![AGK-002](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-002.jpg)
 
@@ -638,7 +638,7 @@ The correct option is marked like this:
 - [ ] Mid wing
 - [ ] Low wing
 
-**90.** Which tail assembly is shown in the attachment? See figure (AGK-003)
+**90.** Which tail assembly is shown in the attachment?
   
 ![AGK-003](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-003.jpg)
 
@@ -668,7 +668,7 @@ The correct option is marked like this:
 - [ ] Only on the nose gear
 - [x] Only on the main gear
 
-**94.** What is checked by the marking in the attachment? See figure (AGK-006)
+**94.** What is checked by the marking in the attachment?
   
 ![AGK-006](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-006.jpg)
 
@@ -798,7 +798,7 @@ The correct option is marked like this:
 - [ ] two coupled ignition systems.
 - [x] two independent ignition systems.
 
-**112.** The angle indicated by arrow number 1 shows the propeller's... See figure (AGK-011) D: Direction of air flow C: Chord line R: Direction of rotation
+**112.** The angle indicated by arrow number 1 shows the propeller's... D: Direction of air flow C: Chord line R: Direction of rotation
   
 ![AGK-011](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-011.jpg)
 

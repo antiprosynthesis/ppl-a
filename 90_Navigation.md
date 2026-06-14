@@ -541,7 +541,7 @@ The correct option is marked like this:
 - [x] Automatic direction finder (ADF)
 - [ ] Horizontal situation indicator (HSI)
 
-**77.** The pilot wants to proceed directly to the beacon. The wind is calm. The pilot should follow a QDM of: See figure (NAV-019)
+**77.** The pilot wants to proceed directly to the beacon. The wind is calm. The pilot should follow a QDM of:
   
 ![NAV-019](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/NAV-019.jpg)
 
@@ -818,7 +818,7 @@ The correct option is marked like this:
 - [x] 1 NM lateral offset at 1° drift after 60 NM
 - [ ] 10 NM lateral offset at 1° drift after 60 NM
 
-**114.** What radio navigation aid can be received with the attached aerial? See figure (NAV-017)
+**114.** What radio navigation aid can be received with the attached aerial?
   
 ![NAV-017](https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/NAV-017.jpg)
 
