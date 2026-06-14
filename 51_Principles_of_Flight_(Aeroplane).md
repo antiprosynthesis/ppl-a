@@ -1,6 +1,8 @@
 # 51 Principles of Flight (Aeroplane)
 
-The correct option is marked `[x]`.
+The correct option is marked like this:
+
+- [x] correct option
 
 
 **1.** The static pressure of gases work...

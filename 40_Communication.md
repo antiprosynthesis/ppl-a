@@ -1,6 +1,8 @@
 # 40 Communication
 
-The correct option is marked `[x]`.
+The correct option is marked like this:
+
+- [x] correct option
 
 
 **1.** What does the abbreviation "FIS" stand for?

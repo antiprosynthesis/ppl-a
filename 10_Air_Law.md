@@ -1,6 +1,8 @@
 # 10 Air Law
 
-The correct option is marked `[x]`.
+The correct option is marked like this:
+
+- [x] correct option
 
 
 **1.** What is the status of the rules and procedures created by the EASA? (e.g. Part-SFCL, Part-MED)

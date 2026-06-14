@@ -1,6 +1,8 @@
 # 70 Flight Performance and Planning
 
-The correct option is marked `[x]`.
+The correct option is marked like this:
+
+- [x] correct option
 
 
 **1.** Exceeding the maximum allowed aircraft mass...

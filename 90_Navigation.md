@@ -1,6 +1,8 @@
 # 90 Navigation
 
-The correct option is marked `[x]`.
+The correct option is marked like this:
+
+- [x] correct option
 
 
 **1.** Which statement is correct with regard to the polar axis of the Earth?

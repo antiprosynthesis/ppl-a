@@ -1,6 +1,8 @@
 # 20 Human Performance
 
-The correct option is marked `[x]`.
+The correct option is marked like this:
+
+- [x] correct option
 
 
 **1.** What is the percentage of oxygen in the atmosphere at 6000 ft?

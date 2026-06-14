@@ -1,6 +1,8 @@
 # 80 Aircraft General Knowledge
 
-The correct option is marked `[x]`.
+The correct option is marked like this:
+
+- [x] correct option
 
 
 **1.** The load factor "n" describes the relationship between...

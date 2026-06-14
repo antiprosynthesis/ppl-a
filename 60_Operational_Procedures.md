@@ -1,6 +1,8 @@
 # 60 Operational Procedures
 
-The correct option is marked `[x]`.
+The correct option is marked like this:
+
+- [x] correct option
 
 
 **1.** When should turns at low altitudes above villages be avoided with regard to noise abatement procedures?

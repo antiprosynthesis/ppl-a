@@ -1,6 +1,8 @@
 # 30 Meteorology
 
-The correct option is marked `[x]`.
+The correct option is marked like this:
+
+- [x] correct option
 
 
 **1.** What is the gas composition of "air"?
