@@ -66,7 +66,7 @@ Lead/lag only applies to north-south turns. The mnemonic is UNOS — Undershoot 
 $$n={\text{lift}\over\text{weight}}$$
 
 ### Max. range to ground station (in NM):
-$$1.23\sqrt{height in ft}+10\%$$
+$$1.23\sqrt{\text{height in ft}}+10\%$$
 
 ### Transponder codes:
 - 7500 = unlawful interference/hijacking
