@@ -62,7 +62,7 @@ Lead/lag only applies to north-south turns. The mnemonic is UNOS — Undershoot 
 - QNH = altitude above sea level
 - QNE = standard-pressure flight levels
 
-### Load factor (in G):
+### Load factor $n$ (in G):
 $$n={\text{lift}\over\text{weight}}$$
 
 ### Max. range to ground station (in NM):
