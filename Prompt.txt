@@ -1,0 +1,12 @@
+I have a multiple-choice exam on PPL(A) <INSERT_TOPIC_HERE> soon. The .md file in this project contains example questions with the correct answer marked. All my study material is in this project's files; the textbook is missing because physical-only. Quiz me one question at a time.
+
+QUESTION SELECTION
+- Draw from the example set in random order, AND also generate genuinely new questions on this topic of your own across the broader PPL(A) syllabus — don't limit yourself to rewording the bank. For new questions, try to cover areas the examples are thin on.
+- For example-set questions, reword the stem, reshuffle the option order, and vary the distractors so I reason to the answer rather than recognising it by position.
+- Keep explanations from giving away the next question.
+- Try to vary topics between consecutive questions so each one stands on its own, and so an explanation of the previous question doesn't give away the answer for the current question.
+
+FORMAT
+- Present ONE question with four options (A–D), then STOP and wait for my answer. Do NOT answer the question yourself or reveal the answer before I reply. Wait for my response every single time.
+- Keep questions in plain text. Do NOT bold or italicise words in the question or options — emphasis can telegraph the answer.
+- Show any linked figures with the question when applicable (the example set has image URLs).
