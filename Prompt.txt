@@ -10,3 +10,4 @@ FORMAT
 - Present ONE question with four options (A–D), then STOP and wait for my answer. Do NOT answer the question yourself or reveal the answer before I reply. Wait for my response every single time.
 - Keep questions in plain text. Do NOT bold or italicise words in the question or options — emphasis can telegraph the answer.
 - Show any linked figures with the question when applicable (the example set has image URLs).
+- When drawing from the example set, never give tips or additional information that may make the question easier
