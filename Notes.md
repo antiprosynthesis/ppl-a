@@ -43,6 +43,8 @@ The common thread: every type reaches saturation either by cooling the air to it
 
 The unifying idea: a warm front lifts warm air gently up a long slope, giving widespread layered cloud and prolonged steady rain, while a cold front shoves warm air up steeply, giving a narrow, violent band of convective weather followed by clear unstable air. When the cold front catches the warm front, the two merge into an occluded front, which shows a mix of both.
 
+&nbsp;
+
 ### Constructions:
 | Type | Structure | Does the skin carry load? | Notes / typical use |
 |---|---|---|---|
@@ -53,25 +55,37 @@ The unifying idea: a warm front lifts warm air gently up a long slope, giving wi
 
 Quick memory hook: grid = frame does everything, monocoque = skin does everything, semi-monocoque = they split the job, sandwich = two skins glued to a light filling.
 
+&nbsp;
+
 ### Roll over/undershoot:
 
 Lead/lag only applies to north-south turns. The mnemonic is UNOS — Undershoot North, Overshoot South. Turning onto north, the compass lags, so you roll out early (before reaching 360). Turning onto south, the compass leads, so you roll out late
+
+&nbsp;
 
 ### Altimeter Q-codes:
 - QFE = height above field
 - QNH = altitude above sea level
 - QNE = standard-pressure flight levels
 
+&nbsp;
+
 ### Load factor $n$ (in G):
 $$n={\text{lift}\over\text{weight}}$$
 
+&nbsp;
+
 ### Max. range to ground station (in NM):
 $$1.23\sqrt{\text{height in ft}}+10\\%$$
+
+&nbsp;
 
 ### Transponder codes:
 - 7500 = unlawful interference/hijacking
 - 7600 = radio failure (communication loss)
 - 7700 = general emergency
+
+&nbsp;
 
 ### Air spaces:
 | Class | VFR allowed? | Clearance to enter | Two-way radio | Separation provided | VFR gets |
