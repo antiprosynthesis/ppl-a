@@ -72,3 +72,22 @@ $$1.23\sqrt{height in ft}+10\%$$
 - 7500 = unlawful interference/hijacking
 - 7600 = radio failure (communication loss)
 - 7700 = general emergency
+
+### Air space classes:
+| Class | VFR allowed? | Clearance to enter | Two-way radio | Separation provided | VFR gets |
+|-------|-------------|-------------------|---------------|--------------------|---------| 
+| A | No (IFR only) | Yes | Yes | All from all | — |
+| B | Yes | Yes | Yes | All from all | Separated from everyone |
+| C | Yes | Yes | Yes | IFR from IFR and VFR | Separation from IFR; traffic info on other VFR |
+| D | Yes | Yes | Yes | IFR from IFR only | Traffic info on all traffic |
+| E | Yes | IFR only | IFR only | IFR from IFR | Nothing required (traffic info as far as practical) |
+| F | Yes | No | Recommended | IFR advisory only | Flight information |
+| G | Yes | No | No (recommended) | None | Flight information on request |
+
+A few things worth committing to memory as a VFR pilot:
+
+Controlled airspace for VFR purposes is A through E. In A you simply can't fly VFR. B, C, and D all require an ATC clearance and two-way radio contact before you enter, which is exactly why the radio-failure questions matter. In E you don't need a clearance or even radio as VFR, but IFR traffic around you is controlled, so you won't necessarily be seen or separated.
+
+F and G are uncontrolled. You get information, not separation, and you're responsible for your own collision avoidance by see-and-avoid.
+
+The single most exam-relevant line: you need a clearance and radio contact for B, C, and D. That's the practical dividing line for a VFR pilot deciding whether they can just fly in.
