@@ -64,3 +64,6 @@ Lead/lag only applies to north-south turns. The mnemonic is UNOS — Undershoot 
 
 ### Load factor (in G):
 $$n={\text{lift}\over\text{weight}}$$
+
+### Max. range to ground station (in NM):
+$$1.23\sqrt{height in ft}+10\%$$
