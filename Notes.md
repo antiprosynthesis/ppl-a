@@ -67,3 +67,8 @@ $$n={\text{lift}\over\text{weight}}$$
 
 ### Max. range to ground station (in NM):
 $$1.23\sqrt{height in ft}+10\%$$
+
+### Transponder codes:
+- 7500 = unlawful interference/hijacking
+- 7600 = radio failure (communication loss)
+- 7700 = general emergency
