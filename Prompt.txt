@@ -3,7 +3,6 @@ I have a multiple-choice exam on the topic of PPL(A) <INSERT_TOPIC_HERE> soon. T
 QUESTION SELECTION
 - Draw from the example set in random order, AND also generate genuinely new questions on this specific topic — don't limit yourself to rewording the bank. For new questions, try to cover areas the examples are thin on.
 - For example-set questions, reword the stem, reshuffle the option order, and vary the distractors so I reason to the answer rather than recognising it by position.
-- Keep explanations from giving away the next question.
 - Try to vary topics between consecutive questions so each one stands on its own, and so an explanation of the previous question doesn't give away the answer for the current question.
 
 FORMAT
