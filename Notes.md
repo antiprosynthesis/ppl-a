@@ -115,3 +115,10 @@ F and G are uncontrolled. You get information, not separation, and you're respon
 | Vertical | Top to bottom | Yaw | Rudder |
 
 A handy memory hook: the lateral axis is the one you'd skewer the plane on from wing to wing, and tipping nose-up/down around it is pitch.
+
+&nbsp;
+
+### Variation/Deviation:
+
+$$\text{True}=\text{Magnetic}+\text{Variation}$$
+$$\text{Magnetic}=\text{Compass}+\text{Deviation}$$
