@@ -122,3 +122,9 @@ A handy memory hook: the lateral axis is the one you'd skewer the plane on from 
 
 $$\text{True}=\text{Magnetic}+\text{Variation}$$
 $$\text{Magnetic}=\text{Compass}+\text{Deviation}$$
+
+&nbsp;
+
+### 1:60 rule (small angle approximation):
+
+$$\text{angle }\degree\approx60{\Delta\text{cross}\over\Delta\text{along}}$$
