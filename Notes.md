@@ -5,7 +5,7 @@ $$2\ \degree \text{C}\ /\ 1000\text{ ft}$$
 
 &nbsp;
 
-### Air density $\rho$ in function of pressure $P$ and temperature $T$:
+### Air density $\rho$(pressure $P$, temperature $T$):
 $$\rho={P\over T}$$
 ### ISA air density:
 $$1.225\ {\text{kg}\over\text{m}^3}$$
@@ -76,7 +76,7 @@ $$n={\text{lift}\over\text{weight}}$$
 &nbsp;
 
 ### Max. range to ground station (in NM):
-$$1.23\sqrt{\text{height in ft}}+10\\%$$
+$$1.23\sqrt{\text{height ft}}+10\\%$$
 
 &nbsp;
 
@@ -107,7 +107,6 @@ F and G are uncontrolled. You get information, not separation, and you're respon
 &nbsp;
 
 ### Airplane axes:
-
 | Axis | Runs | Motion | Control surface |
 |------|------|--------|-----------------|
 | Longitudinal | Nose to tail | Roll | Ailerons |
@@ -117,12 +116,15 @@ F and G are uncontrolled. You get information, not separation, and you're respon
 &nbsp;
 
 ### Variation/Deviation:
-
 $$\text{True}=\text{Magnetic}+\text{Variation}$$
 $$\text{Magnetic}=\text{Compass}+\text{Deviation}$$
 
 &nbsp;
 
 ### 1:60 rule (small angle approximation):
-
 $$\text{angle }\degree\approx60{\Delta\text{cross}\over\Delta\text{along}}$$
+
+&nbsp;
+
+### TAS(IAS, altitude):
+$$\text{TAS}=\text{IAS}\left(1+0.02\ {\text{altitude ft}\over1000}\right)$$
