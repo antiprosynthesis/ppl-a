@@ -141,3 +141,19 @@ $$\text{angle }\degree\approx60{\Delta\text{cross}\over\Delta\text{along}}$$
 
 ### TAS(IAS, altitude):
 $$\text{TAS}=\text{IAS}\left(1+0.02\ {\text{altitude ft}\over1000}\right)$$
+
+&nbsp;
+
+### Physical conditions:
+| Condition | Main cause | Key symptoms | Action / notes |
+|---|---|---|---|
+| Hypoxic hypoxia | Low partial pressure of O₂ at altitude | Euphoria, impaired judgement, cyanosis (blue lips/nails), poor vision, fatigue, eventual unconsciousness | Descend, use supplemental O₂. Vision affected first; insight is lost so you may not notice it |
+| Anaemic hypoxia | Blood can't carry O₂ — carbon monoxide, smoking, blood loss, anaemia | Same as hypoxia: headache, drowsiness, confusion, cyanosis | Remove cause (e.g. turn off cabin heat for CO), 100% O₂, land |
+| Carbon monoxide poisoning | Exhaust leak via cracked heat exchanger; also smoking | Headache, drowsiness, confusion, nausea; CO is odourless | Cabin heat off, fresh air, O₂, land ASAP |
+| Hyperventilation | Over-breathing (stress, anxiety, pain) — too little CO₂ | Tingling (fingers, toes, mouth), dizziness, muscle spasm/tetany, visual disturbance; no cyanosis | Slow the breathing rate; if unsure vs hypoxia, treat for hypoxia |
+| Decompression sickness ("the bends") | Nitrogen bubbles from rapid pressure drop; risk raised by scuba diving before flight | Joint pain (knees, feet), skin itching, chest pain, neurological signs | Descend, 100% O₂, land, seek medical help; don't fly soon after diving |
+| Barotrauma (ear/sinus block) | Pressure can't equalise through a blocked eustachian tube (e.g. cold) | Ear pain, muffled hearing, possible vertigo, esp. on descent | Valsalva, swallow, yawn; avoid flying with a heavy cold |
+| Motion sickness | Conflict between visual and vestibular (inner ear) inputs | Nausea, sweating, pallor, dizziness | Fresh air, fix gaze on horizon, avoid head movements in turns |
+| Spatial disorientation / illusions | Misleading vestibular cues (leans, somatogravic, Coriolis) | False sensations of turn/climb/descent | Trust the instruments, not your senses |
+| Grey-out / black-out | Sustained positive g — blood drains from head | Loss of colour, tunnel vision, then blackout | Reduce g loading |
+| Red-out | Negative g — blood pushed toward head | Reddish vision | Reduce negative g |
