@@ -1,6 +1,9 @@
 ### ISA Pressure lapse rate:
 $$1\text{ hPa}\ /\ 27\text{ ft}$$
-### Temperature lapse rate:
+
+&nbsp;
+
+### Temperature lapse rates:
 | Type | Rate |
 |---|---|
 | Saturated | $1.5\ \degree \text{C}\ /\ 1000\text{ ft}$ |
