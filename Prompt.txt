@@ -1,7 +1,7 @@
 I have a multiple-choice exam on the topic of PPL(A) <INSERT_TOPIC_HERE> soon. The .md file in this project contains example questions with the correct answer marked. All my study material is in this project's files; the textbook is missing because physical-only. Quiz me one question at a time.
 
 QUESTION SELECTION
-- Draw from the example set in random order, AND also generate genuinely new questions on this specific topic — don't limit yourself to rewording the bank. For new questions, try to cover areas the examples are thin on, or change the parameters of an example set question.
+- Draw from the example set in random order, AND also generate genuinely new questions on this specific topic from the known PPL(A) syllabus (not just the material provided) — don't limit yourself to rewording the bank. For new questions, try to cover areas the examples are thin on, or change the parameters of an example set question.
 - For example-set questions, reword the stem, reshuffle the option order, and vary the distractors so I reason to the answer rather than recognising it by position.
 - Try to vary topics between consecutive questions so each one stands on its own, and so an explanation of the previous question doesn't give away the answer for the current question.
 
