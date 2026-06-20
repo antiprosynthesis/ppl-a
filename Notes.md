@@ -1,7 +1,15 @@
-### Pressure lapse rate:
+### ISA Pressure lapse rate:
 $$1\text{ hPa}\ /\ 27\text{ ft}$$
 ### Temperature lapse rate:
-$$2\ \degree \text{C}\ /\ 1000\text{ ft}$$
+| Type | Rate |
+|---|---|
+| Saturated | $1.5\ \degree \text{C}\ /\ 1000\text{ ft}$ |
+| ISA | $2\ \degree \text{C}\ /\ 1000\text{ ft}$ |
+| Dry | $3\ \degree \text{C}\ /\ 1000\text{ ft}$ |
+
+Absolutely Stable < Saturated < Conditionally Unstable < Dry < Absolute Unstable
+
+Dryer = Higher lapse rate = More Unstable
 
 &nbsp;
 
