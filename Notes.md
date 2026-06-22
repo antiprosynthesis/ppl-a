@@ -162,3 +162,9 @@ $$\text{TAS}=\text{IAS}\left(1+0.02\ {\text{altitude ft}\over1000}\right)$$
 
 ### Wing loading:
 $${\text{weight}\over\text{wing area}}$$
+
+&nbsp;
+
+### Drags(Airspeed):
+<img width="1420" height="940" alt="image" src="https://github.com/user-attachments/assets/375b8ccf-12ea-4d11-b440-77fae35e17d8" />
+
