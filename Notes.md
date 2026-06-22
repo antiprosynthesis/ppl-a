@@ -86,7 +86,7 @@ Turning onto north, the compass lags, so you roll out early (before reaching 360
 ### Load factor $n$ (in G):
 $$n={\text{lift}\over\text{weight}}$$
 ### Load factor $n$ during coordinated turn (in G):
-$$n={1\over\cos(\text{angle }\degree)}$$
+$$n={1\over\cos(\text{angle})}$$
 
 &nbsp;
 
