@@ -187,6 +187,9 @@ $${\text{weight}\over\text{wing area}}$$
 | Wing fence | Spanwise barrier on the upper surface | Limits spanwise flow → controls stall progression on swept wings |
 | Stall strip | Small triangular strip on the inboard leading edge | Forces the root to stall first → benign, controllable stall |
 | Winglet | Vertical/upturned tip surface | Reduces tip vortex strength → less induced drag |
+| Differential ailerons | Up-going aileron deflects more than the down-going one | More drag on the up-aileron (rising-wing) side → balances yaw, reducing adverse yaw |
+| Frise ailerons | Up-going aileron's leading edge projects below the wing into the airflow | Creates drag on that side → counters adverse yaw |
+| Aileron-rudder interconnect | Rudder is mechanically linked to deflect with aileron input | Automatically applies coordinating rudder → reduces adverse yaw |
 
 &nbsp;
 
