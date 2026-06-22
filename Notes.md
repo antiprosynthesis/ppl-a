@@ -85,6 +85,8 @@ Turning onto north, the compass lags, so you roll out early (before reaching 360
 
 ### Load factor $n$ (in G):
 $$n={\text{lift}\over\text{weight}}$$
+### Load factor $n$ during coordinated turn (in G):
+$$n={1\over\cos(\text{angle }\degree)}$$
 
 &nbsp;
 
@@ -165,6 +167,23 @@ $${\text{weight}\over\text{wing area}}$$
 
 &nbsp;
 
-### Drags(Airspeed):
+### Drag(Airspeed):
 <img width="1420" height="940" alt="image" src="https://github.com/user-attachments/assets/375b8ccf-12ea-4d11-b440-77fae35e17d8" />
 
+&nbsp;
+
+### Wing designs/modifications:
+| Feature | What it is | Primary purpose / effect |
+|---|---|---|
+| Geometric washout | Physical spanwise twist; tip set at lower angle of incidence than root | Root stalls before tip → aileron control retained, gentler stall |
+| Aerodynamic washout | Different aerofoil section toward the tip (no physical twist) | Same as geometric washout (root stalls first) without structural twist |
+| Wing dihedral | Wings angled upward from root to tip (shallow V, front view) | Lateral (roll) stability — self-correcting roll in a sideslip |
+| Anhedral | Wings angled downward from root to tip | Reduces excessive lateral stability (used on some high-wing/swept designs) |
+| Sweepback | Wing angled rearward from the root | Improves directional stability; delays compressibility effects (high speed) |
+| Leading-edge slot | Fixed gap near the leading edge | Re-energises boundary layer → delays separation, allows higher AoA |
+| Slat | Movable leading-edge device forming a slot when extended | Same effect as a slot but retractable; raises max lift / critical AoA |
+| Trailing-edge flap | Hinged/extending rear section (plain, split, slotted, Fowler) | Increases camber (and area, for Fowler) → more lift and drag at given AoA |
+| Vortex generators | Small vanes on the upper surface | Energise boundary layer locally → delay separation over that area |
+| Wing fence | Spanwise barrier on the upper surface | Limits spanwise flow → controls stall progression on swept wings |
+| Stall strip | Small triangular strip on the inboard leading edge | Forces the root to stall first → benign, controllable stall |
+| Winglet | Vertical/upturned tip surface | Reduces tip vortex strength → less induced drag |
