@@ -157,3 +157,8 @@ $$\text{TAS}=\text{IAS}\left(1+0.02\ {\text{altitude ft}\over1000}\right)$$
 | Spatial disorientation / illusions | Misleading vestibular cues (leans, somatogravic, Coriolis) | False sensations of turn/climb/descent | Trust the instruments, not your senses |
 | Grey-out / black-out | Sustained positive g — blood drains from head | Loss of colour, tunnel vision, then blackout | Reduce g loading |
 | Red-out | Negative g — blood pushed toward head | Reddish vision | Reduce negative g |
+
+&nbsp;
+
+### Wing loading:
+$${\text{weight}\over\text{wing area}}$$
