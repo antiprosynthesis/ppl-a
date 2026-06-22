@@ -187,3 +187,10 @@ $${\text{weight}\over\text{wing area}}$$
 | Wing fence | Spanwise barrier on the upper surface | Limits spanwise flow → controls stall progression on swept wings |
 | Stall strip | Small triangular strip on the inboard leading edge | Forces the root to stall first → benign, controllable stall |
 | Winglet | Vertical/upturned tip surface | Reduces tip vortex strength → less induced drag |
+
+&nbsp;
+
+### Lift formula:
+$$L={1\over2}\rho V^2 S\ C_L$$
+### Drag formula:
+$$D={1\over2}\rho V^2 S\ C_D$$
