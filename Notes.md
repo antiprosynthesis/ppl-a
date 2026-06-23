@@ -193,7 +193,10 @@ $${\text{weight}\over\text{wing area}}$$
 
 &nbsp;
 
+### Air pressure:
+$$q={1\over2}\rho V^2$$
 ### Lift formula:
-$$L={1\over2}\rho V^2 S\ C_L$$
+$$L={1\over2}\rho V^2\ S\ C_L$$
 ### Drag formula:
-$$D={1\over2}\rho V^2 S\ C_D$$
+$$D={1\over2}\rho V^2\ S\ C_D$$
+
