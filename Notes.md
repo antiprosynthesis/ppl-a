@@ -70,7 +70,7 @@ Quick memory hook: grid = frame does everything, monocoque = skin does everythin
 
 ### Roll over/undershoot:
 
-Lead/lag only applies to north-south turns; "Undershoot North, Overshoot South".
+Lead/lag only applies to north-south turns; "Undershoot North, Overshoot South" (UNOS).
 
 Turning onto north, the compass lags, so you roll out early (before reaching 360). Turning onto south, the compass leads, so you roll out late.
 
