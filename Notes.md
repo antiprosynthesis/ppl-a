@@ -200,3 +200,7 @@ $$L={1\over2}\rho V^2\ S\ C_L$$
 ### Drag formula:
 $$D={1\over2}\rho V^2\ S\ C_D$$
 
+&nbsp;
+
+### Compass deflection on accelerate/decelerate:
+ANDS: Accelerate North, Decelerate South. On easterly or westerly headings in the northern hemisphere, accelerating makes the compass show an apparent turn toward north, and decelerating makes it show an apparent turn toward south — even though the aircraft's heading hasn't actually changed.
