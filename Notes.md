@@ -119,7 +119,7 @@ $$1.23\sqrt{\text{height ft}}+10\\%$$
 
 A few things worth committing to memory as a VFR pilot:
 
-Controlled airspace for VFR purposes is A through E. In A you simply can't fly VFR. B, C, and D all require an ATC clearance and two-way radio contact before you enter, which is exactly why the radio-failure questions matter. In E you don't need a clearance or even radio as VFR, but IFR traffic around you is controlled, so you won't necessarily be seen or separated.
+Controlled airspace for VFR purposes is A through E. In A you simply can't fly VFR. B, C, and D all require an ATC clearance and two-way radio contact before you enter. In E you don't need a clearance or even radio as VFR, but IFR traffic around you is controlled, so you won't necessarily be seen or separated.
 
 F and G are uncontrolled. You get information, not separation, and you're responsible for your own collision avoidance by see-and-avoid.
 
