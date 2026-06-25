@@ -219,6 +219,8 @@ $$\text{QDM}=\text{Magnetic Heading}+\text{Relative Bearing}$$
 | Mixed Ice | Combination of clear and rime, from varied droplet sizes | Rough, milky, irregular | Severe | Combines worst traits — adheres strongly and builds rough shapes |
 | Hoar Frost | Water vapour sublimating directly onto a cold surface (below freezing) | White, crystalline, feathery | Low–Moderate | Forms on parked aircraft or descent into warm moist air; must be removed before flight as it disrupts airflow |
 
+&nbsp;
+
 ### Wind (Northern Hemisphere):
 - Around L: Counterclockwise
 - Around H: Clockwise
