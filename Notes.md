@@ -203,3 +203,8 @@ $$q={1\over2}\rho V^2$$
 $$L={1\over2}\rho V^2\ S\ C_L$$
 ### Drag formula:
 $$D={1\over2}\rho V^2\ S\ C_D$$
+
+&nbsp;
+
+### RBI/NDB:
+$$\text{QDM}=\text{Magnetic Heading}+\text{Relative Bearing}$$
