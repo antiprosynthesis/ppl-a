@@ -208,3 +208,13 @@ $$D={1\over2}\rho V^2\ S\ C_D$$
 
 ### RBI/NDB:
 $$\text{QDM}=\text{Magnetic Heading}+\text{Relative Bearing}$$
+
+&nbsp;
+
+### Ice forms:
+| Ice Form | How It Forms | Appearance | Hazard Level | Key Characteristics |
+|----------|--------------|------------|--------------|---------------------|
+| Clear Ice | Large supercooled water droplets freezing slowly, spreading back over the surface before freezing | Smooth, transparent, glassy | Severe | Hard to detect, heavy, strong adhesion, distorts aerofoil shape; common in cumuliform cloud / freezing rain |
+| Rime Ice | Small supercooled droplets freezing instantly on contact, trapping air | Opaque, white, rough, brittle | Moderate | Forms on leading edges, easier to shed; common in stratiform cloud |
+| Mixed Ice | Combination of clear and rime, from varied droplet sizes | Rough, milky, irregular | Severe | Combines worst traits — adheres strongly and builds rough shapes |
+| Hoar Frost | Water vapour sublimating directly onto a cold surface (below freezing) | White, crystalline, feathery | Low–Moderate | Forms on parked aircraft or descent into warm moist air; must be removed before flight as it disrupts airflow |
