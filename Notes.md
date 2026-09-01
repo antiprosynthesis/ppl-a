@@ -140,6 +140,11 @@ $$\text{Magnetic}=\text{Compass}+\text{Deviation}$$
 
 &nbsp;
 
+### Heading/Course:
+$$\text{Heading}=\text{Course}+\text{WCA}$$
+
+&nbsp;
+
 ### 1:60 rule (small angle approximation):
 $$\text{angle }\degree\approx60{\Delta\text{cross}\over\Delta\text{along}}$$
 
