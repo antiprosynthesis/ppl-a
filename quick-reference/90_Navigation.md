@@ -144,9 +144,9 @@ Crosswind correction magnitude ≈ arcsin(|X|/TAS), for |X|≤TAS; its sign poin
 
 - **Course/track** is intended or actual direction over ground; **heading** is aircraft nose direction. Wind makes them differ by WCA/drift.
 - 1:60 rule (small-angle approximation): after 60 NM, 1° error produces 1 NM cross-track error.
-  $$
-  \text{error angle}(^\circ)\approx 60\times\frac{\text{cross-track error}}{\text{distance flown}}
-  $$
+  ```text
+  error angle (°) ≈ 60 × cross-track error / distance flown
+  ```
 - For direct recovery to destination, correction angle = **track error + closing angle**. Closing angle ≈ 60 × lateral error ÷ remaining distance to destination. Turn toward the route/destination.
 - Example: planned distance 120 NM; after 55 NM, 7 NM right of track. Track error ≈60×7/55=7.6° right. Remaining 65 NM; closing angle≈60×7/65=6.5° leftward intercept. Correct about 7.6+6.5=**14° left**.
 - If exactly halfway (90 NM route, 45 flown, 4.5 NM north of eastbound track): error≈6°; remaining closing ≈6°; turn about **12° right** toward the destination.
@@ -330,9 +330,9 @@ $$
 - If headwind/tailwind given instead of GS, find GS before ETA. E.g. 75 NM, TAS105, headwind12 → GS93 kt; time≈48.4 min; ETD1242 → ETA≈1330 UTC.
 - **PET (Point of Equal Time)** / **ETP (Equal Time Point):** point along a route at which time to return to departure equals time to continue to destination (or to the stated alternatives). With constant speeds and wind, calculate each direction's groundspeed separately.
 - For a single route A–B with distance D, outbound GS from A toward B = V_A; return GS from point toward A = V_R; continue GS toward B = V_B. At distance x from A:
-  $$
-  x/V_R=(D-x)/V_B\quad\Rightarrow\quad x=D\,V_R/(V_R+V_B)
-  $$
+  ```text
+  x / V_R = (D - x) / V_B   =>   x = D × V_R / (V_R + V_B)
+  ```
   where VR is speed from the point back toward A, and VB speed toward B. If equal groundspeeds, PET is halfway. Check the question's stated meaning and wind direction.
 - **ETP** can also mean equal-time point between two diversion/landing options; solve time-to-left = time-to-right using each route's distance and groundspeed. Avoid assuming the geometric midpoint when winds/speeds differ.
 - Flight plan table: complete in sequence TC → WCA → TH → VAR → MH → DEV → CH/MC according to the column labels. Example NAV-014 final row: TC179°, WCA+6° ⇒ TH185°; VAR1°E gives MH184°; MC178° is course corrected by variation, consistent with the given table's direction fields. Always confirm what each column explicitly means.
