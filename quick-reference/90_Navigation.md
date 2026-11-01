@@ -145,7 +145,7 @@ Crosswind correction magnitude ≈ arcsin(|X|/TAS), for |X|≤TAS; its sign poin
 - **Course/track** is intended or actual direction over ground; **heading** is aircraft nose direction. Wind makes them differ by WCA/drift.
 - 1:60 rule (small-angle approximation): after 60 NM, 1° error produces 1 NM cross-track error.
   $$
-  error\ angle(°)\approx60\times\frac{cross\ track\ error}{distance\ flown}
+  \text{error angle}(^\circ)\approx 60\times\frac{\text{cross-track error}}{\text{distance flown}}
   $$
 - For direct recovery to destination, correction angle = **track error + closing angle**. Closing angle ≈ 60 × lateral error ÷ remaining distance to destination. Turn toward the route/destination.
 - Example: planned distance 120 NM; after 55 NM, 7 NM right of track. Track error ≈60×7/55=7.6° right. Remaining 65 NM; closing angle≈60×7/65=6.5° leftward intercept. Correct about 7.6+6.5=**14° left**.
