@@ -66,7 +66,7 @@
   </div>
   <div class="card" id="weak" hidden></div>
   <details class="card"><summary>⚙️ Save reports to the GitHub repo (optional)</summary>
-    <p class="muted">A web page cannot write to your repo by itself. Either download the report and commit it, or paste a <b>fine-grained personal access token</b> (only this repository, permission <i>Contents: read &amp; write</i>) and the quiz will commit the report into <code>reports/</code> for you. The token is stored only in this browser (localStorage).</p>
+    <p class="muted">A web page cannot write to your repo by itself. Either download the report and commit it, or paste a <b>fine-grained personal access token</b> (only this repository, permission <i>Contents: read &amp; write</i>) and the quiz will commit the report into <code>results/</code> for you. Or run <code>python3 quiz/serve.py</code> locally: then it uses your own git login and needs no token. The token is stored only in this browser (localStorage).</p>
     <label class="muted">Repository (owner/name)<input type="text" id="cfgRepo" value="jonathanva/ppl-a"></label>
     <label class="muted">Branch<input type="text" id="cfgBranch" value="main"></label>
     <label class="muted">Token<input type="password" id="cfgToken" placeholder="github_pat_..."></label>
@@ -249,7 +249,7 @@ function finish() {
         <div class="opt ok" style="cursor:default">✔ ${esc(q.options[q.correct])}<span class="why">${esc(w[q.correct] || '')}</span></div>
         ${q.note ? `<div class="note">💡 ${esc(q.note)}</div>` : ''}</div>`; }).join('');
   }
-  h += `<h2>Save this report</h2><div class="card"><div class="row" style="margin:0"><button id="dl">⬇ Download .md</button><button id="repo">☁ Save to repo (reports/)</button></div><div class="muted" id="saveMsg" style="margin-top:8px"></div></div>`;
+  h += `<h2>Save this report</h2><div class="card"><div class="row" style="margin:0"><button id="dl">⬇ Download .md</button><button id="repo">☁ Save to repo (results/)</button></div><div class="muted" id="saveMsg" style="margin-top:8px"></div></div>`;
   h += `<div class="row"><button class="primary" id="again">New quiz</button></div>`;
   $('result').innerHTML = h;
   const name = `quiz-${quiz.started.toISOString().slice(0,16).replace(/[:T]/g,'-')}.md`;
@@ -263,18 +263,22 @@ function finish() {
 const cfg = () => JSON.parse(localStorage.getItem(CKEY) || '{}');
 async function saveToRepo(name) {
   const c = cfg(), msg = $('saveMsg');
-  if (!c.token) { msg.textContent = 'No token configured. Open “Save reports to the GitHub repo” on the start screen, or use Download.'; return; }
   msg.textContent = 'Saving…';
+  try {
+    const l = await fetch('/api/save', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ name, content: reportMarkdown() }) }).catch(() => null);
+    if (l && l.ok) { const j = await l.json(); msg.textContent = '✅ ' + j.message; return; }
+  } catch (e) {}
+  if (!c.token) { msg.textContent = 'No token configured and local save server not running. Use Download, run python3 quiz/serve.py, or add a token in the ⚙️ panel.'; return; }
   const bytes = new TextEncoder().encode(reportMarkdown());
   let bin = ''; bytes.forEach(b => bin += String.fromCharCode(b));
   try {
-    const r = await fetch(`https://api.github.com/repos/${c.repo}/contents/reports/${name}`, {
+    const r = await fetch(`https://api.github.com/repos/${c.repo}/contents/results/${name}`, {
       method: 'PUT',
-      headers: { Authorization: `Bearer ${c.token}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
-      body: JSON.stringify({ message: `Add quiz report ${name}`, content: btoa(bin), branch: c.branch })
+      headers: { 'Authorization': 'Bearer ' + c.token, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: `Add quiz result ${name}`, content: btoa(bin), branch: c.branch })
     });
     const j = await r.json();
-    msg.innerHTML = r.ok ? `✅ Saved: <a target="_blank" href="${esc(j.content.html_url)}">reports/${esc(name)}</a>` : `❌ ${esc(j.message || r.status)}`;
+    msg.innerHTML = r.ok ? `✅ Saved: <a target="_blank" href="${esc(j.content.html_url)}">results/${esc(name)}</a>` : `❌ ${esc(j.message || r.status)}`;
   } catch (e) { msg.textContent = '❌ ' + e.message; }
 }
 const c0 = cfg(); if (c0.repo) { $('cfgRepo').value = c0.repo; $('cfgBranch').value = c0.branch; $('cfgToken').value = c0.token || ''; }

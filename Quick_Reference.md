@@ -24,6 +24,6 @@ Open [`flashcards.html`](flashcards.html) in a browser (download it from GitHub 
 
 **Hosting:** after merging to `main`, enable GitHub Pages (Settings → Pages → Deploy from branch → `main` / `/docs`). The quiz is then at `https://jonathanva.github.io/ppl-a/quiz.html`.
 
-**Saving reports:** "Download .md" always works; commit the file to `reports/`. "Save to repo" commits it directly: open ⚙️ in the quiz and paste a fine-grained token (this repo only, Contents: read & write). The token stays in your browser only.
+**Saving results (folder `results/`):** easiest is local mode: run `python3 quiz/serve.py`, open http://localhost:8000/quiz.html, and "Save to repo" writes `results/…md` and commits + pushes with your own git/`gh` login (no token). On the hosted Pages site, GitHub login is not possible for a static page, so use "Download .md" and commit it, or paste a fine-grained token (this repo only, Contents read & write) in the ⚙️ panel; it stays in your browser.
 
 Where the lesson material and the question bank disagree, the sheets follow the bank and flag the difference. These are rapid-recall aids, not substitutes for current regulations, the State AIP, or your aircraft's POH/AFM. Check units, sign conventions, and local procedures before applying a formula or rule.
