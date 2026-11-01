@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PPL(A) Visual Flashcards</title>
+<style>
+  :root { --bg:#10151c; --panel:#1b2330; --text:#eef2f7; --muted:#9fb0c3; --accent:#4da3ff; --good:#3ecf8e; --bad:#ff6b6b; --warn:#ffb454; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--text); }
+  header { padding:12px 16px; background:var(--panel); display:flex; flex-wrap:wrap; gap:10px; align-items:center; position:sticky; top:0; z-index:5; }
+  header h1 { font-size:18px; margin:0 8px 0 0; }
+  select, button { background:#243044; color:var(--text); border:1px solid #33425a; border-radius:8px; padding:8px 12px; font-size:14px; cursor:pointer; }
+  button:hover { border-color:var(--accent); }
+  button.on { background:var(--accent); color:#06121f; border-color:var(--accent); }
+  .stats { margin-left:auto; color:var(--muted); font-size:13px; }
+  main { max-width:760px; margin:20px auto; padding:0 14px 60px; }
+  .bar { height:6px; background:#243044; border-radius:3px; margin-bottom:14px; overflow:hidden; }
+  .bar > div { height:100%; background:var(--accent); width:0; transition:width .2s; }
+  .topic { color:var(--accent); font-size:13px; text-transform:uppercase; letter-spacing:.06em; margin-bottom:8px; }
+  .card { background:var(--panel); border:1px solid #2c3a52; border-radius:16px; padding:22px; min-height:320px; cursor:pointer; user-select:none; }
+  .card.flipped { border-color:var(--accent); }
+  .front { font-size:22px; line-height:1.4; white-space:pre-line; }
+  .back { margin-top:16px; padding-top:16px; border-top:1px dashed #3a4b68; font-size:18px; line-height:1.5; white-space:pre-line; }
+  .back b { color:var(--warn); }
+  .hint { color:var(--muted); font-size:14px; margin-top:24px; }
+  .visual { margin-top:14px; display:flex; justify-content:center; }
+  .visual svg { width:100%; max-width:560px; height:auto; border-radius:10px; }
+  .tip { margin-top:14px; padding:10px 12px; background:#2a2414; border-left:4px solid var(--warn); border-radius:6px; font-size:15px; }
+  .actions { display:flex; gap:10px; margin-top:16px; flex-wrap:wrap; }
+  .actions button { flex:1; min-width:110px; padding:12px; font-size:15px; }
+  .know { background:#173a2b; border-color:var(--good); }
+  .again { background:#3b1b1b; border-color:var(--bad); }
+  kbd { background:#243044; border:1px solid #33425a; border-radius:4px; padding:1px 6px; font-size:12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>✈️ PPL(A) Flashcards</h1>
+  <select id="deck"></select>
+  <select id="topic"></select>
+  <button id="shuffle">🔀 Shuffle</button>
+  <button id="review">🔁 Only unknown</button>
+  <button id="reset">Reset progress</button>
+  <span class="stats" id="stats"></span>
+</header>
+<main>
+  <div class="bar"><div id="prog"></div></div>
+  <div class="topic" id="ctopic"></div>
+  <div class="card" id="card">
+    <div class="visual" id="vfront"></div>
+    <div class="front" id="front"></div>
+    <div id="backwrap" hidden>
+      <div class="back" id="back"></div>
+      <div class="visual" id="vback"></div>
+      <div class="tip" id="tip" hidden></div>
+    </div>
+    <div class="hint" id="hint">Tap the card or press <kbd>Space</kbd> to flip</div>
+  </div>
+  <div class="actions">
+    <button id="prev">← Prev</button>
+    <button class="again" id="again">✘ Again <kbd>1</kbd></button>
+    <button class="know" id="know">✔ Know it <kbd>2</kbd></button>
+    <button id="next">Next →</button>
+  </div>
+</main>
+<script>
+const DATA = /*__DATA__*/{};
+const $ = id => document.getElementById(id);
+const KEY = 'ppl-flashcards-v1';
+let known = JSON.parse(localStorage.getItem(KEY) || '{}');
+let list = [], idx = 0, flipped = false, onlyUnknown = false;
+const decks = Object.keys(DATA);
+
+const cid = (d, c) => d + '|' + c.front;
+const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const md = s => esc(s || '').replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+
+decks.forEach(d => { const o = document.createElement('option'); o.value = d; o.textContent = d.replace(/_/g,' '); $('deck').appendChild(o); });
+const saved = localStorage.getItem(KEY + '-deck'); if (saved && DATA[saved]) $('deck').value = saved;
+
+function build(shuffle) {
+  const d = $('deck').value, t = $('topic').value;
+  list = DATA[d].filter(c => (!t || c.topic === t) && (!onlyUnknown || !known[cid(d, c)]));
+  if (shuffle) for (let i = list.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [list[i], list[j]] = [list[j], list[i]]; }
+  idx = 0; show();
+}
+function fillTopics() {
+  const d = $('deck').value, ts = [...new Set(DATA[d].map(c => c.topic))];
+  $('topic').innerHTML = '<option value="">All topics</option>' + ts.map(t => `<option>${esc(t)}</option>`).join('');
+}
+function show() {
+  flipped = false;
+  const c = list[idx], d = $('deck').value;
+  const total = DATA[d].length, kn = DATA[d].filter(x => known[cid(d, x)]).length;
+  $('stats').textContent = `${kn}/${total} known · card ${list.length ? idx + 1 : 0}/${list.length}`;
+  $('prog').style.width = (total ? kn / total * 100 : 0) + '%';
+  if (!c) { $('ctopic').textContent = ''; $('front').textContent = onlyUnknown ? '🎉 Nothing left to review here!' : 'No cards.'; $('vfront').innerHTML = ''; $('backwrap').hidden = true; $('hint').hidden = true; return; }
+  $('ctopic').textContent = c.topic;
+  $('front').innerHTML = md(c.front);
+  $('vfront').innerHTML = c.visualFront && c.visual ? c.visual : '';
+  $('back').innerHTML = md(c.back);
+  $('vback').innerHTML = !c.visualFront && c.visual ? c.visual : '';
+  $('tip').hidden = !c.tip; $('tip').innerHTML = c.tip ? '💡 ' + md(c.tip) : '';
+  $('backwrap').hidden = true; $('hint').hidden = false;
+  $('card').classList.remove('flipped');
+}
+function flip() { if (!list.length) return; flipped = !flipped; $('backwrap').hidden = !flipped; $('hint').hidden = flipped; $('card').classList.toggle('flipped', flipped); }
+function mark(v) {
+  const c = list[idx]; if (!c) return;
+  const k = cid($('deck').value, c);
+  if (v) known[k] = 1; else delete known[k];
+  localStorage.setItem(KEY, JSON.stringify(known));
+  go(1);
+}
+function go(n) { if (!list.length) return; idx = (idx + n + list.length) % list.length; show(); }
+
+$('deck').onchange = () => { localStorage.setItem(KEY + '-deck', $('deck').value); fillTopics(); build(false); };
+$('topic').onchange = () => build(false);
+$('shuffle').onclick = () => build(true);
+$('review').onclick = () => { onlyUnknown = !onlyUnknown; $('review').classList.toggle('on', onlyUnknown); build(false); };
+$('reset').onclick = () => { if (confirm('Reset all progress?')) { known = {}; localStorage.removeItem(KEY); build(false); } };
+$('card').onclick = flip; $('prev').onclick = () => go(-1); $('next').onclick = () => go(1);
+$('know').onclick = () => mark(true); $('again').onclick = () => mark(false);
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'SELECT') return;
+  if (e.code === 'Space') { e.preventDefault(); flip(); }
+  else if (e.key === 'ArrowRight') go(1); else if (e.key === 'ArrowLeft') go(-1);
+  else if (e.key === '1') mark(false); else if (e.key === '2') mark(true);
+});
+fillTopics(); build(false);
+</script>
+</body>
+</html>

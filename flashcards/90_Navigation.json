@@ -1,0 +1,835 @@
+[
+  {
+    "topic": "Earth & coordinates",
+    "front": "Which statement is correct with regard to the polar axis of the Earth?",
+    "back": "The polar axis of the Earth crosses the geographic South Pole and the geographic North Pole and is perpendicular to the plane of the equator",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Earth &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Latitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position</text></svg>"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "The rotational axis of the Earth runs through the...",
+    "back": "geographic North Pole and on the geographic South Pole.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Earth &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Latitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position</text></svg>"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "Which approximate, geometrical form describes the shape of the Earth best for navigation systems?",
+    "back": "Ellipsoid"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "The circumference of the Earth at the equator is approximately...",
+    "back": "21600 NM.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Earth &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Latitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position</text></svg>"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "The shortest distance between two points on Earth is represented by a part of...",
+    "back": "a great circle.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Earth &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Latitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position</text></svg>"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "What is the great circle distance between two points A and B on the equator when the difference between the two associated meridians is exactly one degree of longitude?",
+    "back": "60 NM"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "What is the distance between the two parallels of longitude 150°E and 151°E along the equator?",
+    "back": "60 NM",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Earth &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Latitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position</text></svg>"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "What distance corresponds to one degree difference in latitude along any degree of longitude?",
+    "back": "60 NM",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Earth &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Latitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position</text></svg>"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "Which statement about a rhumb line is correct?",
+    "back": "A rhumb line cuts each meridian at the same angle."
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "What is the distance between the parallels of latitude 48°N and 49°N along a meridian line?",
+    "back": "60 NM",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Earth &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Latitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position</text></svg>"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "Point A on the Earth's surface lies exactly on the parallel of latitude of 47°50'27''N. Which point is exactly 240 NM north of A?",
+    "back": "51°50'27'N'",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Earth &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Latitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position</text></svg>"
+  },
+  {
+    "topic": "Earth & coordinates",
+    "front": "Where are the two polar circles?",
+    "back": "23.5° north and south of the poles"
+  },
+  {
+    "topic": "Time & sun",
+    "front": "What is the difference in time when the sun moves 10° of longitude?",
+    "back": "0:40 h",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Time &amp; sun</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>× 4 min/°</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>UTC shift</text></svg>"
+  },
+  {
+    "topic": "Time & sun",
+    "front": "What is the difference in time when the sun moves 20° of longitude?",
+    "back": "1:20 h",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Time &amp; sun</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>× 4 min/°</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>UTC shift</text></svg>"
+  },
+  {
+    "topic": "Time & sun",
+    "front": "UTC is...",
+    "back": "an obligatory time used in aviation."
+  },
+  {
+    "topic": "Time & sun",
+    "front": "With Central European Time (CET) given as UTC+1, what UTC time corresponds to 1700 CET?",
+    "back": "1600 UTC.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Time &amp; sun</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>× 4 min/°</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>UTC shift</text></svg>"
+  },
+  {
+    "topic": "Time & sun",
+    "front": "With Central European Summer Time (CEST) given as UTC+2, what UTC time corresponds to 1600 CEST?",
+    "back": "1400 UTC.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Time &amp; sun</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>× 4 min/°</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>UTC shift</text></svg>"
+  },
+  {
+    "topic": "Time & sun",
+    "front": "The term 'civil twilight' is defined as...",
+    "back": "the period of time before sunrise or after sunset where the midpoint of the sun disk is 6 degrees or less below the true horizon."
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "The term 'True Course' (TC) is defined as...",
+    "back": "the angle between true north and the course line.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "The angle between the magnetic course and the true course is called...",
+    "back": "variation.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "What could be a reason for changing the runway indicators at aerodromes (e.g. from runway 06 to runway 07)?",
+    "back": "The magnetic variation of the runway location has changed"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "The term 'agonic line' is defined as a line on Earth or an aeronautical chart, connecting all points with the...",
+    "back": "variation of 0°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "The term 'isogonal' or 'isogonic line' is defined as a line on an aeronautical chart, connecting all points with the same value of...",
+    "back": "variation.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "Which are the official basic units for horizontal distances used in aeronautical navigation and their abbreviations?",
+    "back": "Nautical miles (NM), kilometers (km)"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "5500 m equal...",
+    "back": "18000 ft.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "1000 ft equal...",
+    "back": "300 m.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is flying with an indicated airspeed (IAS) of 150 kt at 8000 ft MSL. According to the rule of thumb, the true airspeed (TAS) equals...",
+    "back": "174 kt."
+  },
+  {
+    "topic": "Charts & radio bearings",
+    "front": "How are rhumb lines and great circles depicted on a direct Mercator chart?",
+    "back": "Rhumb lines: straight lines, Great circles: curved lines",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; radio bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & radio bearings",
+    "front": "The term QTE means...",
+    "back": "true bearing from the station to the aircraft.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; radio bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & radio bearings",
+    "front": "Given: QTE: 229° VAR: 10° W The QDM equals...",
+    "back": "059°."
+  },
+  {
+    "topic": "Charts & radio bearings",
+    "front": "Given: QTE: 248° VAR: 10° W The QDR equals...",
+    "back": "258°",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; radio bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & radio bearings",
+    "front": "Given: QDR: 152° VAR: 5° W DEV: 5° E The QUJ equals...",
+    "back": "327°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; radio bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & radio bearings",
+    "front": "Given: QTE: 203° VAR: 10° E The QDR equals...",
+    "back": "193°."
+  },
+  {
+    "topic": "Charts & radio bearings",
+    "front": "Given: QDR: 067° VAR: 5° E The QDM equals...",
+    "back": "247°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; radio bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "The distance between two airports is 220 NM. On an aeronautical navigation chart the pilot measures 40.7 cm for this distance. The chart scale is...",
+    "back": "1 : 1000000.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "Which are the properties of a Mercator chart?",
+    "back": "The scales increases with latitude, great circles are depicted as curved lines, rhumb lines are depicted as straight lines"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "Which are the properties of a Lambert conformal chart?",
+    "back": "The chart is conformal and nearly true to scale",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "An aircraft travels 100 km in 56 minutes. The ground speed (GS) equals...",
+    "back": "107 km/h.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft travels 110 NM within 01:25. The ground speed (GS) equals...",
+    "back": "78 kt."
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: True course from A to B: 352°. Ground distance: 100 NM. GS: 107 kt. Estimated time of departure (ETD): 0933 UTC. The estimated time of arrival (ETA) is...",
+    "back": "1029 UTC.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: True course from A to B: 283°. Ground distance: 75 NM. TAS: 105 kt. Headwind component: 12 kt. Estimated time of departure (ETD): 1242 UTC. The estimated time of arrival (ETA) is...",
+    "back": "1330 UTC",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is flying from 'A' to 'B' (distance 220 NM) at an average ground speed (GS) of 120 kt. It departs 'A' at 1200 UTC. After 70 NM along the course from 'A', the aircraft is 5 min ahead of the planned schedule. Using the actual GS, what is the revised estimated time of arrival (ETA) at B?",
+    "back": "1335 UTC"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: True course from A to B: 250°. Ground distance: 210 NM. TAS: 130 kt. Headwind component: 15 kt. Estimated time of departure (ETD): 0915 UTC. The estimated time of arrival (ETA) is...",
+    "back": "1105 UTC.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "What is the required flight time for a distance of 236 NM with a ground speed of 134 kt?",
+    "back": "1:46 h",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Assume calm wind and an aircraft descending from 9000 ft to 1500 ft. The rate of descent (ROD) equals 1200 ft/min. The elapsed time will be...",
+    "back": "6 min."
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is flying at a pressure altitude of 7000 feet with an outside air temperature (OAT) of +21°C. The QNH altitude is 6500 ft. The true altitude equals...",
+    "back": "7000 ft.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is flying at FL 75 with an outside air temperature (OAT) of -9°C. The QNH altitude is 6500 ft. The true altitude equals is:",
+    "back": "6250 ft",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "(See attachment EC-90-001-v1) The GNSS readout during a flight is 51.83°N, 12.19°E. What is the aircraft position?",
+    "back": "Overhead EDAD"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is following a true course (TC) of 040° at a constant true airspeed (TAS) of 180 kt. The wind vector is 350°/30 kt. The wind correction angle (WCA) equals...",
+    "back": "7° left.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is following a true course (TC) of 040° at a constant true airspeed (TAS) of 180 kt. The wind vector is 350°/30 kt. The groundspeed (GS) equals...",
+    "back": "159 kt.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: True course: 255°. TAS: 100 kt. Wind: 200°/10 kt. The true heading equals...",
+    "back": "250°."
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: True course: 165°. TAS: 90 kt. Wind: 130°/20 kt. Distance: 153 NM. The true heading equals...",
+    "back": "158°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is following a true course (TC) of 040° at a constant true airspeed (TAS) of 180 kt. The wind vector is 350°/30 kt. The wind correction angle (WCA) equals...",
+    "back": "- 7°",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is following a true course (TC) of 220° at a constant TAS of 220 kt. The wind vector is 270°/50 kt. The ground speed (GS) equals...",
+    "back": "185 kt."
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: True course: 270°. TAS: 100 kt. Wind: 090°/25 kt. Distance: 100 NM. The ground speed (GS) equals...",
+    "back": "125 kt.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "The angle between the true course and the true heading is called...",
+    "back": "WCA.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "What is meant by the term \"terrestrial navigation\"?",
+    "back": "Orientation by ground features during visual flight"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "For a short flight from A to B the pilot extracts the following information from an aeronautical chart: True course: 245°. Magnetic variation: 7° W The magnetic course (MC) equals...",
+    "back": "252°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Given:WCA: -012°; TH: 125°; MC: 139°; DEV: 002°E What are: TC, MH und CH?",
+    "back": "TC: 137°. MH: 127°. CH: 125°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Given: TC: 179°; WCA: -12°; VAR: 004° E; DEV: +002° What are MH and MC?",
+    "back": "MH: 163°. MC: 175°."
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "What ground features should preferrably be used for orientation during visual flight?",
+    "back": "Rivers, railroads, highways",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "The distance from 'A' to 'B' measures 120 NM. At a distance of 55 NM from 'A' the pilot realizes a deviation of 7 NM to the right. What approximate course change must be made to reach 'B' directly?",
+    "back": "14° left",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aeroplane has a heading of 090°. The distance which has to be flown is 90 NM. After 45 NM the aeroplane is 4.5 NM north of the planned flight path. What is the corrected heading to reach the arrival aerodrome directly?",
+    "back": "12° to the right"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: True course: 270°. TAS: 100 kt. Wind: 090°/25 kt. Distance: 100 NM. The flight time equals...",
+    "back": "48 Min.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Which answer completes the flight plan (marked cells)? See annex (NAV-014)",
+    "back": "TH: 185°. MH: 184°. MC: 178°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is flying with a true airspeed (TAS) of 180 kt and a headwind component of 25 kt for 2 hours and 25 minutes. The distance flown equals...",
+    "back": "375 NM."
+  },
+  {
+    "topic": "Radio waves",
+    "front": "The approximate propagation speed of electromagnetic waves is...",
+    "back": "300000 km/s.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Radio waves</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>LF / MF</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Wave / phase</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VHF</text></svg>"
+  },
+  {
+    "topic": "Radio waves",
+    "front": "When transmitter and receiver are moving away from each other...",
+    "back": "the perceived frequency decreases.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Radio waves</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>LF / MF</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Wave / phase</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VHF</text></svg>"
+  },
+  {
+    "topic": "Radio waves",
+    "front": "When transmitter and receiver are moving towards each other...",
+    "back": "the perceived frequency increases."
+  },
+  {
+    "topic": "Radio waves",
+    "front": "Radio waves within the LF and MF range (e.g. NDB) travel as...",
+    "back": "sky wave and as ground / surface wave.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Radio waves</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>LF / MF</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Wave / phase</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VHF</text></svg>"
+  },
+  {
+    "topic": "Radio waves",
+    "front": "Radio waves within the VHF range (e.g. VOR) travel as...",
+    "back": "direct wave (quasi-optical).",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Radio waves</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>LF / MF</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Wave / phase</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VHF</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "A VHF direction finder (VDF) can determine...",
+    "back": "magnetic bearings."
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "A pilot receives a QDR of 135° from the VDF ground station. Where is the aircraft located in relation to the ground station?",
+    "back": "Southeast",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "The pilot receives a QDR of 225° from the VDF ground station. Where is the aircraft located in relation to the ground station?",
+    "back": "Southwest",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "A pilot receives a QDR of 315° from the VDF ground station. Where is the aircraft located in relation to the ground station?",
+    "back": "Northwest"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "Which equipment is needed on board of an aircraft to receive signals from a non-directional beacon (NDB)?",
+    "back": "Automatic direction finder (ADF)",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "The pilot wants to proceed directly to the beacon. The wind is calm. The pilot should follow a QDM of:",
+    "back": "260",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "A pilot wants to approach an NDB on QDM 090°. The aircraft flies for about 5 minutes with a magnetic heading (MH) of 095° and the RBI indication of 355°. After 6 minutes the RBI indicates 358°. Which statement is correct?",
+    "back": "Crosswind increased; increase magnetic heading."
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "The range of NDBs transmitting in the medium frequency range is greatest...",
+    "back": "at night.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "The shoreline effect is greatest with radio wave propagation...",
+    "back": "at an acute angle to the coast; aircraft below 6000 ft.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "VOR & DME",
+    "front": "VOR radials are defined based on the principle of...",
+    "back": "phase comparison of two signals."
+  },
+  {
+    "topic": "VOR & DME",
+    "front": "A VOR radial corresponds to the...",
+    "back": "QDR.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>VOR &amp; DME</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>OBS / signal</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>CDI / time</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Radial /</tspan><tspan x='257' dy='15'>range</tspan></text></svg>"
+  },
+  {
+    "topic": "VOR & DME",
+    "front": "Full deflection of the course deviation indicator (CDI) means that the aircraft is located at least...",
+    "back": "10° beside the selected course.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>VOR &amp; DME</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>OBS / signal</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>CDI / time</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Radial /</tspan><tspan x='257' dy='15'>range</tspan></text></svg>"
+  },
+  {
+    "topic": "VOR & DME",
+    "front": "Where is the aircraft located in relation to the VOR? See annex (NAV-022)",
+    "back": "Northeast"
+  },
+  {
+    "topic": "VOR & DME",
+    "front": "The aircraft is on radial: See annex (NAV-024)",
+    "back": "234",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>VOR &amp; DME</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>OBS / signal</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>CDI / time</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Radial /</tspan><tspan x='257' dy='15'>range</tspan></text></svg>"
+  },
+  {
+    "topic": "VOR & DME",
+    "front": "The range of a VOR is affected by...",
+    "back": "transmitter and receiver altitude.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>VOR &amp; DME</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>OBS / signal</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>CDI / time</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Radial /</tspan><tspan x='257' dy='15'>range</tspan></text></svg>"
+  },
+  {
+    "topic": "VOR & DME",
+    "front": "The distance measuring equipment (DME) determines the distance based on the principle of...",
+    "back": "time measurement."
+  },
+  {
+    "topic": "VOR & DME",
+    "front": "The DME reading is a...",
+    "back": "slant range.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>VOR &amp; DME</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>OBS / signal</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>CDI / time</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Radial /</tspan><tspan x='257' dy='15'>range</tspan></text></svg>"
+  },
+  {
+    "topic": "VOR & DME",
+    "front": "The difference between indicated DME slant range and horizontal distance from the DME station increases...",
+    "back": "when approaching the DME station.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>VOR &amp; DME</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>OBS / signal</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>CDI / time</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Radial /</tspan><tspan x='257' dy='15'>range</tspan></text></svg>"
+  },
+  {
+    "topic": "Radar & transponder",
+    "front": "Which instantaneous information can be obtained from ground radar equipment?",
+    "back": "Distance and direction"
+  },
+  {
+    "topic": "Radar & transponder",
+    "front": "What is the difference between primary and secondary radar?",
+    "back": "The pulses of a primary radar are reflected by the aircraft's surface, the pulses of a secondary radar system are answered by a transponder",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#fff0d9'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Radar &amp; transponder</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Radar pulse</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#d17816' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Reply / code</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#d17816' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position / ID</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "What is the difference in latitude between A (12°53'30''N) and B (07°34'30''S)?",
+    "back": "20°28'00''",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "Assume two arbitrary points A and B on the same parallel of latitude, but not on the equator. Point A is located on 010°E and point B on 020°E. The rumb line distance between A and B is always...",
+    "back": "less than 600 NM."
+  },
+  {
+    "topic": "Time & sun",
+    "front": "Vienna (LOWW) is located at 016° 34'E, Salzburg (LOWS) at 013° 00'E. The latitude of both positions can be considered as equal. What is the difference of sunrise and sunset times, expressed in UTC, between Wien and Salzburg?",
+    "back": "Vienna sunrise/sunset is about 14 minutes earlier in UTC.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Time &amp; sun</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Longitude</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>× 4 min/°</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>UTC shift</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Given: TC: 183°; WCA: +011°; MH: 198°; CH: 200° What are TH and VAR?",
+    "back": "TH: 194°. VAR: 004° W",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Given: TC: 183°; WCA: +011°; MH: 198°; CH: 200° What are the TH and the DEV?",
+    "back": "TH: 194°. DEV: -002°."
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Given: TC: 183°; WCA: +011°; MH: 198°; CH: 200° What are the VAR and the DEV?",
+    "back": "VAR: 004° W. DEV: -002°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Where does the inclination reach its lowest value?",
+    "back": "At the magnetic equator",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Which direction corresponds to 'compass north' (CN)?",
+    "back": "The direction to which the direct reading compass aligns due to earth's and aircraft's magnetic fields"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Which of the items on the attached checklist are related to the direct reading compass? See annex (NAV-004)",
+    "back": "\"Gyro\" and \"Turning Instruments\"",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Electronic devices on board of an aeroplane have influence on the...",
+    "back": "direct reading compass.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Compass &amp; directions</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>True</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VAR / DEV</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Compass</text></svg>"
+  },
+  {
+    "topic": "Compass & directions",
+    "front": "Which lines have to be used by the pilot to determine the aircraft's position?",
+    "back": "True bearings (QTE)"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "What is the radial from VOR Brünkendorf (BKD) (53°02'N, 011°33'E) to Pritzwalk (EDBU) (53°11'N, 12°11'E)? See annex (NAV-031)",
+    "back": "068°",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "Given the following information, what is the aircraft position at the cross bearing? VOR Hamburg (HAM) (53°41'N, 010°12'E): Radial 119° VOR Brünkendorf (BKD) (53°02'N, 011°33'E): Radial 320° See annex (NAV-031)",
+    "back": "53°20'N, 11°10'E",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "What is the distance from VOR Brünkendorf (BKD) (53°02'N, 011°33'E) to Pritzwalk (EDBU) (53°11'N, 12°11'E)? See annex (NAV-031)",
+    "back": "24 NM"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "A distance of 7.5 cm on an aeronautical chart represents a distance of 60.745 NM in reality. What is the chart scale?",
+    "back": "1 : 1500000",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "An aircraft is flying with a true airspeed (TAS) of 120 kt and experiences 35 kt tailwind. How much time is needed for a distance of 185 NM?",
+    "back": "1 h 12 min",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: Calibrated airspeed (CAS): 155 kt. Flight level (FL) 80. Outside air temperature (OAT): +15° C. The true airspeed (TAS) equals...",
+    "back": "180 kts."
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "What is the true course (TC) from Uelzen (EDVU) (52°59'N, 10°28'E) to Neustadt (EDAN) (53°22'N, 011°37'E)? See annex (NAV-031)",
+    "back": "061°",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Charts & coordinates",
+    "front": "What is the distance from Neustadt (EDAN) (53°22'N, 011°37'E) to Uelzen (EDVU) (52°59'N, 10°28'E)? See annex (NAV-031)",
+    "back": "46 NM",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Charts &amp; coordinates</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart grid</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Scale /</tspan><tspan x='160' dy='15'>legend</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix / route</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: Ground speed (GS): 160 kt. True course (TC): 177°. Wind vector (W/WS): 140°/20 kt. The true heading (TH) equals...",
+    "back": "173°."
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "Given: True course: 120°. TAS: 120 kt. Wind: 150°/12 kt. The WCA equals...",
+    "back": "3° to the right.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "Speed, wind & ETA",
+    "front": "What is the meaning of the 1:60 rule?",
+    "back": "1 NM lateral offset at 1° drift after 60 NM",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Speed, wind &amp; ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TAS + wind</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA / GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>ETA / track</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "What radio navigation aid can be received with the attached aerial?",
+    "back": "NDB"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "Quasi-optical waves travel...",
+    "back": "through the air directly from the transmitter to the receiver.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "Which equipment is needed on board of an aircraft to use a VHF direction finder (VDF)?",
+    "back": "A VHF radio",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "Given: QDM: 138° VAR: 10° E The QUJ equals...",
+    "back": "148°."
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "Given: QDR: 022° VAR: 10° E The QTE equals...",
+    "back": "032°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "Given: QDM: 134° VAR: 5° W The QTE equals...",
+    "back": "309°.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "The VDF range depends on...",
+    "back": "the aircraft's altitude."
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "Non-directional beacons (NDBs) transmit within which frequency band?",
+    "back": "Low frequency (LF) and medium frequency (MF)",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "What is the difference between a locator beacon and a non-directional beacon (NDB)?",
+    "back": "Locator beacons have a lower range than NDBs",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB, ADF &amp; bearings</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Station</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bearing / RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>QDM / QDR</text></svg>"
+  },
+  {
+    "topic": "NDB, ADF & bearings",
+    "front": "Fading in LF/MF frequency range occurs mainly...",
+    "back": "during the night."
+  },
+  {
+    "topic": "Radio waves",
+    "front": "The progress of an electromagnetic oscillation can be described by the...",
+    "back": "phase angle.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Radio waves</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>LF / MF</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Wave / phase</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VHF</text></svg>"
+  },
+  {
+    "topic": "Radio waves",
+    "front": "Using primary ground radar, the direction of the aeroplane in relation to the antenna is determined by...",
+    "back": "the orientation of the antenna.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Radio waves</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>LF / MF</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Wave / phase</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>VHF</text></svg>"
+  },
+  {
+    "topic": "Radar & transponder",
+    "front": "The on-board equipment of the secondary surveillance radar (SSR) is called...",
+    "back": "transponder."
+  },
+  {
+    "topic": "Radar & transponder",
+    "front": "The transponder code in case of hi-jacking is...",
+    "back": "7500.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#ffe5e1'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Radar &amp; transponder</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#c83d32' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Radar pulse</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#c83d32' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#c83d32' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Reply / code</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#c83d32' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#c83d32' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position / ID</text></svg>"
+  },
+  {
+    "topic": "Radar & transponder",
+    "front": "The transponder code in case of a radio communication failure is...",
+    "back": "7600.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#ffe5e1'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Radar &amp; transponder</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#c83d32' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Radar pulse</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#c83d32' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#c83d32' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Reply / code</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#c83d32' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#c83d32' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Position / ID</text></svg>"
+  },
+  {
+    "topic": "Radar & transponder",
+    "front": "Which altitude is transmitted by the transponder in mode C?",
+    "back": "Pressure altitude"
+  },
+  {
+    "topic": "GNSS & GPS",
+    "front": "How many satellites are necessary for a precise and verified three-dimensional determination of the position?",
+    "back": "Four",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>GNSS &amp; GPS</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Satellites</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>GNSS fix</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Lateral error</text></svg>"
+  },
+  {
+    "topic": "GNSS & GPS",
+    "front": "When using a GPS for tracking to the next waypoint, a deviation indication is shown by a vertical bar and dots to the left and to the right of the bar. What statement describes the correct interpretation of the display?",
+    "back": "The bar offset is lateral track error in NM; full-scale sensitivity depends on GPS mode.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#fff0d9'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>GNSS &amp; GPS</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Satellites</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#d17816' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>GNSS fix</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#d17816' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Lateral error</text></svg>"
+  },
+  {
+    "topic": "Navigation method",
+    "front": "What is a reliable navigation calculation sequence?",
+    "back": "Identify reference and units → sketch → choose formula → retain precision → normalize direction → sense-check.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Navigation method</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Identify</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Calculate</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Check</text></svg>"
+  },
+  {
+    "topic": "TDS",
+    "front": "State the time-distance-speed equations.",
+    "back": "GS=D/t; t=D/GS; D=GS×t. Knots are NM/hour.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>TDS</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Distance</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Speed</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Time</text></svg>"
+  },
+  {
+    "topic": "Fuel planning",
+    "front": "How are fuel used, endurance and range calculated?",
+    "back": "Used=flow×time; endurance=usable fuel/flow; range=endurance×GS. Use only stated reserves; exclude unusable fuel.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Fuel planning</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Flow × time</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Endurance</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Range × GS</text></svg>"
+  },
+  {
+    "topic": "Chart scale",
+    "front": "How do you calculate chart scale?",
+    "back": "1:n means one chart unit represents n same real units; n=real distance/chart distance after unit conversion.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Chart scale</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='63' dy='0'>Chart</tspan><tspan x='63' dy='15'>distance</tspan></text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Real distance</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Divide</text></svg>"
+  },
+  {
+    "topic": "Altitude correction",
+    "front": "State the temperature correction rule.",
+    "back": "About 4 ft per 1,000 ft per °C from ISA; ISA≈15°C−2°C/1,000 ft. Warm: true altitude higher; cold: lower.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#fff0d9'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Altitude correction</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>OAT − ISA</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#d17816' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>4 ft / 1,000</tspan><tspan x='160' dy='15'>ft / °C</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#d17816' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Warm + / cold</tspan><tspan x='257' dy='15'>−</tspan></text></svg>"
+  },
+  {
+    "topic": "Wind triangle",
+    "front": "What is the wind-triangle solution sequence?",
+    "back": "Draw TC → wind-toward vector → resolve components → find WCA → TH=TC+WCA → GS. Use GS for ETA.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Wind triangle</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Track</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Wind vector</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>WCA + GS</text></svg>"
+  },
+  {
+    "topic": "1:60 rule",
+    "front": "How do you calculate direct recovery to destination?",
+    "back": "Track error≈60×XTE/distance flown; closing angle≈60×XTE/distance remaining; add both.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#fff0d9'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>1:60 rule</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Track error</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#d17816' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>+ closing</tspan><tspan x='160' dy='15'>angle</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#d17816' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#d17816' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Direct</tspan><tspan x='257' dy='15'>recovery</tspan></text></svg>"
+  },
+  {
+    "topic": "ETA",
+    "front": "How do you calculate a revised ETA?",
+    "back": "Remaining distance ÷ actual GS, added to present time; retain elapsed real time.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>ETA</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Remaining NM</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>÷ actual GS</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Add to now</text></svg>"
+  },
+  {
+    "topic": "Direction conversion",
+    "front": "What is the signed direction-conversion chain?",
+    "back": "TH=TC+WCA; MC=TC−VAR; MH=TH−VAR; CH=MH−DEV. East positive, West negative.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Direction conversion</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TC → TH</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>− variation</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>− deviation</text></svg>"
+  },
+  {
+    "topic": "NDB / ADF",
+    "front": "How do you calculate QDM from an RBI?",
+    "back": "QDM≈MH+RB; normalize 000°–359°. The needle head points to beacon.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>NDB / ADF</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='63' dy='0'>Magnetic</tspan><tspan x='63' dy='15'>heading</tspan></text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>+ RBI</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>QDM to</tspan><tspan x='257' dy='15'>station</tspan></text></svg>"
+  },
+  {
+    "topic": "VOR",
+    "front": "How should you interpret a VOR CDI?",
+    "back": "Read OBS course and TO/FROM flag first; then CDI and aircraft quadrant. Radial is magnetic FROM station.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>VOR</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>OBS</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>TO / FROM</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>CDI / radial</text></svg>"
+  },
+  {
+    "topic": "PET / ETP",
+    "front": "How do you calculate PET with different groundspeeds?",
+    "back": "x=D×VR/(VR+VB); VR=GS back, VB=GS onward. Equal groundspeeds put PET halfway.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>PET / ETP</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Back GS VR</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Forward GS VB</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>x=D·VR/(VR+VB)</text></svg>"
+  },
+  {
+    "topic": "Holding",
+    "front": "What are standard holding patterns and wind corrections?",
+    "back": "Normally right turns unless published otherwise; correct drift inbound/outbound and adjust outbound time to hold tracks.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Holding</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Fix + inbound</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Turn</tspan><tspan x='160' dy='15'>direction</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Wind</tspan><tspan x='257' dy='15'>correction</tspan></text></svg>"
+  },
+  {
+    "topic": "Turn geometry",
+    "front": "State turn load-factor and radius formulas.",
+    "back": "n=1/cosφ; r=V²/(g tanφ), g=9.81 m/s². At 3°/s, r=V/ω; do not mix assumptions.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Turn geometry</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Bank φ</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Load + radius</text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Standard-rate</text></svg>"
+  },
+  {
+    "topic": "Chart reading",
+    "front": "What should a chart-reading check cover?",
+    "back": "Chart edition/scale/projection/variation; coordinates; airspace limits/class/hours; aerodrome/navaid data; terrain/hazards.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 150'><rect x='0' y='0' width='320' height='150' rx='12' fill='#e7f2ff'/><text x='160' y='27' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#172638'>Chart reading</text><rect x='20' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='63' y='92' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#172638'>Chart data</text><path d='M107 87 H114 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='117' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='160' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='160' dy='0'>Symbols /</tspan><tspan x='160' dy='15'>limits</tspan></text><path d='M204 87 H211 m-6 -5 l6 5 -6 5' fill='none' stroke='#2475b8' stroke-width='2'/><rect x='214' y='62' width='86' height='50' rx='9' fill='white' stroke='#2475b8' stroke-width='2'/><text x='257' y='83' text-anchor='middle' font-family='sans-serif' font-size='10' fill='#172638'><tspan x='257' dy='0'>Route /</tspan><tspan x='257' dy='15'>hazards</tspan></text></svg>"
+  }
+]

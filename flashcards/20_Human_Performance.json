@@ -1,0 +1,798 @@
+[
+  {
+    "topic": "Atmosphere",
+    "front": "What fraction of air is oxygen at 6,000 ft?",
+    "back": "**21%**. The fraction stays essentially constant; oxygen partial pressure falls.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Air mix</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>21% O₂</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>78% N₂</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>1% other</text></svg>",
+    "tip": "“21 stays; partial pressure pays.”"
+  },
+  {
+    "topic": "Atmosphere",
+    "front": "What fraction of air is nitrogen?",
+    "back": "About **78%**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Air mixture</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>21% O₂</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>78% N₂</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>1% other</text></svg>"
+  },
+  {
+    "topic": "Atmosphere",
+    "front": "What fraction of air is other gases?",
+    "back": "About **1%**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Air mixture</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>21% O₂</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>78% N₂</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>1% other</text></svg>"
+  },
+  {
+    "topic": "Atmosphere",
+    "front": "What is standard sea-level pressure?",
+    "back": "Approximately **1,013 hPa** (lesson: 1,013.25 hPa).",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>MSL standard</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>1,013 hPa</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>ISA sea level</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>reference</text></svg>"
+  },
+  {
+    "topic": "Atmosphere",
+    "front": "At what altitude is pressure about half the MSL value?",
+    "back": "About **18,000 ft**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Pressure ladder</text><rect x='72' y='55' width='176' height='32' rx='8' fill='#27845b'/><text x='160' y='76' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>7,000 ft: reacts</text><rect x='72' y='100' width='176' height='32' rx='8' fill='#d87926'/><text x='160' y='121' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>12,000 ft: limited</text><rect x='72' y='145' width='176' height='32' rx='8' fill='#c83e4d'/><text x='160' y='166' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>18,000 ft: half</text></svg>"
+  },
+  {
+    "topic": "Atmosphere",
+    "front": "From what altitude does the body usually react to falling pressure?",
+    "back": "About **7,000 ft**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Pressure ladder</text><rect x='72' y='55' width='176' height='32' rx='8' fill='#27845b'/><text x='160' y='76' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>7,000 ft: reacts</text><rect x='72' y='100' width='176' height='32' rx='8' fill='#d87926'/><text x='160' y='121' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>12,000 ft: limited</text><rect x='72' y='145' width='176' height='32' rx='8' fill='#c83e4d'/><text x='160' y='166' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>18,000 ft: half</text></svg>"
+  },
+  {
+    "topic": "Atmosphere",
+    "front": "From what altitude can the body no longer fully compensate for low pressure?",
+    "back": "About **12,000 ft**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Pressure ladder</text><rect x='72' y='55' width='176' height='32' rx='8' fill='#27845b'/><text x='160' y='76' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>7,000 ft: reacts</text><rect x='72' y='100' width='176' height='32' rx='8' fill='#d87926'/><text x='160' y='121' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>12,000 ft: limited</text><rect x='72' y='145' width='176' height='32' rx='8' fill='#c83e4d'/><text x='160' y='166' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>18,000 ft: half</text></svg>"
+  },
+  {
+    "topic": "Atmosphere",
+    "front": "What are the ISA sea-level reference values?",
+    "back": "Temperature **15°C**\nPressure **1,013.25 hPa**\nDensity **1.225 kg/m³**",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>ISA at sea level</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>15°C</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>1,013.25 hPa</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>1.225 kg/m³</text></svg>"
+  },
+  {
+    "topic": "Atmosphere",
+    "front": "What is the approximate tropospheric temperature lapse rate in the lesson?",
+    "back": "**0.65°C per 100 m** (about **2°C per 1,000 ft**).",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>ISA lapse</text><rect x='72' y='55' width='176' height='32' rx='8' fill='#27845b'/><text x='160' y='76' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>0.65°C / 100 m</text><rect x='72' y='100' width='176' height='32' rx='8' fill='#d87926'/><text x='160' y='121' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>≈2°C / 1,000 ft</text><rect x='72' y='145' width='176' height='32' rx='8' fill='#c83e4d'/><text x='160' y='166' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>troposphere</text></svg>"
+  },
+  {
+    "topic": "Atmosphere",
+    "front": "Where is the tropopause in the lesson’s approximate ISA values?",
+    "back": "About **11 km**, around **−56.5°C**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Tropopause</text><rect x='72' y='55' width='176' height='32' rx='8' fill='#27845b'/><text x='160' y='76' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>11 km</text><rect x='72' y='100' width='176' height='32' rx='8' fill='#d87926'/><text x='160' y='121' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>−56.5°C</text><rect x='72' y='145' width='176' height='32' rx='8' fill='#c83e4d'/><text x='160' y='166' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>approximate ISA</text></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "State Boyle’s law.",
+    "back": "At constant temperature: **P₁V₁ = P₂V₂**.\nPressure and volume vary inversely.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Boyle</text><rect x='28' y='65' width='95' height='66' rx='7' fill='#2784b5'/><rect x='197' y='65' width='95' height='66' rx='7' fill='#d87926'/><text x='75' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>P × V</text><text x='245' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>constant T</text><path d='M130 98 L190 98' stroke='#203040' stroke-width='3' marker-end='url(#a)'/><text x='160' y='155' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>inverse</text><defs><marker id='a' markerWidth='8' markerHeight='8' refX='5' refY='3' orient='auto'><path d='M0 0 L6 3 L0 6' fill='none' stroke='#203040'/></marker></defs></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "A 1 L trapped gas volume reaches half its original pressure at constant temperature. New volume?",
+    "back": "**2 L** (Boyle: pressure halves, volume doubles).",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Boyle example</text><rect x='28' y='65' width='95' height='66' rx='7' fill='#2784b5'/><rect x='197' y='65' width='95' height='66' rx='7' fill='#d87926'/><text x='75' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>½ pressure</text><text x='245' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>2× volume</text><path d='M130 98 L190 98' stroke='#203040' stroke-width='3' marker-end='url(#a)'/><text x='160' y='155' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>constant T</text><defs><marker id='a' markerWidth='8' markerHeight='8' refX='5' refY='3' orient='auto'><path d='M0 0 L6 3 L0 6' fill='none' stroke='#203040'/></marker></defs></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "State Charles’ law and the temperature unit required.",
+    "back": "At constant pressure: **V₁/T₁ = V₂/T₂**.\nUse absolute temperature in **kelvin**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Charles</text><rect x='28' y='65' width='95' height='66' rx='7' fill='#2784b5'/><rect x='197' y='65' width='95' height='66' rx='7' fill='#d87926'/><text x='75' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>V / T</text><text x='245' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>constant P</text><path d='M130 98 L190 98' stroke='#203040' stroke-width='3' marker-end='url(#a)'/><text x='160' y='155' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>T in kelvin</text><defs><marker id='a' markerWidth='8' markerHeight='8' refX='5' refY='3' orient='auto'><path d='M0 0 L6 3 L0 6' fill='none' stroke='#203040'/></marker></defs></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "A 3.0 L gas at 300 K warms to 330 K at constant pressure. New volume?",
+    "back": "3.0 × 330/300 = **3.3 L**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Charles example</text><rect x='28' y='65' width='95' height='66' rx='7' fill='#2784b5'/><rect x='197' y='65' width='95' height='66' rx='7' fill='#d87926'/><text x='75' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>300 K → 330 K</text><text x='245' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>3.0 L → 3.3 L</text><path d='M130 98 L190 98' stroke='#203040' stroke-width='3' marker-end='url(#a)'/><text x='160' y='155' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>constant P</text><defs><marker id='a' markerWidth='8' markerHeight='8' refX='5' refY='3' orient='auto'><path d='M0 0 L6 3 L0 6' fill='none' stroke='#203040'/></marker></defs></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "When do you use the combined gas law?",
+    "back": "When **pressure, volume and temperature** all change.\n**P₁V₁/T₁ = P₂V₂/T₂**; temperatures in kelvin.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Combined law</text><rect x='28' y='65' width='95' height='66' rx='7' fill='#2784b5'/><rect x='197' y='65' width='95' height='66' rx='7' fill='#d87926'/><text x='75' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>P₁V₁/T₁</text><text x='245' y='96' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>P₂V₂/T₂</text><path d='M130 98 L190 98' stroke='#203040' stroke-width='3' marker-end='url(#a)'/><text x='160' y='155' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>kelvin</text><defs><marker id='a' markerWidth='8' markerHeight='8' refX='5' refY='3' orient='auto'><path d='M0 0 L6 3 L0 6' fill='none' stroke='#203040'/></marker></defs></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "State Dalton’s law.",
+    "back": "Total pressure is the **sum of partial pressures**.\npO₂ ≈ **0.21 × Ptotal**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Dalton</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>total pressure</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>sum of partials</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pO₂ = 0.21 P</text></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "At 1,013 hPa, approximately what is oxygen partial pressure?",
+    "back": "0.21 × 1,013 ≈ **213 hPa**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Dalton example</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>1,013 hPa</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>× 0.21</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>≈213 hPa</text></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "At half MSL pressure (~507 hPa), what is oxygen partial pressure?",
+    "back": "0.21 × 507 ≈ **106 hPa**.\nO₂ fraction remains 21%.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Dalton example</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>~507 hPa</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>× 0.21</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>≈106 hPa</text></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "What does Henry’s law explain in aviation physiology?",
+    "back": "Dissolved gas amount tracks partial pressure.\nFalling pressure can release nitrogen bubbles → DCS.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Henry</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pressure falls</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>N₂ leaves solution</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>bubbles / DCS</text></svg>"
+  },
+  {
+    "topic": "Gas laws",
+    "front": "What happens to trapped gas on climb as ambient pressure falls?",
+    "back": "It expands (Boyle’s law); ears, sinuses, gut, teeth and gas spaces may be affected.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Climb</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>outside pressure ↓</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>trapped gas expands</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pain / discomfort</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "Define hypoxia.",
+    "back": "Insufficient oxygen is available to body tissues.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Air → blood → tissue</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>O₂ partial pressure ↓</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>blood delivery ↓</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>tissue hypoxia</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "Why does altitude cause hypoxia if oxygen remains 21%?",
+    "back": "Total pressure and **oxygen partial pressure** fall, reducing oxygen transfer into blood.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Altitude</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>21% O₂ fraction</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>total pressure ↓</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pO₂ ↓</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "What is hypoxic (hypobaric) hypoxia?",
+    "back": "Low oxygen partial pressure, typically at altitude.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Hypoxic</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>altitude</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>low pO₂</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>less transfer</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "What causes anaemic hypoxia?",
+    "back": "Blood cannot carry enough oxygen; **CO poisoning** is a tested cause.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Anaemic</text><circle cx='75' cy='105' r='31' fill='#c83e4d'/><text x='75' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>O₂</text><text x='75' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>CO binds Hb</text><circle cx='160' cy='105' r='31' fill='#2784b5'/><text x='160' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Defence</text><text x='160' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>O₂ carriage ↓</text><circle cx='245' cy='105' r='31' fill='#d87926'/><text x='245' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Clot</text><text x='245' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>tissue supply ↓</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "What is stagnant (circulatory) hypoxia?",
+    "back": "Inadequate blood flow / oxygen delivery to tissues; high positive G can contribute.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Stagnant</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>blood flow ↓</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>delivery ↓</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>brain at risk</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "What is histotoxic hypoxia?",
+    "back": "Cells cannot use delivered oxygen normally; some poisons / alcohol can impair use.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Histotoxic</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>O₂ delivered</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>cell use impaired</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>tissue deficit</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "Name a visible hypoxia clue tested in the bank.",
+    "back": "Blue lips or fingernails: **cyanosis**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Hypoxia clue</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>blue lips</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>blue nail beds</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>cyanosis</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "Which sense is most affected by hypoxia?",
+    "back": "**Vision**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Hypoxia</text><ellipse cx='160' cy='108' rx='104' ry='52' fill='white' stroke='#2784b5' stroke-width='4'/><circle cx='160' cy='108' r='29' fill='#69a9d1' stroke='#203040' stroke-width='2'/><circle cx='160' cy='108' r='12' fill='#203040'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='13' fill='#203040'>vision</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "What is the first response if hypoxia is suspected in flight?",
+    "back": "Keep control; use oxygen if available / appropriate, descend, land and seek help as needed.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Suspect hypoxia</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>control aircraft</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>oxygen + descend</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>land / assistance</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "What is the principal hypoxia symptom trap when it is insidious?",
+    "back": "Judgement and self-awareness may fail before the pilot recognizes impairment.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Insidious hypoxia</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>judgement ↓</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>awareness ↓</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pilot may not notice</text></svg>"
+  },
+  {
+    "topic": "CO poisoning",
+    "front": "What aircraft defect can cause CO poisoning?",
+    "back": "A **crack in the cabin-heater heat exchanger** can admit CO.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Heater exhaust</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>cracked exchanger</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>CO enters cabin</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>poisoning risk</text></svg>"
+  },
+  {
+    "topic": "CO poisoning",
+    "front": "Name another tested source of carbon monoxide exposure.",
+    "back": "**Smoking**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>CO source</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>smoking</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>CO exposure</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>O₂ transport impaired</text></svg>"
+  },
+  {
+    "topic": "CO poisoning",
+    "front": "How does carbon monoxide cause anaemic hypoxia?",
+    "back": "CO binds haemoglobin, reducing the blood’s oxygen-carrying capacity.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>CO + haemoglobin</text><circle cx='75' cy='105' r='31' fill='#c83e4d'/><text x='75' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>O₂</text><text x='75' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>CO binds strongly</text><circle cx='160' cy='105' r='31' fill='#2784b5'/><text x='160' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Defence</text><text x='160' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>O₂ carriage ↓</text><circle cx='245' cy='105' r='31' fill='#d87926'/><text x='245' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Clot</text><text x='245' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>anaemic hypoxia</text></svg>"
+  },
+  {
+    "topic": "CO poisoning",
+    "front": "What should a pilot do if CO is suspected?",
+    "back": "Heater off; fresh air / oxygen as appropriate; land promptly and obtain medical attention.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Suspected CO</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>heater off</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>fresh air / oxygen</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>land + medical care</text></svg>"
+  },
+  {
+    "topic": "Blood",
+    "front": "What is the primary function of red blood cells (erythrocytes)?",
+    "back": "Transport **oxygen** via haemoglobin.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Blood roles</text><circle cx='75' cy='105' r='31' fill='#c83e4d'/><text x='75' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>O₂</text><text x='75' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>erythrocytes</text><circle cx='160' cy='105' r='31' fill='#2784b5'/><text x='160' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Defence</text><text x='160' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>leucocytes</text><circle cx='245' cy='105' r='31' fill='#d87926'/><text x='245' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Clot</text><text x='245' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>thrombocytes</text></svg>"
+  },
+  {
+    "topic": "Blood",
+    "front": "What is the primary function of white blood cells (leucocytes)?",
+    "back": "**Immune defence**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Blood roles</text><circle cx='75' cy='105' r='31' fill='#c83e4d'/><text x='75' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>O₂</text><text x='75' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>erythrocytes</text><circle cx='160' cy='105' r='31' fill='#2784b5'/><text x='160' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Defence</text><text x='160' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>leucocytes</text><circle cx='245' cy='105' r='31' fill='#d87926'/><text x='245' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Clot</text><text x='245' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>thrombocytes</text></svg>"
+  },
+  {
+    "topic": "Blood",
+    "front": "What is the primary function of platelets (thrombocytes)?",
+    "back": "Blood **clotting / coagulation**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Blood roles</text><circle cx='75' cy='105' r='31' fill='#c83e4d'/><text x='75' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>O₂</text><text x='75' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>erythrocytes</text><circle cx='160' cy='105' r='31' fill='#2784b5'/><text x='160' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Defence</text><text x='160' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>leucocytes</text><circle cx='245' cy='105' r='31' fill='#d87926'/><text x='245' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Clot</text><text x='245' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>thrombocytes</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "Which is NOT the bank’s hypoxia risk factor: smoking, menstruation, blood donation or diving?",
+    "back": "**Diving**. It is a decompression-sickness risk, not the bank’s hypoxia answer.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Keep separate</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>diving → DCS</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>not hypoxia answer</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>avoid confusion</text></svg>"
+  },
+  {
+    "topic": "Hyperventilation",
+    "front": "What causes hyperventilation symptoms?",
+    "back": "Overbreathing removes too much CO₂; blood chemistry changes.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Overbreathing</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>CO₂ washed out</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>blood chemistry shifts</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>symptoms</text></svg>"
+  },
+  {
+    "topic": "Hyperventilation",
+    "front": "Which symptom is NOT expected in hyperventilation in the bank?",
+    "back": "**Cyanosis**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Hyperventilation</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>tingling / spasm</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>dizziness</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>not cyanosis</text></svg>"
+  },
+  {
+    "topic": "Decompression sickness",
+    "front": "Why can diving before flight cause decompression sickness?",
+    "back": "Extra nitrogen dissolves in tissues underwater; lower pressure can form bubbles.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Dive → flight</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>N₂ dissolves</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pressure falls</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>bubbles / DCS</text></svg>"
+  },
+  {
+    "topic": "Decompression sickness",
+    "front": "What do “bends,” “creeps” and “chokes” describe?",
+    "back": "Bends = joint/limb pain\nCreeps = itchy skin\nChokes = breathing problems",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>DCS signs</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>Bends: joints</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>Creeps: skin</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>Chokes: breathing</text></svg>"
+  },
+  {
+    "topic": "Decompression sickness",
+    "front": "What is the response to suspected DCS?",
+    "back": "Oxygen, descend if safe, land and seek urgent medical help; do not rub painful joints.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>DCS response</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>oxygen</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>descend / land</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>urgent medical help</text></svg>"
+  },
+  {
+    "topic": "Ears",
+    "front": "What connects the middle ear to the nose/throat?",
+    "back": "The **Eustachian tube**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Middle ear</text><path d='M104 145 C82 95 100 48 148 47 C192 46 208 83 192 111 C182 128 165 130 163 151' fill='none' stroke='#2784b5' stroke-width='8' stroke-linecap='round'/><circle cx='162' cy='151' r='12' fill='#d87926'/><path d='M174 151 L239 151' stroke='#27845b' stroke-width='5'/><text x='160' y='184' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>Eustachian tube</text></svg>"
+  },
+  {
+    "topic": "Ears",
+    "front": "When is pressure compensation between middle ear and environment impossible?",
+    "back": "When the **Eustachian tube is blocked**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Pressure equalisation</text><path d='M104 145 C82 95 100 48 148 47 C192 46 208 83 192 111 C182 128 165 130 163 151' fill='none' stroke='#2784b5' stroke-width='8' stroke-linecap='round'/><circle cx='162' cy='151' r='12' fill='#d87926'/><path d='M174 151 L239 151' stroke='#27845b' stroke-width='5'/><text x='160' y='184' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>tube open: equalises</text></svg>"
+  },
+  {
+    "topic": "Ears",
+    "front": "What may help equalise middle-ear pressure gently?",
+    "back": "Swallowing, yawning or gentle equalisation; never force through severe pain.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Gentle equalisation</text><path d='M104 145 C82 95 100 48 148 47 C192 46 208 83 192 111 C182 128 165 130 163 151' fill='none' stroke='#2784b5' stroke-width='8' stroke-linecap='round'/><circle cx='162' cy='151' r='12' fill='#d87926'/><path d='M174 151 L239 151' stroke='#27845b' stroke-width='5'/><text x='160' y='184' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>swallow</text></svg>"
+  },
+  {
+    "topic": "G-forces",
+    "front": "What causes grey-out?",
+    "back": "**Positive G** shifts blood away from the head; peripheral / colour vision fades.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Positive G</text><line x1='45' y1='137' x2='277' y2='137' stroke='#203040' stroke-width='5'/><path d='M145 137 L160 80 L175 137 Z' fill='#d87926'/><line x1='82' y1='136' x2='82' y2='90' stroke='#2784b5' stroke-width='4'/><line x1='235' y1='136' x2='235' y2='90' stroke='#2784b5' stroke-width='4'/><circle cx='82' cy='75' r='17' fill='#27845b'/><circle cx='235' cy='75' r='17' fill='#c83e4d'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>blood shifts down</text></svg>"
+  },
+  {
+    "topic": "G-forces",
+    "front": "What is blackout in relation to G?",
+    "back": "More severe / sustained positive G can cause loss of vision, possibly unconsciousness.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Positive G</text><line x1='45' y1='137' x2='277' y2='137' stroke='#203040' stroke-width='5'/><path d='M145 137 L160 80 L175 137 Z' fill='#d87926'/><line x1='82' y1='136' x2='82' y2='90' stroke='#2784b5' stroke-width='4'/><line x1='235' y1='136' x2='235' y2='90' stroke='#2784b5' stroke-width='4'/><circle cx='82' cy='75' r='17' fill='#27845b'/><circle cx='235' cy='75' r='17' fill='#c83e4d'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>grey-out</text></svg>"
+  },
+  {
+    "topic": "G-forces",
+    "front": "What does red-out mean?",
+    "back": "“Red vision” during **negative G-loads**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Negative G</text><line x1='45' y1='137' x2='277' y2='137' stroke='#203040' stroke-width='5'/><path d='M145 137 L160 80 L175 137 Z' fill='#d87926'/><line x1='82' y1='136' x2='82' y2='90' stroke='#2784b5' stroke-width='4'/><line x1='235' y1='136' x2='235' y2='90' stroke='#2784b5' stroke-width='4'/><circle cx='82' cy='75' r='17' fill='#27845b'/><circle cx='235' cy='75' r='17' fill='#c83e4d'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>blood toward head</text></svg>"
+  },
+  {
+    "topic": "G-forces",
+    "front": "What is the lesson’s sustained-G tolerance example for an unprotected person?",
+    "back": "About **+3.5 G / −3 G** for more than 1 second; not an operating limit.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Lesson example</text><line x1='45' y1='137' x2='277' y2='137' stroke='#203040' stroke-width='5'/><path d='M145 137 L160 80 L175 137 Z' fill='#d87926'/><line x1='82' y1='136' x2='82' y2='90' stroke='#2784b5' stroke-width='4'/><line x1='235' y1='136' x2='235' y2='90' stroke='#2784b5' stroke-width='4'/><circle cx='82' cy='75' r='17' fill='#27845b'/><circle cx='235' cy='75' r='17' fill='#c83e4d'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>+3.5 G</text></svg>"
+  },
+  {
+    "topic": "G-forces",
+    "front": "What anti-G tolerance example does the lesson cite?",
+    "back": "About **+7 to +8 G** with anti-G protection; not a light-aircraft operating limit.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Protection example</text><line x1='45' y1='137' x2='277' y2='137' stroke='#203040' stroke-width='5'/><path d='M145 137 L160 80 L175 137 Z' fill='#d87926'/><line x1='82' y1='136' x2='82' y2='90' stroke='#2784b5' stroke-width='4'/><line x1='235' y1='136' x2='235' y2='90' stroke='#2784b5' stroke-width='4'/><circle cx='82' cy='75' r='17' fill='#27845b'/><circle cx='235' cy='75' r='17' fill='#c83e4d'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>anti-G suit</text></svg>"
+  },
+  {
+    "topic": "G-forces",
+    "front": "What brief impact tolerances are cited in the lesson?",
+    "back": "**25 G vertical** and **45 G perpendicular to vertical**; not flight targets or limits.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Impact example</text><line x1='45' y1='137' x2='277' y2='137' stroke='#203040' stroke-width='5'/><path d='M145 137 L160 80 L175 137 Z' fill='#d87926'/><line x1='82' y1='136' x2='82' y2='90' stroke='#2784b5' stroke-width='4'/><line x1='235' y1='136' x2='235' y2='90' stroke='#2784b5' stroke-width='4'/><circle cx='82' cy='75' r='17' fill='#27845b'/><circle cx='235' cy='75' r='17' fill='#c83e4d'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>25 G vertical</text></svg>"
+  },
+  {
+    "topic": "G-forces",
+    "front": "What is load factor n?",
+    "back": "**n = Lift / Weight**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Load factor</text><line x1='45' y1='137' x2='277' y2='137' stroke='#203040' stroke-width='5'/><path d='M145 137 L160 80 L175 137 Z' fill='#d87926'/><line x1='82' y1='136' x2='82' y2='90' stroke='#2784b5' stroke-width='4'/><line x1='235' y1='136' x2='235' y2='90' stroke='#2784b5' stroke-width='4'/><circle cx='82' cy='75' r='17' fill='#27845b'/><circle cx='235' cy='75' r='17' fill='#c83e4d'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>Lift</text></svg>"
+  },
+  {
+    "topic": "G-forces",
+    "front": "State the load-factor formula for a coordinated level turn.",
+    "back": "**n = 1 / cos(bank angle)**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Level turn</text><line x1='45' y1='137' x2='277' y2='137' stroke='#203040' stroke-width='5'/><path d='M145 137 L160 80 L175 137 Z' fill='#d87926'/><line x1='82' y1='136' x2='82' y2='90' stroke='#2784b5' stroke-width='4'/><line x1='235' y1='136' x2='235' y2='90' stroke='#2784b5' stroke-width='4'/><circle cx='82' cy='75' r='17' fill='#27845b'/><circle cx='235' cy='75' r='17' fill='#c83e4d'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>n = 1 / cos φ</text></svg>"
+  },
+  {
+    "topic": "G-forces",
+    "front": "At 60° bank in a coordinated level turn, what is load factor?",
+    "back": "cos 60° = 0.5; n = 1/0.5 = **2 G**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>60° bank</text><line x1='45' y1='137' x2='277' y2='137' stroke='#203040' stroke-width='5'/><path d='M145 137 L160 80 L175 137 Z' fill='#d87926'/><line x1='82' y1='136' x2='82' y2='90' stroke='#2784b5' stroke-width='4'/><line x1='235' y1='136' x2='235' y2='90' stroke='#2784b5' stroke-width='4'/><circle cx='82' cy='75' r='17' fill='#27845b'/><circle cx='235' cy='75' r='17' fill='#c83e4d'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>cos 60° = 0.5</text></svg>"
+  },
+  {
+    "topic": "Nervous system",
+    "front": "What does the autonomic nervous system regulate?",
+    "back": "Involuntary functions such as **breathing, digestion and heart rate**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Autonomic system</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>breathing</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>digestion</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>heart rate</text></svg>"
+  },
+  {
+    "topic": "Nervous system",
+    "front": "Define a reflex.",
+    "back": "An involuntary, stereotyped response to stimulation of a receptor.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Receptor stimulated</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>involuntary response</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>stereotyped</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>reflex</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "Which eye cells provide colour vision?",
+    "back": "**Cones** (also sharp central/day vision).",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Retina</text><ellipse cx='160' cy='108' rx='104' ry='52' fill='white' stroke='#2784b5' stroke-width='4'/><circle cx='160' cy='108' r='29' fill='#69a9d1' stroke='#203040' stroke-width='2'/><circle cx='160' cy='108' r='12' fill='#203040'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='13' fill='#203040'>cones: colour</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "What is the role of rods?",
+    "back": "Dim-light / night and peripheral vision; poor colour and fine detail.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Retina</text><ellipse cx='160' cy='108' rx='104' ry='52' fill='white' stroke='#2784b5' stroke-width='4'/><circle cx='160' cy='108' r='29' fill='#69a9d1' stroke='#203040' stroke-width='2'/><circle cx='160' cy='108' r='12' fill='#203040'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='13' fill='#203040'>cones: colour</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "What is the blind spot?",
+    "back": "The optic nerve / vessels pass through that area; it has no visual receptors.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Retina</text><ellipse cx='160' cy='108' rx='104' ry='52' fill='white' stroke='#2784b5' stroke-width='4'/><circle cx='160' cy='108' r='29' fill='#69a9d1' stroke='#203040' stroke-width='2'/><circle cx='160' cy='108' r='12' fill='#203040'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='13' fill='#203040'>fovea: detail</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "What does the iris do?",
+    "back": "Controls pupil size and the amount of incoming light.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Light</text><ellipse cx='160' cy='108' rx='104' ry='52' fill='white' stroke='#2784b5' stroke-width='4'/><circle cx='160' cy='108' r='29' fill='#69a9d1' stroke='#203040' stroke-width='2'/><circle cx='160' cy='108' r='12' fill='#203040'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='13' fill='#203040'>iris controls</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "Define parallax error.",
+    "back": "Wrong instrument reading caused by viewing the scale at an angle.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Instrument scale</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>view off-axis</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pointer shifts</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>parallax error</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "How should a pilot avoid parallax on an analogue instrument?",
+    "back": "View the scale straight-on; align pointer / mark with scale.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Scale reading</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>face-on view</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>align pointer</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>correct reading</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "What type of sunglasses should pilots choose?",
+    "back": "**Non-polarised**, with suitable UV protection.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Pilot sunglasses</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>non-polarised</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>UV protection</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>displays remain visible</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "Why avoid polarised sunglasses in the cockpit?",
+    "back": "They may obscure LCDs / instrument displays or interfere with viewing displays.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Polarised lens</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>display visibility ↓</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>LCD issue</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>choose non-polarised</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "What mainly causes visual illusions?",
+    "back": "The **brain misinterprets** visual information.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Visual cue</text><ellipse cx='160' cy='108' rx='104' ry='52' fill='white' stroke='#2784b5' stroke-width='4'/><circle cx='160' cy='108' r='29' fill='#69a9d1' stroke='#203040' stroke-width='2'/><circle cx='160' cy='108' r='12' fill='#203040'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='13' fill='#203040'>brain interprets</text></svg>"
+  },
+  {
+    "topic": "Vision",
+    "front": "What helps night vision?",
+    "back": "Use rods: allow dark adaptation, avoid bright light and scan slightly off a faint target.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Night vision</text><ellipse cx='160' cy='108' rx='104' ry='52' fill='white' stroke='#2784b5' stroke-width='4'/><circle cx='160' cy='108' r='29' fill='#69a9d1' stroke='#203040' stroke-width='2'/><circle cx='160' cy='108' r='12' fill='#203040'/><text x='160' y='178' text-anchor='middle' font-family='sans-serif' font-size='13' fill='#203040'>rods</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "What do semicircular canals detect?",
+    "back": "Angular / rotational acceleration (turning).",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Inner ear</text><path d='M104 145 C82 95 100 48 148 47 C192 46 208 83 192 111 C182 128 165 130 163 151' fill='none' stroke='#2784b5' stroke-width='8' stroke-linecap='round'/><circle cx='162' cy='151' r='12' fill='#d87926'/><path d='M174 151 L239 151' stroke='#27845b' stroke-width='5'/><text x='160' y='184' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>semicircular canals</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "What do otolith organs detect?",
+    "back": "Linear acceleration and gravity / tilt.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Inner ear</text><path d='M104 145 C82 95 100 48 148 47 C192 46 208 83 192 111 C182 128 165 130 163 151' fill='none' stroke='#2784b5' stroke-width='8' stroke-linecap='round'/><circle cx='162' cy='151' r='12' fill='#d87926'/><path d='M174 151 L239 151' stroke='#27845b' stroke-width='5'/><text x='160' y='184' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>otolith organs</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "What is the “leans” illusion?",
+    "back": "A slow roll goes unnoticed; correction then feels like a bank the opposite way.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Slow roll</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>below detection</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>correction</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>opposite bank felt</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "After a prolonged turn, what may wings-level flight feel like?",
+    "back": "A turn in the **opposite direction** (leans). Trust instruments.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Prolonged turn</text><path d='M104 145 C82 95 100 48 148 47 C192 46 208 83 192 111 C182 128 165 130 163 151' fill='none' stroke='#2784b5' stroke-width='8' stroke-linecap='round'/><circle cx='162' cy='151' r='12' fill='#d87926'/><path d='M174 151 L239 151' stroke='#27845b' stroke-width='5'/><text x='160' y='184' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>canals adapt</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "What pitch illusion can acceleration in straight, level flight create?",
+    "back": "A **climb / nose-up** illusion (somatogravic).",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Straight-level acceleration</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>body feels pitch-up</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>climb illusion</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>trust instruments</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "What pitch illusion can deceleration create?",
+    "back": "A **descent / nose-down** illusion.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Deceleration</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>body feels pitch-down</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>descent illusion</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>trust instruments</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "When is Coriolis vertigo most likely?",
+    "back": "When moving the head **during a turn**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Turn</text><path d='M104 145 C82 95 100 48 148 47 C192 46 208 83 192 111 C182 128 165 130 163 151' fill='none' stroke='#2784b5' stroke-width='8' stroke-linecap='round'/><circle cx='162' cy='151' r='12' fill='#d87926'/><path d='M174 151 L239 151' stroke='#27845b' stroke-width='5'/><text x='160' y='184' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>head movement</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "How can a pilot reduce Coriolis illusion risk?",
+    "back": "Keep the head still during turns; use instruments if disoriented.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>During turn</text><path d='M104 145 C82 95 100 48 148 47 C192 46 208 83 192 111 C182 128 165 130 163 151' fill='none' stroke='#2784b5' stroke-width='8' stroke-linecap='round'/><circle cx='162' cy='151' r='12' fill='#d87926'/><path d='M174 151 L239 151' stroke='#27845b' stroke-width='5'/><text x='160' y='184' text-anchor='middle' font-family='sans-serif' font-size='12' fill='#203040'>head still</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "Which flight condition does NOT usually stimulate motion sickness?",
+    "back": "Non-accelerated, straight-and-level flight.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Motion triggers</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>turbulence / turns</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>alcohol / head movement</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>smooth level: less</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "Name motion-sickness triggers in flight.",
+    "back": "Turbulence, alcohol, sensory mismatch and head movement in turns.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Sensory mismatch</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>turbulence</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>alcohol</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>head movement</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "What is autokinesis?",
+    "back": "A fixed light in darkness appears to move; avoid staring at one light.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Darkness</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>fixed light</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>seems to move</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>autokinesis</text></svg>"
+  },
+  {
+    "topic": "Spatial disorientation",
+    "front": "What is the safe response to spatial disorientation?",
+    "back": "Minimise head movement; stabilize and trust instruments over bodily sensation.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Disorientation</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>stop manoeuvring</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>trust instruments</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>stabilize</text></svg>"
+  },
+  {
+    "topic": "Runway illusions",
+    "front": "What does an upslope runway tend to make the approach look like?",
+    "back": "It can appear **too high**; pilot may descend below the normal glide slope.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Upslope runway</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>appears high</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pilot descends</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>below glide slope</text></svg>"
+  },
+  {
+    "topic": "Runway illusions",
+    "front": "What answer does bank Q21 mark for an upslope runway impression?",
+    "back": "**Overshoot** (bank wording trap). Q54 separately marks perceived too high → descent below glide slope.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Upslope trap</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>Q21: overshoot</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>Q54: too high</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>bank answers differ</text></svg>",
+    "tip": "Memorize both exact bank phrasings; fly the stabilized approach."
+  },
+  {
+    "topic": "Runway illusions",
+    "front": "What is the tendency with a downslope runway?",
+    "back": "It can appear too low, encouraging a higher approach.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Downslope</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>appears low</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pilot flies high</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>glide path</text></svg>"
+  },
+  {
+    "topic": "Runway illusions",
+    "front": "What is the tendency with a narrow runway?",
+    "back": "May seem too high / close, encouraging a low approach.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Narrow runway</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>seems high / close</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>low approach tendency</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>cross-check</text></svg>"
+  },
+  {
+    "topic": "Runway illusions",
+    "front": "What is the tendency with a wide runway?",
+    "back": "May seem too low / far, encouraging a high approach and overshoot.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Wide runway</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>seems low / far</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>high approach</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>overshoot risk</text></svg>"
+  },
+  {
+    "topic": "Runway illusions",
+    "front": "What other visual cues can distort runway height or attitude?",
+    "back": "Haze, snow, water, desert, false horizon, black-hole approach and target fixation.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Weak references</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>haze / snow / water</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>false horizon</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>black-hole / fixation</text></svg>"
+  },
+  {
+    "topic": "Health & fitness",
+    "front": "What condition is a tested risk factor for diabetes?",
+    "back": "Being **overweight**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Risk factor</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>overweight</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>diabetes</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>fitness to fly</text></svg>"
+  },
+  {
+    "topic": "Health & fitness",
+    "front": "By how much does adult blood alcohol fall on average per hour in the bank?",
+    "back": "Approximately **0.01% per hour**; not a safe-to-fly calculation.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Alcohol estimate</text><rect x='72' y='55' width='176' height='32' rx='8' fill='#27845b'/><text x='160' y='76' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>0.01% per hour</text><rect x='72' y='100' width='176' height='32' rx='8' fill='#d87926'/><text x='160' y='121' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>varies by person</text><rect x='72' y='145' width='176' height='32' rx='8' fill='#c83e4d'/><text x='160' y='166' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>not flight clearance</text></svg>"
+  },
+  {
+    "topic": "Health & fitness",
+    "front": "Estimate BAC after 3 hours from 0.08%, using 0.01%/h.",
+    "back": "0.08 − (3 × 0.01) = **0.05%**. Not an operational fitness decision.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Worked estimate</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>0.08% start</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>−0.03%</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>0.05% after 3 h</text></svg>"
+  },
+  {
+    "topic": "Health & fitness",
+    "front": "What does I’M SAFE stand for?",
+    "back": "Illness, Medication, Stress, Alcohol, Fatigue, Emotion.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>I’M SAFE</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>Illness / Medication</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>Stress / Alcohol</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>Fatigue / Emotion</text></svg>"
+  },
+  {
+    "topic": "Health & fitness",
+    "front": "What is the bank answer for an old bottle-to-throttle interval?",
+    "back": "The bank does **not** establish one; lesson sources conflict (12 h vs 24 h). Follow current rules / advice; never fly impaired.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Old lesson conflict</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>12 h vs 24 h</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>not current clearance</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>do not fly impaired</text></svg>"
+  },
+  {
+    "topic": "Memory",
+    "front": "What is the bank answer for short-term memory duration?",
+    "back": "About **10–20 seconds**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Short-term memory</text><rect x='72' y='55' width='176' height='32' rx='8' fill='#27845b'/><text x='160' y='76' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>10–20 seconds</text><rect x='72' y='100' width='176' height='32' rx='8' fill='#d87926'/><text x='160' y='121' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>brief holding</text><rect x='72' y='145' width='176' height='32' rx='8' fill='#c83e4d'/><text x='160' y='166' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>rehearse / record</text></svg>"
+  },
+  {
+    "topic": "Memory",
+    "front": "How many items does the primary bank say short-term memory holds?",
+    "back": "**5 ± 2 items** for 10–20 seconds. This takes precedence over supplementary conflicting figures.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Bank answer</text><rect x='72' y='55' width='176' height='32' rx='8' fill='#27845b'/><text x='160' y='76' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>5 ± 2 items</text><rect x='72' y='100' width='176' height='32' rx='8' fill='#d87926'/><text x='160' y='121' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>10–20 seconds</text><rect x='72' y='145' width='176' height='32' rx='8' fill='#c83e4d'/><text x='160' y='166' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>use bank value</text></svg>"
+  },
+  {
+    "topic": "Memory",
+    "front": "How can a pilot reduce working-memory load?",
+    "back": "Use checklists, notes, readbacks, repetition and chunking.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Reduce memory load</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>checklist</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>write / read back</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>chunk + repeat</text></svg>"
+  },
+  {
+    "topic": "Memory",
+    "front": "What is working memory?",
+    "back": "The active holding and manipulation of information for a current task.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Memory types</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>short-term: hold</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>working: manipulate</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>long-term: store</text></svg>"
+  },
+  {
+    "topic": "Memory",
+    "front": "What supports long-term memory encoding?",
+    "back": "Repetition and meaningful / intense events.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Long-term memory</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>repetition</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>meaning</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>retention</text></svg>"
+  },
+  {
+    "topic": "Human factors",
+    "front": "What causes the majority of aviation accidents in the supplied bank?",
+    "back": "**Human error**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Accident defence</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>human error</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>predictable</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>build barriers</text></svg>"
+  },
+  {
+    "topic": "Biases & errors",
+    "front": "What is confirmation bias?",
+    "back": "Preferring evidence that supports your existing mental model.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Initial belief</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>seek support</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>discount conflict</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>confirmation bias</text></svg>"
+  },
+  {
+    "topic": "Biases & errors",
+    "front": "How can a pilot counter confirmation bias?",
+    "back": "Seek disconfirming evidence; cross-check sources and reconsider with new information.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Hypothesis</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>seek contrary evidence</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>cross-check</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>update</text></svg>"
+  },
+  {
+    "topic": "Biases & errors",
+    "front": "What is expectation bias?",
+    "back": "Seeing what you expect rather than what is actually there; it can cause human error.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Expectation</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>what I expect</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>≠ what is there</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>verify</text></svg>"
+  },
+  {
+    "topic": "Biases & errors",
+    "front": "What does the Swiss-cheese model explain?",
+    "back": "An error / accident chain when holes in multiple defences line up.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Defence layers</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>holes align</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>chain passes through</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>accident</text></svg>"
+  },
+  {
+    "topic": "Biases & errors",
+    "front": "What is a latent error?",
+    "back": "A hidden weakness remaining undetected in the system for a long time.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Latent</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>hidden condition</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>undetected</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>for a long time</text></svg>"
+  },
+  {
+    "topic": "Biases & errors",
+    "front": "How does an active error differ from a latent error?",
+    "back": "Active error occurs at the point of action; latent error is a hidden system condition.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Error types</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>active: now</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>latent: hidden</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>system condition</text></svg>"
+  },
+  {
+    "topic": "Biases & errors",
+    "front": "Why can automation lead to complacency?",
+    "back": "Increased cockpit automation can reduce vigilance; monitor and verify its outputs.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Automation</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>monitoring ↓</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>complacency risk</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>verify output</text></svg>"
+  },
+  {
+    "topic": "Situational awareness",
+    "front": "Define situational awareness.",
+    "back": "Ongoing monitoring and understanding of the current flight situation.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>SA loop</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>perceive cues</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>understand meaning</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>anticipate next</text></svg>"
+  },
+  {
+    "topic": "Problem solving",
+    "front": "What should a pilot do first when a problem occurs in flight?",
+    "back": "**Fly the aircraft and keep it stable**, then address the problem while continuing to fly.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Problem</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>CONTROL first</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>assess / act</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>recheck</text></svg>",
+    "tip": "Aviate before troubleshooting."
+  },
+  {
+    "topic": "Problem solving",
+    "front": "What is a simple in-flight problem-solving sequence?",
+    "back": "Control → assess / prioritize → act (checklist as needed) → recheck.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Problem</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>CONTROL</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>ASSESS / ACT</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>RECHECK</text></svg>"
+  },
+  {
+    "topic": "Communication",
+    "front": "How does standard radio phraseology help communication?",
+    "back": "It provides a shared communication **code**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Sender</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>phraseology</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>shared code</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>receiver</text></svg>"
+  },
+  {
+    "topic": "Communication",
+    "front": "What should a pilot do if a radio message is unclear?",
+    "back": "Ask for clarification; do not fill in missing words from expectation.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Unclear message</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pause</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>ask / read back</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>verify</text></svg>"
+  },
+  {
+    "topic": "Pilot traits",
+    "front": "What trait pairing does the bank mark as best?",
+    "back": "**Extroverted–stable** (exam response, not an individual diagnosis).",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Bank trait pair</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>extroverted</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>stable</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>exam wording</text></svg>"
+  },
+  {
+    "topic": "Attitudes",
+    "front": "What is a macho attitude?",
+    "back": "Taking risky manoeuvres to prove oneself or impress spectators.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Macho</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>prove / impress</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>unnecessary risk</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>avoid</text></svg>"
+  },
+  {
+    "topic": "Attitudes",
+    "front": "Which dangerous attitudes commonly combine?",
+    "back": "**Macho + invulnerability**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Attitude pairing</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>macho</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>+</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>invulnerability</text></svg>"
+  },
+  {
+    "topic": "Attitudes",
+    "front": "What is invulnerability self-talk?",
+    "back": "“It won’t happen to me.” Antidote: it can happen to me too; use margins.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Invulnerability</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>“not me”</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>can happen to me</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>use margins</text></svg>"
+  },
+  {
+    "topic": "Attitudes",
+    "front": "What is the antidote to anti-authority?",
+    "back": "Rules have reasons; follow them.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Anti-authority</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>“rules don’t apply”</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>rules have reasons</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>follow them</text></svg>"
+  },
+  {
+    "topic": "Attitudes",
+    "front": "What is the antidote to impulsivity?",
+    "back": "“Do it now” → **pause and think**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Impulsivity</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>act now</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pause</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>think</text></svg>"
+  },
+  {
+    "topic": "Attitudes",
+    "front": "What is the antidote to resignation / self-abandonment?",
+    "back": "There is usually something useful to do; keep thinking and act / seek help.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Resignation</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>“nothing matters”</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>find useful action</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>seek help</text></svg>"
+  },
+  {
+    "topic": "Risk",
+    "front": "What are the four appropriate ways to handle risk?",
+    "back": "**Avoid, Reduce, Transfer, Accept**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>A-R-T-A</text><rect x='8' y='77' width='70' height='56' rx='8' fill='#27845b'/><text x='43' y='109' text-anchor='middle' font-family='sans-serif' font-size='11' fill='white'>Avoid</text><text x='84' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='86' y='77' width='70' height='56' rx='8' fill='#2784b5'/><text x='121' y='109' text-anchor='middle' font-family='sans-serif' font-size='11' fill='white'>Reduce / Transfer</text><text x='162' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='164' y='77' width='70' height='56' rx='8' fill='#d87926'/><text x='199' y='109' text-anchor='middle' font-family='sans-serif' font-size='11' fill='white'>Accept</text><text x='240' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text></svg>",
+    "tip": "Accept means conscious residual risk—not ignore."
+  },
+  {
+    "topic": "Risk",
+    "front": "What does “risky shift” mean?",
+    "back": "A tendency for people in groups to accept higher risks.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Group</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>discussion</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>risk acceptance ↑</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>risky shift</text></svg>"
+  },
+  {
+    "topic": "Risk",
+    "front": "What increases the chance a pilot accepts higher risk in the bank?",
+    "back": "**Group-dynamic effects**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Group dynamics</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>social influence</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>risk acceptance ↑</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>independent limits</text></svg>"
+  },
+  {
+    "topic": "Risk",
+    "front": "Does transfer remove the pilot’s accountability?",
+    "back": "No. It shares / passes exposure where appropriate, but does not remove pilot accountability.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Transfer risk</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>share exposure</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>accountability</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>still remains</text></svg>"
+  },
+  {
+    "topic": "Stress",
+    "front": "What is the ideal arousal point on the bank diagram?",
+    "back": "**Point B**: moderate arousal / stress.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Performance</text><path d='M35 165 C85 145 95 55 160 55 C225 55 235 145 285 165' fill='none' stroke='#2784b5' stroke-width='5'/><line x1='35' y1='170' x2='290' y2='170' stroke='#203040' stroke-width='2'/><line x1='40' y1='170' x2='40' y2='45' stroke='#203040' stroke-width='2'/><circle cx='160' cy='65' r='6' fill='#27845b'/><text x='160' y='190' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>B = ideal</text><circle cx='250' cy='132' r='6' fill='#c83e4d'/><text x='250' y='190' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>moderate arousal</text></svg>"
+  },
+  {
+    "topic": "Stress",
+    "front": "Which point represents an overstrained pilot in the bank diagram?",
+    "back": "**Point D**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Performance</text><path d='M35 165 C85 145 95 55 160 55 C225 55 235 145 285 165' fill='none' stroke='#2784b5' stroke-width='5'/><line x1='35' y1='170' x2='290' y2='170' stroke='#203040' stroke-width='2'/><line x1='40' y1='170' x2='40' y2='45' stroke='#203040' stroke-width='2'/><circle cx='160' cy='65' r='6' fill='#27845b'/><text x='160' y='190' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>B = ideal</text><circle cx='250' cy='132' r='6' fill='#c83e4d'/><text x='250' y='190' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>D = overstrained</text></svg>"
+  },
+  {
+    "topic": "Stress",
+    "front": "What can trigger stress according to bank Q60?",
+    "back": "A problem that seems to have **no solution**.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Problem</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>no solution seems possible</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>stress response</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>reassess options</text></svg>"
+  },
+  {
+    "topic": "Stress",
+    "front": "Which functions are affected by stress in the bank?",
+    "back": "**All four:** attention, concentration, responsiveness and memory.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Stress effects</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>attention</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>concentration / response</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>memory</text></svg>"
+  },
+  {
+    "topic": "Stress",
+    "front": "Do all pilots react to stress in the same way?",
+    "back": "No. Reactions vary; training, experience, sleep and individual factors affect coping.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Stress</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>individual response</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>varies</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>prepare / cope</text></svg>"
+  },
+  {
+    "topic": "Stress",
+    "front": "What strategies can manage stress?",
+    "back": "Do: change the situation / ask help. Think: prioritize, use checklist, focus on next safe action.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Stress management</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>do / seek help</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>prioritize</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>next safe action</text></svg>"
+  },
+  {
+    "topic": "Passenger care",
+    "front": "A passenger becomes uncomfortable during cruise. What is appropriate?",
+    "back": "Adjust cabin temperature and avoid excessive banking; keep the aircraft stable.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Passenger discomfort</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>temperature</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>avoid steep bank</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>stable flight</text></svg>"
+  },
+  {
+    "topic": "Decision-making",
+    "front": "What are the three decision/action behaviour levels?",
+    "back": "Skill-based: learned automatic action\nRule-based: apply learned procedure\nKnowledge-based: analyse unfamiliar problem",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Decision levels</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>skill</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>rule</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>knowledge</text></svg>"
+  },
+  {
+    "topic": "Decision-making",
+    "front": "What should a pilot do if a safe option remains, such as a go-around or diversion?",
+    "back": "Use it. Go-around, diversion, delay or cancellation can be successful safety decisions.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Decision</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>keep options</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>go-around / divert</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>safety success</text></svg>"
+  },
+  {
+    "topic": "Risk",
+    "front": "What broad factors should preflight risk assessment consider?",
+    "back": "Pilot, aircraft, environment and time; evaluate likelihood and consequence.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Risk scan</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>pilot</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>aircraft / environment</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>time</text></svg>"
+  },
+  {
+    "topic": "Visual disorientation",
+    "front": "What is the practical defence against visual approach illusions?",
+    "back": "Use planned / published path, stabilized approach, airspeed and instrument cross-check; do not chase the illusion.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Approach defence</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>planned path</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>stable + speed</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>cross-check</text></svg>"
+  },
+  {
+    "topic": "Health & fitness",
+    "front": "Name factors that can degrade pilot performance.",
+    "back": "Fatigue, illness, dehydration, stress, emotional upset and impairing medication.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Fitness</text><rect x='15' y='78' width='90' height='54' rx='9' fill='#2784b5'/><text x='60' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>fatigue / illness</text><text x='111' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='115' y='78' width='90' height='54' rx='9' fill='#27845b'/><text x='160' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>dehydration / stress</text><text x='211' y='111' text-anchor='middle' font-family='sans-serif' font-size='16' fill='#203040'>→</text><rect x='215' y='78' width='90' height='54' rx='9' fill='#d87926'/><text x='260' y='108' text-anchor='middle' font-family='sans-serif' font-size='12' fill='white'>medication</text></svg>"
+  },
+  {
+    "topic": "Hypoxia",
+    "front": "How does anaemia or blood loss affect oxygen transport?",
+    "back": "It reduces haemoglobin / red-cell oxygen-carrying capacity.",
+    "visual": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 200'><rect x='0' y='0' width='320' height='200' fill='#fdf6e3'/><text x='160' y='24' text-anchor='middle' font-family='sans-serif' font-size='14' font-weight='bold' fill='#203040'>Blood capacity</text><circle cx='75' cy='105' r='31' fill='#c83e4d'/><text x='75' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>O₂</text><text x='75' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>anaemia / blood loss</text><circle cx='160' cy='105' r='31' fill='#2784b5'/><text x='160' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Defence</text><text x='160' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>carrying capacity ↓</text><circle cx='245' cy='105' r='31' fill='#d87926'/><text x='245' y='110' text-anchor='middle' font-family='sans-serif' font-size='13' fill='white'>Clot</text><text x='245' y='158' text-anchor='middle' font-family='sans-serif' font-size='11' fill='#203040'>oxygen delivery ↓</text></svg>"
+  }
+]
