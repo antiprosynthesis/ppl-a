@@ -1,0 +1,747 @@
+{
+  "40-001": {
+    "topic": "Abbreviations",
+    "why": [
+      "FIS expands to Flight Information Service; “flashing” is not part of the service name.",
+      "FIS is a service, not an information system; both “Flashing” and “System” make this expansion wrong.",
+      "This is the standard expansion of FIS: Flight Information Service.",
+      "FIS names the Flight Information Service, not a flight information system."
+    ]
+  },
+  "40-002": {
+    "topic": "Abbreviations",
+    "why": [
+      "FIR means Flight Information Region; it is not an integrity receiver.",
+      "FIR is the airspace region providing flight information service.",
+      "FIR does not expand to “Flow Information Radar”; that is not the term.",
+      "FIR refers to a region, not a “Flow Integrity” requirement."
+    ]
+  },
+  "40-003": {
+    "topic": "Abbreviations",
+    "why": [
+      "VRU is not the ICAO abbreviation for Visual Flight Rules.",
+      "VFR is the standard abbreviation for Visual Flight Rules.",
+      "VMC means Visual Meteorological Conditions, not flight rules.",
+      "VFS is not the standard abbreviation for Visual Flight Rules."
+    ]
+  },
+  "40-004": {
+    "topic": "Abbreviations",
+    "why": [
+      "HX indicates that no specific hours of operation are published.",
+      "Sunset to sunrise is HN, not HX.",
+      "H24 denotes continuous 24-hour service, not HX.",
+      "Sunrise to sunset is HJ, not HX."
+    ]
+  },
+  "40-005": {
+    "topic": "Abbreviations",
+    "why": [
+      "OBS is not the published abbreviation for obstacle; the correct code is OBST.",
+      "OST is not the standard obstacle abbreviation.",
+      "OBST is the standard abbreviation for obstacle.",
+      "OBTC is not the standard obstacle abbreviation."
+    ]
+  },
+  "40-006": {
+    "topic": "Abbreviations",
+    "why": [
+      "No specific opening hours is HX; H24 specifically means service all day.",
+      "H24 means the service is available 24 hours a day.",
+      "Sunrise-to-sunset hours are HJ, not H24.",
+      "Sunset-to-sunrise hours are HN, not H24."
+    ]
+  },
+  "40-007": {
+    "topic": "Q-codes and altimetry",
+    "why": [
+      "QFE does not reference the highest elevation within 10 km; it references the selected aerodrome.",
+      "Mean-sea-level altitude is indicated with QNH, not QFE.",
+      "The 1013.25 hPa datum is QNE, used for flight levels.",
+      "QFE makes the altimeter indicate height relative to pressure at the reference airfield."
+    ]
+  },
+  "40-008": {
+    "topic": "Q-codes and altimetry",
+    "why": [
+      "QTE is a true bearing from the station, not an altimeter setting.",
+      "QNH sets altitude relative to mean sea level, so it will not read zero at the airfield elevation.",
+      "QFE sets the local airfield pressure, making the altimeter read zero on that field.",
+      "QNE is the standard 1013.25 hPa datum, not the zero-on-ground setting."
+    ]
+  },
+  "40-009": {
+    "topic": "Q-codes and altimetry",
+    "why": [
+      "QTE is the true bearing from the station.",
+      "QDR is magnetic bearing from the station; QTE is true.",
+      "QDM is magnetic bearing to the station, not true bearing from it.",
+      "QUJ is true bearing to the station; QTE is the reciprocal direction."
+    ]
+  },
+  "40-010": {
+    "topic": "Q-codes and altimetry",
+    "why": [
+      "QDR is magnetic bearing from the station, not true bearing to it.",
+      "QDM is magnetic bearing to the station; QUJ is the true equivalent.",
+      "QUJ denotes the true bearing to the station.",
+      "QTE is true bearing from the station, not to it."
+    ]
+  },
+  "40-011": {
+    "topic": "Q-codes and altimetry",
+    "why": [
+      "QDM is magnetic bearing to the station, not true bearing from it.",
+      "QUJ is true bearing to the station; QTE is true bearing from it.",
+      "QTE denotes the true bearing from the station.",
+      "QDR is magnetic bearing from the station; it is not true."
+    ]
+  },
+  "40-012": {
+    "topic": "Message priority",
+    "why": [
+      "Direction-finding communications have their own priority above flight-safety messages.",
+      "Meteorological messages communicate weather such as wind or QNH, not ATC instructions.",
+      "Flight-regularity messages concern essential facilities, not air-traffic-control instructions.",
+      "ATC clearances and instructions are flight-safety messages."
+    ]
+  },
+  "40-013": {
+    "topic": "Message priority",
+    "why": [
+      "Wind is a meteorological message, below direction-finding communications in priority.",
+      "QNH is meteorological information, lower priority than a QDM request.",
+      "“Turn left” is a flight-safety message, ranked below direction-finding communications.",
+      "A QDM request is direction-finding communication and outranks flight-safety and meteorological messages."
+    ]
+  },
+  "40-014": {
+    "topic": "Numbers, time and visibility",
+    "why": [
+      "Altitude hundreds are spoken as “four thousand five hundred,” not digit-by-digit “five zero zero.”",
+      "4500 feet is four thousand five hundred; “four five thousand” misstates the altitude.",
+      "Altitude uses thousands and hundreds: 4500 ft is “four thousand five hundred.”",
+      "Altitudes are not normally spoken as four separate digits when expressed in hundreds."
+    ]
+  },
+  "40-015": {
+    "topic": "Numbers, time and visibility",
+    "why": [
+      "Headings are spoken digit by digit, not as the whole number “two hundred eighty-five.”",
+      "A heading is transmitted as three separate digits: “two eight five.”",
+      "The middle digit is not pronounced as part of a number phrase; say each digit separately.",
+      "Headings do not use “hundred”; 285 is spoken “two eight five.”"
+    ]
+  },
+  "40-016": {
+    "topic": "Numbers, time and visibility",
+    "why": [
+      "Frequencies use “decimal,” and trailing zeros are omitted; “tousand” is inappropriate.",
+      "The frequency is spoken digit by digit, but trailing zeros are dropped: “decimal five.”",
+      "119.500 is spoken “one one niner decimal five,” dropping trailing zeros.",
+      "Trailing zeros after the decimal are not spoken for this frequency."
+    ]
+  },
+  "40-017": {
+    "topic": "Numbers, time and visibility",
+    "why": [
+      "Visibility above 10 km is reported in kilometres, not metres.",
+      "Visibility up to and including 5 km is transmitted in metres.",
+      "The 5 km pivot applies; “up to 10 km” incorrectly includes values above 5 km.",
+      "Above 5 km visibility is transmitted in kilometres, not metres."
+    ],
+    "note": "Visibility at or below 5 km is reported in metres; above 5 km use kilometres."
+  },
+  "40-018": {
+    "topic": "Numbers, time and visibility",
+    "why": [
+      "For visibility of 10 km or more, the phrase includes “or more.”",
+      "At 12 km use “one-zero kilometres or more”; do not report an exact 10 km.",
+      "The standard phrase caps visibility at one-zero kilometres or more rather than stating 12.",
+      "Visibility of 12 km is not spoken as the ordinary number “twelve kilometres.”"
+    ],
+    "note": "At 10 km or more, use “one-zero kilometres or more.”"
+  },
+  "40-019": {
+    "topic": "Numbers, time and visibility",
+    "why": [
+      "“Greater than 10 km” is too narrow; kilometre reporting starts above 5 km.",
+      "Visibility above 5 km is reported in kilometres.",
+      "At or below 5 km, report visibility in metres, not kilometres.",
+      "“Up to 10 km” wrongly includes values at or below 5 km, which use metres."
+    ]
+  },
+  "40-020": {
+    "topic": "Numbers, time and visibility",
+    "why": [
+      "Aviation time is transmitted in UTC, not local time.",
+      "“Standard time” is not the required universal time reference; use UTC.",
+      "Use UTC for transmitted times to avoid time-zone ambiguity.",
+      "Time-zone time is not the standard radiotelephony reference."
+    ]
+  },
+  "40-021": {
+    "topic": "Numbers, time and visibility",
+    "why": [
+      "1620 is spoken digit by digit as “one six two zero,” not as a thousands number.",
+      "“Sixteen twenty” is less unambiguous than the required four separate digits.",
+      "“Two zero” omits the hour digits and is not the full unambiguous time.",
+      "The full UTC time is read as four digits: “one six two zero.”"
+    ]
+  },
+  "40-022": {
+    "topic": "Standard words and phrases",
+    "why": [
+      "ROGER means the entire last transmission was received.",
+      "Understanding and intending to comply is WILCO, not ROGER.",
+      "CORRECTION introduces a corrected version after an error.",
+      "APPROVED grants permission; ROGER only acknowledges receipt."
+    ],
+    "note": "ROGER = received; WILCO = understood and will comply."
+  },
+  "40-023": {
+    "topic": "Standard words and phrases",
+    "why": [
+      "APPROVED grants permission for the proposed action.",
+      "CORRECTION introduces the correct version after an error.",
+      "ROGER confirms receipt; it does not grant permission.",
+      "WILCO means understood and will comply; APPROVED is permission granted."
+    ]
+  },
+  "40-024": {
+    "topic": "Standard words and phrases",
+    "why": [
+      "“Would like” is not the prescribed request word for controlled-airspace transit.",
+      "“Apply” is not standard radiotelephony phraseology for asking permission.",
+      "“Want” is informal; use the standard word “Request.”",
+      "“Request” is the standard word to seek permission or information."
+    ]
+  },
+  "40-025": {
+    "topic": "Standard words and phrases",
+    "why": [
+      "“Ready for start-up” refers to engine starting, not readiness for take-off.",
+      "“Ready” alone is not the standard phrase for departure readiness.",
+      "“Request take-off” is not the prescribed phrase; ATC issues take-off clearance.",
+      "“Ready for departure” tells the tower the aircraft is ready for take-off."
+    ]
+  },
+  "40-026": {
+    "topic": "Numbers, time and visibility",
+    "why": [
+      "Clock positions use the spoken number “twelve,” not separate digits.",
+      "The correct clock-position phrase is “twelve o’clock.”",
+      "“One two” omits the required clock-position wording and is not spoken digit by digit.",
+      "“One two hundred” is not a clock-position expression."
+    ]
+  },
+  "40-027": {
+    "topic": "Standard words and phrases",
+    "why": [
+      "“Approach cancelled” is not the standard pilot call announcing a go-around.",
+      "“No landing” is not the prescribed phrase for a go-around.",
+      "“Pulling up” is not the standard phrase; announce “Going around.”",
+      "“Going around” is the standard phrase to report a go-around."
+    ]
+  },
+  "40-028": {
+    "topic": "Standard words and phrases",
+    "why": [
+      "“Negative” is the standard radiotelephony word meaning no.",
+      "“Not” is not the standard stand-alone response; use “Negative.”",
+      "“Finish” does not mean no in radiotelephony.",
+      "Use “Negative,” not the ordinary word “No.”"
+    ]
+  },
+  "40-029": {
+    "topic": "Standard words and phrases",
+    "why": [
+      "“Affirm” is the standard radiotelephony word meaning yes.",
+      "Use “Affirm” instead of the ordinary word “Yes.”",
+      "“Roger” means received, not yes or permission.",
+      "The prescribed word is “Affirm,” not “Affirmative.”"
+    ]
+  },
+  "40-030": {
+    "topic": "Radio failure and blind transmission",
+    "why": [
+      "A blind transmission is made on the frequency currently in use.",
+      "Switching to a tower frequency is not the rule for blind transmission.",
+      "Do not switch to FIS solely for a blind transmission; use the current frequency.",
+      "A lower-airspace radar frequency is not used in place of the current frequency."
+    ]
+  },
+  "40-031": {
+    "topic": "Radio failure and blind transmission",
+    "why": [
+      "The reference rule calls for two transmissions, not one.",
+      "Transmit the blind message twice according to the lesson and CAP 413.",
+      "Four repetitions are not the stated procedure.",
+      "Three repetitions are not the stated procedure for blind transmission."
+    ],
+    "note": "The reference procedure and Q31 use twice; distinguish the conflicting Q78 bank key."
+  },
+  "40-032": {
+    "topic": "Radio failure and blind transmission",
+    "why": [
+      "“Transmitting blind” is the prescribed phrase to begin the call.",
+      "“Blind” alone omits the standard phrase “Transmitting blind.”",
+      "“No reception” is not the standard opening for a blind transmission.",
+      "“Listen” does not announce that the pilot is transmitting blind."
+    ]
+  },
+  "40-033": {
+    "topic": "Radio failure and blind transmission",
+    "why": [
+      "Unintentional flight into cloud calls for other assistance; it is not the defining condition for blind transmission.",
+      "Transmit blind when contact cannot be established but there is evidence the ground unit receives the transmission.",
+      "A message intended for several stations is not, by itself, the reason to transmit blind.",
+      "Routine unacknowledged information is not the condition; blind transmission addresses failed contact with likely reception."
+    ]
+  },
+  "40-034": {
+    "topic": "Call signs and establishing contact",
+    "why": [
+      "“Information” is the full call sign; “Info” is an incorrect abbreviation.",
+      "The prescribed facility call sign is “Information,” not “Flight information.”",
+      "“Advice” is not the flight information service call sign.",
+      "The FIS call sign is “Information.”"
+    ]
+  },
+  "40-035": {
+    "topic": "Phonetic alphabet and digits",
+    "why": [
+      "Y is “Yankee,” not “Yuliett”; M is “Mike,” not “Mikro.”",
+      "H is “Hotel,” not “Home”; Y is “Yankee,” not “Yuliett.”",
+      "HB-YKM is “Hotel Bravo Yankee Kilo Mike,” with each letter correctly pronounced.",
+      "H is “Hotel,” not “Home,” and M is “Mike,” not “Mikro.”"
+    ]
+  },
+  "40-036": {
+    "topic": "Phonetic alphabet and digits",
+    "why": [
+      "O is “Oscar,” J is “Juliett,” and the call sign does not contain “Jankee.”",
+      "OE-JVK is correctly spelled “Oscar Echo Juliett Victor Kilo.”",
+      "O is “Oscar,” not “Omega,” and K is “Kilo,” not “Kilogramm.”",
+      "J is “Juliett,” not “Jankee”; K is “Kilo,” not “Kilogramm.”"
+    ]
+  },
+  "40-037": {
+    "topic": "Call signs and establishing contact",
+    "why": [
+      "At first contact, giving only two characters may not identify the aircraft uniquely.",
+      "Using only the last two characters is not the full first-contact call sign.",
+      "Use all characters of the aircraft call sign at first contact.",
+      "Three characters still abbreviate the call sign; give it in full initially."
+    ]
+  },
+  "40-038": {
+    "topic": "Call signs and establishing contact",
+    "why": [
+      "Abbreviate only after the ground station has first used the abbreviated call sign.",
+      "Controlled airspace alone does not permit unilateral abbreviation.",
+      "Passing a reporting point is not the condition for call-sign abbreviation.",
+      "Low traffic does not change the rule; the station must abbreviate first."
+    ]
+  },
+  "40-039": {
+    "topic": "Standard words and phrases",
+    "why": [
+      "“How do you read?” is the standard phrase for checking readability.",
+      "This is not standard phraseology for a readability check.",
+      "“You read me five” is not the prescribed question.",
+      "Use “How do you read?” to ask the station to assess readability."
+    ]
+  },
+  "40-040": {
+    "topic": "Readability scale",
+    "why": [
+      "Readability 5 means perfectly readable; 3 means readable with difficulty.",
+      "Readability 2 means readable now and then; 3 means with difficulty.",
+      "Readability 1 is unreadable; 3 is readable but difficult.",
+      "Readability 3 means readable but with difficulty."
+    ]
+  },
+  "40-041": {
+    "topic": "Readability scale",
+    "why": [
+      "Readability 5, not 2, means perfectly readable.",
+      "Readability 1 means unreadable; 2 means readable now and then.",
+      "Readability 3 means readable with difficulty; 2 is intermittent.",
+      "Readability 2 means readable now and then."
+    ]
+  },
+  "40-042": {
+    "topic": "Readability scale",
+    "why": [
+      "Readability 5 is perfectly readable; 1 is unreadable.",
+      "Readability 3 is with difficulty; 1 is unreadable.",
+      "Readability 2 is intermittent; 1 is unreadable.",
+      "Readability 1 means unreadable."
+    ]
+  },
+  "40-043": {
+    "topic": "Readability scale",
+    "why": [
+      "Readability 5 means perfectly readable.",
+      "Readability 3 means readable with difficulty, not perfectly.",
+      "Readability 1 means unreadable; 5 is the highest rating.",
+      "Readability 2 means readable now and then; 5 means perfect."
+    ]
+  },
+  "40-044": {
+    "topic": "Readback",
+    "why": [
+      "This readback omits the runway and take-off clearance, which must be read back; wind is correctly omitted.",
+      "Wind should be omitted, and the runway number is required in the readback.",
+      "This correctly reads back the climb, heading, runway and take-off clearance while omitting wind.",
+      "It adds wind, which is not read back, and “wilco” does not replace the required clearance readback."
+    ]
+  },
+  "40-045": {
+    "topic": "Readback",
+    "why": [
+      "“Entering” alone is not the standard acknowledgement of informational traffic.",
+      "Repeating “airspace Delta” is not the required acknowledgement; use “Roger.”",
+      "“Roger” acknowledges receipt of information that requires no action.",
+      "“Wilco” promises compliance with an instruction; this transmission is information only."
+    ]
+  },
+  "40-046": {
+    "topic": "Readback",
+    "why": [
+      "Altimeter settings are safety-critical and must be read back.",
+      "Traffic information does not require readback.",
+      "Taxi instructions must be read back to confirm the route and hold instructions.",
+      "Headings must be read back to confirm the assigned direction."
+    ]
+  },
+  "40-047": {
+    "topic": "Readback",
+    "why": [
+      "Altitude instructions must be read back.",
+      "SSR codes must be read back to confirm the assigned code.",
+      "Runway in use is read back as part of runway-related instructions.",
+      "Wind information does not require readback."
+    ]
+  },
+  "40-048": {
+    "topic": "Readback",
+    "why": [
+      "Leaving a control frequency requires controller approval, except at final parking.",
+      "A pilot may not simply leave without approval; the frequency change must be coordinated.",
+      "Approval is required once; the rule does not require approval twice.",
+      "Merely reporting the change is insufficient; obtain approval."
+    ]
+  },
+  "40-049": {
+    "topic": "Weather and broadcasts",
+    "why": [
+      "SCT represents scattered cloud covering 3–4 oktas.",
+      "FEW is 1–2 oktas; SCT is 3–4.",
+      "BKN represents 5–7 oktas, not SCT.",
+      "OVC represents all 8 oktas, not SCT."
+    ]
+  },
+  "40-050": {
+    "topic": "Weather and broadcasts",
+    "why": [
+      "SCT represents 3–4 oktas; FEW is less cloud, 1–2.",
+      "FEW means 1–2 oktas.",
+      "OVC means 8 oktas, not FEW.",
+      "BKN means 5–7 oktas, not FEW."
+    ]
+  },
+  "40-051": {
+    "topic": "Weather and broadcasts",
+    "why": [
+      "AIRMET is an advisory, not the en-route broadcast service for airport weather reports.",
+      "GAMET is an area forecast, not the broadcast service sought here.",
+      "VOLMET broadcasts meteorological information for airports to aircraft en route.",
+      "METAR is an individual aerodrome report, not a broadcast service for several airports."
+    ]
+  },
+  "40-052": {
+    "topic": "Weather and broadcasts",
+    "why": [
+      "VOLMET broadcasts meteorological reports and information.",
+      "Navigation guidance is not the purpose of a VOLMET frequency.",
+      "NOTAMs are not the weather information broadcast by VOLMET.",
+      "“Current information” is too vague; VOLMET specifically carries meteorological information."
+    ]
+  },
+  "40-053": {
+    "topic": "Weather and broadcasts",
+    "why": [
+      "ATIS validity is 30 minutes unless superseded by a new information letter.",
+      "Ten minutes is not the stated ATIS validity period.",
+      "Forty-five minutes is not the stated ATIS validity period.",
+      "Sixty minutes is not the stated ATIS validity period."
+    ]
+  },
+  "40-054": {
+    "topic": "Radio failure and blind transmission",
+    "why": [
+      "The route must be the shortest route, not a standard route; continue under the last clearance and VFR.",
+      "There is no general requirement to climb above 5000 ft, and a standard route is not specified.",
+      "The shortest route is right, but the rule does not impose an above-5000-ft requirement.",
+      "With radio failure in Class D, continue under the last clearance while complying with VFR, or leave by the shortest route."
+    ],
+    "note": "Class D radio failure: follow the last clearance while VFR, or leave by the shortest route."
+  },
+  "40-055": {
+    "topic": "Radio failure and blind transmission",
+    "why": [
+      "Departure from the aerodrome does not by itself authorize entry into Class D with radio failure.",
+      "Entry with radio failure is permitted only when approval was granted beforehand.",
+      "Other traffic in the circuit does not provide the required prior approval.",
+      "Being destination aerodrome does not by itself authorize entry without prior approval."
+    ]
+  },
+  "40-056": {
+    "topic": "Transponder codes",
+    "why": [
+      "7700 is the general emergency code; 7600 indicates radio failure.",
+      "7600 is the transponder code for loss of radio communication.",
+      "7500 indicates unlawful interference or hijacking, not ordinary radio loss.",
+      "Flight into cloud is not what code 7600 signifies."
+    ],
+    "note": "Remember 75–76–77: hijack, radio failure, emergency."
+  },
+  "40-057": {
+    "topic": "Transponder codes",
+    "why": [
+      "7000 is the VFR conspicuity code, not radio failure.",
+      "7600 indicates radio failure.",
+      "7700 is the general emergency code.",
+      "7500 indicates unlawful interference, not radio failure."
+    ]
+  },
+  "40-058": {
+    "topic": "Emergency calls",
+    "why": [
+      "That describes urgency: a safety concern involving an aircraft, vehicle or person in sight.",
+      "Distress means a grave and imminent threat to aircraft and passengers requiring immediate assistance.",
+      "That describes flight-regularity messages about essential facilities.",
+      "Immediate concern alone does not define distress; distress requires grave and imminent danger and immediate assistance."
+    ]
+  },
+  "40-059": {
+    "topic": "Emergency calls",
+    "why": [
+      "Use the frequency already in use for the initial distress call, rather than switching to radar.",
+      "The initial distress call is made on the current frequency, not by switching to FIS.",
+      "Do not switch automatically to the emergency frequency for the initial call; use the current frequency.",
+      "The initial distress message is sent on the current frequency."
+    ]
+  },
+  "40-060": {
+    "topic": "Transponder codes",
+    "why": [
+      "7000 is the VFR conspicuity code.",
+      "7600 signals radio failure, not a general emergency.",
+      "7700 is the general emergency transponder code.",
+      "7500 indicates unlawful interference or hijacking."
+    ]
+  },
+  "40-061": {
+    "topic": "Emergency calls",
+    "why": [
+      "Urgency concerns the safety of an aircraft, vehicle or person in sight without necessarily involving grave imminent danger.",
+      "Grave and imminent threat requiring immediate assistance defines distress, not urgency.",
+      "Immediate concern alone is not the formal urgency definition.",
+      "Facility operation and maintenance describes flight regularity, not urgency."
+    ]
+  },
+  "40-062": {
+    "topic": "Emergency calls",
+    "why": [
+      "“Help” is not the prescribed repeated urgency signal.",
+      "“PAN PAN” is repeated three times before an urgency message.",
+      "“MAYDAY” repeated three times signals distress, not urgency.",
+      "“Urgent” is not the prescribed radiotelephony signal; use “PAN PAN.”"
+    ]
+  },
+  "40-063": {
+    "topic": "Emergency calls",
+    "why": [
+      "An urgency message gives the problem, support information, intentions and position, heading and altitude.",
+      "Departure aerodrome is not part of the required urgency-message content in this option.",
+      "This adds departure and destination aerodromes and omits the required position; the listed core details are not correct.",
+      "This adds departure aerodrome and omits the required position information."
+    ]
+  },
+  "40-064": {
+    "topic": "Radio waves, VHF and range",
+    "why": [
+      "Electromagnetic waves travel at about 300,000 km/s, equivalent to 300,000,000 m/s.",
+      "300,000 m/s is a thousand times too slow; the value is about 300,000 km/s.",
+      "123,000 km/s is not the speed of electromagnetic-wave propagation.",
+      "Electromagnetic waves propagate at approximately 300,000 kilometres per second."
+    ]
+  },
+  "40-065": {
+    "topic": "Radio waves, VHF and range",
+    "why": [
+      "The aviation VHF voice frequency is expressed in MHz, not kHz.",
+      "118.75 MHz is in the aviation VHF voice band.",
+      "327.25 MHz is above the 30–300 MHz VHF band.",
+      "327.25 kHz is not in the aviation VHF voice band."
+    ]
+  },
+  "40-066": {
+    "topic": "Radio waves, VHF and range",
+    "why": [
+      "LF is a lower-frequency radio band, not the 118–137 MHz voice band.",
+      "118.000–136.975 MHz lies within the VHF band.",
+      "MF is below VHF and does not include the aviation voice band.",
+      "HF is below the VHF aviation voice band."
+    ]
+  },
+  "40-067": {
+    "topic": "Abbreviations",
+    "why": [
+      "ABM is the standard abbreviation for abeam.",
+      "ABB is not the standard radiotelephony abbreviation for abeam.",
+      "ABA is not the standard radiotelephony abbreviation for abeam.",
+      "ABE is not the standard radiotelephony abbreviation for abeam."
+    ]
+  },
+  "40-068": {
+    "topic": "Message priority",
+    "why": [
+      "Direction-finding communication ranks above flight-safety messages in the priority order.",
+      "Flight-regularity messages rank below flight-safety messages.",
+      "Meteorological messages rank below flight-safety messages.",
+      "An aircraft position report is not above flight-safety messages in the stated priority order."
+    ]
+  },
+  "40-069": {
+    "topic": "Message priority",
+    "why": [
+      "That definition concerns urgency messages involving safety of an aircraft, vehicle or person in sight.",
+      "A grave and imminent threat requiring immediate assistance defines distress.",
+      "That describes an operational message, not the defined flight-regularity category.",
+      "Flight-regularity messages concern operation or maintenance of facilities essential to safe and regular flight."
+    ]
+  },
+  "40-070": {
+    "topic": "Call signs and establishing contact",
+    "why": [
+      "Aerodrome control uses the call sign “Tower.”",
+      "“Airfield” is not the prescribed aerodrome-control call sign.",
+      "“Ground” is for surface movement control, not aerodrome control.",
+      "“Control” alone is not the specified call sign for aerodrome control."
+    ]
+  },
+  "40-071": {
+    "topic": "Call signs and establishing contact",
+    "why": [
+      "“Tower” is aerodrome control; surface movement control is “Ground.”",
+      "“Earth” is not a surface movement control call sign.",
+      "Surface movement control uses the call sign “Ground.”",
+      "“Control” alone is not the specified surface movement call sign."
+    ]
+  },
+  "40-072": {
+    "topic": "Call signs and establishing contact",
+    "why": [
+      "D-EAZF abbreviates to DZF: first character plus the final two letters, not DEA.",
+      "AZF omits the initial aircraft character and is not the prescribed abbreviation.",
+      "DZF is the correct abbreviation: first character plus final two letters.",
+      "DEF uses the wrong letters; retain D and the final two letters ZF."
+    ]
+  },
+  "40-073": {
+    "topic": "Call signs and establishing contact",
+    "why": [
+      "The call-up should include the aircraft call sign after the station name, not “over.”",
+      "The station is called first; “is calling” is unnecessary and nonstandard.",
+      "Correct format is called station followed by full aircraft call sign: “Dusseldorf Tower, D-EAZF.”",
+      "“Tower from” reverses the order; say the station called first, then your call sign."
+    ]
+  },
+  "40-074": {
+    "topic": "Readback",
+    "why": [
+      "Read back the assigned frequency itself, not “Call 121.275.”",
+      "“Call tower” omits the assigned frequency that must be acknowledged.",
+      "The correct acknowledgement is the assigned frequency: “121.275.”",
+      "Repeating the instruction in full is unnecessary; acknowledge with the frequency."
+    ]
+  },
+  "40-075": {
+    "topic": "Readback",
+    "why": [
+      "“Affirmative” is not the standard response to an instruction to report later.",
+      "“Roger” only acknowledges receipt; “Wilco” confirms understanding and compliance.",
+      "Repeating “Report PAH” is not the prescribed acknowledgement; use “Wilco.”",
+      "“Wilco” means understood and will comply with the instruction."
+    ]
+  },
+  "40-076": {
+    "topic": "Readback",
+    "why": [
+      "“Roger” omits the assigned squawk and frequency readback.",
+      "“Wilco” does not replace readback of the transponder code and frequency.",
+      "Read back both required items: “Squawk 4321, 131.325.”",
+      "“Wilco” alone omits both the assigned squawk and frequency."
+    ]
+  },
+  "40-077": {
+    "topic": "Weather and broadcasts",
+    "why": [
+      "GPS is a satellite navigation system, not the broadcast facility identified for ATIS here.",
+      "DME measures distance and is not the facility specified for ATIS broadcast.",
+      "NDB is not the listed navigation facility for ATIS broadcast.",
+      "ATIS may be broadcast on a VOR frequency."
+    ]
+  },
+  "40-078": {
+    "topic": "Radio failure and blind transmission",
+    "why": [
+      "The reference procedure says twice; this option is not the bank-keyed answer.",
+      "CAP 413 and Q31 specify two transmissions, but this question’s keyed answer differs.",
+      "Four transmissions are not the stated procedure in the references or the bank key.",
+      "This is the option keyed by the question bank, although CAP 413 and Q31 state twice."
+    ],
+    "note": "One time is the keyed response (bank key); CAP 413 and Q31 say twice, so this item conflicts with the references."
+  },
+  "40-079": {
+    "topic": "Radio failure and blind transmission",
+    "why": [
+      "Prior approval is the condition for entering Class D with radio failure.",
+      "Other aircraft in the circuit do not constitute permission to enter.",
+      "Departure from that aerodrome does not replace prior approval.",
+      "Being destination aerodrome does not replace prior approval."
+    ]
+  },
+  "40-080": {
+    "topic": "Emergency calls",
+    "why": [
+      "Urgency is not about ordering spare parts; it concerns a safety matter involving a vehicle or person in sight.",
+      "This is the formal urgency definition: a safety concern involving an aircraft, vehicle or person in sight.",
+      "Apron personnel hazards do not define urgency messages in this question.",
+      "A grave and imminent threat requiring immediate assistance defines distress, not urgency."
+    ]
+  },
+  "40-081": {
+    "topic": "Emergency calls",
+    "why": [
+      "Urgent spare-parts requests are not distress messages.",
+      "Apron personnel information does not define distress.",
+      "This describes urgency, not distress; distress requires grave and imminent threat and immediate assistance.",
+      "Distress involves aircraft and passengers facing grave and imminent threat and requiring immediate assistance."
+    ]
+  },
+  "40-082": {
+    "topic": "Radio waves, VHF and range",
+    "why": [
+      "VHF is line-of-sight, so reception range is affected by antenna altitude.",
+      "Shoreline effect is associated with other radio propagation, not VHF line-of-sight range.",
+      "Twilight error is not the VHF reception-range factor; it is associated with other navigation propagation effects.",
+      "Ionosphere height affects long-range HF propagation, not ordinary VHF line-of-sight reception."
+    ]
+  }
+}

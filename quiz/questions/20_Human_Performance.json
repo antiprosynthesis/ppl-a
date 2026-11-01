@@ -1,0 +1,726 @@
+{
+ "subject": "Human Performance",
+ "code": "20_Human_Performance",
+ "questions": [
+  {
+   "id": "20-001",
+   "q": "What is the percentage of oxygen in the atmosphere at 6000 ft?",
+   "image": null,
+   "options": [
+    "21 %",
+    "12 %",
+    "78 %",
+    "18.9 %"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-002",
+   "q": "Air consists of oxygen, nitrogen and other gases. What is the approximate percentage of other gases?",
+   "image": null,
+   "options": [
+    "21 %",
+    "0.1 %",
+    "1 %",
+    "78 %"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-003",
+   "q": "At which altitude is the atmospheric pressure approximately half the MSL value (1013 hPa)?",
+   "image": null,
+   "options": [
+    "5000 ft",
+    "18,000 ft",
+    "10,000 ft",
+    "22,000 ft"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-004",
+   "q": "From which altitude does the body usually react to the decreasing atmospheric pressure?",
+   "image": null,
+   "options": [
+    "12,000 feet",
+    "10,000 feet",
+    "2000 feet",
+    "7000 feet"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-005",
+   "q": "Anaemic hypoxia can be caused by...",
+   "image": null,
+   "options": [
+    "low pressure.",
+    "high altitudes.",
+    "carbon monoxide poisoning.",
+    "alcohol."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-006",
+   "q": "Carbon monoxide poisoning can be caused by...",
+   "image": null,
+   "options": [
+    "cracks in the heat exchanger.",
+    "fuel or hydraulic fluids.",
+    "generator failure.",
+    "pitot icing."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-007",
+   "q": "Carbon monoxide poisoning can be caused by...",
+   "image": null,
+   "options": [
+    "alcohol.",
+    "smoking.",
+    "unhealthy food.",
+    "little sleep."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-008",
+   "q": "Which of the following symptoms may indicate hypoxia?",
+   "image": null,
+   "options": [
+    "Joint pain in knees and feet",
+    "Muscle cramps in the upper body area",
+    "Blue discolouration of lips and fingernails",
+    "Blue marks all over the body"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-009",
+   "q": "Which of the following is NOT a symptom of hyperventilation?",
+   "image": null,
+   "options": [
+    "Disturbance of consciousness",
+    "Tingling",
+    "Cyanosis",
+    "Spasm"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-010",
+   "q": "A \"Grey-out\" is the result of...",
+   "image": null,
+   "options": [
+    "hyperventilation.",
+    "tiredness.",
+    "positive g-forces.",
+    "smoking."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-011",
+   "q": "What is the correct term for the system which, among others, controls breathing, digestion, and heart rate?",
+   "image": null,
+   "options": [
+    "Autonomic nervous system",
+    "Automatical nervous system",
+    "Critical nervous system",
+    "Compliant nervous system"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-012",
+   "q": "Which part of the visual system is responsible for colour vision?",
+   "image": null,
+   "options": [
+    "Blind spot",
+    "Lens",
+    "Cones",
+    "Rods"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-013",
+   "q": "What is the parallax error?",
+   "image": null,
+   "options": [
+    "Wrong interpretation of instruments caused by the angle of vision",
+    "A decoding error in communication between pilots",
+    "Long-sightedness due to aging especially at night",
+    "Misperception of speed during taxiing"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-014",
+   "q": "Which characteristic is important for pilots when choosing sunglasses?",
+   "image": null,
+   "options": [
+    "Non-polarised",
+    "Curved sidepiece",
+    "Unbreakable",
+    "No UV filter"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-015",
+   "q": "The connection between the middle ear and the nose-throat region is called the...",
+   "image": null,
+   "options": [
+    "inner ear.",
+    "eardrum.",
+    "cochlea.",
+    "eustachian tube."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-016",
+   "q": "The occurrence of vertigo is most likely when moving the head...",
+   "image": null,
+   "options": [
+    "during a descent.",
+    "during a climb.",
+    "during a straight horizontal flight.",
+    "during a turn."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-017",
+   "q": "An acceleration during a straight horizontal flight can create the illusion of...",
+   "image": null,
+   "options": [
+    "an inverted flight.",
+    "a climb.",
+    "a descent.",
+    "a bank."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-018",
+   "q": "Visual illusions are mostly caused by...",
+   "image": null,
+   "options": [
+    "colour blindness.",
+    "binocular vision.",
+    "misinterpretation of the brain.",
+    "rapid eye movements."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-019",
+   "q": "Wings staying level after a prolonged turning period can create the illusion of...",
+   "image": null,
+   "options": [
+    "starting a climb.",
+    "turning in the opposite direction.",
+    "steady turning in the same direction as before.",
+    "starting a descent."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-020",
+   "q": "What is an appropriate reaction when a passenger suddenly feels uncomfortable during cruise flight?",
+   "image": null,
+   "options": [
+    "Avoid conversation and choose a higher airspeed.",
+    "Switch on the heater blower and provide thermal blankets.",
+    "Adjust cabin temperature and prevent excessive banking.",
+    "Give additional oxygen and avoid low load factors."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-021",
+   "q": "What impression may be caused when approaching a runway with an upslope?",
+   "image": null,
+   "options": [
+    "An overshoot",
+    "A landing beside the centre line",
+    "A hard landing",
+    "An undershoot"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-022",
+   "q": "In which situation is it NOT possible to achieve a pressure compensation between the middle ear and the environment?",
+   "image": null,
+   "options": [
+    "When all windows are completely closed",
+    "The eustachian tube is blocked",
+    "Breathing only through the mouth",
+    "During a light and slow climb"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-023",
+   "q": "What condition may give rise to diabetes?",
+   "image": null,
+   "options": [
+    "Being overweight",
+    "Smoking",
+    "Sleep deficiency",
+    "Sunbathing"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-024",
+   "q": "The average decrease of blood alcohol level for an adult in one hour is approximately...",
+   "image": null,
+   "options": [
+    "0.03 %.",
+    "0.1 %.",
+    "0.3 %.",
+    "0.01 %."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-025",
+   "q": "For what approximate lenght of can the short-time memory store information?",
+   "image": null,
+   "options": [
+    "35 to 50 seconds",
+    "30 to 40 seconds",
+    "3 to 7 seconds",
+    "10 to 20 seconds"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-026",
+   "q": "Which statement is correct regarding short-term memory?",
+   "image": null,
+   "options": [
+    "It can store 5 (+/- 2) items for 10 to 20 seconds.",
+    "It can store 5 (+/- 2) items for 1 to 2 minutes.",
+    "It can store 3 (+/- 1) items for 5 to 10 seconds.",
+    "It can store 10 (+/- 5) items for 30 to 60 seconds."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-027",
+   "q": "The majority of aviation accidents are caused by...",
+   "image": null,
+   "options": [
+    "meteorological influences.",
+    "geographical influences.",
+    "technical failure.",
+    "human error."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-028",
+   "q": "What does the term \"confirmation bias\" mean?",
+   "image": null,
+   "options": [
+    "The critical check of ambiguous situations in flight.",
+    "The bias to confirm each radio call.",
+    "The preference to find arguments which prove your own mental model.",
+    "The feedback loop in a closed communication."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-029",
+   "q": "What factor can lead to human error?",
+   "image": null,
+   "options": [
+    "The bias to see what we expect to see",
+    "Doubt when something looks unclear or ambiguous",
+    "Proper use of checklists",
+    "Double checking relevant actions"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-030",
+   "q": "The \"swiss cheese model\" can be used to explain the...",
+   "image": null,
+   "options": [
+    "error chain.",
+    "procedure for an emergency landing.",
+    "optimal problem solution.",
+    "state of readiness of a pilot."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-031",
+   "q": "What is a latent error?",
+   "image": null,
+   "options": [
+    "An error which remains undetected in the system for a long time",
+    "An error which has an immediate effect on the controls",
+    "An error which is made by the pilot actively and consciously",
+    "An error which only has consequences after landing"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-032",
+   "q": "Under which circumstances is a pilot more likely to accept higher risks?",
+   "image": null,
+   "options": [
+    "If there is not enough information available",
+    "During check flights due to a high level of nervousness",
+    "Due to group-dynamic effects",
+    "During flight planning when excellent weather is forecast"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-033",
+   "q": "During flight a problem occurs which you must solve; how do you proceed?",
+   "image": null,
+   "options": [
+    "Solve the problem immediately, and otherwise refer to the operation manual.",
+    "In the first instance, continue to fly the aeroplane and keep it stable, then attend to the problem while continuing to fly the aeroplane.",
+    "Contact another pilot via radio for help while continuing to fly.",
+    "There is no time for solving problems during flight."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-034",
+   "q": "The ongoing process to monitor the current flight situation is called...",
+   "image": null,
+   "options": [
+    "situational awareness.",
+    "situational thinking.",
+    "anticipatory check procedure.",
+    "constant flight check."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-035",
+   "q": "In the communication model, how can use of the same code during radio communication be ensured?",
+   "image": null,
+   "options": [
+    "By the use of radio phraseology",
+    "By a particular frequency allocation",
+    "By the use of proper headsets",
+    "By using radios certified for aviation use only"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-036",
+   "q": "What is the best combination of traits for a pilot's individual attitude and behaviour?",
+   "image": null,
+   "options": [
+    "Extroverted - unstable",
+    "Introverted - stable",
+    "Extroverted - stable",
+    "Introverted - unstable"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-037",
+   "q": "Complacency is a risk due to...",
+   "image": null,
+   "options": [
+    "the high error rate of technical systems.",
+    "increased cockpit automation.",
+    "the high number of mistakes normally made by humans.",
+    "better training options for young pilots."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-038",
+   "q": "What is an indication for a macho attitude?",
+   "image": null,
+   "options": [
+    "Risky flight manoeuvres to impress spectators on ground",
+    "Careful walkaround procedure",
+    "Quick resignation in complex and critical situations",
+    "Comprehensive risk assessment when faced with unfamiliar situations"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-039",
+   "q": "Which dangerous attitudes often go together?",
+   "image": null,
+   "options": [
+    "Invulnerability and self-abandonment",
+    "Self-abandonment and macho attitude",
+    "Macho attitude and invulnerability",
+    "Impulsivity and carefulness"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-040",
+   "q": "The ideal level of arousal is at which point in the diagram? P = Performance A = Arousal / Stress",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/HPL-002.jpg",
+   "options": [
+    "Point D",
+    "Point C",
+    "Point A",
+    "Point B"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-041",
+   "q": "Which of the following properties are influenced by stress? 1. Attention 2. Concentration 3. Responsiveness 4. Memory",
+   "image": null,
+   "options": [
+    "1",
+    "2, 4",
+    "1, 2, 3, 4",
+    "1, 2, 3"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-042",
+   "q": "At which point in the diagram will a pilot find himself to be overstrained? P = Performance A = Arousal / Stress",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/HPL-002.jpg",
+   "options": [
+    "Point D",
+    "Point B",
+    "Point A",
+    "Point C"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-043",
+   "q": "What does the term \"Red-out\" mean?",
+   "image": null,
+   "options": [
+    "\"Red vision\" during negative g-loads",
+    "Rash during decompression sickness",
+    "Anaemia caused by an injury",
+    "Falsified colour perception during sunrise and sunset"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-044",
+   "q": "Which of the human senses is most influenced by hypoxia?",
+   "image": null,
+   "options": [
+    "The oltfactory perception (smell)",
+    "The tactile perception (sense of touch)",
+    "The auditory perception (hearing)",
+    "The visual perception (vision)"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-045",
+   "q": "Which altitude marks the lower limit where the the body is unable to completely compensate the effects of the low atmospheric pressure?",
+   "image": null,
+   "options": [
+    "12000 feet",
+    "22000 feet",
+    "5000 feet",
+    "7000 feet"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-046",
+   "q": "What is the function of the red blood cells (erythrocytes)?",
+   "image": null,
+   "options": [
+    "Oxygen transport",
+    "Blood coagulation",
+    "Immune defense",
+    "Blood sugar regulation"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-047",
+   "q": "Which of the following is responsible for the blood coagulation?",
+   "image": null,
+   "options": [
+    "Red blood cells (erythrocytes)",
+    "Capillaries of the arteries",
+    "White blood cells (leucocytes)",
+    "Blood plates (thrombocytes)"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-048",
+   "q": "What is the function of the white blood cells (leucocytes)?",
+   "image": null,
+   "options": [
+    "Oxygen transport",
+    "Blood coagulation",
+    "Blood sugar regulation",
+    "Immune defense"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-049",
+   "q": "What is the function of the blood platelets (thrombocytes)?",
+   "image": null,
+   "options": [
+    "Immune defense",
+    "Blood coagulation",
+    "Blood sugar regulation",
+    "Oxygen transport"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-050",
+   "q": "Which of the following is NOT a risk factor for hypoxia?",
+   "image": null,
+   "options": [
+    "Smoking",
+    "Menstruation",
+    "Blood donation",
+    "Diving"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-051",
+   "q": "What ist the correct term for an involuntary and stereotypical reaction of an organism to the stimulation of a receptor?",
+   "image": null,
+   "options": [
+    "Reduction",
+    "Virulence",
+    "Coherence",
+    "Reflex"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-052",
+   "q": "Wings level after a longer period of turning can lead to the impression of...",
+   "image": null,
+   "options": [
+    "starting a descent.",
+    "starting a climb.",
+    "steady turning in the same direction as before.",
+    "turning into the opposite direction."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "20-053",
+   "q": "Which of the following options does NOT stimulate motion sickness (disorientation)?",
+   "image": null,
+   "options": [
+    "Head movements during turns",
+    "Flying under the influence of alcohol",
+    "Non-accelerated straight and level flight",
+    "Turbulence in level flight"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-054",
+   "q": "Which optical illusion might be caused by a runway with an upslope during the approach?",
+   "image": null,
+   "options": [
+    "The pilot has the feeling that the approach is too fast and reduces the speed below the normal approach speed",
+    "The pilot has the feeling that the approach is too high and therefore descents below the regular glide slope",
+    "The pilot has the feeling that the approach is too slow and speeds up above the normal approach speed",
+    "The pilot has the feeling that the approach is too low and therefore approaches the runway above the regular glide slope"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-055",
+   "q": "Which answer states a risk factor for diabetes?",
+   "image": null,
+   "options": [
+    "Overweight",
+    "Smoking",
+    "Sleep deficiency",
+    "Alcohol consumption"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-056",
+   "q": "A risk factor for decompression sickness is...",
+   "image": null,
+   "options": [
+    "smoking.",
+    "sports.",
+    "scuba diving prior to flight.",
+    "100 % oxygen after decompression."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-057",
+   "q": "In what different ways can a risk be handled appropriately?",
+   "image": null,
+   "options": [
+    "Extrude, avoid, palliate, transfer",
+    "Ignore, accept, transfer, extrude",
+    "Avoid, reduce, transfer, accept",
+    "Avoid, ignore, palliate, reduce"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "20-058",
+   "q": "What is the meaning of \"risky shift\"?",
+   "image": null,
+   "options": [
+    "Crossing of rudder and ailerons on short final",
+    "The tendency to accept higher risks in groups",
+    "Spontaneous change of landing direction when the runway has an upslope",
+    "Seat adjustment in flight"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "20-059",
+   "q": "Which dangerous attitudes are often combined?",
+   "image": null,
+   "options": [
+    "Macho and invulnerability",
+    "Impulsivity and carefulness",
+    "Invulnerability and self-abandonment",
+    "Self-abandonment and macho"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "20-060",
+   "q": "Which answer is correct concerning stress?",
+   "image": null,
+   "options": [
+    "Stress can occur if there seems to be no solution for a given problem",
+    "Training and experience have no influence on the occurence of stress",
+    "Stress and its different symptoms are irrelevant for flight safety",
+    "Everybody reacts to stress in the same manner"
+   ],
+   "correct": 0
+  }
+ ]
+}

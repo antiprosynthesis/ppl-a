@@ -1,0 +1,1134 @@
+{
+ "subject": "Air Law",
+ "code": "10_Air_Law",
+ "questions": [
+  {
+   "id": "10-001",
+   "q": "What is the status of the rules and procedures created by the EASA? (e.g. Part-SFCL, Part-MED)",
+   "image": null,
+   "options": [
+    "Only after a ratification by individual EU member states they are legally binding",
+    "They are part of the EU regulation and legally binding to all EU member states",
+    "They are not legally binding, they only serve as a guide",
+    "They have the same status as ICAO Annexes"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-002",
+   "q": "What is the meaning of the abbreviation \"ARC\"?",
+   "image": null,
+   "options": [
+    "Airspace Rulemaking Committee",
+    "Airspace Restriction Criteria",
+    "Airworthiness Recurring Control",
+    "Airworthiness Review Certificate"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-003",
+   "q": "The \"Certificate of Airworthiness\" is issued by the state...",
+   "image": null,
+   "options": [
+    "in which the airworthiness review is done.",
+    "of the residence of the owner.",
+    "in which the aircraft is registered.",
+    "in which the aircraft is constructed."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-004",
+   "q": "Which validity does the \"Certificate of Airworthiness\" have?",
+   "image": null,
+   "options": [
+    "12 months",
+    "6 months",
+    "Unlimited",
+    "12 years"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-005",
+   "q": "Which of the following documents have to be on board for an international flight? a) Certificate of aircraft registration b) Certificate of airworthiness c) Airworthiness review certificate d) EASA Form-1 e) Airplane logbook f) Appropriate papers for eve",
+   "image": null,
+   "options": [
+    "b, c, d, e, f, g",
+    "a, b, c, e, f",
+    "a, b, e, g",
+    "d, f, g"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-006",
+   "q": "Under which circumstances are aircraft obliged to carry the national flag?",
+   "image": null,
+   "options": [
+    "Only on flights outside the EU countries.",
+    "On every flight.",
+    "This is not necessary.",
+    "Only for international flights."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-007",
+   "q": "The validity of a medical examination certificate class 2 for a 62 years old pilot is...",
+   "image": null,
+   "options": [
+    "60 Months.",
+    "12 Months.",
+    "24 Months.",
+    "48 Months."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-008",
+   "q": "What is the minimum age for a PPL(A/H) student pilot for the first solo flight?",
+   "image": null,
+   "options": [
+    "21 years",
+    "18 years",
+    "17 years",
+    "16 years"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-009",
+   "q": "What is the period of validity of a private pilot license (PPL)?",
+   "image": null,
+   "options": [
+    "60 months",
+    "24 months",
+    "Unlimited",
+    "48 months"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-010",
+   "q": "What is the meaning of the abbreviation \"SERA\"?",
+   "image": null,
+   "options": [
+    "Standard European Routes of the Air",
+    "Standardized European Rules of the Air",
+    "Specialized Radar Approach",
+    "Selective Radar Altimeter"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-011",
+   "q": "A flight is called a \"visual flight\", if the...",
+   "image": null,
+   "options": [
+    "flight is conducted in visual meteorological conditions.",
+    "flight is conducted under visual flight rules.",
+    "visibility in flight is more than 8 km.",
+    "visibility in flight is more than 5 km."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-012",
+   "q": "The term \"ceiling\" is defined as the...",
+   "image": null,
+   "options": [
+    "altitude of the base of the lowest layer of clouds covering more than half of the sky below 20000 ft.",
+    "height of the base of the lowest layer of clouds covering more than half of the sky below 10000 ft.",
+    "height of the base of the lowest layer of clouds covering more than half of the sky below 20000 ft.",
+    "height of the base of the highest layer of clouds covering more than half of the sky below 20000 ft."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-013",
+   "q": "What must be considered regarding bridges or similar buildings?",
+   "image": null,
+   "options": [
+    "I may fly below them if they are designated accordingly.",
+    "I may fly below them if the flight altitude is at least 150 m AGL.",
+    "I must not fly below these buildings in any case.",
+    "I may fly below them if the lateral and vertical distance is at least 20 m."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-014",
+   "q": "Which of the following options is NOT a sufficient reason to fly below the required minimum height?",
+   "image": null,
+   "options": [
+    "Take-off or landing at an aerodrome",
+    "Bad weather conditions in the vicinity of an aerodrome",
+    "The drop of towed objects at an aerodrome",
+    "An approach without landing at an aerodrome"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-015",
+   "q": "What is the minimum flight visibility in airspace \"C\" below FL 100 for an aircraft operating under VFR?",
+   "image": null,
+   "options": [
+    "5 km",
+    "8 km",
+    "1.5 km",
+    "10 km"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-016",
+   "q": "The minimum flight visibility at 5000 ft MSL in airspace B for VFR flights is...",
+   "image": null,
+   "options": [
+    "1500 m.",
+    "5000 m.",
+    "3000 m.",
+    "8000 m."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-017",
+   "q": "Which distances to clouds have to be maintained during a VFR flight in airpaces C, D and E?",
+   "image": null,
+   "options": [
+    "1500 m horizontally, 1000 m vertically",
+    "1000 m horizontally, 300 m vertically",
+    "1000 m horizontally, 1500 ft vertically",
+    "1500 m horizontally, 1000 ft vertically"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-018",
+   "q": "What is the minimum flight visibility in airspace \"C\" for an aircraft operating under VFR at FL125?",
+   "image": null,
+   "options": [
+    "1500 m",
+    "5000 m",
+    "8000 m",
+    "3000 m"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-019",
+   "q": "What is the minimum flight visibility in airspace \"E\" for an aircraft operating under VFR at FL75?",
+   "image": null,
+   "options": [
+    "1500 m",
+    "8000 m",
+    "5000 m",
+    "3000 m"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-020",
+   "q": "What is the minimum flight visibility in airspace \"C\" for an aircraft operating under VFR at FL110?",
+   "image": null,
+   "options": [
+    "1500 m",
+    "3000 m",
+    "8000 m",
+    "5000 m"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-021",
+   "q": "What are the minimum distances to clouds for a VFR flight in airspace \"B\"?",
+   "image": null,
+   "options": [
+    "Horizontally 1.500 m, vertically 300 m",
+    "Horizontally 1.000 m, vertically 300 m",
+    "Horizontally 1.500 m, vertically 1.000 m",
+    "Horizontally 1.000 m, vertically 1.500 ft"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-022",
+   "q": "Two aeroplanes are flying on crossing tracks. Which one has to divert?",
+   "image": null,
+   "options": [
+    "The aircraft which flies from left to right has the right of priority",
+    "The aircraft which flies from right to left has the right of priority",
+    "Both have to divert to the left",
+    "Both have to divert to the right"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-023",
+   "q": "Two engine-powered aircraft approach each other on opposite courses at approximately the same altitude. Which aircraft must take evasive action?",
+   "image": null,
+   "options": [
+    "Both must change course to the right.",
+    "Both must change course to the left.",
+    "The heavier aircraft has to climb.",
+    "The lighter aircraft has to climb."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-024",
+   "q": "What condition has to be met during a Special VFR flight?",
+   "image": null,
+   "options": [
+    "Speed not above 115 kt IAS",
+    "A minimum distance to clouds of 2000 m",
+    "Visual reference to the terrain",
+    "At least 500 m ground visibilty"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-025",
+   "q": "What are the minimum requirements among others to acquire a rating for VFR night flights?",
+   "image": null,
+   "options": [
+    "At least 10 additional flight hours at night, three of them with a flight instructor with at least 1 hour cross-country flight plus 5 solo take-offs and full-stop landings",
+    "At least 5 additional flight hours at night, four of them with a flight instructor with at least 1 hour cross-country flight plus 5 solo take-offs and full-stop landings",
+    "At least 5 additional flight hours at night, three of them with a flight instructor with at least 1 hour cross-country flight plus 5 solo take-offs and full-stop landings",
+    "At least 5 additional flight hours at night, three of them with a flight instructor with at least 1 hour cross-country flight plus 10 solo take-offs and full-stop landings"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-026",
+   "q": "Being intercepted by a military aircraft at daytime, what is the meaning of the following signal: Alternating movement of the ailerons, normally left of the intercepted aircraft, followed by a smooth turn to the left?",
+   "image": null,
+   "options": [
+    "Follow me",
+    "You are entering a restricted area, leave the airspace immediately",
+    "You are clear of any restricted or reserved airspaces, you can continue on your heading",
+    "Prepare for a safety landing, you have entered a prohibited area"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-027",
+   "q": "Being intercepted by a military aircraft at daytime, what is the meaning of the following signal: A sudden heading change of 90 degrees or more and a pull-up of the aircraft without crossing the track of the intercepted aircraft?",
+   "image": null,
+   "options": [
+    "Prepare for a safety landing, you have entered a prohibited area",
+    "You are entering a restricted area, leave the airspace immediately",
+    "Follow me, i will bring you to the next suitable airfield",
+    "You may continue your flight"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-028",
+   "q": "During a flight at FL 80, the altimeter setting has to be...",
+   "image": null,
+   "options": [
+    "1030.25 hPa.",
+    "1013.25 hPa.",
+    "local QFE.",
+    "local QNH."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-029",
+   "q": "What is the purpose of the semi-circular rule?",
+   "image": null,
+   "options": [
+    "To fly without a filed flight plan in prescribed zones published in the AIP",
+    "To avoid collisions by reducing the probability of opposing traffic at the same altitude",
+    "To avoid collisions by suspending turning manoeuvres",
+    "To allow safe climbing or descending in a holding pattern"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-030",
+   "q": "A transponder with the ability to send the current pressure level is a...",
+   "image": null,
+   "options": [
+    "mode C or S transponder.",
+    "pressure-decoder.",
+    "mode A transponder.",
+    "transponder approved for airspace \"B\"."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-031",
+   "q": "Which transponder code indicates a loss of radio communication?",
+   "image": null,
+   "options": [
+    "7600",
+    "7700",
+    "7000",
+    "2000"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-032",
+   "q": "The transponder code in case of a radio communication failure is...",
+   "image": null,
+   "options": [
+    "7000.",
+    "7600.",
+    "7700.",
+    "7500."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-033",
+   "q": "Air traffic control service is conducted by which services?",
+   "image": null,
+   "options": [
+    "FIS (flight information service) AIS (aeronautical information service) AFS (aeronautical fixed telecommunication service)",
+    "APP (approach control service) ACC (area control service) FIS (flight information service)",
+    "TWR (aerodrome control service) APP (approach control service) ACC (area control service)",
+    "ALR (alerting service) SAR (search and rescue service) TWR (aerodrome control service)"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-034",
+   "q": "Which answer is correct with regard to separation in airspace \"E\"?",
+   "image": null,
+   "options": [
+    "IFR traffic is separated only from VFR traffic",
+    "VFR traffic is separated only from IFR traffic",
+    "VFR traffic is not separated from any other traffic",
+    "VFR traffic is separated from VFR and IFR traffic"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-035",
+   "q": "What has to be considered when entering an RMZ?",
+   "image": null,
+   "options": [
+    "To obtain a clearance from the local aviation authority",
+    "The transponder has to be switched on Mode C and squawk 7000",
+    "To permanently monitor the radio and if possible to establish radio contact",
+    "To obtain a clearance to enter this area"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-036",
+   "q": "What has to be done before entering a TMZ?",
+   "image": null,
+   "options": [
+    "Switch on the transponder and activate mode A and C or mode S",
+    "Request a clearance before entering",
+    "File a flight plan before the flight",
+    "Switch on the transponder, activate mode A, and squawk \"IDENT\""
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-037",
+   "q": "What is the meaning of the abbreviation \"TRA\"?",
+   "image": null,
+   "options": [
+    "Terminal Area",
+    "Transponder Area",
+    "Temporary Reserved Airspace",
+    "Temporary Radar Routing Area"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-038",
+   "q": "A pilot can contact FIS (flight information service)...",
+   "image": null,
+   "options": [
+    "via internet.",
+    "via telephone.",
+    "by a personal visit.",
+    "via radio communication."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-039",
+   "q": "Which air traffic services can be expected within a FIR (flight information region)?",
+   "image": null,
+   "options": [
+    "ATC (air traffic control), FIS (flight information service)",
+    "AIS (aeronautical information service), SAR (search and rescue)",
+    "FIS (flight information service), ALR (alerting service)",
+    "ATC (air traffic control), AIS (aeronautical information service)"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-040",
+   "q": "Which transponder code has to be set unrequested during an emergency?",
+   "image": null,
+   "options": [
+    "7000",
+    "7500",
+    "7600",
+    "7700"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-041",
+   "q": "Where can the type of restriction for a restricted airspace be found?",
+   "image": null,
+   "options": [
+    "AIP",
+    "ICAO chart 1:500000",
+    "AIC",
+    "NOTAM"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-042",
+   "q": "What information is provided in the general part (GEN) of the AIP?",
+   "image": null,
+   "options": [
+    "Warnings for aviation, ATS airspaces and routes, restricted and dangerous airspaces",
+    "Map icons, list of radio nav aids, time for sunrise and sunset, airport fees, air traffic control fees",
+    "Table of content, classification of airfields with corresponding maps, approach charts, taxi charts, restricted and dangerous airspaces",
+    "Access restrictions for airfields, passenger controls, requirements for pilots, license samples and validity periods"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-043",
+   "q": "What information is provided in the part \"AD\" of the AIP?",
+   "image": null,
+   "options": [
+    "Access restrictions for airfields, passenger controls, requirements for pilots, license samples and validity periods",
+    "Map icons, list of radio nav aids, time for sunrise and sunset, airport fees, air traffic control fees",
+    "Table of content, classification of airfields with corresponding maps, approach charts, taxi charts",
+    "Warnings for aviation, ATS airspaces and routes, restricted and dangerous airspaces."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-044",
+   "q": "Which are the different parts of the Aeronautical Information Publication (AIP)?",
+   "image": null,
+   "options": [
+    "GEN ENR AD",
+    "GEN MET RAC",
+    "GEN COM MET",
+    "GEN AGA COM"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-045",
+   "q": "The shown NOTAM is valid until... A1024/13 A) LOWW B) 1305211200 C) 1305211400 E) STOCKERAU VOR STO 113.00 UNSERVICEABLE.",
+   "image": null,
+   "options": [
+    "13/10/2013 00:00 UTC.",
+    "21/05/2014 13:00 UTC.",
+    "21/05/2013 14:00 UTC.",
+    "13/05/2013 12:00 UTC."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-046",
+   "q": "The term \"runway\" is defined as a...",
+   "image": null,
+   "options": [
+    "rectangular area on a land aerodrome prepared for the landing and take-off of helicopters.",
+    "rectangular area on a land aerodrome prepared for the landing and take-off of aircraft.",
+    "round area on an aerodrome prepared for the landing and take-off of aircraft.",
+    "rectangular area on a land or water aerodrome prepared for the landing and take-off of aircraft."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-047",
+   "q": "What does \"WATER PATCHES\" mean regarding the reported runway condition?",
+   "image": null,
+   "options": [
+    "Wet surface, but no significant patches are visible",
+    "Patches of standing water are visible",
+    "The runway is clear of water, ice, and snow",
+    "A large part of the surface is flooded"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-048",
+   "q": "What does the reported runway condition \"WET\" mean?",
+   "image": null,
+   "options": [
+    "The runway is clear of water, ice, and snow",
+    "A large part of the surface is flooded",
+    "The surface of the runway is soaked, but there are no significant patches of standing water",
+    "Some water patches are visible"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-049",
+   "q": "What is the meaning of a flashing green light signal at a controlled aerodrome directed to an aircraft in flight?",
+   "image": null,
+   "options": [
+    "Return for landing, followed by steady green at the appropriate time",
+    "Airport unsafe, do not land",
+    "Give way to other aircraft and continue circling",
+    "Cleared to land"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-050",
+   "q": "What is the meaning of a flashing red light signal at a controlled aerodrome directed to an aircraft in flight?",
+   "image": null,
+   "options": [
+    "Give way to other aircraft and continue circling",
+    "Return for landing, followed by steady green at the appropriate time",
+    "Airport unsafe, do not land",
+    "Cleared to land"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-051",
+   "q": "What is the meaning of a steady green light signal at a controlled aerodrome directed to an aircraft in flight?",
+   "image": null,
+   "options": [
+    "Give way to other aircraft and continue circling",
+    "Return for landing, followed by steady green at the appropriate time",
+    "Cleared to land",
+    "Airport unsafe, do not land"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-052",
+   "q": "What is the meaning of a flashing red light signal at a controlled aerodrome directed to an aircraft on ground?",
+   "image": null,
+   "options": [
+    "Return to starting point",
+    "Cleared for take-off",
+    "Immediately taxi clear of runway in use",
+    "Cleared to taxi"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-053",
+   "q": "What is the purpose of the signal square at an aerodrome?",
+   "image": null,
+   "options": [
+    "Aircraft taxi to this square to get light signals for taxi and take-off clearance",
+    "It is an illuminated area on which search and rescue and fire fighting vehicles are placed",
+    "It contains special symbols to indicate the conditions at the aerodrome visually to over-flying aircraft",
+    "It is a specially marked area to pick up or drop towing objects"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-054",
+   "q": "What is the meaning of this sign at an aerodrome?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/ALW-011.jpg",
+   "options": [
+    "Landing prohibited for a longer period",
+    "Caution, manoeuvring area is poor",
+    "After take-off and before landing all turns have to be made to the right",
+    "Glider flying is in progress"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-055",
+   "q": "Of what shape is a landing direction indicator?",
+   "image": null,
+   "options": [
+    "An angled arrow",
+    "T",
+    "A straight arrow",
+    "L"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-056",
+   "q": "(See attachment ALW-010) Which meaning has a yellow cross on red ground signal at an airport?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/ALW-010.jpg",
+   "options": [
+    "Caution, manoeuvring area is poor.",
+    "Ground movement restricted to hard surfaces.",
+    "Prohibition on landing for a longer period.",
+    "After take-off and before landing all turns have to be made to the right."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-057",
+   "q": "According to ICAO Anex 14, which is the colour marking of a runway?",
+   "image": null,
+   "options": [
+    "Green",
+    "Blue",
+    "Yellow",
+    "White"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-058",
+   "q": "Which runway designators are correct for 2 parallel runways?",
+   "image": null,
+   "options": [
+    "\"26\" and \"26R\"",
+    "\"18\" and \"18-2\"",
+    "\"06L\" and \"06R\"",
+    "\"24\" and \"25\""
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-059",
+   "q": "An aerodrome beacon (ABN) is a...",
+   "image": null,
+   "options": [
+    "rotating beacon installed at an airport or aerodrome to indicate its location to aircraft pilots from the ground.",
+    "rotating beacon installed at the beginning of the final approach to indicate its location to aircraft pilots from the air.",
+    "rotating beacon installed at an airport or aerodrome to indicate its location to aircraft pilots from the air.",
+    "fixed beacon installed at an airport or aerodrome to indicate its location to aircraft pilots from the air."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-060",
+   "q": "What is shown on the illustrated sign?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/ALW-020.jpg",
+   "options": [
+    "2500 m in the stated direction till reaching the parking area",
+    "2500 m in the stated direction till reaching the departure point of the runway",
+    "From this intersection the available runway length is 2500 m in the stated direction",
+    "The complete length of the runway in the stated direction is 2500 m"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-061",
+   "q": "What is indicated by a pattern of longitudinal stripes of uniform dimensions disposed symmetrically about the centerline of a runway?",
+   "image": null,
+   "options": [
+    "A ground roll could be started from this position",
+    "At this point the glide path of an ILS hits the runway",
+    "Do not touch down before them",
+    "Do not touch down behind them"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-062",
+   "q": "What is the meaning of \"DETRESFA\"?",
+   "image": null,
+   "options": [
+    "Alerting phase",
+    "Distress phase",
+    "Uncertainty phase",
+    "Rescue phase"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-063",
+   "q": "How can a pilot confirm a search and rescue signal from the ground in flight?",
+   "image": null,
+   "options": [
+    "Fly in a parabolic flight path multiple times",
+    "Push the rudder in both directions multiple times",
+    "Deploy and retract the landing flaps multiple times",
+    "Rock the wings"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-064",
+   "q": "With respect to aircraft accident and incident investigation, what are the three categories regarding aircraft occurrences?",
+   "image": null,
+   "options": [
+    "Event Crash Disaster",
+    "Incident Serious incident Accident",
+    "Event Serious event Accident",
+    "Happening Event Serious event"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-065",
+   "q": "Which area could be crossed with certain restrictions?",
+   "image": null,
+   "options": [
+    "No-fly zone",
+    "Restricted area",
+    "Prohibited area",
+    "Dangerous area"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-066",
+   "q": "A pilot license issued in accordance with ICAO Annex 1 is valid in...",
+   "image": null,
+   "options": [
+    "those countries that have accepted this license on application.",
+    "the country where the license was issued.",
+    "all ICAO countries.",
+    "the country where the license was acquired."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-067",
+   "q": "What is the subject of ICAO Annex 1?",
+   "image": null,
+   "options": [
+    "Air traffic services",
+    "Flight crew licensing",
+    "Rules of the air",
+    "Operation of aircraft"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-068",
+   "q": "In which way is a SEP (land) rating renewed if you do not meet the required flight time?",
+   "image": null,
+   "options": [
+    "A proficiency check with an examiner",
+    "According to the flight experience there have to be several training flights under supervision of an ATO",
+    "The ATO can renew the rating after a training flight with a flight instructor",
+    "The required flight experience has to be accumulated under supervision of a flight instructor"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-069",
+   "q": "The possession of a european PPL(A) entitles the holder to...",
+   "image": null,
+   "options": [
+    "act as pilot on a commercial flight when there are at most 4 people on board.",
+    "act as pilot in commercial and non-commercial flights with single engine aircraft.",
+    "act as PIC, and only for flights in aircraft with a MTOW of maximum 2000 kg a compensation may be obtained.",
+    "act as PIC on non-commercial flights without compensation as well as to receive compensation as a flight instrucor."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-070",
+   "q": "What is the meaning of an area marked as \"TMZ\"?",
+   "image": null,
+   "options": [
+    "Transportation Management Zone",
+    "Touring Motorglider Zone",
+    "Traffic Management Zone",
+    "Transponder Mandatory Zone"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-071",
+   "q": "What is the meaning of the abbreviation \"IFR\"?",
+   "image": null,
+   "options": [
+    "Instrument Flight Rules",
+    "Instrument Meteorological Conditions",
+    "Bad Weather Flight Rules",
+    "Commercial Flight Rules"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-072",
+   "q": "What is the meaning of the abbreviation \"VMC\"?",
+   "image": null,
+   "options": [
+    "Instrument flight conditions",
+    "Variable meteorological conditions",
+    "Visual meteorological conditions",
+    "Visual flight rules"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-073",
+   "q": "Two engine-driven aircraft are flying on crossing courses at the same altitude. Which one has to divert?",
+   "image": null,
+   "options": [
+    "The lighter one has to climb",
+    "Both have to divert to the right",
+    "The heavier one has to climb",
+    "Both have to divert to the left"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-074",
+   "q": "In airspace \"D\" a Boeing 737 and a Cessna 152 are flying on crossing courses. Which aeroplane has to divert?",
+   "image": null,
+   "options": [
+    "The Cessna 152, because IFR and commercial flights have priority",
+    "The air traffic control (ATC) has to decide which one has to divert",
+    "The aeroplane flying from right to left has priority, the other one has to divert",
+    "The Boeing 737, because an airliner has greater power reserves"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-075",
+   "q": "A single-engine piston and a turboprop aeroplane are approaching each other opposite at the same altitude. Which aeroplane has to change its track to avoid a collision?",
+   "image": null,
+   "options": [
+    "The turboprop aircraft has to give way to the single-engine piston aircraft",
+    "Both aircraft have to alter their tracks to the left",
+    "Both aircraft have to alter their tracks to the right",
+    "The single-engine piston aircraft has to give way to the turboprop aircraft"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-076",
+   "q": "The altimeter is switched from local QNH to 1013.25 hPa...",
+   "image": null,
+   "options": [
+    "at the decision height.",
+    "at 4000 ft.",
+    "when climbing above the transition altitude.",
+    "when descending below FL 100."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-077",
+   "q": "Which of the following options are possible SSR-Transponder modes?",
+   "image": null,
+   "options": [
+    "A, C, S",
+    "A, C, R",
+    "B, C, V",
+    "B, R, S"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-078",
+   "q": "Which air traffic service is responsible for the safe conduct of flights?",
+   "image": null,
+   "options": [
+    "ALR (alerting service)",
+    "FIS (flight information service)",
+    "ATC (air traffic control)",
+    "AIS (aeronautical information service)"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-079",
+   "q": "What is the correct phrase with respect to wake turbulence to indicate that a light aircraft is following an aircraft of a higher wake turbulence category?",
+   "image": null,
+   "options": [
+    "Danger jet blast",
+    "Be careful wake winds",
+    "Attention propwash",
+    "Caution wake turbulence"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-080",
+   "q": "Which of the following options states a correct position report?",
+   "image": null,
+   "options": [
+    "DEABC reaching \"N\"",
+    "DEABC over \"N\" in FL 2500 ft",
+    "DEABC, \"N\", 2500 ft",
+    "DEABC over \"N\" at 35"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-081",
+   "q": "What is the meaning of the abbreviation \"AIREP\"?",
+   "image": null,
+   "options": [
+    "Aircraft report",
+    "Aeronautical instrument requirement report",
+    "Automatic identification report",
+    "Aeronautical information report"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-082",
+   "q": "A Pre-Flight Information Bulletin (PIB) is a presentation of current...",
+   "image": null,
+   "options": [
+    "ICAO information of operational significance prepared after the flight.",
+    "AIP information of operational significance prepared prior to flight.",
+    "AIC information of operational significance prepared after the flight.",
+    "NOTAM information of operational significance prepared prior to flight."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-083",
+   "q": "The term \"aerodrome elevation\" is defined as...",
+   "image": null,
+   "options": [
+    "the highest point of the landing area.",
+    "the lowest point of the landing area.",
+    "the highest point of the apron.",
+    "the average value of the height of the manoeuvring area."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-084",
+   "q": "Which statement is correct with regard to the term \"taxi holding point\"?",
+   "image": null,
+   "options": [
+    "A taxi holding point is an area where the aircraft must stop unless further permission to proceed is given",
+    "A taxi holding point is only to be observed for IFR traffic if instrument weather conditions are prevailing",
+    "A taxi holding point is the point at which the aircraft must stop unless further permission to proceed is given",
+    "A taxi holding point is designed to indicate the beginning of the safety area and may be crossed when a taxi clearance is given"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-085",
+   "q": "What does the reported runway condition \"DAMP\" mean?",
+   "image": null,
+   "options": [
+    "Wet surface, but no significant puddles are visible",
+    "Change of colour on the surface due to moisture",
+    "The runway is clear of water, ice, and snow",
+    "A large part of the surface is flooded"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-086",
+   "q": "How can a wind direction indicator be marked for better visibility?",
+   "image": null,
+   "options": [
+    "The wind direction indicator may be mounted on top of the control tower.",
+    "The wind direction indicator could be made from green materials.",
+    "The wind direction indicator could be surrounded by a white circle.",
+    "The wind direction indicator could be located on a big black surface."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-087",
+   "q": "In which way should a pilot confirm received light signals in flight?",
+   "image": null,
+   "options": [
+    "Apply some changes of RPM",
+    "Apply some changes of the rudder",
+    "Rock the wings (in the daytime)",
+    "Apply some fast pitch changes"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-088",
+   "q": "How are two parallel runways designated?",
+   "image": null,
+   "options": [
+    "The left runway gets the suffix \"L\", the right runway \"R\"",
+    "The left runway gets the suffix \"L\", the right runway remains unchanged",
+    "The left runway gets the suffix \"-1\", the right runway \"-2\"",
+    "The left runway remains unchanged, the right runway designator is increased by 1"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-089",
+   "q": "What is a \"PAPI\" (Precision Approach Path Indicator)?",
+   "image": null,
+   "options": [
+    "A visual aid that provides guidance information to help a tower controller acquire and maintain the correct approach to an aerodrome or an airport",
+    "A visual aid that provides guidance information to help a pilot acquire and maintain the correct glidepath to an aerodrome or an airport",
+    "An instrumental aid that provides guidance information to help a pilot acquire and maintain the correct approach to an aerodrome or an airport",
+    "A visual aid that provides guidance information to help a pilot acquire and maintain the correct departure track when departing from an aerodrome or an airport"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-090",
+   "q": "Which is the colour of runway edge lights?",
+   "image": null,
+   "options": [
+    "Red",
+    "White",
+    "Blue",
+    "Green"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "10-091",
+   "q": "Which is the colour of runway end lights?",
+   "image": null,
+   "options": [
+    "Red",
+    "White",
+    "Blue",
+    "Green"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "10-092",
+   "q": "What is shown on the printed sign?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/ALW-019.jpg",
+   "options": [
+    "Point A on a taxiway",
+    "Part A of the runway",
+    "Taxiway A",
+    "Parking position A"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "10-093",
+   "q": "Who provides search and rescue service?",
+   "image": null,
+   "options": [
+    "Only military organisations",
+    "International approved organisations",
+    "Only civil organisations",
+    "Both military and civil organisations"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "10-094",
+   "q": "What is the primary purpose of an aircraft accident investigation?",
+   "image": null,
+   "options": [
+    "To Determine the guilty party and draw legal consequences",
+    "To clarify questions of liability within the meaning of compensation for passengers",
+    "To identify the reasons and work out safety recommendations",
+    "To work for the public prosecutor and help to follow-up flight accidents"
+   ],
+   "correct": 2
+  }
+ ]
+}

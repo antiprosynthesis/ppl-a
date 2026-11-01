@@ -1,0 +1,1157 @@
+{
+  "80-001": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "Drag and lift are aerodynamic forces, but their ratio is not the load factor.",
+      "Weight and thrust are not the forces used to define load factor.",
+      "Load factor n is lift divided by weight, conventionally expressed in g.",
+      "Thrust and drag describe propulsion balance, not load factor."
+    ]
+  },
+  "80-002": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "Low speed alone does not necessarily damage the fuselage; structural load is the concern.",
+      "Gusts can impose loads beyond manoeuvring-speed protection and overstress the structure.",
+      "Relieving stick force is not itself a cause of structural damage.",
+      "A stall follows excessive angle of attack but does not inherently damage the structure."
+    ]
+  },
+  "80-003": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "Thickness is measured at maximum thickness, not at the thinnest section.",
+      "Aerofoil thickness is the vertical distance between upper and lower surfaces at the thickest section.",
+      "The wingtip is not where thickness is defined; the maximum may lie elsewhere along the chord.",
+      "The wing root is not necessarily the thickest point; thickness is defined by the aerofoil maximum."
+    ]
+  },
+  "80-004": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "Sandwich faces are thin and their core is light; thick heavy components defeat the design purpose.",
+      "Sandwich construction bonds two thin face layers around a lightweight supporting core.",
+      "A heavy core adds mass; sandwich design uses a light core for stiffness at low weight.",
+      "Thick faces are unnecessary; thin skins separated by a light core provide the construction."
+    ]
+  },
+  "80-005": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "Sandwich structures are not chiefly chosen for high-temperature durability or formability.",
+      "Low weight is an advantage, but high-temperature durability is not the defining benefit.",
+      "Thin skins and a light core provide high stiffness, stability and strength for low mass.",
+      "Good formability is not the key advantage; lightweight stiffness and strength are."
+    ]
+  },
+  "80-006": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "A tubular steel truss carrying loads under non-supporting skin is grid construction.",
+      "Monocoque relies primarily on its load-bearing shell, unlike a tubular framework.",
+      "Semi-monocoque uses frames, stringers and stressed skin rather than a non-supporting covering.",
+      "Honeycomb is a sandwich core between face skins, not a tubular steel frame."
+    ]
+  },
+  "80-007": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "The empennage comprises horizontal and vertical tail surfaces, including their movable controls.",
+      "Rudder is one tail control, but ailerons are on the wings, not major tail components.",
+      "Ailerons are wing controls; the elevator is only a movable part of the horizontal tail.",
+      "A steering wheel and pedals are cockpit controls, not tail components."
+    ]
+  },
+  "80-008": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "The wingtip is the outboard end and does not establish the aerofoil profile.",
+      "Ribs set the wing's cross-sectional aerofoil shape and transfer loads to the spars.",
+      "A spar is the major spanwise beam; it does not define the profile shape.",
+      "Planking or skin covers the structure; ribs give the wing its profile."
+    ]
+  },
+  "80-009": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "In the bank's material comparison, wood is not the highest-strength choice.",
+      "The bank compares carbon-fibre reinforced plastic as the highest-strength material listed.",
+      "Magnesium is light, but it is not the bank's highest-strength material choice.",
+      "Aluminium is widely used, but the bank ranks carbon-fibre composite higher."
+    ]
+  },
+  "80-010": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "Wood or mixed construction does not describe frames, stringers and stressed skin.",
+      "Grid construction uses a truss or tubular framework with non-supporting covering.",
+      "Honeycomb is a sandwich structure made from face skins and a lightweight core.",
+      "Frames and stringers sharing loads with supporting skin identify semi-monocoque construction."
+    ]
+  },
+  "80-011": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "Covers and forming parts alone omit the key fuselage frames and stringers.",
+      "Girders, ribs and stringers describe other structures; fuselage frames are missing.",
+      "Primary fuselage framework commonly uses frames and longitudinal stringers.",
+      "Ribs are primarily wing members; the fuselage uses frames and stringers."
+    ]
+  },
+  "80-012": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "A hard landing or excessive structural stress can deform skin and leave dents.",
+      "Paint age or a material defect is not the ordinary structural-loading explanation for dents.",
+      "High engine RPM and cylinder defects concern the powerplant, not fuselage dents.",
+      "Erosion and wear may damage surfaces, but are not the stated typical causes of dents."
+    ]
+  },
+  "80-013": {
+    "topic": "Landing gear, steering, wheels and brakes",
+    "why": [
+      "The numbered pointer identifies the fork, not an internal shock-absorbing part.",
+      "The pointer is not aimed at the torque link, which connects parts of the landing gear.",
+      "The diagram's number 1 indicates the wheel fork.",
+      "The strut is the main shock-supporting member, not the numbered part in this figure."
+    ]
+  },
+  "80-014": {
+    "topic": "Landing gear, steering, wheels and brakes",
+    "why": [
+      "Weight shift does not normally steer a small aircraft's nose or tail wheel.",
+      "The control column operates pitch/roll controls, not the usual steering linkage.",
+      "Rudder pedals commonly steer the nosewheel or tailwheel on small aircraft and TMGs.",
+      "A steering wheel is not normally fitted for steering these small-aircraft wheels."
+    ]
+  },
+  "80-015": {
+    "topic": "Landing gear, steering, wheels and brakes",
+    "why": [
+      "A trim rudder is not the control surface normally linked to nosewheel steering.",
+      "Elevator controls pitch and is not connected to the nosewheel steering linkage.",
+      "Ailerons control roll and do not normally steer the nosewheel.",
+      "Rudder is commonly linked to nosewheel steering through the pedals."
+    ]
+  },
+  "80-016": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Left rudder first yaws left and its secondary effect in the bank is roll left.",
+      "The primary yaw is left, not right, for a left rudder input.",
+      "The bank's secondary effect is roll left, not roll right.",
+      "Left rudder yaws left; it does not initially yaw the aircraft right."
+    ]
+  },
+  "80-017": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Aircraft rotation is described about three axes, not four invented axes.",
+      "There are three axes, but aviation names them longitudinal, lateral and vertical.",
+      "Aircraft rotate about longitudinal, lateral and vertical axes.",
+      "There are three principal axes; there is no fourth axis of speed."
+    ]
+  },
+  "80-018": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Aft stick raises the nose; increased tail downforce would not make the nose drop.",
+      "Aft stick raises the elevator, increasing tail downforce and pitching the nose upward.",
+      "Aft stick does not produce the stated decreased upward force and nose drop.",
+      "The conventional tail force increases downward, not upward, when pitching nose-up."
+    ]
+  },
+  "80-019": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Ailerons primarily roll the aircraft about its longitudinal nose-to-tail axis.",
+      "The elevator primarily controls pitch about the lateral axis.",
+      "A trim tab relieves control force; it does not primarily initiate roll.",
+      "The rudder primarily controls yaw about the vertical axis."
+    ]
+  },
+  "80-020": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Secondary controls are not backup systems for failed primary controls.",
+      "Flaps, slats, spoilers and trim improve performance or reduce sustained control forces.",
+      "Flaps aid low-speed lift, but secondary controls serve more than turn/landing performance.",
+      "Ailerons, elevator and rudder control the three axes; they are primary controls."
+    ]
+  },
+  "80-021": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Elevator trim-tab direction is not set by rudder deflection.",
+      "The bank's conventional nose-up trim-tab direction does not depend on CG position.",
+      "For the bank's conventional arrangement, nose-up trim moves the elevator tab down.",
+      "A tab moving up would create the opposite trim effect in the stated convention."
+    ]
+  },
+  "80-022": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Moving the trim control aft gives tab down and elevator up in the bank's setup.",
+      "The trim tab moves down, not up, when the wheel is moved aft.",
+      "The elevator moves up, not down, with this nose-up trim selection.",
+      "The tab moves down but the elevator moves up, not down."
+    ]
+  },
+  "80-023": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Tank ventilation admits air as fuel is used, preventing a vacuum that could impede flow.",
+      "Ventilation is not intended to dispose of water while the aircraft is parked.",
+      "Crossflow between tank sections is not the primary purpose of tank ventilation.",
+      "The vent is not a device to stop fuel spilling from the filler during refuelling."
+    ]
+  },
+  "80-024": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Water is denser than fuel and will not collect near the top of the tank.",
+      "Condensation water does not float on avgas; it settles because it is denser.",
+      "Water converges at the tank's lowest point, where a sump/sample can drain it.",
+      "Water remains a separate contaminant rather than mixing uniformly with the fuel."
+    ]
+  },
+  "80-025": {
+    "topic": "Electrical system and hydraulics",
+    "why": [
+      "Ohm is the unit of electrical resistance, not power.",
+      "Ampere measures electrical current, not power.",
+      "Volt measures electrical potential difference, not power.",
+      "Electrical power is measured in watts; in simple DC circuits P = V × I."
+    ]
+  },
+  "80-026": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Never use a torch or remove fire precautions around fuel; eliminate ignition sources.",
+      "Refuelling requires no smoking/open flames and bonding or grounding to reduce static sparks.",
+      "Ignition and main electrical systems should not be switched on during refuelling.",
+      "A soaked rag is not a safe refuelling method; prevent ignition sources and bond equipment."
+    ]
+  },
+  "80-027": {
+    "topic": "Electrical system and hydraulics",
+    "why": [
+      "Static wicks can reduce radio interference, but their purpose is discharging flight static.",
+      "Static dischargers bleed accumulated electrical charge during flight.",
+      "They do not amplify or improve radio transmission at high altitude.",
+      "Grounding during refuelling is done by bonding procedures, not airborne static wicks."
+    ]
+  },
+  "80-028": {
+    "topic": "Electrical system and hydraulics",
+    "why": [
+      "Battery and generator/alternator are the aircraft's principal electrical supplies.",
+      "A circuit breaker protects a circuit; it is not a source of electrical power.",
+      "A relay switches a circuit; the generator needs the battery as the other listed source.",
+      "Neither the relay nor circuit breaker generates or stores electrical power."
+    ]
+  },
+  "80-029": {
+    "topic": "Electrical system and hydraulics",
+    "why": [
+      "A fuel gauge and radio may fail, but the altimeter is pressure-operated and not electrical.",
+      "A magnetic compass is not electrically powered, unlike radios and some navigation equipment.",
+      "The ASI and altimeter are pressure instruments; an artificial horizon may be vacuum driven.",
+      "Radios, navigation equipment and electrically driven gyros can be affected by power loss."
+    ]
+  },
+  "80-030": {
+    "topic": "Piston engines and four-stroke cycle",
+    "why": [
+      "A two-plate Wankel is not the common TMG piston-engine arrangement.",
+      "A two-cylinder diesel is not the engine type commonly used in TMGs.",
+      "A four-cylinder two-stroke is not the usual TMG engine configuration.",
+      "TMGs commonly use four-cylinder, four-stroke piston engines."
+    ]
+  },
+  "80-031": {
+    "topic": "Piston engines and four-stroke cycle",
+    "why": [
+      "Exhaust is the fourth stroke: piston rises and exhaust valve opens, unlike this figure.",
+      "Induction is first stroke: piston descends with inlet valve open, not this cycle stage.",
+      "Power is third stroke: combustion drives the piston down with valves closed.",
+      "The figure shows the second compression stroke, with piston rising and both valves closed."
+    ]
+  },
+  "80-032": {
+    "topic": "Piston engines and four-stroke cycle",
+    "why": [
+      "Exhaust is the fourth stroke, not the stage shown in the figure.",
+      "Power is the third stroke; the figure does not show combustion driving the piston down.",
+      "Compression is the second stroke, with piston rising and both valves closed.",
+      "The figure shows the first induction stroke, with piston descending and inlet open."
+    ]
+  },
+  "80-033": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Avgas 100LL is blue; green identifies a different aviation gasoline grade.",
+      "Yellow is not the standard bank colour for 100LL.",
+      "Blue is the identifying colour for Avgas 100LL in this bank.",
+      "Red is not the standard bank colour for Avgas 100LL."
+    ]
+  },
+  "80-034": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Carburettor heat supplies warmer, less dense air, so fixed-pitch engine RPM normally falls.",
+      "RPM does not normally increase; warm induction air reduces engine power.",
+      "Carburettor heat does not directly increase the aircraft's angle of attack.",
+      "Changing induction heat does not directly decrease the aircraft's angle of attack."
+    ]
+  },
+  "80-035": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "During climb, carb heat may be used if icing is suspected, per the aircraft procedure.",
+      "Taxi is not the phase that requires carb heat to be off despite expected icing.",
+      "Carb heat is kept off for take-off to preserve maximum engine power.",
+      "Carb heat may be needed in cruise if icing is suspected; follow the POH."
+    ]
+  },
+  "80-036": {
+    "topic": "Oil, cooling, engine instruments and propeller",
+    "why": [
+      "Cooling fins enlarge surface area, accelerating heat transfer from cylinders to airflow.",
+      "Baffles guide airflow; the fins themselves chiefly increase heat-transfer area.",
+      "Fins do not cool the airflow or direct it toward hotter engine parts.",
+      "Fins do not increase airflow volume; they improve heat exchange with existing flow."
+    ]
+  },
+  "80-037": {
+    "topic": "Oil, cooling, engine instruments and propeller",
+    "why": [
+      "The bypass valve allows oil circulation to continue rather than stopping after a fixed time.",
+      "The bypass is not timed to stop oil flow after 30 minutes.",
+      "An opened bypass generally permits unfiltered oil flow; it does not ensure debris filtration.",
+      "When the filter clogs, bypass opens to maintain oil flow, but debris is not filtered."
+    ]
+  },
+  "80-038": {
+    "topic": "Oil, cooling, engine instruments and propeller",
+    "why": [
+      "Oil does not reduce the nose or serve as a propeller-shaft bearing as described.",
+      "Engine oil lubricates, carries heat away and transports fine abrasion to the filter.",
+      "Oil cools and lubricates the engine, not just the propeller shaft.",
+      "Oil helps protect the engine; it does not increase engine performance as its purpose."
+    ]
+  },
+  "80-039": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "A faulty ignition switch is not the likely cause of rough running on one magneto.",
+      "The ground/P-lead fault affects shutdown safety, not typically a rough magneto check.",
+      "The starter is not normally involved once the engine is running during the check.",
+      "A defective or fouled spark plug commonly causes excessive roughness on a magneto check."
+    ]
+  },
+  "80-040": {
+    "topic": "Piston engines and four-stroke cycle",
+    "why": [
+      "An empty mixture is not the term for a high fuel proportion.",
+      "Rich means a relatively high fuel-to-air proportion in the mixture.",
+      "Lean means relatively less fuel for the amount of air, the opposite of fuel-rich.",
+      "Full is not the technical mixture term; the correct term is rich."
+    ]
+  },
+  "80-041": {
+    "topic": "Piston engines and four-stroke cycle",
+    "why": [
+      "The fuel-air mixture does not become liquid with altitude.",
+      "With unchanged mixture setting, reduced air density changes the mixture rather than preserving it.",
+      "Less air enters at altitude with a fixed setting, making the mixture richer.",
+      "It does not become leaner automatically; the unchanged setting supplies relatively more fuel."
+    ]
+  },
+  "80-042": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Feathering applies to a controllable propeller and is not the normal Otto shutdown method.",
+      "Moving mixture to idle cut-off stops fuel flow and shuts down the Otto engine.",
+      "Closing throttle reduces power but does not reliably stop combustion.",
+      "Shutting down the generator does not stop magneto ignition or engine fuel supply."
+    ]
+  },
+  "80-043": {
+    "topic": "Oil, cooling, engine instruments and propeller",
+    "why": [
+      "A directional gyro indicates heading, not temperature; the other listed gauges are not all temperatures.",
+      "A suction gauge measures pressure, so this set includes a non-temperature gauge.",
+      "Oil, coolant, CHT, EGT, outside-air and cabin-air gauges all measure temperature.",
+      "Altimeter, ASI and VSI are pressure instruments, not temperature gauges."
+    ]
+  },
+  "80-044": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "The bank's CS-23 statement requires an indicator per tank calibrated to read zero at unusable fuel in level flight.",
+      "The keyed requirement specifies installed indicators; pilot recalculation is not the stated substitute.",
+      "A failed gauge does not itself impose the stated requirement to land at the next airport.",
+      "The keyed rule is per tank and zero at unusable fuel, not one total-fuel indicator."
+    ]
+  },
+  "80-045": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "Dynamic pressure depends on density and speed squared, not lift coefficient.",
+      "Lift and drag coefficients are aerodynamic quantities, not direct inputs to dynamic pressure.",
+      "Dynamic pressure q equals one-half air density times airflow speed squared.",
+      "Pressure and temperature influence density, but this is not the direct dynamic-pressure relation."
+    ]
+  },
+  "80-046": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "The pitot senses total pressure, not ambient static pressure alone.",
+      "Static pressure is the ambient pressure of undisturbed airflow.",
+      "Orderly air-particle flow does not define static pressure; it is ambient pressure.",
+      "Cabin pressure is not the defined free-stream static pressure."
+    ]
+  },
+  "80-047": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "The compass has no static connection; the ASI does, but the listed combination is wrong.",
+      "Altimeter and VSI use static pressure, and the ASI uses static plus pitot pressure.",
+      "The direct-reading compass and slip indicator are not connected to the static port.",
+      "The slip indicator and navigation computer are not static-pressure instruments."
+    ]
+  },
+  "80-048": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "The system supplies total pitot pressure and ambient static pressure for instruments to compare.",
+      "Zero indication on the ground is not the system's purpose; ASI responds to pressure difference.",
+      "Pitot heat prevents icing when fitted; the pressure system itself does not.",
+      "Static dischargers address electrical charge, not the pitot-static system's purpose."
+    ]
+  },
+  "80-049": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "Static pressure is sampled by static ports, not the pitot tube.",
+      "The pitot tube senses total (stagnation) pressure, including static and dynamic components.",
+      "Cabin pressure is not the pressure measured by the pitot inlet.",
+      "Dynamic pressure is calculated as total minus static; the pitot senses total pressure."
+    ]
+  },
+  "80-050": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "The altimeter uses static pressure only, not the pitot tube.",
+      "The airspeed indicator compares pitot total pressure with static pressure.",
+      "The VSI uses static pressure and a delayed reference, not pitot pressure.",
+      "The direct-reading compass is magnetic and has no pitot connection."
+    ]
+  },
+  "80-051": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "QFE does not reference mean sea level; QNH is used for altitude above MSL.",
+      "With QFE set, the altimeter reads zero at the datum, not airfield elevation.",
+      "QFE set makes the altimeter show height above the airfield datum.",
+      "Pressure altitude is read with standard pressure 1013.25 hPa set, not QFE."
+    ]
+  },
+  "80-052": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "True altitude is altitude above MSL corrected for nonstandard temperature, not merely pressure altitude.",
+      "Height is above ground or a datum; this describes neither true altitude nor its reference.",
+      "True altitude is actual altitude above MSL with correction for nonstandard temperature.",
+      "Height above ground is not altitude above MSL, even with temperature correction."
+    ]
+  },
+  "80-053": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "VSI lag comes from its calibrated restriction; hysteresis is associated with altimeter mechanism.",
+      "Altimeter mechanical lag/history produces hysteresis error.",
+      "Compass errors include deviation, dip, turning and acceleration, not hysteresis.",
+      "A tachometer measures engine RPM; hysteresis is not the bank's associated error."
+    ]
+  },
+  "80-054": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "The subscale sets the pressure datum for the altimeter, not the transponder altitude encoder.",
+      "The subscale references altitude to QNH, QFE or standard pressure as selected.",
+      "Setting the subscale does not correct mechanical or instrument-system errors.",
+      "Altimeter subscale is not a temperature correction control."
+    ]
+  },
+  "80-055": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "An altimeter infers altitude from changes in static pressure.",
+      "Total pressure is sensed by pitot and is not the altimeter's measurement basis.",
+      "Dynamic pressure is used by the ASI, not the altimeter.",
+      "The altimeter does not directly measure a pressure difference; it senses static pressure."
+    ]
+  },
+  "80-056": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "A lower-than-actual setting makes indicated altitude lower, not higher.",
+      "A lower setting causes an under-reading, so actual altitude is higher than indicated rather than dangerously lower.",
+      "A higher-than-actual subscale setting makes the altimeter over-read, risking proximity to terrain.",
+      "A higher setting causes an over-reading, not an under-reading and apparent greater terrain clearance."
+    ]
+  },
+  "80-057": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "Routine maintenance is not the normal trigger for setting current pressure reference.",
+      "Set the altimeter before flight and update it as required during cross-country pressure changes.",
+      "A monthly setting is too infrequent; pressure reference must reflect current conditions.",
+      "Setting only once daily misses changes needed before a flight or en route."
+    ]
+  },
+  "80-058": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "Cold air does not necessarily block pitot; temperature error makes true altitude lower than indicated.",
+      "An altimeter has no subscale that corrects temperature; correct QNH alone does not remove this error.",
+      "In colder-than-standard air, true altitude is lower than the indicated altitude, so the indication is too high.",
+      "Lower-than-standard temperature does not make indicated altitude too low; true altitude is lower."
+    ]
+  },
+  "80-059": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "Increasing setting from 1000 to 1010 hPa raises indication by about 80 m, not lowers it.",
+      "The change is not zero; about 8 m per hPa gives roughly 80 m.",
+      "This standard pressure-setting relationship is approximately 8 m per hPa, not an arbitrary QNH-dependent value.",
+      "A 10 hPa increase produces about 80 m more indicated altitude (roughly 270–300 ft)."
+    ]
+  },
+  "80-060": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "The VSI compares present static pressure with delayed static pressure in a calibrated chamber.",
+      "The VSI does not compare static pressure with a vacuum.",
+      "Total and static pressure difference is the ASI's operating principle.",
+      "The VSI measures pressure change, not vertical acceleration by a gimbal mass."
+    ]
+  },
+  "80-061": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "A VSI indicates rate from the difference between current and delayed static pressure.",
+      "Dynamic pressure is not measured by the VSI.",
+      "Total minus static pressure is dynamic pressure, used for airspeed, not VSI.",
+      "The VSI compares static pressure over time, not total pressure."
+    ]
+  },
+  "80-062": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "The bank keys an oversized equalising tank to an indication that is too high.",
+      "The keyed effect is an excessive indication, not mechanical overload.",
+      "An equalising tank that is too big gives a VSI indication that is too high in this bank.",
+      "The bank's keyed result is a high indication, not no indication."
+    ]
+  },
+  "80-063": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "The VSI senses static pressure now versus a delayed static pressure, not dynamic pressure.",
+      "The VSI compares present static pressure with pressure from a previous moment.",
+      "Dynamic pressure is not the signal used for VSI rate indication.",
+      "The VSI does not measure total pressure; it uses only the static-pressure system."
+    ]
+  },
+  "80-064": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "QNE is a standard-pressure altitude setting, not a magnetic bearing.",
+      "QNE refers to pressure altitude/flight levels with 1013.25 hPa set.",
+      "Pressure at the runway datum is QFE, not QNE.",
+      "Sea-level-reduced pressure is QNH; QNE is standard pressure setting."
+    ]
+  },
+  "80-065": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "QFE is pressure at the aerodrome or other chosen datum, not a sea-level-reduced setting.",
+      "Sea-level-reduced pressure is QNH, not QFE.",
+      "Pressure altitude is read with 1013.25 hPa set; that is QNE, not QFE.",
+      "QFE is a pressure reference, not a magnetic bearing."
+    ]
+  },
+  "80-066": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "TAS corrected for wind gives groundspeed, not calibrated airspeed.",
+      "CAS is IAS corrected for instrument and position errors.",
+      "EAS is corrected for compressibility; density correction produces TAS.",
+      "GS corrected for instrument error is not CAS; CAS starts from indicated airspeed."
+    ]
+  },
+  "80-067": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "TAS tends to exceed CAS aloft, so subtracting would give the wrong direction.",
+      "The rough rule adds about 2%, not 10%, per 1,000 feet.",
+      "Subtracting 2% reverses the correction: TAS is higher than CAS at altitude.",
+      "Add approximately 2% of CAS for each 1,000 ft to estimate TAS."
+    ]
+  },
+  "80-068": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "At 5,000 ft, TAS is about 10% above CAS, so 110 kt TAS corresponds to roughly 100 kt indicated; wind affects groundspeed, not ASI.",
+      "This is the bank's approximate CAS/ASI after the 10% altitude correction; it is not equal to TAS.",
+      "A headwind changes groundspeed, not the ASI reading; 120 kt is not the altitude-corrected CAS.",
+      "Subtracting roughly 10% from 110 gives about 100 kt, not 90 kt."
+    ]
+  },
+  "80-069": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "Standard pressure is not the airspeed reference; the instrument compares pitot and static pressure.",
+      "Dynamic pressure equals total minus static; the ASI uses total versus static directly.",
+      "IAS is determined by the difference between pitot total pressure and static pressure.",
+      "Total minus dynamic equals static, not the pressure difference used for airspeed."
+    ]
+  },
+  "80-070": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "Static ports sense ambient pressure, not total pressure; the ASI also needs pitot input.",
+      "Comparing static pressure with vacuum describes neither ASI operation nor its input.",
+      "The ASI diaphragm compares pitot total pressure with static pressure.",
+      "Pitot pressure alone is not a direct speed reading; it must be compared with static pressure."
+    ]
+  },
+  "80-071": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "The white arc marks the flap operating speed range, including flap extension limits.",
+      "Bumpy-air caution range is the yellow arc, not the white arc.",
+      "The red line marks the never-exceed limit; white is not the maximum-speed range.",
+      "Smooth-air caution operation is associated with yellow arc, not white."
+    ]
+  },
+  "80-072": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "VS1 is a stall speed and is not the red line at the end of the yellow arc.",
+      "The red line at the yellow arc's end is VNE, never-exceed speed.",
+      "VFE is the maximum speed with flaps extended, shown at the white-arc limit.",
+      "VNO marks the top of the normal green range, before the yellow caution arc."
+    ]
+  },
+  "80-073": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "Red is used for limits, not the caution range.",
+      "Yellow marks the caution range on a conventional airspeed indicator.",
+      "Green indicates normal operating range rather than caution.",
+      "White indicates flap operating range, not the caution area."
+    ]
+  },
+  "80-074": {
+    "topic": "Magnetic compass",
+    "why": [
+      "Inclination is greatest near magnetic poles, not geographic poles as a general location.",
+      "The magnetic equator is where Earth's field is most horizontal and inclination least.",
+      "The geographic equator does not precisely define the magnetic equator.",
+      "Inclination is greatest near magnetic poles, not lowest there."
+    ]
+  },
+  "80-075": {
+    "topic": "Magnetic compass",
+    "why": [
+      "Inclination is the angle between Earth's magnetic field and the horizontal plane.",
+      "Deviation is the compass error from aircraft magnetic fields, not inclination.",
+      "The angle between true and magnetic north is variation, not inclination.",
+      "Aircraft heading relative to true north is not the definition of inclination."
+    ]
+  },
+  "80-076": {
+    "topic": "Magnetic compass",
+    "why": [
+      "The attitude indicator is gyro-based and not the instrument most affected by nearby electronics.",
+      "Electrical equipment can create magnetic fields that disturb the direct-reading compass.",
+      "The airspeed indicator is pneumatic, not magnetically sensitive to onboard electronics.",
+      "The turn coordinator is gyro-driven and is not the direct magnetic compass affected."
+    ]
+  },
+  "80-077": {
+    "topic": "Magnetic compass",
+    "why": [
+      "Variation is the angle between true and magnetic north, not an aircraft-caused error.",
+      "Aircraft magnetic fields cause deviation of the compass indication.",
+      "Declination is another term for geographic variation, not aircraft deviation.",
+      "Inclination is the Earth's field dip angle, not a compass error from the aircraft."
+    ]
+  },
+  "80-078": {
+    "topic": "Magnetic compass",
+    "why": [
+      "Compass indication is affected by deviation and turning/acceleration errors; variation is not listed by this keyed answer.",
+      "Variation is geographic, but the bank's requested error set names deviation plus turning and acceleration errors.",
+      "Inclination/declination describe Earth's field and north-reference relationships, not the specified three errors.",
+      "Gravity and magnetism alone do not identify the standard compass errors listed in the bank."
+    ]
+  },
+  "80-079": {
+    "topic": "Magnetic compass",
+    "why": [
+      "For this bank's 360° to 270° turn, terminate at approximately 270° indicated.",
+      "360° is the starting heading; the turn should finish at the intended west heading.",
+      "240° would undershoot the target west heading and is not the keyed indication.",
+      "The target is 270°; this bank item does not call for a blanket compass correction."
+    ]
+  },
+  "80-080": {
+    "topic": "Magnetic compass",
+    "why": [
+      "A turn toward south in the Northern Hemisphere requires overshoot, not stopping at 180° indicated.",
+      "150° would undershoot the southerly target because the compass lags toward south.",
+      "Turning toward south, compass indication leads; overshoot 180° to about 210°.",
+      "360° is unrelated to the intended southerly heading of 180°."
+    ]
+  },
+  "80-081": {
+    "topic": "Gyroscopic and integrated flight instruments",
+    "why": [
+      "A spinning gyro tends to keep its orientation rather than follow its surrounding body.",
+      "A gyro does not swing like a pendulum; its defining property is rigidity in space.",
+      "Rigidity in space means a rotating gyro tends to maintain its position and axis in space.",
+      "The gyro does not move in shrinking circles as its defining behavior."
+    ]
+  },
+  "80-082": {
+    "topic": "Gyroscopic and integrated flight instruments",
+    "why": [
+      "The turn coordinator provides turn rate and coordination, not direct bank-angle measurement.",
+      "The gyro indicates turn rate and the ball shows slip or skid, hence coordination.",
+      "Slip angle alone is not all it shows; the instrument also indicates turn rate.",
+      "Pitch and bank attitude are shown by attitude indicator, not turn-and-bank coordinator."
+    ]
+  },
+  "80-083": {
+    "topic": "Gyroscopic and integrated flight instruments",
+    "why": [
+      "The ball does not simply display the horizon's vertical; it indicates apparent vertical/coordination.",
+      "The slip indicator's ball shows apparent vertical, indicating slip or skid.",
+      "The ball is not a direct bank-angle indicator; the attitude indicator shows bank.",
+      "The gyro gives turn rate; the ball indicates coordination, not rate of turn."
+    ]
+  },
+  "80-084": {
+    "topic": "Gyroscopic and integrated flight instruments",
+    "why": [
+      "For a standard-rate two-minute turn, bank depends mainly on TAS, not IAS.",
+      "At a given two-minute turn rate, required bank depends chiefly on TAS.",
+      "Groundspeed includes wind and does not determine the required bank for a given turn rate.",
+      "CAS is not the relevant speed; TAS determines the bank needed for the turn rate."
+    ]
+  },
+  "80-085": {
+    "topic": "Gyroscopic and integrated flight instruments",
+    "why": [
+      "The bank's ball-to-right case in a right turn is corrected by reducing bank and increasing turn rate.",
+      "Reducing speed and increasing bank is not the correction specified for this ball displacement.",
+      "Increasing bank would worsen the excessive bank component in the bank's correction.",
+      "Reducing rate of turn is opposite the bank's required increase in turn rate."
+    ]
+  },
+  "80-086": {
+    "topic": "Gyroscopic and integrated flight instruments",
+    "why": [
+      "ADI combines attitude indication and flight-director cues, not HSI components.",
+      "An HSI combines directional-gyro heading with VHF navigation receiver course information.",
+      "Rate gyro and slip ball describe turn coordination, not HSI inputs.",
+      "The flight director is associated with ADI command cues, not the HSI's heading/nav combination."
+    ]
+  },
+  "80-087": {
+    "topic": "Engine, system and status annunciations",
+    "why": [
+      "Red generally signals a warning or limit requiring immediate attention, not future caution.",
+      "Blue is typically advisory, not the standard corrective-action-may-be-needed caution color.",
+      "Amber/orange indicates caution: corrective action may be needed.",
+      "Green normally means normal/within range, not a pending corrective action."
+    ]
+  },
+  "80-088": {
+    "topic": "Engine, system and status annunciations",
+    "why": [
+      "Recommended areas are not what a red line denotes.",
+      "Caution ranges are commonly yellow/amber, not the red line.",
+      "A red line marks an operational limitation that must not be exceeded.",
+      "Operational ranges may be shown by arcs; red identifies a limit, not a general operating area."
+    ]
+  },
+  "80-089": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "The figure shows a high wing with visible support struts, so it is more specific than an unbraced high wing.",
+      "A plain high-wing label omits the diagonal bracing visible between wing and fuselage.",
+      "The wing is not attached at mid-fuselage height in the illustrated configuration.",
+      "The wing is mounted high, not low on the fuselage."
+    ]
+  },
+  "80-090": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "A V-tail has two diagonal tail surfaces rather than a horizontal surface atop the fin.",
+      "The horizontal stabilizer is mounted on top of the vertical fin, identifying a T-tail.",
+      "The tail is not mounted low on the fuselage in this figure.",
+      "A cruciform tail attaches the horizontal tail partway up the fin, not at its top."
+    ]
+  },
+  "80-091": {
+    "topic": "Airframe, structure and loads",
+    "why": [
+      "The bank requires qualified-engineer inspection; pilot-only checks do not satisfy its keyed response.",
+      "The bank does not specify a two-pilot inspection after limitations are exceeded.",
+      "The bank's keyed requirement is qualified-engineer inspection before the next flight.",
+      "A duplicate inspection by two engineers is not the bank's stated requirement."
+    ],
+    "note": "(bank key) The bank's keyed inspection rule is aircraft- and limitation-specific; follow the applicable approved maintenance data."
+  },
+  "80-092": {
+    "topic": "Electrical system and hydraulics",
+    "why": [
+      "The bank identifies synthetic hydraulic oil, not mineral oil, for current aeroplane systems.",
+      "Vegetable oil is not the bank's current hydraulic-fluid answer.",
+      "Bio-oil is not the type specified by this bank item.",
+      "Synthetic oil is the bank's answer; fluid type remains system-specific and must match approved data."
+    ],
+    "note": "(bank key) Hydraulic fluid is type-specific; use the aircraft's approved specification."
+  },
+  "80-093": {
+    "topic": "Landing gear, steering, wheels and brakes",
+    "why": [
+      "The tail wheel does not normally house the aircraft's main wheel brakes.",
+      "The bank identifies brakes on the main wheels, not both nose and main gear.",
+      "The nose gear is not the sole location of the wheel-brake system.",
+      "Wheel brakes are installed at the main gear wheels in this bank item."
+    ]
+  },
+  "80-094": {
+    "topic": "Landing gear, steering, wheels and brakes",
+    "why": [
+      "The alignment mark does not measure tire tread wear.",
+      "The mark does not measure tire carcass operating pressure.",
+      "The paired tire/rim marking checks that the tire has not shifted relative to the rim.",
+      "The mark does not indicate the position of internal tire layers."
+    ]
+  },
+  "80-095": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Small single-engine piston aircraft normally use manual controls, not powered actuation.",
+      "Hydraulic pumps and actuators are not the normal small-aircraft control arrangement.",
+      "Rods and cables manually transmit control inputs in typical small single-engine aircraft.",
+      "Fly-by-wire electric actuation is not the normal arrangement for this aircraft class."
+    ]
+  },
+  "80-096": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "The bank's helicopter-specific effect of forward stick is faster cruise with increased sink rate.",
+      "Forward stick does not reduce speed in the bank's described cruise condition.",
+      "Sink rate increases rather than decreases when forward stick is applied without correction.",
+      "The bank says speed increases, not decreases, and sink rate increases."
+    ]
+  },
+  "80-097": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Primary controls are the aileron, elevator and rudder, not every movable aircraft part.",
+      "Flaps, slats and speedbrakes are secondary controls, not the complete primary set.",
+      "Aileron, elevator and rudder are the three primary flight controls.",
+      "This list combines primary and secondary controls rather than naming only primary controls."
+    ]
+  },
+  "80-098": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "A ground-adjustable tab is fixed in flight and is not simply set for CG-related trim.",
+      "This describes an adjustable in-flight trim tab, not a fixed ground-adjustable tab.",
+      "The tab is set to correct an inflight tendency, not optimize ground handling.",
+      "A ground-adjustable trim tab is a fixed metal tab bent on the ground to refine flight characteristics."
+    ]
+  },
+  "80-099": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "A balance tab deflects opposite to its associated control surface to reduce hinge force.",
+      "The balance tab does not move at a 90-degree angle to the control surface.",
+      "A 45-degree relation is not the defining balance-tab movement.",
+      "Moving in the same direction describes a different tab arrangement, not a balance tab."
+    ]
+  },
+  "80-100": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Trim is not used to increase adverse yaw; aileron design/coordination address that.",
+      "Trim does not move the aircraft centre of gravity; it relieves control force.",
+      "Trim balances the aircraft at a condition to reduce sustained control force.",
+      "Trim does not lock the flight controls; it adjusts their balance/force."
+    ]
+  },
+  "80-101": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Elevator, rudder and aileron are primary flight controls, not secondary devices.",
+      "This describes primary controls broadly, not the secondary-control examples requested.",
+      "This list combines primary and secondary controls rather than identifying secondary controls alone.",
+      "Flaps, leading-edge devices, spoilers/speedbrakes and trim systems are secondary controls."
+    ]
+  },
+  "80-102": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "A primer supplies fuel to assist starting; it is an auxiliary fuel-pumping device.",
+      "The primer is not a cockpit switch for engaging a turbocharger.",
+      "Mixture regulation is controlled by the mixture system, not the primer.",
+      "Fuel is metered at the carburettor discharge nozzle; the primer is separate and aids starting."
+    ]
+  },
+  "80-103": {
+    "topic": "Electrical system and hydraulics",
+    "why": [
+      "With alternator failure, instruments do not all instantly fail; the battery supplies power temporarily.",
+      "The battery continues to supply electrical loads until its capacity is depleted, so there is initially no change.",
+      "Alternator failure does not directly make the engine run roughly or cause knocking.",
+      "Electrical failure can affect multiple loads, not only high-power consumers; manage battery use."
+    ]
+  },
+  "80-104": {
+    "topic": "Electrical system and hydraulics",
+    "why": [
+      "EL is not the standard marking for direct-current powered instruments.",
+      "DC identifies instruments powered by direct current.",
+      "AL is not the marking for a direct-current supply.",
+      "CO is not the standard direct-current instrument marking."
+    ]
+  },
+  "80-105": {
+    "topic": "Piston engines and four-stroke cycle",
+    "why": [
+      "Horizontally opposed cylinders are the common small-aircraft and TMG arrangement.",
+      "Radial engines are not the common layout for small aircraft and motor gliders.",
+      "Inline engines exist but are not the commonly used arrangement asked for here.",
+      "V-type engines are not the usual small-aircraft/TMG cylinder arrangement."
+    ]
+  },
+  "80-106": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Wet grass parking is not the greatest condensation condition specified by the bank.",
+      "Cold apron parking is not the keyed condition for greatest humidity absorption.",
+      "Almost empty tanks contain more air space, increasing exposure to moisture condensation.",
+      "Nearly full tanks leave less air space and reduce the condition identified by the bank."
+    ]
+  },
+  "80-107": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Octane rating describes resistance to knock, not flame-front speed.",
+      "Fuel grade does not state the flame-front speed.",
+      "Ignition timing is adjusted by the ignition system, not represented by octane rating.",
+      "Combustion temperature is not what the octane number rates."
+    ]
+  },
+  "80-108": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Fuel delivery from tanks is handled by the fuel system; the carburettor mixes fuel and air.",
+      "The throttle affects power by controlling airflow, but that is not the carburettor's overall task.",
+      "Additional cooling fuel can be a mixture effect, not the carburettor's major task.",
+      "The carburettor's main purpose is to produce a combustible air/fuel mixture for the engine."
+    ]
+  },
+  "80-109": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "The bank's most-likely range is −5°C to +20°C; icing is possible with cool, moist air.",
+      "This option includes colder temperatures but omits the bank's +10°C to +20°C range.",
+      "The bank's keyed range extends to +20°C, beyond this option's +5°C limit.",
+      "The bank's range begins at −5°C, not −15°C, and extends above zero."
+    ],
+    "note": "(bank key) The keyed range is a likelihood cue, not a hard boundary; carburettor icing can occur across broader conditions."
+  },
+  "80-110": {
+    "topic": "Oil, cooling, engine instruments and propeller",
+    "why": [
+      "The bank's CHT reading is associated with the critical cylinder, not every cylinder.",
+      "It is not a random cylinder; the instrument monitors the selected critical cylinder.",
+      "CHT indication is for the critical cylinder in the bank's description.",
+      "A critical-cylinder reading is not the average temperature of all cylinders."
+    ]
+  },
+  "80-111": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "Piston helicopter engines normally have dual ignition, not one magneto system.",
+      "The two ignition systems are not simply one electrical ignition system.",
+      "The systems are independent, not coupled together as a single ignition system.",
+      "Two independent ignition systems provide redundancy, commonly through separate magnetos and plugs."
+    ]
+  },
+  "80-112": {
+    "topic": "Oil, cooling, engine instruments and propeller",
+    "why": [
+      "The blade angle between chord and plane of rotation is its angle of incidence/pitch.",
+      "Angle of attack is between chord and local airflow, not the plane of rotation.",
+      "Geometric twist is a spanwise change in blade angle, not this local angle.",
+      "Aerodynamic twist is not the angle between blade chord and rotation plane."
+    ]
+  },
+  "80-113": {
+    "topic": "Oil, cooling, engine instruments and propeller",
+    "why": [
+      "Power increase is not begun by decreasing manifold pressure.",
+      "RPM should be increased before manifold pressure, not decreased first.",
+      "The bank's safe increase sequence is RPM first, then manifold pressure/throttle.",
+      "Increasing RPM after manifold pressure risks high MAP at low RPM; reverse the order."
+    ]
+  },
+  "80-114": {
+    "topic": "Oil, cooling, engine instruments and propeller",
+    "why": [
+      "Reduce manifold pressure first, then reduce RPM; this order starts with the wrong control.",
+      "Increasing RPM while reducing power is not the required two-step sequence.",
+      "The bank sequence reduces manifold pressure first, then RPM; this option reverses it.",
+      "Power decrease sequence is throttle/MAP down first, followed by RPM down."
+    ]
+  },
+  "80-115": {
+    "topic": "Piston engines and four-stroke cycle",
+    "why": [
+      "A naturally aspirated carburettor engine loses power as air density falls with altitude.",
+      "Power does not begin increasing above 5,000 ft; reduced air mass lowers output.",
+      "Increasing altitude reduces available air and engine power, rather than increasing it.",
+      "With altitude, less air enters a naturally aspirated engine, so power decreases."
+    ]
+  },
+  "80-116": {
+    "topic": "Carburettor, induction, fuel and ignition",
+    "why": [
+      "With ignition switched OFF, RPM falls, then returns to its former value on BOTH.",
+      "A grounded magneto switch cuts ignition briefly, reducing RPM; BOTH restores the original value.",
+      "RPM falls when OFF rather than increasing, then recovers on BOTH.",
+      "When switched back to BOTH, RPM should return to the previous value, not remain lower."
+    ]
+  },
+  "80-117": {
+    "topic": "Engine, system and status annunciations",
+    "why": [
+      "Each listed instrument senses pressure, including oil/fuel/MAP, altimeter, VSI, ASI and suction.",
+      "Fuel quantity is a level/quantity measurement, not pressure; this set includes it.",
+      "Directional gyro and turn coordinator are gyro instruments, not pressure-measuring devices.",
+      "The magnetic compass is magnetic, not pressure-operated; the other examples include pressure instruments."
+    ]
+  },
+  "80-118": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "A flight level is an altitude surface referenced to standard pressure, i.e. pressure altitude.",
+      "Density altitude corrects pressure altitude for temperature, not the definition of a flight level.",
+      "A flight level is not a height above ground; it uses the standard pressure datum.",
+      "True altitude is corrected for temperature; a flight level is based on standard pressure."
+    ]
+  },
+  "80-119": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "In colder-than-ISA air, true altitude is lower than indicated; the indication is too high.",
+      "The indicated altitude is not lower; cold air makes the aircraft's true altitude lower than indicated.",
+      "Cold-temperature error means indicated and true altitude are not equal.",
+      "Standard altitude is a pressure reference, not the cold-air true-altitude relationship."
+    ]
+  },
+  "80-120": {
+    "topic": "Altimeter, altitude references and VSI",
+    "why": [
+      "At ISA temperature with QNH set, indicated altitude is approximately true altitude.",
+      "Correct QNH at ISA makes indicated altitude equal to true, not lower.",
+      "ISA is the temperature condition, not the altitude reading's definition.",
+      "With correct QNH and ISA conditions, the altimeter does not over-read true altitude."
+    ]
+  },
+  "80-121": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "A pulled circuit breaker may disable equipment but does not normally alter sensed airspeed.",
+      "An earth/bond wire left attached does not by itself cause erroneous airspeed indication.",
+      "A boost-pressure line is not the ASI's pitot-static pressure input.",
+      "Adhesive covering can disrupt pitot/static airflow or ports and cause erroneous ASI indication."
+    ]
+  },
+  "80-122": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "The yellow arc is the caution range for smooth air, not the red-line limit.",
+      "Flap-extended speed is VFE at the white-arc limit, not the red range.",
+      "The red line indicates VNE, never-exceed speed under any circumstances.",
+      "The red limit does not apply only to turns above a specified bank angle."
+    ]
+  },
+  "80-123": {
+    "topic": "Magnetic compass",
+    "why": [
+      "Deviation is caused by aircraft magnetic fields, not Earth's dip angle.",
+      "Acceleration produces compass error, but dip is caused by magnetic-field inclination.",
+      "Dip error results from inclination of Earth's magnetic field lines to the horizontal.",
+      "Temperature variation is not the cause of compass dip error."
+    ]
+  },
+  "80-124": {
+    "topic": "Gyroscopic and integrated flight instruments",
+    "why": [
+      "Gyroscopic precession is approximately 90°, not 45°, from the applied force.",
+      "Precession direction depends on gyro rotation and applied force, not simply north.",
+      "A spinning gyro responds about 90° from an applied force in the direction of rotation.",
+      "A 180° response is opposite the force, not the gyro's precession rule."
+    ]
+  },
+  "80-125": {
+    "topic": "Pitot-static system and airspeed",
+    "why": [
+      "The bank requires a serviceable airspeed indicator; GPS groundspeed is not a substitute.",
+      "GPS shows groundspeed, not required airspeed, and does not replace a failed ASI.",
+      "Availability of a maintenance organisation does not make an unserviceable ASI acceptable.",
+      "Restricting flight to circuits does not remove the required airspeed indication."
+    ]
+  },
+  "80-126": {
+    "topic": "Gyroscopic and integrated flight instruments",
+    "why": [
+      "An ADI combines the attitude indicator with flight-director command information.",
+      "Directional and rate gyros are not the ADI's defining combination.",
+      "A relative-bearing indicator is not part of the ADI combination.",
+      "An RMI is not the ADI's flight-director command component."
+    ]
+  },
+  "80-127": {
+    "topic": "Gyroscopic and integrated flight instruments",
+    "why": [
+      "HSI expands to Horizontal Situation Indicator.",
+      "Hybernating System Indication is not an aviation instrument acronym.",
+      "Horizontal Slip Indicator is not the expansion of HSI.",
+      "This humorous phrase is not the accepted instrument name."
+    ]
+  },
+  "80-128": {
+    "topic": "Axes, primary and secondary controls",
+    "why": [
+      "Winglets are not primarily used to increase gliding performance at high speed.",
+      "Winglets do not increase lift or turning manoeuvring capability as their purpose.",
+      "They may improve effective aspect ratio, but the bank's direct aerodynamic effect is reduced induced drag.",
+      "Winglets weaken wingtip vortices and reduce induced drag."
+    ]
+  }
+}

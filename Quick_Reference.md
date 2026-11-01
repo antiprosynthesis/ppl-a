@@ -18,4 +18,12 @@ The quick reference is split into **nine subject cheat sheets**, built from the 
 
 Open [`flashcards.html`](flashcards.html) in a browser (download it from GitHub first; GitHub does not run HTML pages). It has 1,300+ flip cards across all nine subjects, most with a diagram. Filter by subject and topic, shuffle, and mark cards "Know it" / "Again" (progress is saved in your browser). Keyboard: Space = flip, ←/→ = navigate, 1 = Again, 2 = Know it. The card data lives in `flashcards/*.json`; rebuild the page with `python3 flashcards/build.py`.
 
+## Quiz app
+
+`docs/quiz.html` has all 902 questions. Pick one or more subjects and get 20 random questions. Wrong answers are explained, and the summary shows the score per subject and the sub-topics to re-study. Questions come from `quiz/questions/*.json`, explanations from `quiz/explanations/*.json`; rebuild with `python3 quiz/build.py`.
+
+**Hosting:** after merging to `main`, enable GitHub Pages (Settings → Pages → Deploy from branch → `main` / `/docs`). The quiz is then at `https://jonathanva.github.io/ppl-a/quiz.html`.
+
+**Saving reports:** "Download .md" always works; commit the file to `reports/`. "Save to repo" commits it directly: open ⚙️ in the quiz and paste a fine-grained token (this repo only, Contents: read & write). The token stays in your browser only.
+
 Where the lesson material and the question bank disagree, the sheets follow the bank and flag the difference. These are rapid-recall aids, not substitutes for current regulations, the State AIP, or your aircraft's POH/AFM. Check units, sign conventions, and local procedures before applying a formula or rule.

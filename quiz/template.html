@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PPL(A) Quiz Trainer</title>
+<style>
+  :root { --bg:#0f1419; --card:#1a2129; --line:#2c3744; --fg:#e6edf3; --muted:#8b98a5; --accent:#4f9dff; --ok:#3fb950; --bad:#f85149; --warn:#d29922; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif; line-height:1.5; }
+  .wrap { max-width:820px; margin:0 auto; padding:18px 14px 70px; }
+  h1 { font-size:22px; margin:6px 0 4px; } h2 { font-size:18px; margin:22px 0 8px; }
+  .muted { color:var(--muted); font-size:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; margin:14px 0; }
+  button { font:inherit; color:var(--fg); background:#243044; border:1px solid #33425a; border-radius:10px; padding:10px 16px; cursor:pointer; }
+  button:hover:not(:disabled) { border-color:var(--accent); }
+  button.primary { background:var(--accent); color:#06121f; border-color:var(--accent); font-weight:600; }
+  button:disabled { opacity:.45; cursor:not-allowed; }
+  .subjects { display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:8px; }
+  label.sub { display:flex; gap:10px; align-items:center; padding:10px 12px; border:1px solid var(--line); border-radius:10px; cursor:pointer; background:#151c24; }
+  label.sub:has(input:checked) { border-color:var(--accent); background:#162338; }
+  label.sub small { margin-left:auto; color:var(--muted); }
+  .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-top:12px; }
+  .bar { height:8px; background:#243044; border-radius:4px; overflow:hidden; }
+  .bar > div { height:100%; background:var(--accent); transition:width .2s; }
+  .qhead { display:flex; justify-content:space-between; color:var(--muted); font-size:13px; margin-bottom:8px; }
+  .qtext { font-size:19px; white-space:pre-wrap; margin:10px 0 14px; }
+  .qimg { background:#fff; border-radius:10px; padding:8px; max-width:100%; display:block; margin:0 auto 14px; }
+  .opt { display:block; width:100%; text-align:left; margin:8px 0; padding:12px 14px; background:#151c24; border:1px solid var(--line); border-radius:10px; }
+  .opt.ok { border-color:var(--ok); background:#12281b; }
+  .opt.bad { border-color:var(--bad); background:#2c1517; }
+  .opt .why { display:block; margin-top:6px; font-size:14px; color:#d0d7de; }
+  .opt .tag { font-weight:700; margin-right:6px; }
+  .note { margin-top:10px; padding:10px 12px; background:#2a2414; border-left:4px solid var(--warn); border-radius:6px; font-size:14px; }
+  .verdict { font-weight:700; margin:10px 0 2px; }
+  .verdict.ok { color:var(--ok); } .verdict.bad { color:var(--bad); }
+  table { width:100%; border-collapse:collapse; font-size:14px; }
+  th, td { text-align:left; padding:7px 8px; border-bottom:1px solid var(--line); vertical-align:top; }
+  .pill { display:inline-block; padding:1px 8px; border-radius:10px; font-size:12px; font-weight:700; }
+  .pill.ok { background:#12281b; color:var(--ok); } .pill.mid { background:#2a2414; color:var(--warn); } .pill.bad { background:#2c1517; color:var(--bad); }
+  .score { font-size:42px; font-weight:800; }
+  a { color:var(--accent); }
+  input[type=text], input[type=password] { width:100%; background:#0f1419; color:var(--fg); border:1px solid var(--line); border-radius:8px; padding:8px; font:inherit; margin:4px 0 8px; }
+  details summary { cursor:pointer; color:var(--accent); }
+  .hide { display:none; }
+  kbd { background:#243044; border:1px solid #33425a; border-radius:4px; padding:0 5px; font-size:12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<section id="start">
+  <h1>✈️ PPL(A) Quiz Trainer</h1>
+  <div class="muted">Pick one or more subjects. Each quiz has <b>20 random questions</b>. Wrong answers are explained, and the summary tells you which sub-topics to re-study.</div>
+  <div class="card">
+    <div class="row" style="margin:0 0 10px"><b>Subjects</b>
+      <button id="all">Select all</button><button id="none">Clear</button></div>
+    <div class="subjects" id="subjects"></div>
+    <div class="row">
+      <label><input type="checkbox" id="focus"> Prioritise questions I got wrong before</label>
+    </div>
+    <div class="row">
+      <button class="primary" id="go" disabled>Start 20-question quiz</button>
+      <span class="muted" id="poolinfo"></span>
+    </div>
+  </div>
+  <div class="card" id="weak" hidden></div>
+  <details class="card"><summary>⚙️ Save reports to the GitHub repo (optional)</summary>
+    <p class="muted">A web page cannot write to your repo by itself. Either download the report and commit it, or paste a <b>fine-grained personal access token</b> (only this repository, permission <i>Contents: read &amp; write</i>) and the quiz will commit the report into <code>reports/</code> for you. The token is stored only in this browser (localStorage).</p>
+    <label class="muted">Repository (owner/name)<input type="text" id="cfgRepo" value="jonathanva/ppl-a"></label>
+    <label class="muted">Branch<input type="text" id="cfgBranch" value="main"></label>
+    <label class="muted">Token<input type="password" id="cfgToken" placeholder="github_pat_..."></label>
+    <button id="cfgSave">Save settings</button> <button id="cfgClear">Remove token</button>
+  </details>
+</section>
+
+<section id="quiz" class="hide">
+  <div class="bar"><div id="prog"></div></div>
+  <div class="card">
+    <div class="qhead"><span id="qsub"></span><span id="qcount"></span><span id="qscore"></span></div>
+    <img id="qimg" class="qimg hide" alt="">
+    <div class="qtext" id="qtext"></div>
+    <div id="opts"></div>
+    <div id="feedback"></div>
+    <div class="row"><button class="primary hide" id="next">Next →</button><span class="muted hide" id="keys">Keys: <kbd>1</kbd>–<kbd>4</kbd> answer · <kbd>Enter</kbd> next</span></div>
+  </div>
+  <button id="quit">Quit quiz</button>
+</section>
+
+<section id="result" class="hide"></section>
+
+</div>
+<script>
+const BANK = /*__DATA__*/[];
+const REPO_URL = 'https://github.com/jonathanva/ppl-a/blob/main/';
+const N = 20;
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const shuffle = a => { for (let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; };
+const HKEY = 'ppl-quiz-history-v1', CKEY = 'ppl-quiz-config-v1';
+const history = () => JSON.parse(localStorage.getItem(HKEY) || '{"runs":[],"wrong":{}}');
+let quiz = null;
+
+/* ---------- start screen ---------- */
+BANK.forEach((s,i) => {
+  const l = document.createElement('label'); l.className = 'sub';
+  l.innerHTML = `<input type="checkbox" value="${i}"> ${esc(s.subject)} <small>${s.questions.length} q</small>`;
+  $('subjects').appendChild(l);
+});
+const boxes = () => [...document.querySelectorAll('#subjects input')];
+function updateStart() {
+  const sel = boxes().filter(b => b.checked);
+  const n = sel.reduce((t,b) => t + BANK[+b.value].questions.length, 0);
+  $('go').disabled = !sel.length;
+  $('go').textContent = `Start ${Math.min(N, n)}-question quiz`;
+  $('poolinfo').textContent = sel.length ? `${n} questions in pool from ${sel.length} subject${sel.length>1?'s':''}` : 'Select at least one subject';
+}
+boxes().forEach(b => b.onchange = updateStart);
+$('all').onclick = () => { boxes().forEach(b => b.checked = true); updateStart(); };
+$('none').onclick = () => { boxes().forEach(b => b.checked = false); updateStart(); };
+
+function showWeak() {
+  const h = history(); const agg = {};
+  h.runs.forEach(r => Object.entries(r.topics).forEach(([k,v]) => { agg[k] = agg[k] || [0,0]; agg[k][0] += v[0]; agg[k][1] += v[1]; }));
+  const rows = Object.entries(agg).filter(([,v]) => v[1] >= 2).map(([k,v]) => [k, v[0]/v[1], v[1]]).sort((a,b) => a[1]-b[1]).slice(0,8);
+  if (!rows.length) { $('weak').hidden = true; return; }
+  $('weak').hidden = false;
+  $('weak').innerHTML = `<b>📉 Your weakest sub-topics so far</b> <span class="muted">(${h.runs.length} quizzes taken, this browser)</span><table>` +
+    rows.map(([k,p,n]) => `<tr><td>${esc(k)}</td><td>${Math.round(p*100)}% of ${n}</td></tr>`).join('') + '</table>';
+}
+
+/* ---------- build & run quiz ---------- */
+function buildPool(sel, focus) {
+  const wrong = history().wrong;
+  const per = sel.map(i => shuffle(BANK[i].questions.map(q => ({...q, subject: BANK[i].subject, code: BANK[i].code}))));
+  if (focus) per.forEach(p => p.sort((a,b) => (wrong[b.id]||0) - (wrong[a.id]||0) || Math.random()-.5));
+  const out = []; let k = 0;
+  while (out.length < N && per.some(p => p.length)) { const p = per[k++ % per.length]; if (p.length) out.push(p.shift()); }
+  return shuffle(out);
+}
+function start() {
+  const sel = boxes().filter(b => b.checked).map(b => +b.value);
+  const qs = buildPool(sel, $('focus').checked);
+  quiz = { qs, i: 0, answers: [], started: new Date(), subjects: sel.map(i => BANK[i].subject) };
+  $('start').classList.add('hide'); $('result').classList.add('hide'); $('quiz').classList.remove('hide');
+  render();
+}
+function render() {
+  const q = quiz.qs[quiz.i];
+  q.order = shuffle(q.options.map((_, k) => k));
+  $('prog').style.width = (quiz.i / quiz.qs.length * 100) + '%';
+  $('qsub').textContent = `${q.subject} · ${q.topic || 'General'}`;
+  $('qcount').textContent = `Question ${quiz.i+1}/${quiz.qs.length}`;
+  $('qscore').textContent = `Score ${quiz.answers.filter(a => a.ok).length}/${quiz.answers.length}`;
+  $('qtext').textContent = q.q;
+  const img = $('qimg'); if (q.image) { img.src = q.image; img.classList.remove('hide'); } else img.classList.add('hide');
+  $('opts').innerHTML = ''; $('feedback').innerHTML = '';
+  q.order.forEach((oi, pos) => {
+    const b = document.createElement('button'); b.className = 'opt'; b.dataset.oi = oi;
+    b.innerHTML = `<span class="tag">${'ABCD'[pos]}</span>${esc(q.options[oi])}<span class="why"></span>`;
+    b.onclick = () => choose(oi);
+    $('opts').appendChild(b);
+  });
+  $('next').classList.add('hide'); $('keys').classList.remove('hide'); $('keys').classList.remove('hide');
+  $('next').textContent = quiz.i === quiz.qs.length - 1 ? 'Finish ✔' : 'Next →';
+}
+function choose(oi) {
+  const q = quiz.qs[quiz.i];
+  if (quiz.answers.length > quiz.i) return;
+  const ok = oi === q.correct;
+  quiz.answers.push({ q, chosen: oi, ok });
+  const why = q.why || [];
+  [...$('opts').children].forEach(b => {
+    const k = +b.dataset.oi; b.disabled = true;
+    const w = b.querySelector('.why');
+    if (k === q.correct) { b.classList.add('ok'); if (why[k]) w.textContent = '✔ ' + why[k]; }
+    else if (k === oi) { b.classList.add('bad'); w.textContent = '✘ ' + (why[k] || 'This is not the keyed answer.'); }
+  });
+  let fb = `<div class="verdict ${ok?'ok':'bad'}">${ok ? '✅ Correct!' : '❌ Not quite.'}</div>`;
+  if (!ok) fb += `<div class="muted">Correct answer: <b>${esc(q.options[q.correct])}</b></div>`;
+  if (q.note) fb += `<div class="note">💡 ${esc(q.note)}</div>`;
+  const others = q.options.map((_, k) => k).filter(k => k !== q.correct && k !== oi && why[k]);
+  if (others.length) fb += `<details style="margin-top:8px"><summary>Why the other options are wrong</summary>` +
+    others.map(k => `<p><b>${esc(q.options[k])}</b><br><span class="muted">${esc(why[k])}</span></p>`).join('') + `</details>`;
+  $('feedback').innerHTML = fb;
+  $('qscore').textContent = `Score ${quiz.answers.filter(a => a.ok).length}/${quiz.answers.length}`;
+  $('next').classList.remove('hide');
+  $('next').focus();
+}
+function next() {
+  if (quiz.answers.length <= quiz.i) return;
+  if (quiz.i === quiz.qs.length - 1) return finish();
+  quiz.i++; render(); window.scrollTo(0, 0);
+}
+
+/* ---------- summary ---------- */
+function stats() {
+  const by = (keyFn) => { const m = {}; quiz.answers.forEach(a => { const k = keyFn(a.q); m[k] = m[k] || {ok:0,n:0,qs:[]}; m[k].n++; if (a.ok) m[k].ok++; else m[k].qs.push(a); }); return m; };
+  return { subj: by(q => q.subject), topic: by(q => `${q.subject} › ${q.topic || 'General'}`) };
+}
+const pill = p => `<span class="pill ${p >= .85 ? 'ok' : p >= .6 ? 'mid' : 'bad'}">${Math.round(p*100)}%</span>`;
+function codeOf(subject) { return BANK.find(b => b.subject === subject).code; }
+
+function reportMarkdown() {
+  const total = quiz.answers.length, ok = quiz.answers.filter(a => a.ok).length, s = stats();
+  const d = quiz.started.toISOString().slice(0,16).replace('T', ' ');
+  let m = `# PPL(A) quiz report — ${d}\n\n**Subjects:** ${quiz.subjects.join(', ')}  \n**Score:** ${ok}/${total} (${Math.round(ok/total*100)}%)\n\n## By subject\n\n| Subject | Score | % |\n|---|---|---|\n`;
+  Object.entries(s.subj).forEach(([k,v]) => m += `| ${k} | ${v.ok}/${v.n} | ${Math.round(v.ok/v.n*100)}% |\n`);
+  const weak = Object.entries(s.topic).filter(([,v]) => v.ok < v.n).sort((a,b) => a[1].ok/a[1].n - b[1].ok/b[1].n);
+  m += `\n## Sub-topics to re-study\n\n`;
+  if (!weak.length) m += `None — perfect score. 🎉\n`;
+  else { m += `| Sub-topic | Score | Cheat sheet |\n|---|---|---|\n`; weak.forEach(([k,v]) => { const subj = k.split(' › ')[0]; m += `| ${k} | ${v.ok}/${v.n} | [quick-reference/${codeOf(subj)}.md](../quick-reference/${codeOf(subj)}.md) |\n`; }); }
+  const missed = quiz.answers.filter(a => !a.ok);
+  if (missed.length) {
+    m += `\n## Missed questions\n\n`;
+    missed.forEach((a, i) => { const q = a.q;
+      m += `${i+1}. **${q.q.replace(/\n/g,' ')}** _(${q.id}, ${q.topic || 'General'})_  \n   - Your answer: ${q.options[a.chosen]}  \n   - Why wrong: ${(q.why||[])[a.chosen] || '—'}  \n   - Correct: ${q.options[q.correct]}${(q.why||[])[q.correct] ? ' — ' + q.why[q.correct] : ''}\n`;
+      if (q.note) m += `   - Remember: ${q.note}\n`;
+    });
+  }
+  return m;
+}
+function saveHistory() {
+  const h = history(), s = stats(), topics = {};
+  Object.entries(s.topic).forEach(([k,v]) => topics[k] = [v.ok, v.n]);
+  quiz.answers.forEach(a => { if (!a.ok) h.wrong[a.q.id] = (h.wrong[a.q.id]||0) + 1; else if (h.wrong[a.q.id]) h.wrong[a.q.id] = Math.max(0, h.wrong[a.q.id] - 1); });
+  h.runs.push({ date: quiz.started.toISOString(), score: quiz.answers.filter(a => a.ok).length, total: quiz.answers.length, topics });
+  h.runs = h.runs.slice(-200);
+  localStorage.setItem(HKEY, JSON.stringify(h));
+}
+function finish() {
+  $('quiz').classList.add('hide'); $('result').classList.remove('hide');
+  const total = quiz.answers.length, ok = quiz.answers.filter(a => a.ok).length, s = stats();
+  saveHistory();
+  const weak = Object.entries(s.topic).filter(([,v]) => v.ok < v.n).sort((a,b) => a[1].ok/a[1].n - b[1].ok/b[1].n);
+  let h = `<h1>Result</h1><div class="card"><div class="score">${ok}/${total} ${pill(ok/total)}</div><div class="muted">${esc(quiz.subjects.join(' · '))}</div></div>`;
+  h += `<h2>By subject</h2><div class="card"><table>` + Object.entries(s.subj).map(([k,v]) => `<tr><td>${esc(k)}</td><td>${v.ok}/${v.n}</td><td>${pill(v.ok/v.n)}</td></tr>`).join('') + `</table></div>`;
+  h += `<h2>📚 Sub-topics to re-study</h2><div class="card">`;
+  if (!weak.length) h += `Perfect score — nothing to re-study. 🎉`;
+  else h += `<table>` + weak.map(([k,v]) => { const subj = k.split(' › ')[0];
+      return `<tr><td>${esc(k.split(' › ')[1])}<br><span class="muted">${esc(subj)}</span></td><td>${v.ok}/${v.n}</td><td><a target="_blank" href="${REPO_URL}quick-reference/${codeOf(subj)}.md">cheat sheet</a> · <a target="_blank" href="${REPO_URL}lesson-notes/${codeOf(subj)}.md">lesson notes</a></td></tr>`; }).join('') + `</table>`;
+  h += `</div>`;
+  const missed = quiz.answers.filter(a => !a.ok);
+  if (missed.length) {
+    h += `<h2>Review your mistakes</h2>` + missed.map(a => { const q = a.q, w = q.why || [];
+      return `<div class="card"><div class="muted">${esc(q.subject)} · ${esc(q.topic||'General')}</div><div class="qtext" style="font-size:16px">${esc(q.q)}</div>
+        ${q.image ? `<img class="qimg" src="${esc(q.image)}" alt="">` : ''}
+        <div class="opt bad" style="cursor:default">✘ ${esc(q.options[a.chosen])}<span class="why">${esc(w[a.chosen] || '')}</span></div>
+        <div class="opt ok" style="cursor:default">✔ ${esc(q.options[q.correct])}<span class="why">${esc(w[q.correct] || '')}</span></div>
+        ${q.note ? `<div class="note">💡 ${esc(q.note)}</div>` : ''}</div>`; }).join('');
+  }
+  h += `<h2>Save this report</h2><div class="card"><div class="row" style="margin:0"><button id="dl">⬇ Download .md</button><button id="repo">☁ Save to repo (reports/)</button></div><div class="muted" id="saveMsg" style="margin-top:8px"></div></div>`;
+  h += `<div class="row"><button class="primary" id="again">New quiz</button></div>`;
+  $('result').innerHTML = h;
+  const name = `quiz-${quiz.started.toISOString().slice(0,16).replace(/[:T]/g,'-')}.md`;
+  $('dl').onclick = () => { const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([reportMarkdown()], {type:'text/markdown'})); a.download = name; a.click(); };
+  $('repo').onclick = () => saveToRepo(name);
+  $('again').onclick = () => { $('result').classList.add('hide'); $('start').classList.remove('hide'); showWeak(); window.scrollTo(0,0); };
+  window.scrollTo(0, 0);
+}
+
+/* ---------- save to repo via GitHub API ---------- */
+const cfg = () => JSON.parse(localStorage.getItem(CKEY) || '{}');
+async function saveToRepo(name) {
+  const c = cfg(), msg = $('saveMsg');
+  if (!c.token) { msg.textContent = 'No token configured. Open “Save reports to the GitHub repo” on the start screen, or use Download.'; return; }
+  msg.textContent = 'Saving…';
+  const bytes = new TextEncoder().encode(reportMarkdown());
+  let bin = ''; bytes.forEach(b => bin += String.fromCharCode(b));
+  try {
+    const r = await fetch(`https://api.github.com/repos/${c.repo}/contents/reports/${name}`, {
+      method: 'PUT',
+      headers: { Authorization: `Bearer ${c.token}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: `Add quiz report ${name}`, content: btoa(bin), branch: c.branch })
+    });
+    const j = await r.json();
+    msg.innerHTML = r.ok ? `✅ Saved: <a target="_blank" href="${esc(j.content.html_url)}">reports/${esc(name)}</a>` : `❌ ${esc(j.message || r.status)}`;
+  } catch (e) { msg.textContent = '❌ ' + e.message; }
+}
+const c0 = cfg(); if (c0.repo) { $('cfgRepo').value = c0.repo; $('cfgBranch').value = c0.branch; $('cfgToken').value = c0.token || ''; }
+$('cfgSave').onclick = () => { localStorage.setItem(CKEY, JSON.stringify({ repo: $('cfgRepo').value.trim(), branch: $('cfgBranch').value.trim(), token: $('cfgToken').value.trim() })); alert('Saved in this browser.'); };
+$('cfgClear').onclick = () => { localStorage.removeItem(CKEY); $('cfgToken').value = ''; };
+
+$('go').onclick = start; $('next').onclick = next;
+$('quit').onclick = () => { if (confirm('Quit this quiz?')) { $('quiz').classList.add('hide'); $('start').classList.remove('hide'); } };
+document.addEventListener('keydown', e => {
+  if (!quiz || $('quiz').classList.contains('hide') || e.target.tagName === 'INPUT') return;
+  if (e.key >= '1' && e.key <= '4') { const q = quiz.qs[quiz.i], pos = +e.key - 1; if (q.order[pos] !== undefined) choose(q.order[pos]); }
+  else if (e.key === 'Enter') next();
+});
+updateStart(); showWeak();
+</script>
+</body>
+</html>

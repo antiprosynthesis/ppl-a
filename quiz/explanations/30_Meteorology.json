@@ -1,0 +1,1292 @@
+{
+  "30-001": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Dry air is about 78% nitrogen, 21% oxygen, and 1% other gases.",
+      "This reverses the major gases: nitrogen, not oxygen, is about 78% of dry air.",
+      "Water vapour is variable and never makes up 78% of ordinary air.",
+      "Oxygen is about 21%, while nitrogen is about 78%; these proportions are reversed."
+    ]
+  },
+  "30-002": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Temperature usually increases above the tropopause in the stratosphere; it does not start decreasing there.",
+      "The tropopause is the transition boundary between the troposphere and stratosphere.",
+      "The mesosphere begins above the stratosphere, not at the tropopause.",
+      "This describes the stratosphere above the boundary, not the tropopause itself."
+    ]
+  },
+  "30-003": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Gpdam measures geopotential height, not temperature.",
+      "Fahrenheit is not the standard aviation temperature unit used in Europe and Africa.",
+      "Kelvin is a scientific absolute scale, not the unit in routine aviation weather reports.",
+      "European and African aviation meteorological temperatures are reported in degrees Celsius."
+    ]
+  },
+  "30-004": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Condensation releases latent heat into the surrounding air as cloud forms.",
+      "Stabilising air does not itself release latent heat; condensation does.",
+      "Descending air warms by compression rather than releasing latent heat through condensation.",
+      "Evaporation absorbs latent heat, so it cools rather than releases heat."
+    ]
+  },
+  "30-005": {
+    "topic": "Humidity and Stability",
+    "why": [
+      "Condensation releases latent heat, so saturated rising air cools more slowly than unsaturated air.",
+      "The saturated rate is not merely proportional to the dry rate; latent heat makes it smaller.",
+      "A saturated parcel cools more slowly, not more rapidly, than a dry parcel.",
+      "The rates differ because condensation releases latent heat; they are not equal."
+    ]
+  },
+  "30-006": {
+    "topic": "Humidity and Stability",
+    "why": [
+      "2°C/1000 ft is the approximate ISA environmental lapse rate, not the saturated parcel rate.",
+      "The exam mean saturated adiabatic rate is about 0.6°C per 100 m.",
+      "A zero lapse rate would mean no cooling, unlike saturated ascent.",
+      "1°C/100 m is the dry adiabatic rate; saturation lowers the cooling rate."
+    ]
+  },
+  "30-007": {
+    "topic": "Humidity and Stability",
+    "why": [
+      "2°C/1000 ft is the ISA environmental lapse rate, not the dry parcel rate.",
+      "An unsaturated parcel cools at about 1°C/100 m (3°C/1000 ft).",
+      "0.65°C/100 m is the ISA environmental rate.",
+      "0.6°C/100 m is the mean saturated rate, slower than the dry rate."
+    ]
+  },
+  "30-008": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Temperature decreasing with height is the normal tropospheric lapse, not an inversion.",
+      "A constant temperature with height is an isothermal layer.",
+      "An inversion is specifically a layer where temperature increases with height.",
+      "Pressure normally decreases with height; that is not the definition of inversion."
+    ]
+  },
+  "30-009": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "ISA pressure at FL180 is about 500 hPa, not 700 hPa.",
+      "250 hPa occurs much higher than FL180 in the ISA.",
+      "850 hPa is a much lower altitude pressure level than FL180.",
+      "At FL180 (about 5500 m), ISA pressure is approximately 500 hPa."
+    ]
+  },
+  "30-010": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "1013.25 hPa is ISA sea-level pressure, not the pressure at FL180.",
+      "ISA pressure at FL180, about 5500 m, is approximately 500 hPa.",
+      "300 hPa is lower than the ISA pressure at FL180.",
+      "250 hPa is characteristic of a much higher level."
+    ]
+  },
+  "30-011": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "ISA starts at +15°C at MSL and is about −50°C at 10 km.",
+      "The ISA surface reference is +15°C, not +20°C, and 10 km is colder than −40°C.",
+      "Neither +30°C MSL nor −40°C at 10 km matches ISA.",
+      "The signs and vertical trend are reversed: tropospheric temperature decreases upward."
+    ]
+  },
+  "30-012": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "A 1 m³ cube at density 1.225 kg/m³ has mass 1.225 kg, not one tenth of that.",
+      "This is 100 times too small; mass equals density times volume.",
+      "Density is 1.225 kg/m³, so one cubic metre has mass 1.225 kg.",
+      "This is ten times too large; multiply 1.225 kg/m³ by 1 m³."
+    ]
+  },
+  "30-013": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "ISA MSL pressure is 1013.25 hPa, not 113.25 hPa.",
+      "Standard sea-level pressure is 1013.25 hPa.",
+      "15 hPa is far too low; 15 is the ISA temperature in °C.",
+      "1123 hPa is not the ISA standard pressure; the value is 1013.25 hPa."
+    ]
+  },
+  "30-014": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "The ISA tropopause is at 11 km, approximately 36,000 ft.",
+      "5,500 ft is far below the ISA tropopause.",
+      "11,000 ft is not 11,000 metres; the standard height is about 36,000 ft.",
+      "48,000 ft is substantially higher than the ISA tropopause."
+    ]
+  },
+  "30-015": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "The ISA tropopause is approximately 11,000 m, or 36,000 ft.",
+      "36,000 metres greatly overstates the standard tropopause height.",
+      "18,000 ft is about half the ISA tropopause height.",
+      "11,000 ft confuses metres with feet; the value is 11,000 m."
+    ]
+  },
+  "30-016": {
+    "topic": "Pressure and Altimetry",
+    "why": [
+      "A barometric altimeter converts pressure relative to the selected pressure datum into an indicated level.",
+      "MSL is indicated when the selected reference is QNH, not with every setting.",
+      "Height above ground requires a local reference such as QFE; it is not intrinsic.",
+      "Standard pressure is the datum only when QNE/1013.25 hPa is selected."
+    ]
+  },
+  "30-017": {
+    "topic": "Pressure and Altimetry",
+    "why": [
+      "QFE gives zero at its reference point, not the published field elevation.",
+      "QNE sets standard pressure and does not normally show zero at an elevated airfield.",
+      "QFF is a meteorological reduction, not the standard altimeter setting for this check.",
+      "Set QNH on the ground: the altimeter should indicate the published airfield elevation."
+    ]
+  },
+  "30-018": {
+    "topic": "Pressure and Altimetry",
+    "why": [
+      "QNH makes the altimeter indicate altitude above MSL, not QFE.",
+      "QFE makes the altimeter read height above the airfield pressure reference.",
+      "QFE zero is tied to the airfield reference, not true altitude above MSL.",
+      "QNE/1013.25 hPa is the standard-pressure datum, not QFE."
+    ]
+  },
+  "30-019": {
+    "topic": "Pressure and Altimetry",
+    "why": [
+      "7900 ft does not apply the bank’s combined QNH and cold-temperature corrections.",
+      "9400 ft is too high; QNH 983 hPa and ISA−10 require downward corrections.",
+      "7600 ft is the tempting pressure-only approximation; the bank expects the cold correction too.",
+      "FL85 = 8500 ft; QNH 983 is about 30 hPa below standard (≈900 ft), giving ≈7600 ft, then the bank’s ISA−10°C cold correction gives the keyed 7300 ft."
+    ],
+    "note": "7300 ft is the bank key; the result uses approximate pressure and cold-temperature corrections, so follow any supplied exam table."
+  },
+  "30-020": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "Above the friction layer, geostrophic wind flows parallel to straight isobars.",
+      "Crossing toward low pressure is typical of surface wind when friction weakens Coriolis balance.",
+      "Wind does not flow perpendicular to isobars in geostrophic balance.",
+      "Isohypses are height contours on pressure-level charts; this asks about a pressure gradient."
+    ]
+  },
+  "30-021": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "Smooth ocean generally produces less friction than rough mountainous terrain.",
+      "Rough mountains and vegetation create the greatest drag and reduce wind speed most.",
+      "Vegetation adds drag, but flat terrain is less obstructive than mountainous, vegetated terrain.",
+      "Flat barren land is relatively smooth and creates less drag than mountainous terrain."
+    ]
+  },
+  "30-022": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "Surface convergence forces air upward, rather than causing descent.",
+      "Converging surface air must rise; if moist, it can form cloud.",
+      "Descent and cloud dissipation are more consistent with divergence, not convergence.",
+      "Ascent is right, but moist rising air favours cloud formation, not dissipation."
+    ]
+  },
+  "30-023": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "Subsidence means sinking air, not horizontal air flowing apart.",
+      "Air flowing apart is divergence.",
+      "Convergence is air flowing together, the opposite motion.",
+      "“Concordence” is not the meteorological term for horizontal outflow."
+    ]
+  },
+  "30-024": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "Divergence means air spreading apart, the opposite of flow together.",
+      "Air flowing together is convergence.",
+      "“Soncordence” is not the meteorological term; use convergence.",
+      "Subsidence is downward motion, not horizontal inflow."
+    ]
+  },
+  "30-025": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "Head-on airflow converges and is forced to rise, not sink.",
+      "Divergence means flow apart, whereas head-on air masses converge.",
+      "Converging air cannot continue accumulating at the surface, so it is lifted.",
+      "Divergence does not describe meeting air masses; convergence causes ascent."
+    ]
+  },
+  "30-026": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "The subtropical high lies near 30° latitude, not where polar and subtropical air meet.",
+      "The equator is the ITCZ, not the polar-front boundary.",
+      "The geographic poles are not the mid-latitude polar front.",
+      "The polar front separates cold polar air from warmer subtropical air."
+    ]
+  },
+  "30-027": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "The polar front is associated with subpolar lows, not persistent subtropical highs.",
+      "Subtropical high-pressure belts commonly occur over oceans near 30° north and south.",
+      "Extensive lifting favours lower pressure, not high-pressure centres.",
+      "The equatorial region is generally a low-pressure convergence belt."
+    ]
+  },
+  "30-028": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "Subsidence is broad sinking motion, not a local uphill wind.",
+      "Daytime upslope flow is anabatic wind.",
+      "Convergent describes air flowing together, not a slope-following wind.",
+      "Katabatic wind flows downslope, usually at night."
+    ]
+  },
+  "30-029": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "Lee-side solar heating does not directly strengthen windward slope thermals.",
+      "Solar heating warms the windward slope by day and enhances upslope flow.",
+      "Warming aloft is not the local surface-heating mechanism.",
+      "Night-time radiative cooling produces downslope katabatic flow, not stronger upslope flow."
+    ]
+  },
+  "30-030": {
+    "topic": "Humidity and Stability",
+    "why": [
+      "Atmospheric water occurs as vapour, liquid droplets, and ice crystals.",
+      "This omits invisible water vapour and ice crystals.",
+      "All three phases—gaseous, liquid, and solid—occur in the atmosphere.",
+      "This omits ice, which occurs in cold clouds and precipitation."
+    ]
+  },
+  "30-031": {
+    "topic": "Humidity and Stability",
+    "why": [
+      "Spread is temperature minus dew point, called dew-point depression.",
+      "This defines relative humidity, not spread.",
+      "Maximum water-vapour capacity is saturation, not the temperature spread.",
+      "The spread is between air temperature and dew point, not two condensation labels."
+    ]
+  },
+  "30-032": {
+    "topic": "Humidity and Stability",
+    "why": [
+      "Warming increases the temperature–dew-point spread and lowers relative humidity if moisture is unchanged.",
+      "Spread grows with warming, but relative humidity falls rather than rises.",
+      "Both claims are wrong: spread increases and relative humidity decreases.",
+      "Warming changes the spread; it does not remain constant, and RH falls."
+    ]
+  },
+  "30-033": {
+    "topic": "Humidity and Stability",
+    "why": [
+      "Cooling with unchanged moisture makes RH rise and the spread shrink.",
+      "The spread decreases, rather than increases, as temperature approaches dew point.",
+      "This is correct: cooling raises relative humidity and reduces the spread.",
+      "Cooling does not increase spread; RH rises while spread decreases."
+    ]
+  },
+  "30-034": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Relative humidity rises toward 100%, not 0%, as cloud base is reached.",
+      "Cloud forms when the rising parcel cools to its own dew point.",
+      "An inversion may cap cloud growth but does not define the condensation level.",
+      "The parcel reaches its own dew point; environmental dew point is not the criterion."
+    ]
+  },
+  "30-035": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Thunderstorm and shower are weather phenomena, not the two broad cloud forms.",
+      "The basic structural distinction is convective cumulus versus layered stratiform cloud.",
+      "Ice clouds are a phase/family subset, not the broad counterpart to stratiform clouds.",
+      "Clouds are classified by form as cumulus and stratiform, not simply lifted."
+    ]
+  },
+  "30-036": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "The bank-keyed image shows detached, vertically developed cumulus cloud.",
+      "Cirrus are high, wispy ice clouds, unlike the keyed cumulus form.",
+      "Stratus is a uniform layer, not the keyed detached convective cloud.",
+      "“Altus” is not a cloud type; alto- denotes middle-level cloud forms."
+    ]
+  },
+  "30-037": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Stratus is a flat layer, not the bank-keyed high wispy cloud.",
+      "Cumulus has a cauliflower appearance, unlike the keyed cirrus.",
+      "Altocumulus forms middle-level patches or rolls, not high wisps.",
+      "The bank key identifies cirrus, the high, fibrous ice-cloud type."
+    ]
+  },
+  "30-038": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Spread helps locate the cloud base, not usually the cumulus top.",
+      "Relative humidity influences moisture but an inversion is the typical cap on vertical growth.",
+      "An inversion suppresses vertical motion and can limit cumulus cloud tops.",
+      "Absolute humidity alone does not impose the vertical cap that an inversion creates."
+    ]
+  },
+  "30-039": {
+    "topic": "Fog and Visibility",
+    "why": [
+      "A small temperature–dew-point spread and falling temperature bring air toward saturation.",
+      "Rising temperature generally enlarges the spread and reduces fog tendency.",
+      "Strong winds usually mix the air and are not the typical radiation-fog setup.",
+      "Low pressure is not the direct indicator; cooling toward dew point is."
+    ]
+  },
+  "30-040": {
+    "topic": "Fog and Visibility",
+    "why": [
+      "Haze consists of aerosols and is less directly sensitive to temperature than water-droplet fog.",
+      "Radiation fog forms by cooling to dew point, so temperature strongly affects it.",
+      "Patches of fog are water droplets and respond to temperature and mixing.",
+      "Mist consists of suspended water droplets, which are temperature-sensitive."
+    ]
+  },
+  "30-041": {
+    "topic": "Fog and Visibility",
+    "why": [
+      "A low spread favours saturation and fog; it does not prevent it.",
+      "Clear skies permit strong night-time radiative cooling and favour radiation fog.",
+      "Light or calm wind allows near-surface cooling and can favour radiation fog.",
+      "Overcast clouds reduce outgoing night-time radiation and can prevent radiation fog."
+    ]
+  },
+  "30-042": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Calm wind and sunlight alone do not grow precipitation particles; cloud dynamics matter.",
+      "Humidity and warmth alone do not ensure particles grow large enough to fall.",
+      "Moderate or strong updrafts support droplet/ice-particle growth to precipitation size.",
+      "An inversion suppresses vertical growth, making precipitation development less favourable."
+    ]
+  },
+  "30-043": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Strong updrafts keep particles aloft for growth and are required for larger precipitation particles.",
+      "An inversion caps vertical development rather than promoting precipitation growth.",
+      "Strong horizontal wind alone does not provide the necessary cloud updraft.",
+      "Cloud-base height is not the controlling requirement for particle growth."
+    ]
+  },
+  "30-044": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Central Europe is not influenced only by Arctic and polar air; tropical air also arrives.",
+      "Tropical and Arctic omits the major polar maritime/continental influences.",
+      "Equatorial air rarely directly dominates Central European weather.",
+      "Central Europe is mainly affected by polar cold and tropical warm air masses."
+    ]
+  },
+  "30-045": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Temperature at origin and present region alone does not describe source and route.",
+      "Environmental lapse rate is not the defining classification of an air mass.",
+      "Wind speed and tropopause height do not determine the air-mass identity.",
+      "Source region and subsequent track determine its properties and modification."
+    ]
+  },
+  "30-046": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Continental tropical air is hot, not the winter Russian source described.",
+      "Maritime tropical air originates over warm oceans and is moist.",
+      "Maritime polar air is cool and moist, not continental from Russia.",
+      "A Russian winter source is continental polar: cP."
+    ]
+  },
+  "30-047": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "The lower troposphere warms over spring/summer land; upper-layer warming is not the cause.",
+      "Increasing relative humidity alone does not explain the destabilisation.",
+      "A warmer surface heats the lower polar air and steepens the lapse rate, destabilising it.",
+      "Warming from below destabilises polar air rather than stabilising it."
+    ]
+  },
+  "30-048": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "A front aloft is not the bank-keyed surface warm-front symbol.",
+      "The keyed symbol is a warm front, shown by semicircles on one side.",
+      "Cold fronts use triangles, not the bank-keyed warm-front semicircles.",
+      "Occlusion uses alternating triangles and semicircles on the same side."
+    ]
+  },
+  "30-049": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Ci-to-Ns steady rain describes a typical warm-front sequence, not cold-front passage.",
+      "Calm dissipation or winter high fog is not the typical active cold-front band.",
+      "This describes a sea-breeze cycle, not a cold front.",
+      "Cold fronts bring a narrow band of Cb/showers, gusts, then Cu with isolated showers."
+    ]
+  },
+  "30-050": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "The bank-keyed symbol is a cold front, identified by triangles.",
+      "Occlusion shows both triangle and semicircle symbols on the same side.",
+      "A front aloft is not the keyed surface cold-front line.",
+      "Cold-front triangles point in the direction of movement."
+    ]
+  },
+  "30-051": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Clear skies and good visibility are not expected within the active frontal band.",
+      "Near a cold front, heavy showers, turbulence, possible thunderstorms, and moderate visibility are typical.",
+      "Visibility below 1 km with continuous precipitation is more characteristic of severe fog/warm-front conditions.",
+      "Isolated high cloud alone misses the cold-front showers and turbulence."
+    ]
+  },
+  "30-052": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "This could describe pre-frontal or settled conditions; post-front weather includes showers and Cu.",
+      "Behind a cold front, visibility often improves with Cu and isolated rain or snow showers.",
+      "Lowering cloud and prolonged precipitation are more typical ahead of a warm front.",
+      "Poor visibility and widespread stratus are not the usual post-cold-front pattern."
+    ]
+  },
+  "30-053": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "A front aloft is not the bank-keyed occluded surface front.",
+      "A warm front has semicircles only on one side.",
+      "Occlusion has alternating triangles and semicircles on the same side of the line.",
+      "A cold front has triangles, not both symbol types together."
+    ]
+  },
+  "30-054": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Seasonal northwest/southwest directions are not the usual polar-low track rule.",
+      "The low commonly moves parallel to the isobars in its warm sector.",
+      "The warm-front line is not the governing steering direction.",
+      "This seasonal directional claim is not the standard movement description."
+    ]
+  },
+  "30-055": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "The bank expects veering during passage of both fronts, not backing after the cold front.",
+      "The keyed rule is veering at passage of both warm and cold fronts.",
+      "Backing at both passages contradicts the bank’s expected veer.",
+      "The bank expects veering, not backing, during warm-front passage."
+    ],
+    "note": "For this bank question, interpret “during passage” as veering at both fronts; wind may back ahead of a warm front."
+  },
+  "30-056": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Cold air aloft destabilises the column and favours showers and thunderstorms.",
+      "Calm weather and lifted fog are not typical of an unstable upper trough.",
+      "A trough/cold pool aloft does not favour stable, widespread stratus as its main outcome.",
+      "Shallow Cu and calm wind understate the convection favoured by a trough."
+    ]
+  },
+  "30-057": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Cold air aloft increases instability and can trigger showers and thunderstorms.",
+      "Frontal weather requires a boundary between air masses; cold inflow aloft alone is not that.",
+      "Cold air aloft promotes instability rather than stabilisation.",
+      "It tends to build convection, not simply dissipate cloud."
+    ]
+  },
+  "30-058": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Squall lines and thunderstorms are not typical of widespread summer high pressure.",
+      "Nimbostratus and prolonged rain are not usual beneath a summer anticyclone.",
+      "Overcast low stratus is more associated with winter moisture trapped beneath an inversion.",
+      "Summer high pressure commonly allows scattered fair-weather cumulus."
+    ]
+  },
+  "30-059": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Widespread high fog is chiefly a winter anticyclone issue, not the summer pattern.",
+      "Summer high pressure brings subsidence, cloud dissipation, and perhaps a few high Cu.",
+      "Passing fronts describe unsettled weather rather than a settled high.",
+      "Squall lines and thunderstorms are not typical of broad summer high pressure."
+    ]
+  },
+  "30-060": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Widely spaced isobars mean weak gradient; local winds can dominate.",
+      "Small spacing means a strong gradient, inconsistent with calm local-wind conditions.",
+      "Tight isobars indicate strong winds, not a calm summer anticyclone.",
+      "Widely spaced isobars do not support strong prevailing westerlies."
+    ]
+  },
+  "30-061": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "Large isobar spacing means weak, not strong, prevailing wind.",
+      "A weak pressure gradient allows variable winds and local breezes to dominate.",
+      "Strong westerlies need a tighter gradient, not widely spaced isobars.",
+      "Local systems may form, but strong prevailing westerlies contradict the weak gradient."
+    ]
+  },
+  "30-062": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "Foehn develops when stable air is driven across a mountain ridge.",
+      "Calm high pressure does not force air over a ridge to create foehn.",
+      "Stability is relevant, but foehn also requires cross-ridge flow, not calm conditions.",
+      "Unstable air may produce convection; classic foehn involves stable cross-mountain flow."
+    ]
+  },
+  "30-063": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "Smooth Ns with steady precipitation fits stable layered ascent, not humid unstable convection.",
+      "Unstable moist air forced upslope can build embedded Cb, showers, hail, and thunderstorms.",
+      "Thin high cloud and light steady precipitation describe a layered warm-front process.",
+      "Low stratus without precipitation does not fit forced ascent of unstable humid air."
+    ]
+  },
+  "30-064": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "The keyed lee-side wave cloud is lenticularis, lens-shaped at a standing-wave crest.",
+      "Castellanus has turreted cloud tops and signals instability, not the wave-lens form.",
+      "Nimbostratus is a widespread precipitation layer, not a lee wave marker.",
+      "Cumulonimbus is a convective tower, unlike the keyed lenticular wave cloud."
+    ]
+  },
+  "30-065": {
+    "topic": "Icing and Turbulence",
+    "why": [
+      "Airframe icing is most likely in sub-zero cloud with supercooled liquid droplets, especially 0 to −12°C.",
+      "Very cold ice-crystal cloud alone lacks the supercooled liquid water needed for usual airframe accretion.",
+      "Clear air has no visible supercooled liquid water for airframe ice accretion.",
+      "The range includes above-freezing air and hail is not the required supercooled droplet condition."
+    ]
+  },
+  "30-066": {
+    "topic": "Icing and Turbulence",
+    "why": [
+      "At −20 to −40°C, supercooled liquid water is generally less prevalent than in the critical range.",
+      "The range includes above-freezing temperatures, which do not support airframe icing.",
+      "The most dangerous exam range is 0 to −12°C with supercooled droplets.",
+      "The range extends to +5°C; the key icing danger is near freezing in sub-zero air."
+    ]
+  },
+  "30-067": {
+    "topic": "Icing and Turbulence",
+    "why": [
+      "Stratiform cloud does not guarantee turbulence below it.",
+      "Thermal convection beneath cumulus causes turbulence below the cloud.",
+      "This is correct: thermals feeding cumulus commonly produce light turbulence beneath it.",
+      "An inversion can suppress vertical motion; it is not where turbulence must always occur."
+    ]
+  },
+  "30-068": {
+    "topic": "Icing and Turbulence",
+    "why": [
+      "Cu coverage alone does not make severe wind shear especially likely.",
+      "A nearby shower can produce downdrafts and a gust front, creating severe low-level shear.",
+      "Thirty minutes after a shower is not the specific high-risk situation given by the key.",
+      "Ci ahead of a warm front does not imply severe shear by itself."
+    ]
+  },
+  "30-069": {
+    "topic": "Thunderstorms",
+    "why": [
+      "Warm dry air plus a strong inversion suppresses convection and storm growth.",
+      "Thunderstorms favour warm humid air and conditional instability, with a lifting trigger.",
+      "Cold stable air under stratus is not the typical thunderstorm environment.",
+      "A clear cold night with fog lacks the warm, moist unstable conditions."
+    ]
+  },
+  "30-070": {
+    "topic": "Thunderstorms",
+    "why": [
+      "Thermal storms need instability plus warm, moist air; low temperature and humidity oppose them.",
+      "Absolute stability suppresses the vertical motion needed for a thermal storm.",
+      "High humidity helps, but absolute stability prevents convective storm development.",
+      "Thermal thunderstorms favour conditionally unstable air with warm, humid low levels."
+    ]
+  },
+  "30-071": {
+    "topic": "Thunderstorms",
+    "why": [
+      "Mature storms contain strong updrafts and downdrafts, with heavy precipitation and hazards.",
+      "The developing cumulus stage is dominated by updrafts, not both strong motions.",
+      "“Thunderstorm stage” is not the three-stage classification used here.",
+      "Downdrafts dominate the dissipating stage as updrafts weaken."
+    ]
+  },
+  "30-072": {
+    "topic": "Thunderstorms",
+    "why": [
+      "The mature stage has both updrafts and downdrafts.",
+      "The developing cumulus stage is dominated by strong updrafts.",
+      "“Upwind stage” is not a standard thunderstorm life-cycle stage.",
+      "Downdrafts dominate dissipation, not the growing stage."
+    ]
+  },
+  "30-073": {
+    "topic": "Thunderstorms",
+    "why": [
+      "Cabin depressurisation is not the main direct lightning hazard.",
+      "Lightning can overheat and damage the aircraft skin and exposed components.",
+      "Cockpit equipment does not ordinarily explode; electrical interference is a secondary effect.",
+      "Radio static may occur, but surface/exposed-part damage is the principal keyed danger."
+    ]
+  },
+  "30-074": {
+    "topic": "Thunderstorms",
+    "why": [
+      "Heavy shower and thunderstorm precipitation downdrafts cause strong low-level shear.",
+      "Radiation fog on a cold clear night does not produce convective downdrafts.",
+      "A sea breeze can cause a boundary but is not the specific heavy-downdraft hazard.",
+      "High flattened Cu without heavy showers is less likely to produce severe downdrafts."
+    ]
+  },
+  "30-075": {
+    "topic": "Thunderstorms",
+    "why": [
+      "Freezing rain is supercooled precipitation, not the spreading outflow from a storm downdraft.",
+      "An anvil forms from upper-level outflow, not the cold surface gust boundary.",
+      "Electrical discharge is lightning, not the surface wind boundary.",
+      "Cold downdraft air spreads outward at the surface as a gust front."
+    ]
+  },
+  "30-076": {
+    "topic": "Icing and Turbulence",
+    "why": [
+      "Lowest speed/max power is not the specific inversion hazard; follow aircraft procedures.",
+      "Leaving the warmer inversion layer can cause sudden loss of airspeed and climb performance.",
+      "The temperature and performance change on exit is downward, not an increase.",
+      "A ground inversion does not by itself mean airframe icing; icing needs visible supercooled water."
+    ]
+  },
+  "30-077": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "Windward ascent cools moist air, producing layered cloud, obscured mountains, poor visibility, and rain.",
+      "Calm high stratus is not the typical windward forced-lift effect.",
+      "Dissipation and gusty warming describe the lee-side descent, not windward weather.",
+      "Scattered Cu with storms is not the classic stable foehn windward pattern."
+    ]
+  },
+  "30-078": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "CAT is high-level clear-air turbulence, not the usual near-ground lee foehn feature.",
+      "An inversion can be turbulent but does not name the characteristic lee-side circulation.",
+      "Thermal turbulence is driven by surface heating, not mountain-wave rotors.",
+      "Lee-side rotor circulation produces the typical strong low-level foehn turbulence."
+    ]
+  },
+  "30-079": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "The windward side does not become the main rotor hazard merely because cloud is thick.",
+      "Low stratus does not indicate the severe lee-wave rotor turbulence described.",
+      "Unbroken cloud overhead alone does not indicate mountain-wave rotor turbulence.",
+      "Rotor clouds on the lee side mark moderate to severe turbulence."
+    ]
+  },
+  "30-080": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Satellite imagery shows broad cloud cover and frontal structure.",
+      "Turbulence and icing are inferred from forecasts/charts, not directly read from a basic satellite image.",
+      "Satellite imagery does not directly measure environmental temperature and dew point.",
+      "Flight visibility and ground contact are not directly determined from cloud imagery."
+    ]
+  },
+  "30-081": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Cloud-top temperature is obtained from IR, not the visible high-resolution channel.",
+      "HRV shows cloud patterns and particularly convective structures such as Cb.",
+      "Precipitation location/intensity is shown by radar, not HRV satellite imagery.",
+      "Pressure forecasts come from models, not the HRV channel."
+    ]
+  },
+  "30-082": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "IR measures cloud-top brightness temperature, helping infer cloud-top height.",
+      "Radar displays precipitation; IR imagery is not a precipitation forecast.",
+      "CAT cannot be directly identified or forecast from cloud-top IR temperatures.",
+      "IR indicates cloud tops, not cloud bases."
+    ]
+  },
+  "30-083": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "IR can infer cloud-top temperature; this is not the defining RGB feature.",
+      "RGB combines channels to distinguish cloud areas and characteristics.",
+      "Radar, not RGB satellite imagery, shows precipitation intensity.",
+      "Pressure-pattern forecasts are produced by NWP models, not satellite RGB."
+    ]
+  },
+  "30-084": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "RGB imagery is a channel composite, not a numerical forecast model.",
+      "This description improperly specifies radar; the stated RGB advantage is colour discrimination among cloud types/heights.",
+      "Visible channels do not provide night-time imagery simply by being combined; IR is night-capable.",
+      "Combining visual channels helps distinguish cloud types and altitudes more clearly than HRV alone."
+    ]
+  },
+  "30-085": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Ns is broad layered cloud, not compact isolated bright spots.",
+      "Compact single white spots on HRV commonly represent convective Cu or Cb.",
+      "Ci appears as semi-transparent streaks rather than compact spots.",
+      "St is a uniform layer, unlike isolated compact convective cells."
+    ]
+  },
+  "30-086": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Semi-transparent streaks on HRV commonly indicate thin cirrus.",
+      "Cb appears as dense convective cloud, not fine semi-transparent streaks.",
+      "Cu is usually compact and cellular, not a high wispy streak.",
+      "Ns forms a broad thick layer, not semi-transparent streaks."
+    ]
+  },
+  "30-087": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Ground radar reflectivity does not measure atmospheric temperature profiles.",
+      "Radar shows current echoes, not a forecast of cloud and precipitation.",
+      "Radar does not directly display cloud bases and tops as a vertical cloud profile.",
+      "Weather radar locates current precipitation and indicates its intensity."
+    ]
+  },
+  "30-088": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "GAFOR forecasts regional visibility and ceiling, not mapped precipitation echoes.",
+      "Satellite pictures show cloud fields, not the direct precipitation-area product asked for.",
+      "Wind charts depict wind at levels, not precipitation areas.",
+      "Radar pictures display areas of current precipitation."
+    ]
+  },
+  "30-089": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Radar detects hydrometeor echoes, not clouds as a complete field.",
+      "Weather radar detects and displays precipitation.",
+      "Pressure patterns are analysed on surface charts.",
+      "Temperature distribution requires observations or model/IR products, not radar reflectivity."
+    ]
+  },
+  "30-090": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Reflectivity does not directly show cloud base and top levels.",
+      "Echo strength chiefly depends on the size and nature of reflecting precipitation particles.",
+      "Temperature may affect phase but is not what reflectivity directly measures.",
+      "Radar reflectivity is not a direct measurement of particle altitude or vertical speed."
+    ]
+  },
+  "30-091": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Light steady rain is represented by weaker echoes, not orange/red intensity.",
+      "Drizzle and ice crystals usually produce weaker echoes than intense orange/red returns.",
+      "Orange/red echoes indicate intense showers, with hail or graupel possible.",
+      "Fog is not the strong precipitation echo represented by these colours."
+    ]
+  },
+  "30-092": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Blue is not part of the typical low-to-high green-yellow-orange-red sequence.",
+      "This reverses the usual order: green is weaker and red stronger.",
+      "Radar intensity commonly increases green, yellow, orange, then red.",
+      "This sequence omits the standard yellow/orange ordering and does not express increasing intensity."
+    ]
+  },
+  "30-093": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "“Scan” refers to radar sampling, not mosaicking local products.",
+      "“Combination” is not the standard term for the regional mosaic.",
+      "A composite combines local radar images into a larger-area display.",
+      "“Grid” is not the meteorological term for the radar mosaic."
+    ]
+  },
+  "30-094": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Surface charts show fronts and pressure, not detailed en-route CAT/storm hazard areas.",
+      "SWCs forecast significant flight hazards such as CAT and thunderstorm areas.",
+      "Hypsometric charts show pressure-surface heights, not the most precise hazard forecast.",
+      "Wind charts show winds at a specified level, not the full hazard picture."
+    ]
+  },
+  "30-095": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "A prognostic chart is a forecast, not an analysis of actual MSL pressure.",
+      "Surface charts show analysed MSL pressure centres, isobars, and fronts.",
+      "Hypsometric charts show pressure-level heights rather than surface MSL pressure.",
+      "Wind charts show winds at a specified altitude, not the surface pressure analysis."
+    ]
+  },
+  "30-096": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Surface charts show analysed pressure patterns and frontal positions.",
+      "Wind charts show winds, not the primary pressure/front analysis.",
+      "SWCs focus on significant flight hazards rather than the surface pressure pattern.",
+      "Hypsometric charts depict heights of pressure levels aloft, not surface fronts."
+    ]
+  },
+  "30-097": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "A prognostic chart forecasts conditions; it is not measured surface pressure.",
+      "Hypsometric charts show pressure-level heights aloft.",
+      "Surface weather charts display measured MSL pressure distribution and fronts.",
+      "SWCs depict aviation hazards, not the MSL pressure analysis."
+    ]
+  },
+  "30-098": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "Chart annotations may supplement data, but wind is inferred from isobar spacing and orientation.",
+      "Hypsometric lines are for pressure-level heights, not surface-chart wind derivation here.",
+      "Isobar orientation and spacing indicate wind direction and pressure-gradient strength.",
+      "Front lines mark boundaries; their alignment does not determine wind speed."
+    ]
+  },
+  "30-099": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "Widely spaced isobars indicate a weak pressure gradient and light prevailing wind.",
+      "A strong gradient is associated with close, not widely spaced, isobars.",
+      "Weak gradients do not produce strong prevailing winds.",
+      "Large spacing means a low gradient, not a strong one."
+    ]
+  },
+  "30-100": {
+    "topic": "Aviation Weather Reports",
+    "why": [
+      "ATIS broadcasts destination weather plus operational information during flight.",
+      "PIREP is a pilot report of encountered weather, not an aerodrome broadcast.",
+      "VOLMET broadcasts meteorological reports/forecasts, not full destination operational items.",
+      "SIGMET warns of significant en-route hazards, not aerodrome operational information."
+    ]
+  },
+  "30-101": {
+    "topic": "Aviation Weather Reports",
+    "why": [
+      "SHRA means rain showers, normally moderate when no intensity sign is present.",
+      "+TSRA means heavy thunderstorm rain, not simply moderate rain showers.",
+      "+RA is heavy continuous rain, not showers.",
+      "TS indicates thunderstorm, but without RA/SH it does not specifically designate rain showers."
+    ]
+  },
+  "30-102": {
+    "topic": "Aviation Weather Reports",
+    "why": [
+      "225° is southwest and the speed unit is knots, not km/h.",
+      "225° is southwest; 15 is in knots in this aviation wind format.",
+      "225° is southwest, not northeast.",
+      "The direction is southwest and the reported speed unit is knots."
+    ]
+  },
+  "30-103": {
+    "topic": "Aviation Weather Reports",
+    "why": [
+      "SIGMETs cover an FIR/UIR area, not an entire country as such.",
+      "SIGMET areas are not issued for one specific route only.",
+      "Airport weather is reported by METAR/TAF and ATIS, not SIGMET scope.",
+      "SIGMET warnings are issued for flight information regions or upper information regions."
+    ]
+  },
+  "30-104": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "NWP is not a precise airport cloud/visibility forecast out to 14 days.",
+      "Numerical forecast fields help visualize expected hazards along a planned route.",
+      "Actual destination conditions come from observations such as METAR, not NWP predictions.",
+      "Satellite imagery is observed remotely; NWP does not improve the image itself."
+    ]
+  },
+  "30-105": {
+    "topic": "Fog and Visibility",
+    "why": [
+      "Moist air forced upslope cools adiabatically to saturation, forming orographic fog.",
+      "Steaming fog forms when cold air passes over warmer water.",
+      "Radiation fog forms from surface cooling on a clear night, not forced ascent.",
+      "Advection fog forms as warm moist air crosses a colder surface, not hills lifting it."
+    ]
+  },
+  "30-106": {
+    "topic": "Thunderstorms",
+    "why": [
+      "Overdevelopment means cumulus grows vertically into rain showers.",
+      "An inversion can spread or cap Cu, but that is not overdevelopment.",
+      "Blue-to-cloudy thermals describe cumulus onset, not vertical growth to showers.",
+      "A thermal low deepening into a depression is not the aviation weather term."
+    ]
+  },
+  "30-107": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Most weather occurs in the troposphere, not the stratosphere.",
+      "The tropopause is a boundary, not the main weather layer.",
+      "The thermosphere is far above ordinary weather.",
+      "The troposphere contains almost all ordinary weather and hydrometeors."
+    ]
+  },
+  "30-108": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "ISA tropospheric temperature decreases about 2°C per 1000 ft.",
+      "Temperature decreases, not increases, with height through the troposphere.",
+      "2°C/100 m is much too steep; the ISA rate is about 0.65°C/100 m.",
+      "The rate is a decrease, not an increase, and per 100 m is about 0.65°C."
+    ]
+  },
+  "30-109": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Temperature decreasing with height is the normal lapse rate.",
+      "A boundary between atmospheric layers is not necessarily an inversion.",
+      "Constant temperature with height defines an isothermal layer.",
+      "An inversion is the layer where temperature increases with height."
+    ]
+  },
+  "30-110": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Increasing temperature with height is an inversion, not an isothermal layer.",
+      "Decreasing temperature with height is a lapse rate.",
+      "A boundary is a transition, not the definition of isothermal.",
+      "An isothermal layer has constant temperature with increasing height."
+    ]
+  },
+  "30-111": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "The ISA environmental lapse rate is about 0.65°C/100 m.",
+      "3°C/100 m is roughly the dry adiabatic rate, not the ISA environmental rate.",
+      "1°C/100 m is the dry adiabatic rate.",
+      "0.6°C/100 m is the saturated parcel rate, not ISA environmental lapse."
+    ]
+  },
+  "30-112": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Strong daytime heating destabilises from below; it does not typically make a subsidence inversion aloft.",
+      "Descending air in a high warms by compression and creates a subsidence inversion aloft.",
+      "Night-time ground cooling creates a shallow surface inversion, not typically at 5000 ft.",
+      "Cold-air advection aloft destabilises the column rather than forming this high inversion."
+    ]
+  },
+  "30-113": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Night-time ground radiation cooling chills the surface layer and creates a ground inversion.",
+      "Large-scale lifting cools air and is not the typical cause of a surface inversion.",
+      "Gusty wind mixes the boundary layer and tends to weaken a ground inversion.",
+      "Thickening mid-level cloud is not the direct cause of nocturnal ground inversion."
+    ]
+  },
+  "30-114": {
+    "topic": "Pressure and Altimetry",
+    "why": [
+      "QNH is pressure reduced to MSL using ISA, not actual conditions.",
+      "QNE is the standard 1013.25 hPa altimeter setting.",
+      "QFE is the pressure at the aerodrome reference, not reduced to MSL.",
+      "QFF is station pressure reduced to MSL using actual meteorological conditions."
+    ]
+  },
+  "30-115": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Lower temperature and higher pressure increase density, not decrease it.",
+      "Higher temperature and lower pressure both reduce air density.",
+      "Increasing pressure raises density, counteracting the temperature increase.",
+      "Lower pressure reduces density, but decreasing temperature increases it."
+    ]
+  },
+  "30-116": {
+    "topic": "Wind and Circulation",
+    "why": [
+      "Centrifugal force modifies curved flow but does not initiate wind.",
+      "“Thermal force” is not the primary force that starts wind.",
+      "Coriolis deflects moving air; it does not initiate the wind.",
+      "Pressure-gradient force initiates wind from high toward low pressure."
+    ]
+  },
+  "30-117": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "The bank keys descending air behind a mountain range as katabatic wind; this is a bank-key simplification.",
+      "Convergence is horizontal inflow, not descending air behind a mountain.",
+      "Anabatic wind flows uphill during daytime.",
+      "Divergence is horizontal outflow, not the bank-keyed downslope flow."
+    ],
+    "note": "(bank key) The bank calls the lee-side descending flow katabatic; more generally, foehn/downslope mountain flow may be described separately."
+  },
+  "30-118": {
+    "topic": "Humidity and Stability",
+    "why": [
+      "Cooling with unchanged moisture leaves dew point approximately constant and raises relative humidity.",
+      "Dew point does not necessarily decrease when only temperature falls.",
+      "Dew point does not rise just because air cools; RH rises.",
+      "This is correct: temperature falls toward the roughly constant dew point, increasing RH."
+    ]
+  },
+  "30-119": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Layered clouds and prolonged precipitation are typical of stable, not conditionally unstable, air.",
+      "Shallow medium-base cumulus does not express the convective instability expected.",
+      "Clear skies and low winds do not describe conditionally unstable air.",
+      "Conditional instability can produce towering Cu, showers, and thunderstorms once saturated/lifted."
+    ]
+  },
+  "30-120": {
+    "topic": "Fog and Visibility",
+    "why": [
+      "Cold humid air over warm water is not advection fog; it may acquire moisture as steaming fog.",
+      "Warm humid air moving across a colder surface cools to dew point and forms advection fog.",
+      "Cloudy-night cooling is not the classic advection mechanism.",
+      "Evaporation from warm water into cold air describes steaming/evaporation fog."
+    ]
+  },
+  "30-121": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Nimbo- refers to precipitation-bearing cloud forms, not specifically high clouds.",
+      "Strato- denotes layered cloud, often low-level.",
+      "Alto- denotes middle-level clouds.",
+      "Cirro- names high-level clouds such as cirrus, cirrostratus, and cirrocumulus."
+    ]
+  },
+  "30-122": {
+    "topic": "Fog and Visibility",
+    "why": [
+      "Cold moist air over warm ground is not advection fog; it warms rather than cools.",
+      "Warm moist air advected over a cold surface cools to saturation and forms advection fog.",
+      "Mixing two moist air masses is not the defining advection-fog process.",
+      "Clear-night longwave cooling produces radiation fog, not advection fog."
+    ]
+  },
+  "30-123": {
+    "topic": "Fog and Visibility",
+    "why": [
+      "Clear-night radiation cooling produces radiation fog.",
+      "Moist air forced upslope over hills cools and saturates, producing orographic fog.",
+      "Mixing air masses is not the defining hill-fog mechanism.",
+      "Evaporation from warm ground into cold air is not orographic lifting."
+    ]
+  },
+  "30-124": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Cb produces convective showers and thunderstorms, not the standard prolonged-rain layer.",
+      "Cirrostratus is a thin high veil, often preceding a warm front.",
+      "Nimbostratus is the thick layered cloud associated with prolonged continuous precipitation.",
+      "Altocumulus consists of middle-level patches or rolls, not prolonged rain."
+    ]
+  },
+  "30-125": {
+    "topic": "Clouds and Precipitation",
+    "why": [
+      "Light/heavy describes intensity, not the cloud-type precipitation distinction.",
+      "Snow/rain distinguishes hydrometeor type, not precipitation by cloud process.",
+      "Prolonged and continuous rain are overlapping descriptions, not the two categories.",
+      "By cloud/process, precipitation is classified as steady rain or showers of rain."
+    ]
+  },
+  "30-126": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Less than 1000 m visibility with cloud-covered ground is not typical summer warm-sector VFR.",
+      "Isolated high cloud suggests clearer conditions than the typical warm sector.",
+      "Warm-sector summer weather usually offers moderate-to-good visibility and scattered cloud.",
+      "Heavy showers and thunderstorms are more characteristic of the cold-front band."
+    ]
+  },
+  "30-127": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "A cold front advances, so it is not stationary.",
+      "A warm front advances and has a warm air mass replacing cold air.",
+      "An occlusion forms when a cold front catches a warm front.",
+      "A stationary front is a polar/subtropical air boundary with no significant horizontal movement."
+    ]
+  },
+  "30-128": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Pressure generally falls ahead of a warm front, then rises behind the cold front.",
+      "Ahead of the warm front pressure falls; it steadies in the warm sector and rises behind the cold front.",
+      "Pressure rises, rather than falls, behind a passing cold front.",
+      "Pressure typically falls ahead of the warm front, not rises."
+    ]
+  },
+  "30-129": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "At a cold front pressure typically reaches a low then rises, not continually falls.",
+      "Cold-front passage is marked by a brief pressure fall/minimum followed by a rise.",
+      "Pressure is not continually increasing before and through the frontal passage.",
+      "The pressure pattern changes around passage rather than remaining constant."
+    ]
+  },
+  "30-130": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Cold air aloft contracts the atmospheric column and lowers pressure-surface heights, favouring an upper low.",
+      "Cold air aloft does not expand layers to form an upper high.",
+      "An upper cold pool does not directly imply a large surface low.",
+      "Cold-air inflow produces a coherent upper trough/low tendency, not alternating pressure."
+    ]
+  },
+  "30-131": {
+    "topic": "Atmosphere and ISA",
+    "why": [
+      "Cold air contracts the column, so pressure layers get closer and lower, not higher.",
+      "The layers become closer but their height falls rather than rises.",
+      "Cold air reduces vertical spacing and lowers pressure-surface heights, producing an upper low/trough.",
+      "Cold air contracts the column, decreasing—not increasing—vertical spacing."
+    ]
+  },
+  "30-132": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "An occlusion is where a cold front has caught a warm front, not the broad air-mass boundary.",
+      "A cold front is one advancing boundary; the general Central European boundary is polar front.",
+      "The polar front separates subtropical warm air from polar cold air.",
+      "A warm front is an advancing boundary, not the overall polar/subtropical division."
+    ]
+  },
+  "30-133": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "The Bora is a cold katabatic Adriatic wind, not the keyed channelling wind.",
+      "The Mistral accelerates as mountain terrain narrows its path.",
+      "Scirocco is a warm southerly flow from the Sahara, not the channelling example.",
+      "Passat is a tropical trade wind, not the wind accelerated by mountain narrowing."
+    ]
+  },
+  "30-134": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "Scirocco is a warm southerly Mediterranean flow.",
+      "Mistral is a strong cold northerly/northwesterly flow toward the Mediterranean.",
+      "Bora is the cold, gusty katabatic northeasterly wind into the Adriatic.",
+      "Passat means trade wind, not the Adriatic downslope wind."
+    ]
+  },
+  "30-135": {
+    "topic": "Icing and Turbulence",
+    "why": [
+      "Clear ice forms from larger supercooled droplets that spread before freezing.",
+      "Mixed ice combines large and small droplet accretion.",
+      "Hoar frost deposits directly on a cold parked airframe from vapour.",
+      "Small supercooled droplets freeze immediately, trapping air and producing rough, opaque rime."
+    ]
+  },
+  "30-136": {
+    "topic": "Icing and Turbulence",
+    "why": [
+      "Hoar frost forms on a parked cold surface by vapour deposition.",
+      "Large supercooled droplets spread before freezing to form clear/glaze ice.",
+      "Rime comes from small droplets freezing immediately, not large spreading drops.",
+      "Mixed ice involves both small and large droplets; the large-drop type alone is clear ice."
+    ]
+  },
+  "30-137": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "Visibility loss is not the principal hazard identified for strong cross-ridge flow into a valley.",
+      "Clear ice requires sub-zero visible supercooled water, not merely cross-ridge wind.",
+      "Thunderstorm downdrafts require convective precipitation, not simply mountain flow.",
+      "Cross-ridge flow can create severe valley shear, including a 180° wind-direction change."
+    ]
+  },
+  "30-138": {
+    "topic": "Weather Charts and Imagery",
+    "why": [
+      "LLSWC includes icing forecasts and areas.",
+      "Radar echoes are not plotted as precipitation images on an LLSWC.",
+      "LLSWC depicts turbulence areas and other low-level hazards.",
+      "LLSWC includes fronts and their displacement, unlike radar reflectivity."
+    ]
+  },
+  "30-139": {
+    "topic": "Aviation Weather Reports",
+    "why": [
+      "RA without a plus sign is moderate rain, not heavy rain.",
+      "+SHRA means heavy rain showers, not the code for continuous heavy rain.",
+      "SHRA is rain showers without heavy intensity marking.",
+      "In METAR, +RA denotes heavy rain."
+    ]
+  },
+  "30-140": {
+    "topic": "Aviation Weather Reports",
+    "why": [
+      "METAR reports observed weather, including precipitation types.",
+      "ATIS adds operational details such as runway in use and transition level.",
+      "METAR can report mean wind and gusts, so this is not uniquely ATIS information.",
+      "METAR includes visibility and cloud base, so these are not unique ATIS details."
+    ]
+  },
+  "30-141": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "Daytime upslope flow is anabatic valley breeze.",
+      "Night-time uphill flow is not the characteristic mountain wind.",
+      "Night-time cooled dense air drains downslope as mountain/katabatic wind.",
+      "Downslope daytime flow is not the standard thermally driven mountain wind."
+    ]
+  },
+  "30-142": {
+    "topic": "Air Masses and Fronts",
+    "why": [
+      "Backside weather occurs behind the cold front, not before an occlusion.",
+      "Foehn describes lee-side mountain weather, not the post-frontal backside pattern.",
+      "After a warm front is the warm sector, not backside weather.",
+      "After a cold front, expect backside weather: good visibility with Cu and isolated showers."
+    ]
+  },
+  "30-143": {
+    "topic": "Mountain Winds and Foehn",
+    "why": [
+      "A pressure pattern alone does not describe the characteristic Bavarian foehn conditions.",
+      "Lee-side foehn is warm and dry, not cold and humid.",
+      "Nimbostratus belongs on the southern windward Alps; rotors form on the northern lee side.",
+      "Foehn gives southern windward Ns, lee-side rotors, and warm dry downslope flow north of the Alps."
+    ]
+  }
+}

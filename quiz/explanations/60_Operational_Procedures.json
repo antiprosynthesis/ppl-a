@@ -1,0 +1,602 @@
+{
+  "60-001": {
+    "topic": "Noise abatement",
+    "why": [
+      "Horizontal flight is not the phase singled out; avoid low turns over villages during the climb.",
+      "Descent is not the phase asked about; the bank specifically identifies climb as the phase for avoiding low turns.",
+      "During climb, low turns over villages expose residents to noise and should be avoided.",
+      "Approach is not the phase asked about; climb is the keyed phase for avoiding low turns."
+    ],
+    "note": "Climb straight where safe; turn only after gaining adequate height."
+  },
+  "60-002": {
+    "topic": "Noise abatement",
+    "why": [
+      "Slow changes of direction do not replace routing around villages or crossing them at sufficient altitude.",
+      "Circumnavigate settlements and cross only with adequate height, limiting noise while preserving obstacle clearance.",
+      "Low propeller RPM alone is not the prescribed route and cannot justify flying low over villages.",
+      "A low, fast passage over villages increases exposure and conflicts with noise-abatement practice."
+    ],
+    "note": "Route around villages; cross high."
+  },
+  "60-003": {
+    "topic": "Noise abatement",
+    "why": [
+      "A low approach contradicts the high-approach profile, even if power is low and configuration is late.",
+      "A high approach, low practicable power, late descent/configuration and established route minimise noise without a shortcut.",
+      "Early landing configuration and a direct approach increase low-level exposure and may leave the established route.",
+      "Normal power, early configuration and the shortest route do not follow the keyed quiet-arrival profile."
+    ],
+    "note": "High, quiet, late, on-route."
+  },
+  "60-004": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "Throttle pumping does not cause inadequate power; excess priming fuel can ignite instead.",
+      "Pumping can over-prime a cold piston engine, allowing fuel in the intake to ignite as a carburettor fire.",
+      "Oil dilution is not the immediate hazard caused by pumping the throttle during starting.",
+      "Carburettor icing is not the fire hazard from pumping; excess fuel may ignite in the intake."
+    ],
+    "note": "Avoid unnecessary throttle pumping during start."
+  },
+  "60-005": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "Smoke may result from a fire but is not the specific engine-start danger identified by the bank.",
+      "A cable fire is not the typical engine-start hazard; the keyed risk is fuel ignition at the carburettor.",
+      "Sparking alone is not the named danger; combustible mixture can ignite and cause a carburettor fire.",
+      "Fuel introduced into the intake during starting can ignite, making carburettor fire the relevant hazard."
+    ],
+    "note": "Use the aircraft’s prescribed starting procedure."
+  },
+  "60-006": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "A carburettor-fire origin does not make restarting safe; the engine has already been on fire.",
+      "Taxiing still requires restarting the fire-damaged engine and risks reignition.",
+      "Do not restart an engine that was on fire; reignition could occur even after the initial fire appears out.",
+      "Altitude does not remove the danger of reignition after an engine fire."
+    ],
+    "note": "A previous engine fire means no restart."
+  },
+  "60-007": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "Turning off heat may reduce smoke entry but does not first isolate suspected electrical power.",
+      "For suspected instrument-panel electrical fire, switch the master off first, then use the aircraft checklist.",
+      "Shutting down the engine is not the first electrical-fire isolation step and may remove needed control power.",
+      "An extinguisher may be needed, but first isolate the suspected electrical source with the master switch."
+    ],
+    "note": "Electrical smoke: isolate power first."
+  },
+  "60-008": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "Switching off the master isolates electrical supply and is the keyed first action for a cable fire.",
+      "Opening windows can feed a fire or worsen smoke exposure; isolate electrical power first.",
+      "Opening ventilation may draw smoke into the cockpit; it is not the first cable-fire action.",
+      "Closing the fuel valve addresses fuel supply, not the suspected electrical cable source."
+    ],
+    "note": "For an electrical fire, disconnect its power source."
+  },
+  "60-009": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "Pitot/window heating is not the immediate cabin-smoke control action keyed for an engine fire.",
+      "Master and ignition switches are not the specific immediate measure for smoke entering from an engine fire.",
+      "Turning heating and ventilation off limits smoke entering the cockpit, matching the keyed immediate action.",
+      "Avionics and cabin lighting do not stop smoke entering through the heating/ventilation system."
+    ],
+    "note": "Use the fire-source checklist; cabin heat/air can carry smoke."
+  },
+  "60-010": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "Master-off is the electrical-fire response, not the keyed first action for suspected engine-fire smoke.",
+      "Engine shutdown may be directed by the checklist, but this item keys turning off the heat.",
+      "Turning off heat limits smoke entering the cockpit and is the keyed action for the suspected engine fire.",
+      "Using an extinguisher is not the keyed first step; follow the engine-fire checklist."
+    ],
+    "note": "Do not apply the electrical-fire response to every fire source."
+  },
+  "60-011": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "An Alpine downslope wind is a local wind phenomenon, not the general definition of wind shear.",
+      "Wind shear is not limited to slow increases above 13,000 ft; it can occur at many altitudes.",
+      "A 15-kt threshold is not part of the definition; short-distance changes in speed or direction are shear.",
+      "Wind shear is a vertical or horizontal change in wind speed and/or direction over a short distance."
+    ],
+    "note": "Shear means a rapid change in wind speed and/or direction."
+  },
+  "60-012": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "A calm summer day alone does not provide the characteristic wind-change layer tested here.",
+      "Cold calm conditions alone are not the strongest cue; inversions can concentrate a wind change.",
+      "An inversion can create a sharp change in wind with height, making wind shear likely.",
+      "A warm front may bring weather changes, but the bank’s expected cue is an inversion."
+    ],
+    "note": "Look for an inversion and rapidly changing weather."
+  },
+  "60-013": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "An invernal warm front is not the typical associated phenomenon singled out in the bank.",
+      "Thunderstorms generate rapidly changing winds and downdrafts, so they are commonly associated with wind shear.",
+      "Fog by itself does not produce the strong wind changes characteristic of this association.",
+      "Stable high pressure generally lacks the rapid convective wind changes associated with shear."
+    ],
+    "note": "Thunderstorms and heavy showers are wind-shear hazards."
+  },
+  "60-014": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "At point 3 the aircraft exits headwind into outflow/tailwind, so airspeed falls rather than rises.",
+      "The loss of headwind or onset of tailwind at point 3 reduces indicated airspeed.",
+      "Reduced climb rate is associated especially with the downdraft core at point 2, not the keyed point-3 effect.",
+      "Point 3 does not imply a constant descent; the marked transition causes an airspeed decrease."
+    ],
+    "note": "Microburst sequence: headwind gain, downdraft, then headwind loss."
+  },
+  "60-015": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "The downdraft at point 2 opposes the aircraft’s climb and reduces its rate of climb.",
+      "The core downdraft worsens descent rather than reducing the descent rate.",
+      "A strong downdraft does not produce a constant descent rate; it degrades vertical performance.",
+      "The simplified point-2 effect is reduced climb rate with IAS approximately unchanged, not increased IAS."
+    ],
+    "note": "The microburst core’s downdraft reduces climb performance."
+  },
+  "60-016": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "An increasing headwind raises IAS and lift, tending to place the aircraft above the intended path.",
+      "The path tends higher, but increasing headwind raises rather than lowers IAS.",
+      "Both effects are reversed: the path tends higher and IAS increases.",
+      "IAS increases, but the resulting path tends higher, not lower."
+    ],
+    "note": "Headwind gain: IAS rises and the approach path tends high."
+  },
+  "60-017": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "Ground speed does not necessarily decrease; losing headwind reduces IAS and climb performance relative to the air.",
+      "A decreasing headwind does not cause TAS to increase; it removes airflow support and lowers IAS.",
+      "A headwind loss tends to put the aircraft below, not above, its expected climb path.",
+      "Decreasing headwind reduces IAS/lift, so the aircraft tends below the estimated climb path."
+    ],
+    "note": "Headwind loss: expect lower IAS and a lower flight path."
+  },
+  "60-018": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "A decreasing tailwind is equivalent to an increasing headwind, so IAS rises rather than falls.",
+      "The path tends higher, not lower, when the tailwind decreases and headwind effectively increases.",
+      "Both effects are opposite: path tends high and IAS increases.",
+      "A decreasing tailwind acts like increasing headwind, raising IAS and the approach path."
+    ],
+    "note": "A tailwind decrease is a headwind increase."
+  },
+  "60-019": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "A decreasing headwind lowers IAS and path; it does not raise either.",
+      "Headwind loss reduces IAS and lift, lowering the approach path.",
+      "The path tends lower, but IAS decreases rather than increases.",
+      "IAS decreases, but the path tends lower rather than higher."
+    ],
+    "note": "Headwind loss lowers both IAS and approach path."
+  },
+  "60-020": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "Retracting gear/flaps changes configuration during the encounter and can worsen performance; preserve configuration.",
+      "Maximum power, unchanged configuration and best-rate climb speed prioritise climb performance in the keyed response.",
+      "An improvised turn and configuration change risk losing performance and are not the keyed escape action.",
+      "Trying to accelerate away sacrifices the prescribed best-rate climb response while downdraft may overwhelm the aircraft."
+    ],
+    "note": "Keyed response: max power, hold configuration, best ROC speed."
+  },
+  "60-021": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "Avoiding take-off and landing during heavy showers or thunderstorms prevents exposure to likely severe shear.",
+      "Avoiding thermal areas is not the specific wind-shear measure and does not address storm outflow.",
+      "Choosing low altitudes near precipitation increases exposure to hazardous shear rather than avoiding it.",
+      "Mountainous terrain is not the general condition to avoid; the key hazard is storm/heavy-shower passage."
+    ],
+    "note": "Avoid hazardous weather rather than attempting to penetrate it."
+  },
+  "60-022": {
+    "topic": "Wake turbulence and jet blast",
+    "why": [
+      "The bank keys wake onset at nosewheel lift-off, not at a fixed 15-ft altitude.",
+      "Acceleration alone does not mark onset; wake starts when the lifting aircraft becomes airborne at nosewheel lift-off.",
+      "The bank’s take-off reference is lift-off with the front gear, when the aircraft begins generating its airborne wake.",
+      "Waiting for main-gear lift-off is later than the keyed nosewheel-lift-off point."
+    ],
+    "note": "Wake begins at lift-off; do not assume it starts at a particular height."
+  },
+  "60-023": {
+    "topic": "Wake turbulence and jet blast",
+    "why": [
+      "Low altitude does not by itself make generated vortex strongest; weight, configuration and speed are key.",
+      "A slower aircraft produces stronger wake for the same type, mass and configuration because it must generate lift at lower speed.",
+      "High altitude alone does not determine vortex strength.",
+      "Higher speed generally produces less concentrated wake than the same aircraft flying slower."
+    ],
+    "note": "Heavy, clean and slow produces strong wake."
+  },
+  "60-024": {
+    "topic": "Wake turbulence and jet blast",
+    "why": [
+      "A slight crosswind does not reliably twist wake transversely across the runway.",
+      "The key hazard is not amplification; a light crosswind may leave a vortex on or near the runway.",
+      "A slight crosswind can drift one vortex while leaving another on or near the runway, creating a take-off hazard.",
+      "The bank does not describe faster rotation or upward drift; the concern is wake remaining near the runway."
+    ],
+    "note": "A light crosswind may not clear both runway vortices."
+  },
+  "60-025": {
+    "topic": "Wake turbulence and jet blast",
+    "why": [
+      "This cites wake turbulence and 700 m; the keyed taxi hazard is jet blast with 200 m in this bank.",
+      "Wake is not the tested taxi hazard, and 300 m is not the keyed distance.",
+      "The keyed item concerns jet blast behind an airliner and specifies at least 200 m in the bank.",
+      "Jet blast is relevant, but 600 m is not the keyed minimum in this question."
+    ],
+    "note": "Jet blast is distinct from wingtip wake; follow airport instructions."
+  },
+  "60-026": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "Circumstances forcing the aircraft to land define an emergency landing.",
+      "“Urgent landing” is not the formal distinction tested; forced circumstances make it an emergency landing.",
+      "A precautionary landing is chosen to preserve safety before circumstances force a landing.",
+      "An outlanding describes an unprepared site, not the reason that compelled the landing."
+    ],
+    "note": "Forced by circumstances = emergency; chosen early = precautionary."
+  },
+  "60-027": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "Preserving safety by choice describes a precautionary landing, not the forced emergency definition.",
+      "Circumstances forcing the aircraft to land define an emergency landing.",
+      "Flap position does not define whether a landing is an emergency.",
+      "An emergency landing may be powered or unpowered; engine power is not the defining criterion."
+    ],
+    "note": "Classify the landing by why it is happening, not flap or engine state."
+  },
+  "60-028": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "A pilot elects to land to sustain flight safety: this is the precautionary definition.",
+      "Forced circumstances define an emergency landing, not a precautionary one.",
+      "Retracted flaps do not define a precautionary landing.",
+      "Engine-out status does not define a precautionary landing; the pilot’s safety decision does."
+    ],
+    "note": "Precautionary means the pilot chooses to land before being forced."
+  },
+  "60-029": {
+    "topic": "Ditching and flights over water",
+    "why": [
+      "When land is unreachable, flotation equipment for every occupant supports survival after ditching.",
+      "Exact waypoints may aid navigation but do not replace required survival equipment over water.",
+      "Continuous ATC contact cannot guarantee rescue and does not substitute for life jackets or a raft.",
+      "7600 indicates radio failure, not a normal over-water code or a substitute for flotation equipment."
+    ],
+    "note": "If you cannot glide to land, equip every occupant to float."
+  },
+  "60-030": {
+    "topic": "Ditching and flights over water",
+    "why": [
+      "Continuous ATC contact is useful where possible but is not the essential preparation keyed here.",
+      "Transponder-only operation is not a survival plan and does not protect occupants after ditching.",
+      "A flight plan supports search and rescue but cannot replace flotation equipment for each occupant.",
+      "Carry life vests or a life raft for all occupants when land is unlikely to be reachable."
+    ],
+    "note": "Plan for survival after leaving the aircraft, not just tracking."
+  },
+  "60-031": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "This puts configuration and declaration ahead of landing-area selection and the planned approach.",
+      "Trying to reach an airport for rescue can waste time when a suitable emergency landing site is needed.",
+      "Select a suitable area, plan the approach, complete the checklist, declare as appropriate, then focus on flying the approach.",
+      "Radio support and looking up the manual should not delay selecting a site and planning the forced approach."
+    ],
+    "note": "Choose the site and plan the approach early; fly the aircraft first."
+  },
+  "60-032": {
+    "topic": "Ditching and flights over water",
+    "why": [
+      "A specific 10 m distance is not required; inflate only after leaving the aircraft.",
+      "Inflating inside can obstruct movement through the exit and trap the occupant.",
+      "Inflate the life vest after exiting the aircraft so it cannot impede egress.",
+      "Inflating while exiting may restrict movement; wait until fully outside."
+    ],
+    "note": "Inflate after egress, not inside the cabin."
+  },
+  "60-033": {
+    "topic": "Runway contamination and aquaplaning",
+    "why": [
+      "This changes the threshold and includes frost/sand; the bank definition is >25% covered by specified contaminants >3 mm deep.",
+      "A 75% threshold is too high and omits the defined >3 mm depth condition.",
+      "More than 25% of the runway area in use covered by water, slush, snow or ice deeper than 3 mm meets the bank definition.",
+      "A 50% coverage threshold is too high; the bank’s threshold is more than 25%, with the specified depth."
+    ],
+    "note": "Remember coverage, contaminants, and depth: >25%, listed material, >3 mm."
+  },
+  "60-034": {
+    "topic": "Runway contamination and aquaplaning",
+    "why": [
+      "Wet snow increases rolling resistance; it does not primarily cause the lift decrease stated here.",
+      "Wet snow does not reduce rolling resistance; it makes the take-off roll more resistant.",
+      "Wet snow increases rolling resistance during take-off, which can degrade acceleration and performance.",
+      "Wet snow does not create an increase in lift; its tested effect is increased ground resistance."
+    ],
+    "note": "Wet snow makes the take-off roll harder, not easier."
+  },
+  "60-035": {
+    "topic": "Runway contamination and aquaplaning",
+    "why": [
+      "Wet grass increases, rather than decreases, both take-off and landing distances.",
+      "Wet grass increases ground resistance and reduces braking effectiveness, increasing both distances.",
+      "Take-off distance also increases; the option incorrectly says it decreases.",
+      "Landing distance also increases; the option incorrectly says it decreases."
+    ],
+    "note": "Wet grass: longer take-off and landing distances."
+  },
+  "60-036": {
+    "topic": "Runway contamination and aquaplaning",
+    "why": [
+      "The key danger after heavy rain is reduced braking and longer stopping, not displaced tyre markings.",
+      "Aquaplaning reduces braking effectiveness; it lengthens rather than shortens braking distance.",
+      "Glare is not the principal runway-surface danger tested after heavy rain.",
+      "Standing water can cause aquaplaning, reducing tyre contact and braking effectiveness and lengthening the stopping distance."
+    ],
+    "note": "Water film can reduce tyre contact and lengthen the landing roll."
+  },
+  "60-037": {
+    "topic": "Flight time",
+    "why": [
+      "This describes airborne time from take-off run to touchdown, not the bank’s first-movement-to-final-rest definition.",
+      "For this bank, flight time runs from the aircraft’s first movement until it finally comes to rest at the end of the flight.",
+      "Engine start-to-shutdown includes periods outside the keyed first-movement-to-final-rest interval.",
+      "This describes a series of flights rather than the single-flight definition asked here."
+    ],
+    "note": "Flight time: first movement to final rest."
+  },
+  "60-038": {
+    "topic": "Noise abatement",
+    "why": [
+      "Items 1–6 affect emitted or perceived sound; flight rules do not physically change noise, so this set is correct.",
+      "This omits RPM, gear and flap configuration, all of which can affect perceived noise.",
+      "This wrongly includes flight rules and omits RPM, gear and flap position.",
+      "This omits engine power and propeller RPM and wrongly includes flight rules."
+    ],
+    "note": "Noise depends on power/RPM, configuration, track and height—not flight rules."
+  },
+  "60-039": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "Piston-engine induction systems may have a carburettor, where excess fuel can ignite during starting.",
+      "Turbine engines do not use the piston-engine carburettor arrangement tested here.",
+      "An electric motor has no fuel carburettor to produce a carburettor fire.",
+      "A turboprop uses a turbine core; the carburettor-fire risk here concerns piston engines."
+    ],
+    "note": "Carburettor fire is a piston-engine starting hazard."
+  },
+  "60-040": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "Carbon monoxide is highly toxic and is the most dangerous listed gas in an engine-fire context.",
+      "Nitrogen is not the toxic combustion gas identified by the bank.",
+      "Oxygen supports combustion but is not the poisonous gas asked for.",
+      "Carbon dioxide can be hazardous at high concentration, but the bank keys toxic carbon monoxide."
+    ],
+    "note": "CO is toxic: treat smoke as dangerous."
+  },
+  "60-041": {
+    "topic": "Fire, smoke and carbon monoxide",
+    "why": [
+      "Powder is a suitable listed fire agent for several aircraft fire classes; it is not the least suitable overall.",
+      "Halon is an effective aircraft fire-extinguishing agent where approved and available.",
+      "Water is least suitable overall and can be hazardous on live electrical equipment or burning fuel.",
+      "Foam is effective for some fire classes; the bank identifies water as least suitable overall."
+    ],
+    "note": "Match the extinguisher to the fire; avoid water on electrical or fuel fires."
+  },
+  "60-042": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "Wind shear can cause sudden unexplained changes in altitude, IAS, climb rate or descent rate.",
+      "Heading or engine readings alone are not the characteristic flight-path/airspeed cues listed by the bank.",
+      "Oil pressure, temperature and engine-speed changes suggest engine trouble, not the defining wind-shear cue.",
+      "Drizzle after clear skies is not the sudden aircraft-response signature used to recognise wind shear."
+    ],
+    "note": "Watch for unexplained changes in IAS, altitude, or vertical rate."
+  },
+  "60-043": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "Retracting gear and flaps is not the keyed response; maintain configuration and adjust thrust.",
+      "Reducing speed and retracting configuration are contrary to the keyed wind-shear response.",
+      "Maintaining configuration is correct, but the response also requires adjusting thrust.",
+      "Maintain current configuration and adjust thrust; avoid large configuration changes during shear."
+    ],
+    "note": "Hold configuration and adjust thrust."
+  },
+  "60-044": {
+    "topic": "Wind shear and microbursts",
+    "why": [
+      "Microburst progression reduces, not increases, climb rate; the later outflow also lowers airspeed.",
+      "Both climb rate and airspeed do not remain increased as the aircraft moves through the microburst.",
+      "The initial IAS rise can be followed by downdraft and tailwind/outflow, reducing both climb rate and airspeed.",
+      "Climb rate decreases, but the later airspeed also decreases rather than increases."
+    ],
+    "note": "A microburst can start with an IAS gain, then degrade climb and IAS."
+  },
+  "60-045": {
+    "topic": "Wake turbulence and jet blast",
+    "why": [
+      "Wake is not wind shear; it forms as wingtip vortices from pressure differences around a lifting wing.",
+      "Jet blast is engine exhaust and is distinct from aerodynamic wake turbulence.",
+      "Mountain-wave turbulence is terrain-related, not the wake generated by an aircraft wing.",
+      "Pressure equalisation around the wingtip creates counter-rotating vortices behind the aircraft."
+    ],
+    "note": "Lift creates pressure differences that roll into wingtip vortices."
+  },
+  "60-046": {
+    "topic": "Wake turbulence and jet blast",
+    "why": [
+      "Propeller pitch is not the principal factor in the wake-strength rule tested here.",
+      "Temperature is not the determining factor in this bank’s wake-intensity question.",
+      "Wake intensity increases with the generating aircraft’s weight because it must generate more lift.",
+      "Altitude alone does not determine wake intensity; aircraft weight is the keyed factor."
+    ],
+    "note": "Heavier aircraft generally generate stronger wake."
+  },
+  "60-047": {
+    "topic": "Wake turbulence and jet blast",
+    "why": [
+      "Altitude alone does not determine wake severity for otherwise identical aircraft.",
+      "At the same type, weight and configuration, the slower aircraft generates stronger wake.",
+      "Higher speed produces less concentrated wake than the slower flight condition.",
+      "Higher altitude alone does not make the aircraft’s wake more severe."
+    ],
+    "note": "For the same aircraft and load, slower means stronger wake."
+  },
+  "60-048": {
+    "topic": "Wake turbulence and jet blast",
+    "why": [
+      "Higher altitude alone does not determine the intensity of wake turbulence.",
+      "Lower altitude alone is not the factor; speed is the relevant difference in these otherwise similar aircraft.",
+      "Higher speed is not the stronger-wake condition for the same aircraft and configuration.",
+      "The slower aircraft produces more severe wake for the same type, weight and flap setting."
+    ],
+    "note": "Speed, not altitude, distinguishes the wake strength in this comparison."
+  },
+  "60-049": {
+    "topic": "Wake turbulence and jet blast",
+    "why": [
+      "Stay above the preceding approach path and touch down beyond its nose-gear point; a steep approach is not itself the avoidance method.",
+      "Touching down before the airliner’s point risks encountering wake; a short landing is opposite to the keyed long landing.",
+      "Touchdown is appropriately beyond the airliner’s, but a shallow approach can descend through its wake path.",
+      "A shallow approach risks crossing the wake, and stopping before its touchdown point does not avoid the vortex."
+    ],
+    "note": "Land beyond the preceding aircraft’s touchdown point while staying above its path."
+  },
+  "60-050": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "A flat direct approach does not ensure a safe site; inspect terrain and identify approach points first.",
+      "A steep approach solely for noise does not assess surface, obstacles, wind or landing options.",
+      "A rushed fast approach and quick stop neglect site investigation and can worsen landing risk.",
+      "Investigate the terrain and establish approach points and landing area before committing."
+    ],
+    "note": "Survey the site and plan the approach before committing."
+  },
+  "60-051": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "A harvested cornfield offers a short, cleared surface compared with the listed alternatives.",
+      "Long dry grass can conceal hazards and increase drag or landing distance.",
+      "Ploughed ground is rough and uneven, increasing the risk of damage or nose-over.",
+      "A village sports area may contain people and obstacles, making it unsuitable."
+    ],
+    "note": "Prefer a clear, short-crop or harvested field."
+  },
+  "60-052": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "An undisturbed lake is still a water landing and is not the most suitable land site in these choices.",
+      "Short crops offer a visible, relatively even surface; this is the most suitable listed site.",
+      "A meadow may hide uneven ground, livestock, or other hazards, unlike the visible short-crop field.",
+      "Ripe waving crops can conceal obstacles and make surface conditions difficult to judge."
+    ],
+    "note": "Short, visible crops are preferable to tall or uncertain surfaces."
+  },
+  "60-053": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "Radio operation, squawk and SAR phone details are not the urgent occupant safety instructions needed before landing.",
+      "Blood types and first-aid location do not replace brace, exit and evacuation directions.",
+      "Brief the emergency, pilot’s intentions, safety position, exits/evacuation and post-landing actions.",
+      "Teaching checklist use and giving phone numbers is not a concise emergency passenger briefing."
+    ],
+    "note": "Brief what is happening, brace, exit, and what to do next."
+  },
+  "60-054": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "Approaching from either side places the person in the tyre’s axial burst path.",
+      "A 45-degree angle still approaches from the side-on danger zone.",
+      "Approach from the front or rear, avoiding the side-on line where a hot tyre may burst.",
+      "The front is safe, but approaching from the right or left enters the tyre’s axial line of fire."
+    ],
+    "note": "Hot wheels: approach from front or rear, never side-on."
+  },
+  "60-055": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "Cooling a hot brake with halon is not the relevant precaution and may be unsafe or damaging.",
+      "An overheated tyre may burst axially, so keep clear of the wheel’s side-on line of fire.",
+      "The keyed hazard is axial bursting, not radial or rotational bursting.",
+      "Removing a fairing does not address the tyre-burst hazard and can expose the person to danger."
+    ],
+    "note": "Keep out of the side-on, axial tyre-burst path."
+  },
+  "60-056": {
+    "topic": "Runway contamination and aquaplaning",
+    "why": [
+      "The bank’s defined coverage threshold is 25%, not 50%.",
+      "The exam shorthand threshold is 25% coverage; the full definition also specifies contaminant type and depth.",
+      "A 10% threshold is below the bank’s stated contaminated-runway coverage threshold.",
+      "A 75% threshold is far above the bank’s 25% threshold."
+    ],
+    "note": "Remember 25% coverage; the full definition also requires >3 mm depth."
+  },
+  "60-057": {
+    "topic": "Runway contamination and aquaplaning",
+    "why": [
+      "Standing water increases, rather than decreases, rolling resistance during take-off.",
+      "Standing water does not increase lift; it adds drag and can cause aquaplaning.",
+      "Water on the runway increases rolling resistance and can compromise acceleration and directional control.",
+      "A decrease in lift is not the specific effect asked; standing water increases rolling resistance."
+    ],
+    "note": "Standing water adds drag and may cause aquaplaning."
+  },
+  "60-058": {
+    "topic": "Runway contamination and aquaplaning",
+    "why": [
+      "Adding power and using flaps/spoilers is not the keyed landing-roll response and may compromise control.",
+      "Maximum braking can worsen control while hydroplaning; use moderate braking as appropriate.",
+      "Crossing rudder and aileron is not a proper braking method and risks loss of directional control.",
+      "If wheels are rolling, brake moderately and use aerodynamic means to maintain directional control."
+    ],
+    "note": "Suspected hydroplaning: moderate braking, maintain directional control."
+  },
+  "60-059": {
+    "topic": "Runway contamination and aquaplaning",
+    "why": [
+      "Minimum flaps and no braking do not match the keyed technique; touchdown should be firm.",
+      "The keyed touchdown is firm with positive pitch, not negative pitch; brake carefully.",
+      "Use minimum crosswind, maximum flap, firm touchdown at minimum safe speed, and careful braking.",
+      "This incorrectly uses minimum flaps, soft touchdown and no braking instead of firm touchdown and careful braking."
+    ],
+    "note": "Use approved data; if unavoidable, minimise crosswind and avoid floating."
+  },
+  "60-060": {
+    "topic": "Emergency and precautionary landings",
+    "why": [
+      "A glider has no power lever to compensate for bumps; minimise speed and protect the nose with elevator.",
+      "Adding approach speed increases impact energy, and pushing the elevator forward at contact is contrary to the keyed technique.",
+      "Touch down at minimum speed and hold the elevator back until stopped to protect the glider on the bumpy surface.",
+      "Extra approach speed is not needed, and avoiding brakes is not the keyed way to manage the rough landing."
+    ],
+    "note": "Keyed glider technique: minimum speed, elevator held back through the roll."
+  }
+}

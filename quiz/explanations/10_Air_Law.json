@@ -1,0 +1,850 @@
+{
+  "10-001": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "EU rules do not need separate national ratification to bind Member States.",
+      "EU regulations and their implementing rules are binding throughout Member States.",
+      "EASA rules include binding EU regulation, not guidance alone.",
+      "ICAO Annexes are international standards; EU regulations have a different legal status."
+    ]
+  },
+  "10-002": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "ARC is not an airspace rulemaking committee.",
+      "This is not the expansion of ARC.",
+      "ARC concerns continuing airworthiness, not recurring control.",
+      "ARC means Airworthiness Review Certificate, recording the aircraft airworthiness review."
+    ]
+  },
+  "10-003": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "The review location does not determine the State issuing the certificate.",
+      "The owner’s residence is not the aircraft’s State of Registry.",
+      "The State of Registry issues the Certificate of Airworthiness.",
+      "Manufacture location does not determine the issuing authority."
+    ]
+  },
+  "10-004": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "The bank key gives unlimited validity, not a one-year period.",
+      "Six months is not the keyed validity period.",
+      "The bank key states unlimited validity; continued airworthiness and reviews still apply.",
+      "Twelve years is not the keyed validity period."
+    ]
+  },
+  "10-005": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "This selection omits the aircraft registration certificate and includes Form 1.",
+      "The bank key selects registration, CofA, ARC, aircraft logbook, and the specified appropriate papers.",
+      "This omits the CofA and ARC and adds an unkeyed item.",
+      "This omits the registration certificate, CofA, and ARC."
+    ],
+    "note": "(bank key) The stem is truncated after “appropriate papers for eve…”, so the keyed combination is followed as supplied."
+  },
+  "10-006": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "The bank key requires the national flag on every flight, not only outside the EU.",
+      "The bank key requires the flag on every flight.",
+      "This contradicts the bank’s stated flag requirement.",
+      "The requirement is not limited to international flights in the bank key."
+    ]
+  },
+  "10-007": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "For a 62-year-old Class 2 holder, the bank gives 12 months, not 60.",
+      "The keyed validity is 12 months.",
+      "Twenty-four months is not the keyed period for this age.",
+      "Forty-eight months is not the keyed period."
+    ]
+  },
+  "10-008": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "The bank minimum for first solo is 16, not 21.",
+      "Eighteen is above the stated minimum.",
+      "Seventeen is above the stated minimum.",
+      "The bank minimum age for first solo is 16 years."
+    ]
+  },
+  "10-009": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "The bank says the PPL itself has unlimited validity, not 60 months.",
+      "Twenty-four months is not the licence validity period.",
+      "The PPL validity period is unlimited; medical and rating requirements still govern privileges.",
+      "Forty-eight months is not the licence validity period."
+    ]
+  },
+  "10-010": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "SERA is not a route-planning abbreviation.",
+      "SERA is Standardised European Rules of the Air.",
+      "SERA is not a radar approach term.",
+      "SERA is not an altimeter term."
+    ]
+  },
+  "10-011": {
+    "topic": "Flight definitions, day/night and minimum height",
+    "why": [
+      "VMC describes weather conditions; a visual flight is conducted under VFR.",
+      "A visual flight is defined by the rules under which it is conducted: VFR.",
+      "Neither 8 km nor any single visibility figure defines a VFR flight.",
+      "Five kilometres is a visibility minimum in some cases, not the definition of a visual flight."
+    ]
+  },
+  "10-012": {
+    "topic": "Flight definitions, day/night and minimum height",
+    "why": [
+      "Ceiling is a height above the surface, not altitude above sea level.",
+      "The defining cloud-layer threshold is below 20,000 ft, not 10,000 ft.",
+      "Ceiling is the height of the lowest layer covering more than half the sky below 20,000 ft.",
+      "The definition uses the lowest qualifying layer, not the highest one."
+    ]
+  },
+  "10-013": {
+    "topic": "Flight definitions, day/night and minimum height",
+    "why": [
+      "The bank says flight beneath bridges or similar structures is not permitted.",
+      "A 150 m AGL altitude does not create an exception to the bank’s bridge rule.",
+      "The keyed rule is not to fly below these structures.",
+      "A 20 m clearance does not make flying beneath them permissible."
+    ]
+  },
+  "10-014": {
+    "topic": "Flight definitions, day/night and minimum height",
+    "why": [
+      "Take-off and landing are stated exceptions to minimum-height restrictions.",
+      "Bad weather near an aerodrome does not itself justify flying below minimum height.",
+      "The bank recognises the stated drop of towed objects as an exception.",
+      "An approach, even without landing, is listed as an exception."
+    ]
+  },
+  "10-015": {
+    "topic": "VFR minima and airspace",
+    "why": [
+      "Below FL100, the bank minimum in Class C is 5 km.",
+      "Eight kilometres applies above the FL100 band in these bank questions.",
+      "1.5 km is not the bank minimum for Class C below FL100.",
+      "Ten kilometres is not the keyed minimum; the band requires 5 km."
+    ]
+  },
+  "10-016": {
+    "topic": "VFR minima and airspace",
+    "why": [
+      "At 5,000 ft in Class B, the bank minimum is 5 km, not 1.5 km.",
+      "The keyed Class B visibility at this altitude is 5,000 m.",
+      "3,000 m is not the keyed Class B minimum.",
+      "8,000 m applies to the higher altitude band, not this 5,000-ft question."
+    ]
+  },
+  "10-017": {
+    "topic": "VFR minima and airspace",
+    "why": [
+      "The bank’s vertical separation is 1,000 ft, not 1,000 m.",
+      "The bank specifies 1,500 m horizontal, not 1,000 m.",
+      "The horizontal distance is 1,500 m and the vertical distance is 1,000 ft.",
+      "This gives the bank’s C/D/E cloud separation: 1,500 m horizontally and 1,000 ft vertically."
+    ]
+  },
+  "10-018": {
+    "topic": "VFR minima and airspace",
+    "why": [
+      "At FL125 above FL100, the bank requires 8 km, not 1.5 km.",
+      "Five kilometres is the lower altitude-band minimum.",
+      "Above FL100, the bank minimum is 8 km.",
+      "Three kilometres is not the bank minimum for this band."
+    ]
+  },
+  "10-019": {
+    "topic": "VFR minima and airspace",
+    "why": [
+      "At FL75, the bank specifies 5 km, not 1.5 km.",
+      "Eight kilometres is the higher-altitude-band minimum.",
+      "Below FL100 at FL75, the bank minimum is 5 km.",
+      "Three kilometres is not the keyed visibility."
+    ]
+  },
+  "10-020": {
+    "topic": "VFR minima and airspace",
+    "why": [
+      "At FL110 above FL100, the bank requires 8 km.",
+      "Three kilometres is not the bank minimum for this altitude.",
+      "The bank’s above-FL100 minimum is 8 km.",
+      "Five kilometres is the lower-band minimum, not the FL110 value."
+    ]
+  },
+  "10-021": {
+    "topic": "VFR minima and airspace",
+    "why": [
+      "The bank-keyed Class B value is 1,500 m horizontally and 300 m vertically.",
+      "The horizontal distance is 1,500 m, not 1,000 m.",
+      "The bank gives 300 m vertically, not 1,000 m.",
+      "Neither distance matches the keyed Class B values."
+    ]
+  },
+  "10-022": {
+    "topic": "Right of way and collision avoidance",
+    "why": [
+      "The aircraft with the other on its right has priority, so this left-to-right description is not the keyed priority.",
+      "The bank identifies the aircraft crossing from right to left as having priority; the other gives way.",
+      "The crossing rule is not that both aircraft turn left.",
+      "Both-right is the head-on rule, not the ordinary crossing rule."
+    ]
+  },
+  "10-023": {
+    "topic": "Right of way and collision avoidance",
+    "why": [
+      "In a head-on encounter, both powered aircraft alter course to the right.",
+      "Both turn right, not left, to avoid a head-on collision.",
+      "The rule does not assign a climb to the heavier aircraft.",
+      "The rule does not assign a climb to the lighter aircraft."
+    ]
+  },
+  "10-024": {
+    "topic": "Flight definitions, day/night and minimum height",
+    "why": [
+      "The bank does not specify a 115 kt IAS cap as the tested SVFR condition.",
+      "A 2,000 m cloud distance is not the condition keyed here.",
+      "The tested condition is maintaining visual reference to the terrain.",
+      "The bank’s keyed requirement is terrain reference, not a 500 m ground visibility value."
+    ]
+  },
+  "10-025": {
+    "topic": "Flight definitions, day/night and minimum height",
+    "why": [
+      "The bank requires five additional night hours, not ten.",
+      "The instructor portion is three hours, not four.",
+      "The keyed minimum is five night hours, three dual including one cross-country hour, and five solo take-offs/full-stop landings.",
+      "The number of solo take-offs and landings is five, not ten."
+    ]
+  },
+  "10-026": {
+    "topic": "Interception, emergency, search and rescue, occurrence investigation",
+    "why": [
+      "Aileron rocking followed by a smooth left turn means “follow me.”",
+      "This signal does not instruct the aircraft to leave restricted airspace.",
+      "It is a follow-me signal, not clearance to continue on heading.",
+      "This maneuver does not direct a safety landing; that is a different instruction."
+    ]
+  },
+  "10-027": {
+    "topic": "Interception, emergency, search and rescue, occurrence investigation",
+    "why": [
+      "The described abrupt turn and pull-up signals that the intercepted aircraft may continue.",
+      "The signal does not tell the aircraft to leave a restricted area.",
+      "“Follow me” is the other signal involving rocking followed by a smooth turn.",
+      "The keyed meaning of this signal is that the aircraft may continue its flight."
+    ]
+  },
+  "10-028": {
+    "topic": "Altimetry and cruising levels",
+    "why": [
+      "1030.25 hPa is not the standard pressure setting.",
+      "At a flight level, use standard pressure 1013.25 hPa.",
+      "QFE references height above a datum, not a flight level.",
+      "QNH is used for altitude below the transition altitude, not at FL80."
+    ]
+  },
+  "10-029": {
+    "topic": "Altimetry and cruising levels",
+    "why": [
+      "The semi-circular rule selects cruising levels; it does not waive flight-plan requirements.",
+      "Opposing directions use different levels, reducing the likelihood of same-level conflict.",
+      "The rule does not prohibit turning manoeuvres.",
+      "It is a cruising-level convention, not a holding-pattern procedure."
+    ]
+  },
+  "10-030": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "Mode C or S can transmit pressure-altitude information.",
+      "A pressure decoder is not the transponder mode that reports altitude.",
+      "Mode A transmits identity/code only; it does not report pressure altitude.",
+      "Class B approval is not the defining capability for pressure-level reporting."
+    ]
+  },
+  "10-031": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "Code 7600 indicates radio communication failure.",
+      "7700 signals an emergency, not specifically radio failure.",
+      "7000 is a common VFR conspicuity code, not radio failure.",
+      "2000 is not the radio-failure code."
+    ]
+  },
+  "10-032": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "7000 is commonly used for VFR conspicuity, not radio failure.",
+      "Set 7600 for radio communication failure.",
+      "7700 indicates an emergency, not specifically radio failure.",
+      "7500 indicates unlawful interference."
+    ]
+  },
+  "10-033": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "FIS, AIS, and AFS are not the three ATC control services.",
+      "FIS provides information and is not a control service; TWR is missing.",
+      "TWR, APP, and ACC are the aerodrome, approach, and area ATC services.",
+      "ALR and SAR are not ATC control units; TWR alone is insufficient."
+    ]
+  },
+  "10-034": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "In Class E, IFR traffic is not separated only from VFR; IFR receives separation from IFR.",
+      "VFR receives no separation from IFR in Class E.",
+      "The bank answer is that VFR is not separated from other traffic in Class E.",
+      "Class E does not provide VFR separation from both IFR and VFR."
+    ]
+  },
+  "10-035": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "An RMZ does not require clearance from the aviation authority simply to enter.",
+      "Mode C and squawk 7000 are transponder requirements, not RMZ radio procedures.",
+      "In an RMZ, monitor the published frequency continuously and establish contact if possible.",
+      "An RMZ does not itself require an ATC entry clearance."
+    ]
+  },
+  "10-036": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "Before a TMZ, select the required transponder mode: Mode A+C or Mode S.",
+      "A TMZ does not itself require an entry clearance.",
+      "A flight plan is not the defining prerequisite for entering a TMZ.",
+      "IDENT is not a substitute for selecting the required altitude-reporting mode."
+    ]
+  },
+  "10-037": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "TRA does not mean Terminal Area.",
+      "TRA is not a transponder zone; that is TMZ.",
+      "TRA means Temporary Reserved Airspace.",
+      "This is not the standard expansion of TRA."
+    ]
+  },
+  "10-038": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "FIS is a radio service, not an internet contact service.",
+      "Telephone is not the in-flight means of contacting FIS.",
+      "A personal visit cannot provide the airborne FIS service.",
+      "Pilots contact FIS by radio communication."
+    ]
+  },
+  "10-039": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "A FIR provides FIS and alerting service; ATC is not guaranteed throughout it.",
+      "AIS is an information-publication service, not one of the bank’s expected FIR services.",
+      "FIS and alerting service are the services expected within a FIR.",
+      "AIS is not ATC and is not paired with ATC as the answer."
+    ]
+  },
+  "10-040": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "7000 is a common VFR code, not the emergency code.",
+      "7500 indicates unlawful interference.",
+      "7600 indicates radio communication failure.",
+      "Set 7700 to indicate an emergency when required without prior request."
+    ]
+  },
+  "10-041": {
+    "topic": "AIP, NOTAM, PIB and restricted airspace",
+    "why": [
+      "The AIP publishes the type and conditions of restricted airspace.",
+      "A chart shows boundaries, but the restriction details are found in the AIP.",
+      "An AIC is not the bank’s reference for the type of restriction.",
+      "NOTAMs give current or temporary changes; the restriction type is in the AIP."
+    ]
+  },
+  "10-042": {
+    "topic": "AIP, NOTAM, PIB and restricted airspace",
+    "why": [
+      "Warnings, ATS airspace and routes, and restricted areas belong in ENR, not GEN.",
+      "GEN includes general material such as symbols, navigation aids, times, and charges.",
+      "Aerodrome charts and associated AD material are not the GEN section.",
+      "Pilot licensing and access rules are not the GEN items listed by the bank."
+    ]
+  },
+  "10-043": {
+    "topic": "AIP, NOTAM, PIB and restricted airspace",
+    "why": [
+      "Pilot access requirements and licensing are not the defining AD contents.",
+      "General symbols, navigation aids, times, and fees belong to GEN.",
+      "AD contains aerodrome data, including charts, approaches, and taxi information.",
+      "En-route airspace and route restrictions belong to ENR."
+    ]
+  },
+  "10-044": {
+    "topic": "AIP, NOTAM, PIB and restricted airspace",
+    "why": [
+      "The AIP is divided into GEN, ENR, and AD.",
+      "MET and RAC are not the three AIP sections.",
+      "COM and MET are not AIP section names in this structure.",
+      "AGA and COM do not replace ENR as an AIP part."
+    ]
+  },
+  "10-045": {
+    "topic": "AIP, NOTAM, PIB and restricted airspace",
+    "why": [
+      "The end time is not 13 October 2013; decode field C as 21 May 2013 14:00 UTC.",
+      "The year is 2013 and the end time is 14:00, not 2014 at 13:00.",
+      "Field C, 1305211400, means 21 May 2013 at 14:00 UTC.",
+      "This reverses/misreads the date fields; NOTAM timestamps use YYMMDDHHMM."
+    ]
+  },
+  "10-046": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "A runway is for aircraft, not specifically helicopters, and the definition is broader.",
+      "A runway is a rectangular area on a land aerodrome prepared for aircraft take-off and landing.",
+      "The defined runway is rectangular, not round.",
+      "The standard runway definition is on a land aerodrome, not a water aerodrome."
+    ]
+  },
+  "10-047": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "That describes wet, where there are no significant standing-water patches.",
+      "Water patches means visible patches of standing water.",
+      "That describes a dry/clear surface, not water patches.",
+      "Patches do not necessarily mean a large part of the runway is flooded."
+    ]
+  },
+  "10-048": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "A clear, uncontaminated runway is dry, not wet.",
+      "WET means soaked without significant standing water; widespread flooding is not its definition.",
+      "A soaked surface with no significant standing-water patches is WET.",
+      "Visible standing-water patches are reported as WATER PATCHES."
+    ]
+  },
+  "10-049": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "A flashing green signal to an aircraft in flight means return for landing; steady green follows when appropriate.",
+      "Airport unsafe/do not land is flashing red, not flashing green.",
+      "Give way and continue circling is steady red, not flashing green.",
+      "Steady green means cleared to land; flashing green directs a return for landing."
+    ]
+  },
+  "10-050": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "Give way and continue circling is steady red, not flashing red.",
+      "Return for landing is flashing green.",
+      "Flashing red to an aircraft in flight means the aerodrome is unsafe; do not land.",
+      "Cleared to land is steady green."
+    ]
+  },
+  "10-051": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "Give way and continue circling is steady red.",
+      "Return for landing is flashing green.",
+      "Steady green to an aircraft in flight means cleared to land.",
+      "Flashing red means the aerodrome is unsafe; do not land."
+    ]
+  },
+  "10-052": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "Return to the starting point is flashing white on the ground.",
+      "Cleared for take-off is steady green on the ground.",
+      "Flashing red to an aircraft on the ground means vacate the runway immediately.",
+      "Cleared to taxi is flashing green on the ground."
+    ]
+  },
+  "10-053": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "The signal square is not a place to taxi for clearances.",
+      "It is not a designated staging area for emergency vehicles.",
+      "The signal square displays symbols conveying aerodrome conditions to overflying aircraft.",
+      "It is not a towing-object pickup/drop area."
+    ]
+  },
+  "10-054": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "A yellow cross on red means prolonged landing prohibition, not this glider signal.",
+      "The poor manoeuvring-area warning is a different signal.",
+      "The right-turn signal is a different ground signal.",
+      "The pictured signal indicates glider flying is in progress."
+    ]
+  },
+  "10-055": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "A landing direction indicator is not an angled arrow.",
+      "The landing direction indicator is T-shaped.",
+      "A straight arrow is not the indicator’s shape.",
+      "An L shape is not the landing direction indicator."
+    ]
+  },
+  "10-056": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "The poor manoeuvring-area caution is indicated by another signal.",
+      "This sign is not the hard-surface restriction signal.",
+      "A yellow cross on red indicates a prolonged prohibition on landing.",
+      "This is not the signal requiring right turns after take-off and before landing."
+    ]
+  },
+  "10-057": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "Runway markings are white, not green.",
+      "Blue is used for taxiway edge lights, not runway markings.",
+      "Yellow markings are associated with taxiways, not runway markings.",
+      "Runway markings are white under the bank’s ICAO Annex 14 question."
+    ]
+  },
+  "10-058": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "The options do not correctly designate both parallels: the left/right suffixes are needed.",
+      "“18-2” is not the standard parallel-runway suffix.",
+      "Two parallel runway designators use L and R, such as 06L and 06R.",
+      "Parallel runways share the same number; they are not designated 24 and 25."
+    ]
+  },
+  "10-059": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "The beacon is intended to identify the aerodrome to pilots from the air, not from the ground.",
+      "An aerodrome beacon is at the aerodrome, not at the start of final approach.",
+      "An aerodrome beacon is a rotating beacon at the aerodrome visible to pilots from the air.",
+      "The described beacon rotates; a fixed beacon is not the aerodrome beacon."
+    ]
+  },
+  "10-060": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "This is a runway-distance remaining sign, not a distance to parking.",
+      "It gives available runway from this intersection, not distance to the departure point.",
+      "The sign indicates 2,500 m of runway available from the intersection in the arrow direction.",
+      "The value is remaining available runway, not necessarily the complete runway length."
+    ]
+  },
+  "10-061": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "The stripes mark a touchdown-zone threshold area; they do not indicate where ground roll may begin.",
+      "They are not the point where an ILS glidepath hits the runway.",
+      "The bank identifies the stripes as a cue not to touch down before them.",
+      "The marking warns against touchdown before it, not behind it."
+    ]
+  },
+  "10-062": {
+    "topic": "Interception, emergency, search and rescue, occurrence investigation",
+    "why": [
+      "Alert phase is ALERFA, not DETRESFA.",
+      "DETRESFA means distress phase.",
+      "Uncertainty phase is INCERFA.",
+      "Rescue phase is not the expansion of DETRESFA."
+    ]
+  },
+  "10-063": {
+    "topic": "Interception, emergency, search and rescue, occurrence investigation",
+    "why": [
+      "Parabolic manoeuvres are not the prescribed acknowledgement.",
+      "Repeated rudder movements are not the prescribed signal.",
+      "Flap cycling is not the prescribed acknowledgement.",
+      "Rocking the wings is the prescribed airborne acknowledgement of a ground SAR signal."
+    ]
+  },
+  "10-064": {
+    "topic": "Interception, emergency, search and rescue, occurrence investigation",
+    "why": [
+      "Crash and disaster are not the three occurrence categories.",
+      "The categories are incident, serious incident, and accident.",
+      "“Serious event” is not the formal category; it is serious incident.",
+      "These are not the three formal occurrence categories."
+    ]
+  },
+  "10-065": {
+    "topic": "AIP, NOTAM, PIB and restricted airspace",
+    "why": [
+      "“No-fly zone” is not the formal area type tested here.",
+      "A restricted area may be crossed subject to its published restrictions.",
+      "Entry to a prohibited area is forbidden, not allowed with conditions.",
+      "Danger areas indicate hazardous activity; restricted area is the keyed category."
+    ]
+  },
+  "10-066": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "ICAO licensing does not depend simply on application to each country, according to the bank key.",
+      "The bank does not limit the licence to its issuing country.",
+      "The keyed answer is all ICAO countries, subject in practice to recognition and State rules.",
+      "The country of acquisition does not define the licence’s international validity."
+    ]
+  },
+  "10-067": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "Air traffic services are covered by a different ICAO Annex.",
+      "ICAO Annex 1 covers Personnel Licensing, including flight crew licensing.",
+      "Rules of the air are covered by another Annex.",
+      "Aircraft operation is not the subject of Annex 1."
+    ]
+  },
+  "10-068": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "If experience requirements are not met, the bank requires a proficiency check with an examiner.",
+      "This is not the bank’s stated renewal route.",
+      "An ATO/instructor training flight alone is not the keyed proficiency-check route.",
+      "Accumulating experience under an instructor is not the alternative keyed procedure."
+    ]
+  },
+  "10-069": {
+    "topic": "Legal framework, organisations and documents",
+    "why": [
+      "A PPL does not authorize commercial pilot work, even with only four people aboard.",
+      "A PPL does not confer commercial-flight privileges merely because the aircraft is single-engine.",
+      "The bank does not grant paid PIC privileges with a 2,000 kg limit.",
+      "A PPL allows non-commercial PIC without remuneration; compensation may be received as a qualified flight instructor."
+    ]
+  },
+  "10-070": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "TMZ is not a transportation management zone.",
+      "TMZ does not refer to touring motorgliders.",
+      "Traffic management zone is not the standard expansion.",
+      "TMZ means Transponder Mandatory Zone."
+    ]
+  },
+  "10-071": {
+    "topic": "Flight definitions, day/night and minimum height",
+    "why": [
+      "IFR means Instrument Flight Rules.",
+      "IMC means instrument meteorological conditions; IFR are rules.",
+      "“Bad weather flight rules” is not an aviation abbreviation.",
+      "IFR does not mean commercial flight rules."
+    ]
+  },
+  "10-072": {
+    "topic": "Flight definitions, day/night and minimum height",
+    "why": [
+      "Instrument meteorological conditions are IMC, not VMC.",
+      "VMC does not mean variable meteorological conditions.",
+      "VMC means Visual Meteorological Conditions.",
+      "VFR means visual flight rules; VMC describes weather conditions."
+    ]
+  },
+  "10-073": {
+    "topic": "Right of way and collision avoidance",
+    "why": [
+      "The keyed crossing answer does not assign priority by aircraft weight or require climbing.",
+      "The bank key says both engine-driven aircraft on crossing tracks turn right; this conflicts with the ordinary give-way rule.",
+      "The keyed answer does not require the heavier aircraft to climb.",
+      "The bank key specifies a right turn, not a left turn."
+    ],
+    "note": "(bank key) This marked answer conflicts with the ordinary crossing rule: the aircraft with the other on its right gives way. Apply current SERA and instructor guidance operationally."
+  },
+  "10-074": {
+    "topic": "Right of way and collision avoidance",
+    "why": [
+      "Aircraft type or commercial status does not give the Boeing priority in the crossing rule.",
+      "ATC may provide instructions, but the bank’s tested crossing rule uses relative position.",
+      "The aircraft with the other on its right has priority; the other gives way.",
+      "Power reserves or airline status do not determine right of way."
+    ]
+  },
+  "10-075": {
+    "topic": "Right of way and collision avoidance",
+    "why": [
+      "In a head-on encounter, the turboprop does not have unilateral priority over the single-engine aircraft.",
+      "Both aircraft turn right, not left, when approaching head-on.",
+      "Both aircraft alter course to the right to avoid a head-on collision.",
+      "The single-engine aircraft does not have unilateral priority over the turboprop."
+    ]
+  },
+  "10-076": {
+    "topic": "Altimetry and cruising levels",
+    "why": [
+      "Decision height does not determine the standard-pressure change.",
+      "The transition altitude is published and not universally 4,000 ft.",
+      "On climb, change from QNH to 1013.25 hPa when climbing above the transition altitude.",
+      "On descent, change at the published transition level, not a fixed FL100."
+    ]
+  },
+  "10-077": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "A, C, and S are SSR transponder modes.",
+      "Mode R is not one of the standard SSR modes listed.",
+      "B and V are not the standard SSR modes.",
+      "B and R are not standard SSR modes."
+    ]
+  },
+  "10-078": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "ALR alerts services; ATC provides control and safe orderly conduct within its remit.",
+      "FIS informs pilots but does not control their flights.",
+      "ATC is responsible for controlling the safe conduct of flights within its remit.",
+      "AIS publishes aeronautical information; it does not control flights."
+    ]
+  },
+  "10-079": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "“Jet blast” refers to engine exhaust hazard, not wake turbulence.",
+      "“Wake winds” is not the standard phrase.",
+      "Propwash is not the prescribed warning phrase.",
+      "“Caution wake turbulence” is the correct phrase for the hazard."
+    ]
+  },
+  "10-080": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "A position report should include callsign, position, and altitude; this lacks the altitude.",
+      "“FL 2500 ft” mixes a flight level with an altitude in feet.",
+      "“DEABC, N, 2500 ft” gives callsign, position, and altitude in the bank’s format.",
+      "“At 35” is ambiguous and omits the altitude reference/units."
+    ]
+  },
+  "10-081": {
+    "topic": "ATS, airspace structures and transponder",
+    "why": [
+      "AIREP means Aircraft Report.",
+      "It is not a report about instrument requirements.",
+      "It is not an automatic identification report.",
+      "It is not an aeronautical information report."
+    ]
+  },
+  "10-082": {
+    "topic": "AIP, NOTAM, PIB and restricted airspace",
+    "why": [
+      "A PIB is a preflight collection, not post-flight ICAO information.",
+      "AIP information is not the content definition keyed for PIB.",
+      "A PIB is not post-flight AIC information.",
+      "A PIB presents operationally significant NOTAM information before flight."
+    ]
+  },
+  "10-083": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "Aerodrome elevation is the highest point of the landing area.",
+      "The lowest point is not the defined aerodrome elevation.",
+      "The definition is not based on the apron.",
+      "It is a highest point, not an average of the manoeuvring area."
+    ]
+  },
+  "10-084": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "A holding point is a point, not an area.",
+      "The point is not limited to IFR or instrument conditions.",
+      "Aircraft must stop at a taxi holding point unless permission to proceed is given.",
+      "A taxi clearance alone does not remove a runway holding-point stop requirement."
+    ]
+  },
+  "10-085": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "That describes WET, which has no significant standing-water patches.",
+      "DAMP means moisture changes the surface colour.",
+      "A clear surface is DRY, not DAMP.",
+      "Flooding is not the definition of DAMP."
+    ]
+  },
+  "10-086": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "Mounting location on a control tower is not the specified visibility aid.",
+      "Green material is not the standard marking for visibility.",
+      "A white circle around the wind-direction indicator improves its visibility.",
+      "A large black surface is not the prescribed contrasting surround."
+    ]
+  },
+  "10-087": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "RPM changes are not the prescribed acknowledgement of light signals.",
+      "Rudder movements are not the prescribed acknowledgement.",
+      "In daytime, acknowledge light signals by rocking the wings.",
+      "Pitch changes are not the prescribed acknowledgement."
+    ]
+  },
+  "10-088": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "For two parallel runways, the left is L and the right is R; the left needs its suffix too.",
+      "The right runway does not remain undesignated when parallels exist.",
+      "Numbered suffixes are not used; parallel runways use L/R (or C where applicable).",
+      "The right runway is not designated by increasing its runway number."
+    ]
+  },
+  "10-089": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "PAPI is a pilot visual aid, not a tower controller guidance display.",
+      "PAPI visually guides the pilot to acquire and maintain the approach glidepath.",
+      "PAPI is a visual aid, not an instrument aid.",
+      "PAPI provides approach glidepath guidance, not departure-track guidance."
+    ]
+  },
+  "10-090": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "Runway edge lights are white; red marks runway ends.",
+      "Runway edge lights are white.",
+      "Blue is used for taxiway edge lights, not runway edges.",
+      "Green is associated with threshold lights, not runway edge lights."
+    ]
+  },
+  "10-091": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "Runway end lights show red toward the runway; white is not the keyed colour.",
+      "White is used for runway edge lights, not runway end lights.",
+      "Blue is used for taxiway edge lights.",
+      "Green is associated with runway threshold lights; runway end lights are red."
+    ]
+  },
+  "10-092": {
+    "topic": "Aerodrome operations, signs, markings and lights",
+    "why": [
+      "A black sign with yellow A identifies Taxiway A, not a point on a taxiway.",
+      "It does not indicate a runway section.",
+      "The sign indicates Taxiway A.",
+      "A taxiway location sign does not indicate a parking position."
+    ]
+  },
+  "10-093": {
+    "topic": "Interception, emergency, search and rescue, occurrence investigation",
+    "why": [
+      "SAR is not provided only by military organisations.",
+      "The bank does not restrict SAR provision to an international approved organisation category.",
+      "SAR is not limited to civil organisations.",
+      "Both civil and military organisations may provide search and rescue service."
+    ]
+  },
+  "10-094": {
+    "topic": "Interception, emergency, search and rescue, occurrence investigation",
+    "why": [
+      "Accident investigation seeks safety causes, not to determine guilt or impose legal consequences.",
+      "It does not decide passenger compensation liability.",
+      "The primary purpose is to identify causes and produce safety recommendations.",
+      "The investigation is not an arm of the public prosecutor."
+    ]
+  }
+}

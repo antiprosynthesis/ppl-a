@@ -1,0 +1,544 @@
+{
+  "20-001": {
+    "topic": "Atmosphere, altitude and gas laws",
+    "why": [
+      "Air remains about 21% oxygen at 6,000 ft; falling pressure reduces oxygen partial pressure, not its fraction.",
+      "12% confuses reduced oxygen availability with the air’s composition; oxygen remains near 21%.",
+      "78% is the approximate nitrogen fraction, not oxygen.",
+      "18.9% is not the atmospheric oxygen fraction; it remains near 21% at ordinary flight altitudes."
+    ]
+  },
+  "20-002": {
+    "topic": "Atmosphere, altitude and gas laws",
+    "why": [
+      "21% is the approximate oxygen fraction, not the minor gases.",
+      "0.1% is too small; argon and other gases together are approximately 1%.",
+      "The gases other than nitrogen and oxygen make up about 1% of air.",
+      "78% is the approximate nitrogen fraction."
+    ]
+  },
+  "20-003": {
+    "topic": "Atmosphere, altitude and gas laws",
+    "why": [
+      "At 5,000 ft pressure remains well above half of standard sea-level pressure.",
+      "Pressure is approximately half the MSL value near 18,000 ft.",
+      "At 10,000 ft pressure is still appreciably more than half MSL.",
+      "At 22,000 ft pressure is already below half the MSL value."
+    ]
+  },
+  "20-004": {
+    "topic": "Atmosphere, altitude and gas laws",
+    "why": [
+      "12,000 ft marks the approximate limit where compensation becomes incomplete, not the usual first response.",
+      "10,000 ft is above the approximate altitude at which the body usually starts reacting.",
+      "At 2,000 ft, the body generally has not begun a noticeable response to reduced pressure.",
+      "The body usually starts reacting to falling atmospheric pressure at about 7,000 ft."
+    ]
+  },
+  "20-005": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Low pressure causes hypoxic hypoxia by reducing oxygen partial pressure, not anaemic hypoxia.",
+      "High altitude produces hypoxic hypoxia; anaemic hypoxia is reduced blood oxygen-carrying capacity.",
+      "Carbon monoxide binds haemoglobin and reduces its oxygen-carrying capacity, causing anaemic hypoxia.",
+      "Alcohol may impair oxygen use, but it is not the bank’s cause of anaemic hypoxia."
+    ]
+  },
+  "20-006": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "A crack in the cabin-heater heat exchanger can let exhaust carbon monoxide enter the cabin.",
+      "Fuel or hydraulic-fluid exposure is not the specific source of CO poisoning tested here.",
+      "Generator failure does not itself produce carbon monoxide; incomplete combustion does.",
+      "Pitot icing affects airspeed indication and does not produce carbon monoxide."
+    ]
+  },
+  "20-007": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Alcohol is not a combustion source of carbon monoxide; smoking exposes a person to CO.",
+      "Tobacco smoke contains carbon monoxide, which binds to haemoglobin and impairs oxygen transport.",
+      "Unhealthy food does not generate carbon monoxide poisoning.",
+      "Little sleep can impair performance but does not cause carbon monoxide poisoning."
+    ]
+  },
+  "20-008": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Joint pain in knees and feet suggests decompression sickness, not the tested hypoxia sign.",
+      "Upper-body muscle cramps are not the characteristic hypoxia clue in this question.",
+      "Blue lips and fingernails indicate cyanosis, which can occur with severe oxygen deficiency.",
+      "Blue marks all over the body are not the typical cyanosis pattern; it is seen at lips or nail beds."
+    ]
+  },
+  "20-009": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Altered consciousness can occur with hyperventilation due to low carbon dioxide.",
+      "Tingling is a common hyperventilation symptom caused by changes in blood carbon dioxide and pH.",
+      "Cyanosis is associated with inadequate oxygenation, not a usual symptom of hyperventilation.",
+      "Muscle spasms can occur during hyperventilation as blood chemistry changes."
+    ]
+  },
+  "20-010": {
+    "topic": "G-forces and acceleration",
+    "why": [
+      "Hyperventilation can cause tingling and dizziness, not the G-induced visual grey-out.",
+      "Tiredness can impair alertness but does not cause grey-out through blood shifting.",
+      "Positive G moves blood away from the head and can fade peripheral vision and colour, producing grey-out.",
+      "Smoking exposes a person to CO but is not the direct cause of a G-related grey-out."
+    ]
+  },
+  "20-011": {
+    "topic": "Nervous system, senses and vision",
+    "why": [
+      "The autonomic nervous system controls involuntary functions including breathing, digestion and heart rate.",
+      "“Automatical nervous system” is not the accepted anatomical term for involuntary regulation.",
+      "“Critical nervous system” is not a recognized division that controls these functions.",
+      "“Compliant nervous system” is not the anatomical name for involuntary control."
+    ]
+  },
+  "20-012": {
+    "topic": "Nervous system, senses and vision",
+    "why": [
+      "The blind spot lacks photoreceptors; it does not detect colour.",
+      "The lens focuses light onto the retina but does not provide colour sensing.",
+      "Cones in the retina provide colour vision and fine detail, especially in bright light.",
+      "Rods support dim-light and peripheral vision but do not distinguish colour."
+    ]
+  },
+  "20-013": {
+    "topic": "Nervous system, senses and vision",
+    "why": [
+      "Parallax is an instrument-reading error from viewing a scale at an angle.",
+      "A radio decoding error is a communication problem, not parallax.",
+      "Age-related long-sightedness is a focusing condition, not an off-axis instrument-reading error.",
+      "Taxi-speed misperception is a visual illusion, not parallax on an instrument scale."
+    ]
+  },
+  "20-014": {
+    "topic": "Nervous system, senses and vision",
+    "why": [
+      "Non-polarised lenses avoid obscuring or distorting some cockpit displays and instruments.",
+      "Curved sidepieces are not the key cockpit requirement; polarized lenses can interfere with display viewing.",
+      "Impact resistance alone does not ensure sunglasses are suitable for cockpit displays.",
+      "Pilots should use suitable UV protection; “no UV filter” is unsafe and not the required characteristic."
+    ]
+  },
+  "20-015": {
+    "topic": "Ear, vestibular system and spatial disorientation",
+    "why": [
+      "The inner ear contains hearing and balance structures; it is not the connecting passage.",
+      "The eardrum separates the outer and middle ear; it does not connect the middle ear to the throat.",
+      "The cochlea is the hearing organ in the inner ear, not the pressure-equalizing connection.",
+      "The Eustachian tube connects the middle ear with the nose/throat region and helps equalize pressure."
+    ]
+  },
+  "20-016": {
+    "topic": "Ear, vestibular system and spatial disorientation",
+    "why": [
+      "A descent can cause pressure discomfort, but head movement during a turn is the classic vertigo trigger.",
+      "A climb alone is not the characteristic situation for the tested vestibular vertigo.",
+      "Straight horizontal flight is less likely to stimulate a strong rotational illusion than a turn.",
+      "Moving the head during a turn can stimulate another semicircular canal and cause Coriolis vertigo."
+    ]
+  },
+  "20-017": {
+    "topic": "Ear, vestibular system and spatial disorientation",
+    "why": [
+      "An inverted-flight sensation is not the usual somatogravic illusion from forward acceleration.",
+      "Forward acceleration in level flight can feel like a nose-up pitch and apparent climb.",
+      "A descent illusion is more commonly associated with deceleration, not acceleration.",
+      "Acceleration creates a pitch illusion rather than the primary sensation of banking."
+    ]
+  },
+  "20-018": {
+    "topic": "Nervous system, senses and vision",
+    "why": [
+      "Colour blindness affects colour discrimination but does not explain most visual illusions.",
+      "Binocular vision helps depth perception; illusions chiefly result from the brain misinterpreting cues.",
+      "Visual illusions mostly arise when the brain misinterprets incomplete, misleading or conflicting visual information.",
+      "Rapid eye movements are not the main general cause of visual illusions."
+    ]
+  },
+  "20-019": {
+    "topic": "Ear, vestibular system and spatial disorientation",
+    "why": [
+      "Starting a climb is not the characteristic leans illusion after leveling from a sustained turn.",
+      "After a prolonged turn, leveling can feel like banking or turning in the opposite direction.",
+      "The sensation is not usually continued turning in the original direction after the aircraft levels.",
+      "A descent sensation is not the characteristic vestibular illusion described here."
+    ]
+  },
+  "20-020": {
+    "topic": "Passenger discomfort and routine handling",
+    "why": [
+      "Avoiding conversation and increasing speed do not address discomfort and may add workload or motion.",
+      "Heating and blankets may worsen discomfort; adjust conditions and keep manoeuvres smooth.",
+      "Adjusting cabin temperature and avoiding excessive banking can reduce passenger discomfort and sensory conflict.",
+      "Oxygen is not automatically indicated, and avoiding low load factors is not the specific passenger-care response."
+    ]
+  },
+  "20-021": {
+    "topic": "Runway / approach visual illusions",
+    "why": [
+      "The supplied bank marks overshoot as the impression for an upslope runway (bank key).",
+      "A centreline misjudgment is not the impression keyed for an upslope runway.",
+      "A hard landing is not the specific visual impression identified by the bank.",
+      "An undershoot is not the supplied bank answer for this wording."
+    ],
+    "note": "Bank-key caveat: this question keys “overshoot,” while question 54 describes an upslope as appearing too high and prompting descent below glide slope; the source notes this apparent inconsistency."
+  },
+  "20-022": {
+    "topic": "Ear, vestibular system and spatial disorientation",
+    "why": [
+      "Closed windows do not prevent middle-ear equalization; the Eustachian tube connects it to the throat.",
+      "A blocked Eustachian tube prevents pressure equalization between the middle ear and environment.",
+      "Breathing through the mouth does not itself block the Eustachian tube.",
+      "A light, slow climb generally allows pressure to equalize; blockage is the limiting condition."
+    ]
+  },
+  "20-023": {
+    "topic": "Health, fitness and substances",
+    "why": [
+      "Being overweight is associated with increased risk of type 2 diabetes.",
+      "Smoking has health risks but is not the condition identified by this bank item.",
+      "Sleep deficiency impairs performance but is not the tested diabetes risk factor.",
+      "Sunbathing is not the diabetes risk factor identified here."
+    ]
+  },
+  "20-024": {
+    "topic": "Health, fitness and substances",
+    "why": [
+      "0.03% per hour is three times the bank’s approximate average elimination rate.",
+      "0.1% per hour is far above the approximate adult average in the bank.",
+      "0.3% per hour is much too rapid; the keyed approximate rate is 0.01%.",
+      "The bank’s approximate average decrease is 0.01% per hour; actual metabolism varies and this is not a fitness-to-fly calculation."
+    ]
+  },
+  "20-025": {
+    "topic": "Memory and information processing",
+    "why": [
+      "35–50 seconds substantially exceeds the bank’s stated short-term storage duration.",
+      "30–40 seconds is longer than the approximate 10–20 second duration given by the bank.",
+      "3–7 seconds is shorter than the bank’s approximate duration for short-term memory.",
+      "The bank gives approximately 10–20 seconds for short-term memory to retain information."
+    ]
+  },
+  "20-026": {
+    "topic": "Memory and information processing",
+    "why": [
+      "The bank’s short-term-memory figure is 5 ± 2 items for 10–20 seconds.",
+      "The item count matches, but 1–2 minutes is longer than the bank’s stated duration.",
+      "Both the stated capacity and 5–10 second duration differ from the bank’s answer.",
+      "The bank does not give a capacity of 10 ± 5 items or a 30–60 second duration."
+    ]
+  },
+  "20-027": {
+    "topic": "Memory and information processing",
+    "why": [
+      "Weather contributes to accidents, but the bank identifies human error as the majority cause.",
+      "Geography may be a hazard, but it is not the bank’s principal accident cause.",
+      "Technical failures occur, but the bank attributes most aviation accidents to human error.",
+      "The bank identifies human error as the cause of the majority of aviation accidents."
+    ]
+  },
+  "20-028": {
+    "topic": "Memory and information processing",
+    "why": [
+      "Critical checking of ambiguity helps counter bias; it is not confirmation bias itself.",
+      "Confirming radio calls is readback practice, not the cognitive bias described.",
+      "Confirmation bias is preferring evidence that supports an existing belief or mental model.",
+      "A communication feedback loop supports understanding but does not define confirmation bias."
+    ]
+  },
+  "20-029": {
+    "topic": "Memory and information processing",
+    "why": [
+      "Expectation bias can make a pilot perceive what they expect rather than what is actually present.",
+      "Doubt about ambiguity encourages checking and can help prevent error.",
+      "Proper checklist use reduces omissions rather than leading to human error.",
+      "Double-checking relevant actions is a defence against error, not a cause."
+    ]
+  },
+  "20-030": {
+    "topic": "Memory and information processing",
+    "why": [
+      "The Swiss-cheese model explains how holes in multiple defences align to form an error or accident chain.",
+      "It is not a specific emergency-landing procedure; it describes layers of safety defences.",
+      "It does not prescribe an optimal solution; it models how hazards pass through imperfect safeguards.",
+      "It is not a measure of pilot readiness, but a model of system defences and error paths."
+    ]
+  },
+  "20-031": {
+    "topic": "Memory and information processing",
+    "why": [
+      "A latent error is a hidden system weakness that can remain undetected for a long time.",
+      "An immediate control action is an active error, not a latent system condition.",
+      "A consciously made pilot action is not the definition of a latent error.",
+      "Latent errors may have delayed consequences, but they are defined by remaining hidden in the system."
+    ]
+  },
+  "20-032": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "Limited information can raise uncertainty, but group dynamics specifically encourage higher risk acceptance.",
+      "Nervousness on a check flight is not the bank’s identified group-related risk factor.",
+      "Group-dynamic effects can produce a risky shift, making a pilot more willing to accept risk.",
+      "Good weather during planning does not itself explain increased risk acceptance under group influence."
+    ]
+  },
+  "20-033": {
+    "topic": "Situation awareness, problem solving and communication",
+    "why": [
+      "Troubleshooting immediately can distract from aircraft control; stabilize first, then address the problem.",
+      "Maintain control and keep the aircraft stable first, then solve the problem while continuing to fly.",
+      "Calling another pilot before stabilizing the aircraft may add distraction and is not the first priority.",
+      "Problems can be managed in flight; the key is prioritizing aircraft control before troubleshooting."
+    ]
+  },
+  "20-034": {
+    "topic": "Situation awareness, problem solving and communication",
+    "why": [
+      "Situational awareness is the continuing monitoring and understanding of the current flight situation.",
+      "“Situational thinking” is not the standard term for ongoing perception and understanding.",
+      "An anticipatory check is not the general term for monitoring the whole flight situation.",
+      "“Constant flight check” is not the established human-factors term."
+    ]
+  },
+  "20-035": {
+    "topic": "Situation awareness, problem solving and communication",
+    "why": [
+      "Standard radio phraseology gives sender and receiver a shared communication code.",
+      "Frequency allocation selects a channel, not a shared linguistic code for interpreting messages.",
+      "A proper headset improves audio reception but does not standardize message meaning.",
+      "Certified radios ensure equipment compliance, not shared wording or interpretation."
+    ]
+  },
+  "20-036": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "The bank does not prefer unstable behaviour; emotional stability supports consistent judgement.",
+      "The bank’s preferred combination includes extroversion rather than introversion.",
+      "The bank identifies extroverted and stable as the preferred attitude-and-behaviour combination.",
+      "Introversion is not the keyed trait, and instability is not desirable for pilot behaviour."
+    ]
+  },
+  "20-037": {
+    "topic": "Memory and information processing",
+    "why": [
+      "A high technical-system error rate is not the identified cause of automation-related complacency.",
+      "Increased cockpit automation can reduce vigilance if pilots stop monitoring and verifying its outputs.",
+      "Human mistakes are not the specific reason this item associates with complacency.",
+      "More training options do not cause the automation-related complacency described by the bank."
+    ]
+  },
+  "20-038": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "Risky manoeuvres performed to impress spectators are a classic macho-attitude sign.",
+      "A careful walkaround is prudent behaviour, not macho risk-taking.",
+      "Resigning in a difficult situation indicates resignation, not a macho desire to prove oneself.",
+      "Comprehensive risk assessment is a safety behaviour, not an indication of macho attitude."
+    ]
+  },
+  "20-039": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "Invulnerability commonly pairs with macho attitude, not self-abandonment in the bank’s keyed pairing.",
+      "Self-abandonment and macho are not the dangerous-attitude pairing identified by the bank.",
+      "Macho and invulnerability commonly combine: proving oneself can be reinforced by believing harm will not occur.",
+      "Impulsivity is hazardous, whereas carefulness is its safety-oriented opposite."
+    ]
+  },
+  "20-040": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "Point D represents overstrain, where excessive arousal reduces performance.",
+      "Point C is not the diagram’s keyed optimum level of arousal.",
+      "Point A is not the optimum; too little arousal can also reduce performance.",
+      "Point B marks the moderate arousal level at which performance is ideal in the diagram."
+    ]
+  },
+  "20-041": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "Stress can affect attention, but it also affects concentration, responsiveness and memory.",
+      "Concentration and memory are affected, but attention and responsiveness are affected too.",
+      "Stress can influence all four listed functions: attention, concentration, responsiveness and memory.",
+      "Attention, concentration and responsiveness are affected, but this option omits memory."
+    ]
+  },
+  "20-042": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "Point D represents overstrain at excessive arousal, where performance declines.",
+      "Point B is the ideal moderate arousal level, not overstrain.",
+      "Point A is not the overstrained end of the diagram.",
+      "Point C is not the diagram’s keyed point for overstrain."
+    ]
+  },
+  "20-043": {
+    "topic": "G-forces and acceleration",
+    "why": [
+      "Red-out is red vision caused by negative G-loads as blood shifts toward the head.",
+      "A rash from decompression sickness is unrelated to the G-force visual effect called red-out.",
+      "Anaemia from injury is a blood condition, not red vision caused by negative G.",
+      "Sunrise or sunset colour changes do not define the negative-G red-out effect."
+    ]
+  },
+  "20-044": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Smell is not the human sense identified as most affected by hypoxia.",
+      "Touch can be impaired, but vision is particularly sensitive to oxygen deficiency.",
+      "Hearing is not the sense most influenced by hypoxia in the bank.",
+      "Vision is especially sensitive to hypoxia; impaired visual function can be an early warning."
+    ]
+  },
+  "20-045": {
+    "topic": "Atmosphere, altitude and gas laws",
+    "why": [
+      "About 12,000 ft is the bank’s lower limit beyond which the body cannot completely compensate for reduced pressure.",
+      "22,000 ft is much higher than the stated compensation threshold.",
+      "5,000 ft is below the bank’s approximate threshold for incomplete compensation.",
+      "7,000 ft is when the body usually starts reacting, not the threshold for incomplete compensation."
+    ]
+  },
+  "20-046": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Red blood cells carry oxygen using haemoglobin.",
+      "Platelets, not red blood cells, are primarily responsible for clotting.",
+      "White blood cells provide immune defence, not the red cells’ oxygen-transport function.",
+      "Blood sugar regulation is not the primary function of erythrocytes."
+    ]
+  },
+  "20-047": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Red cells transport oxygen; they do not primarily cause blood coagulation.",
+      "Arterial capillaries are vessels and not the blood component that forms clots.",
+      "White blood cells defend against infection; platelets drive clot formation.",
+      "Thrombocytes (platelets) aggregate and support clot formation and blood coagulation."
+    ]
+  },
+  "20-048": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Red blood cells transport oxygen rather than provide immune defence.",
+      "Platelets support clotting; they are not the main immune cells.",
+      "White blood cells do not regulate blood sugar; their central role is immune defence.",
+      "Leucocytes protect the body against infection and provide immune defence."
+    ]
+  },
+  "20-049": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Platelets help clot blood; immune defence is primarily a white-cell function.",
+      "Thrombocytes support blood coagulation by forming plugs and helping a clot develop.",
+      "Blood sugar regulation is not the function of platelets.",
+      "Oxygen transport is the main role of red blood cells, not platelets."
+    ]
+  },
+  "20-050": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Smoking exposes the body to carbon monoxide and can impair oxygen transport.",
+      "Menstruation may involve blood loss and is listed as a factor that can increase hypoxia vulnerability.",
+      "Blood donation temporarily reduces red-cell mass and can reduce oxygen-carrying capacity.",
+      "Diving raises decompression-sickness risk, but it is not a hypoxia risk factor in this item."
+    ]
+  },
+  "20-051": {
+    "topic": "Nervous system, senses and vision",
+    "why": [
+      "Reduction is not the term for an involuntary stereotyped response to receptor stimulation.",
+      "Virulence describes the severity of a pathogen, not a nervous-system response.",
+      "Coherence means logical consistency, not an involuntary receptor-triggered reaction.",
+      "A reflex is an involuntary, stereotyped response to stimulation of a receptor."
+    ]
+  },
+  "20-052": {
+    "topic": "Ear, vestibular system and spatial disorientation",
+    "why": [
+      "Starting a descent is not the characteristic illusion after leveling from a prolonged turn.",
+      "Starting a climb is not the characteristic leans illusion in this situation.",
+      "The typical illusion is not continuing to turn in the same direction after the wings level.",
+      "After a longer turn, leveling the wings can create the sensation of turning in the opposite direction."
+    ]
+  },
+  "20-053": {
+    "topic": "Ear, vestibular system and spatial disorientation",
+    "why": [
+      "Head movement during turns can trigger vestibular conflict and motion sickness.",
+      "Alcohol can impair balance and increase susceptibility to motion sickness or disorientation.",
+      "Straight-and-level flight without acceleration provides little vestibular conflict and does not stimulate motion sickness as these other conditions do.",
+      "Turbulence adds unpredictable motion and can provoke motion sickness."
+    ]
+  },
+  "20-054": {
+    "topic": "Runway / approach visual illusions",
+    "why": [
+      "Feeling too fast and reducing below normal approach speed is not the bank’s upslope illusion description.",
+      "The bank keys the perception of being too high and descending below the regular glide slope for an upslope runway (bank key).",
+      "Feeling too slow and speeding up is not the specified upslope visual illusion.",
+      "Feeling too low and flying above the regular glide slope is not the keyed upslope response."
+    ],
+    "note": "Bank-key caveat: the bank’s detailed answer is retained, though question 21 keys “overshoot” for an upslope runway; the source flags the apparent inconsistency."
+  },
+  "20-055": {
+    "topic": "Health, fitness and substances",
+    "why": [
+      "Overweight is a recognized risk factor for type 2 diabetes and is the bank answer.",
+      "Smoking has serious health effects but is not the risk factor selected by this question.",
+      "Sleep deficiency impairs alertness but is not the keyed diabetes risk factor.",
+      "Alcohol consumption has health risks but is not the bank’s selected diabetes risk factor."
+    ]
+  },
+  "20-056": {
+    "topic": "Oxygen, blood and hypoxia",
+    "why": [
+      "Smoking can affect oxygen transport but is not the specific decompression-sickness risk listed.",
+      "Ordinary sports are not the specific pressure-related risk in this question.",
+      "Scuba diving leaves extra nitrogen dissolved in tissues, increasing decompression-sickness risk during subsequent flight.",
+      "Oxygen after decompression is not the risk factor; diving before flight is."
+    ]
+  },
+  "20-057": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "“Extrude” and “palliate” are not the standard risk-handling options; the set is avoid, reduce, transfer, accept.",
+      "Ignoring risk is not appropriate management, and “extrude” is not a standard option.",
+      "Avoid, reduce, transfer and accept are the four appropriate risk-management strategies.",
+      "Ignoring risk is not appropriate, and palliation is not the standard four-part risk framework."
+    ]
+  },
+  "20-058": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "Crossing rudder and ailerons is a control-coordination error, not risky shift.",
+      "Risky shift is a group tendency to accept more risk than individuals might accept alone.",
+      "A runway-slope illusion can affect approach judgement but is not group risk shift.",
+      "Seat adjustment is unrelated to group risk acceptance."
+    ]
+  },
+  "20-059": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "Macho and invulnerability are the dangerous attitudes commonly combined in the bank.",
+      "Carefulness is not a hazardous attitude paired with impulsivity.",
+      "The bank identifies macho and invulnerability, not invulnerability and self-abandonment.",
+      "Self-abandonment and macho are not the keyed pairing; macho commonly combines with invulnerability."
+    ]
+  },
+  "20-060": {
+    "topic": "Risk, attitude, teamwork and stress",
+    "why": [
+      "Stress can arise when a problem appears to have no solution or available way forward.",
+      "Training and experience can influence coping and response to stress, so this claim is false.",
+      "Stress symptoms can impair performance and are relevant to flight safety.",
+      "People vary in their stress responses; reactions are not identical for everyone."
+    ]
+  }
+}

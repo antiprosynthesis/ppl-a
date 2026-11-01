@@ -1,0 +1,1542 @@
+{
+ "subject": "Aircraft General Knowledge",
+ "code": "80_Aircraft_General_Knowledge",
+ "questions": [
+  {
+   "id": "80-001",
+   "q": "The load factor \"n\" describes the relationship between...",
+   "image": null,
+   "options": [
+    "drag and lift.",
+    "weight and thrust.",
+    "lift and weight.",
+    "thrust and drag."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-002",
+   "q": "The fuselage structure may be damaged by...",
+   "image": null,
+   "options": [
+    "airspeed decreasing below a certain value.",
+    "exceeding the manoeuvering speed in heavy gusts.",
+    "neutralizing stick forces according to actual flight state.",
+    "stall after exceeding the maximum angle of attack."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-003",
+   "q": "The thickness of the wing is defined as the distance between the lower and the upper side of the wing at the...",
+   "image": null,
+   "options": [
+    "thinnest part of the wing.",
+    "thickest part of the wing.",
+    "most outer part of the wing.",
+    "most inner part of the wing."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-004",
+   "q": "The sandwich structure consists of two...",
+   "image": null,
+   "options": [
+    "thick layers and a heavy core material.",
+    "thin layers and a light core material.",
+    "thin layers and a heavy core material.",
+    "thick layers and a light core material."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-005",
+   "q": "Which are the advantages of sandwich structures?",
+   "image": null,
+   "options": [
+    "Good formability and high temperature durability",
+    "High temperature durability and low weight",
+    "Low weight, high stiffness, high stability, and high strength",
+    "High strength and good formability"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-006",
+   "q": "What is a tubular steel construction with a non self-supporting skin referred to as?",
+   "image": null,
+   "options": [
+    "Grid construction",
+    "Monocoque construction",
+    "Semi-monocoque construction.",
+    "Honeycomb structure"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-007",
+   "q": "What are the major components of an aircraft's tail?",
+   "image": null,
+   "options": [
+    "Horizontal tail and vertical tail",
+    "Rudder and ailerons",
+    "Ailerons and elevator",
+    "Steering wheel and pedals"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-008",
+   "q": "Which constructional elements give the wing its profile shape?",
+   "image": null,
+   "options": [
+    "Tip",
+    "Ribs",
+    "Spar",
+    "Planking"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-009",
+   "q": "Which of the stated materials shows the highest strength?",
+   "image": null,
+   "options": [
+    "Wood",
+    "Carbon fiber re-inforced plastic",
+    "Magnesium",
+    "Aluminium"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-010",
+   "q": "A construction made of frames and stringer with a supporting skin is called...",
+   "image": null,
+   "options": [
+    "Wood- or mixed construction.",
+    "Grid construction.",
+    "Honeycomb structure.",
+    "Semi-monocoque construction."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-011",
+   "q": "Primary fuselage structures of wood or metal planes are usually made up by what components?",
+   "image": null,
+   "options": [
+    "Covers, stringers and forming parts",
+    "Girders, ribs and stringers",
+    "Frames and stringer",
+    "Ribs, frames and covers"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-012",
+   "q": "Reasons for dents in the aircraft structure are...",
+   "image": null,
+   "options": [
+    "hard landing or excessive stress.",
+    "material defects or old colour.",
+    "excessive engine rpm and cylinder defects.",
+    "intense erosion or high wear."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-013",
+   "q": "Number 1 on the gear designates the...",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-005.jpg",
+   "options": [
+    "inner shock absorber.",
+    "torque link.",
+    "fork.",
+    "strut."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-014",
+   "q": "How is the nose or tail wheel usually controlled on small aircraft and motor gliders?",
+   "image": null,
+   "options": [
+    "By weight movement",
+    "By the control column",
+    "By the pedals",
+    "By the steering wheel"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-015",
+   "q": "What kind of control surface is connected with the nose wheel?",
+   "image": null,
+   "options": [
+    "Trim rudder",
+    "Elevator",
+    "Aileron",
+    "Rudder"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-016",
+   "q": "What are the primary and the secondary effects of a rudder input to the left?",
+   "image": null,
+   "options": [
+    "Primary: yaw to the left Secondary: roll to the left",
+    "Primary: yaw to the right Secondary: roll to the left",
+    "Primary: yaw to the left Secondary: roll to the right",
+    "Primary: yaw to the right Secondary: roll to the right"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-017",
+   "q": "About how many axes does an aircraft move and what are these axes called?",
+   "image": null,
+   "options": [
+    "4; optical axis, imaginary axis, sagged axis, axis of evil",
+    "3; x-axis, y-axis, z-axis",
+    "3; vertical axis, lateral axis, longitudinal axis",
+    "4; vertical axis, lateral axis, longitudinal axis, axis of speed"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-018",
+   "q": "What is the effect of pulling the control yoke or stick backwards?",
+   "image": null,
+   "options": [
+    "The aircraft's tail will produce an increased downward force, causing the aircraft's nose to drop",
+    "The aircraft's tail will produce an increased downward force, causing the aircraft's nose to rise",
+    "The aircraft's tail will produce an decreased upward force, causing the aircraft's nose to drop",
+    "The aircraft's tail will produce an increased upward force, causing the aircraft's nose to rise"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-019",
+   "q": "A movement around the longitudinal axis is primarily initiated by the...",
+   "image": null,
+   "options": [
+    "ailerons.",
+    "elevator.",
+    "trim tab.",
+    "rudder."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-020",
+   "q": "What is the purpose of the secondary flight controls?",
+   "image": null,
+   "options": [
+    "To constitute a backup system for the primary flight controls",
+    "To improve the performance characteristics of an aircraft and relieve the pilot of excessive control forces",
+    "To improve the turn characteristics of an aircraft in the low speed regime during approach and landing",
+    "To enable the pilot to control the aircraft's movements about its three axes"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-021",
+   "q": "When trimming an aircraft nose up, in which direction does the trim tab move?",
+   "image": null,
+   "options": [
+    "In direction of rudder deflection",
+    "Depends on CG position",
+    "It moves down",
+    "It moves up"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-022",
+   "q": "The trim wheel or lever in the cockpit is moved aft by the pilot. What effect does this action have on the trim tab and on the elevator?",
+   "image": null,
+   "options": [
+    "The trim tab moves down, the elevator moves up",
+    "The trim tab moves up, the elevator moves up",
+    "The trim tab moves up, the elevator moves down",
+    "The trim tab moves down, the elevator moves down"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-023",
+   "q": "What is the purpose of the tank ventilation?",
+   "image": null,
+   "options": [
+    "To prevent underpressure caused by fuel consumption",
+    "To prevent water disposal during parking",
+    "To distribute the fuel from one tank segment to the other during flight",
+    "To prevent fuel spillage during refueling on the filler plug"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-024",
+   "q": "Where does the condensation water converge in the tank?",
+   "image": null,
+   "options": [
+    "Near the cap of the tank",
+    "It floats on the fuel",
+    "At the lowest position",
+    "It is mixed with the fuel"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-025",
+   "q": "What is the unit for electrical power?",
+   "image": null,
+   "options": [
+    "Ohm",
+    "Ampere",
+    "Volt",
+    "Watt"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-026",
+   "q": "What must be considered during refueling?",
+   "image": null,
+   "options": [
+    "Check the fuel content of the tank with a torch and remove fire protection",
+    "No open fires, obey smoking ban and apply ground cables",
+    "Apply ground wires, turn on the main switch and magneto ignition",
+    "Refuel through a soaked rag and keep a fire extinguisher available"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-027",
+   "q": "What is the reason for static dischargers on aircraft?",
+   "image": null,
+   "options": [
+    "To eliminate electrical interferences during intensive radio traffic",
+    "To discharge static charging during flight",
+    "To improve the quality of radio transmission in high altitudes",
+    "To ensure grounding during refueling"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-028",
+   "q": "An aeroplane's current supply is carried out by the: 1. Battery 2. Generator 3. Relay 4. Circuit breaker",
+   "image": null,
+   "options": [
+    "1 and 2",
+    "1 and 4",
+    "2 and 3",
+    "3 and 4"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-029",
+   "q": "What devices can be affected by a failure of the electrical system?",
+   "image": null,
+   "options": [
+    "Fuel quantity indication, radio equipment and altimeter",
+    "Radio equipment, navigation equipment and magnetic compass",
+    "Airspeed indicator, altimeter and artificial horizon",
+    "Radio equipment, navigation equipment and gyros"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-030",
+   "q": "What engines are commonly used with Touring Motor Gliders (TMG)?",
+   "image": null,
+   "options": [
+    "2 plate Wankel",
+    "2 Cylinder Diesel",
+    "4 Cylinder 2 stroke",
+    "4 Cylinder; 4 stroke"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-031",
+   "q": "Which part of the cycle of a four-stroke Otto engine can be seen in the attachment?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-008.jpg",
+   "options": [
+    "Fourth stroke - exhaust",
+    "First stroke - induction",
+    "Third stroke - power",
+    "Second stroke - compression"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-032",
+   "q": "Which part of the cycle of a four-stroke Otto engine can be seen in the attachment?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-007.jpg",
+   "options": [
+    "Fourth stroke - exhaust",
+    "Third stroke - power",
+    "Second stroke - compression",
+    "First stroke - induction"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-033",
+   "q": "Which colour does Avgas 100 LL have?",
+   "image": null,
+   "options": [
+    "Green",
+    "Yellow",
+    "Blue",
+    "Red"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-034",
+   "q": "What is the secondary effect of switching on the carburettor heating on fixed propeller engines during engine run-up?",
+   "image": null,
+   "options": [
+    "RPM decreases",
+    "RPM increaes",
+    "Angle of attack increases",
+    "Angle of attack decreases"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-035",
+   "q": "In which phase of flight must the carburettor heating be switched off although carburettor icing might be expected?",
+   "image": null,
+   "options": [
+    "During climb",
+    "During taxi",
+    "During take-off",
+    "During cruise"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-036",
+   "q": "What is the task of cooling fins on air-cooled engine cylinders?",
+   "image": null,
+   "options": [
+    "Quick heat transfer to the surrounding air flow by expanding the surface",
+    "Leading the airflow to parts designated to be cooled",
+    "Cooling of the cylinder surrounding airflow and forwarding to hotter engine parts",
+    "Increasing the airflow thus improving cooling of cylinder parts"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-037",
+   "q": "What happens during oil filter clogging?",
+   "image": null,
+   "options": [
+    "The oil circulation will end after 15 minutes so that a proper engine run will not be guaranteed",
+    "The oil circulation will end after 30 minutes so that a proper engine run will not be guaranteed",
+    "A bypass valve opens thus enabling the circulation to continue, debris will be filtered by an alternate filter",
+    "A bypass valve opens thus enabling the circulation to continue, debris will not be filtered"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-038",
+   "q": "What is the purpose of engine oil in piston engine?",
+   "image": null,
+   "options": [
+    "For nose reduction and bearing of the propeller shaft.",
+    "Cooling, lubrication of the engine and disposal of fine abrasion.",
+    "Cooling of the engine and lubrication of propeller shaft.",
+    "Cooling, lubrication and increasing engine performance."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-039",
+   "q": "What is the likely cause if the engine runs unusually rough while checking the magnetos?",
+   "image": null,
+   "options": [
+    "Ignition switch is faulty",
+    "Short circuit on the ground cable",
+    "Starter is faulty",
+    "Sparking plug is defective"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-040",
+   "q": "How do you call fuel mixtures with a high amount of fuel?",
+   "image": null,
+   "options": [
+    "Empty",
+    "Rich",
+    "Lean",
+    "Full"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-041",
+   "q": "With increasing altitude and unchanged mixture setting, the air/fuel mixture...",
+   "image": null,
+   "options": [
+    "becomes liquid.",
+    "stays constant.",
+    "becomes richer.",
+    "becomes more lean."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-042",
+   "q": "How should an Otto engine be shut down?",
+   "image": null,
+   "options": [
+    "By moving the propeller to the feathered position",
+    "By completely leaning the mixture",
+    "By closing the throttle lever completely",
+    "By shutting down the generator"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-043",
+   "q": "Which gauges involve a measurement of temperature?",
+   "image": null,
+   "options": [
+    "Engine lubricant, exhaust gas, outside air, cabin air, directional gyro",
+    "Engine lubricant, cylinder head, exhaust gas, suction, outside air, cabin air",
+    "Engine lubricant, engine cooling fluid, cylinder head, exhaust gas, outside air, cabin air",
+    "Engine oil, cylinder head, exhaust gas, altimeter, airspeed indicator, vertical speed indicator"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-044",
+   "q": "Fuel quantity in small aircraft is most commonly measured through a level sensor. The European Certification Specifications CS 23 require that...",
+   "image": null,
+   "options": [
+    "a fuel quantity indicator must be available for each tank and the indicator must be calibrated to read \"zero\" during level flight when the quantity of fuel remaining in the tank is equal to the unusable fuel supply.",
+    "if no fuel quantity indicator is available to the pilot in flight, the pilot must check the fuel quantity before commencing the flight and recalculate the remaining fuel on board in regular intervals during the flight.",
+    "if the fuel indicator fails, the pilot must land at the next available airport.",
+    "at least one fuel quantity indicator must be available to indicate the total amount of fuel abord an aircraft. This Indicator must be calibrated adequately to indicate the correct amount of fuel during all phases of flight."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-045",
+   "q": "What does the dynamic pressure depend directly on?",
+   "image": null,
+   "options": [
+    "Air density and lift coefficient",
+    "Lift- and drag coefficient",
+    "Air density and airflow speed squared",
+    "Air pressure and air temperature"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-046",
+   "q": "The term \"static pressure\" is defined as pressure...",
+   "image": null,
+   "options": [
+    "sensed by the pitot tube.",
+    "of undisturbed airflow.",
+    "resulting from orderly flow of air particles.",
+    "inside the airplane cabin."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-047",
+   "q": "Which cockpit instruments are connected to the static port?",
+   "image": null,
+   "options": [
+    "Airspeed indicator, altimeter, direct-reading compass",
+    "Altimeter, vertical speed indicator, airspeed indicator",
+    "Airspeed indicator, direct-reading compass, slip indicator",
+    "Altimeter, slip indicator, navigational computer"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-048",
+   "q": "The Pitot / static system is required to...",
+   "image": null,
+   "options": [
+    "measure total and static air pressure.",
+    "correct the reading of the airspeed indicator to zero when the aircraft is static on the ground.",
+    "prevent icing of the Pitot tube.",
+    "prevent potential static buildup on the aircraft."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-049",
+   "q": "Which pressure is sensed by the Pitot tube?",
+   "image": null,
+   "options": [
+    "Static air pressure",
+    "Total air pressure",
+    "Cabin air pressure",
+    "Dynamic air pressure"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-050",
+   "q": "Which of the mentioned cockpit instruments is connected to the pitot tube?",
+   "image": null,
+   "options": [
+    "Altimeter",
+    "Airspeed indicator",
+    "Vertical speed indicator",
+    "Direct-reading compass"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-051",
+   "q": "The altimeter's reference scale is set to airfield pressure (QFE). What indication is shown during the flight?",
+   "image": null,
+   "options": [
+    "Altitude above MSL",
+    "Airfield elevation",
+    "Height above airfield",
+    "Pressure altitude"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-052",
+   "q": "A true altitude is...",
+   "image": null,
+   "options": [
+    "a pressure altitude corrected for non-standard temperature.",
+    "a height above ground level corrected for non-standard pressure.",
+    "an altitude above mean sea level corrected for non-standard temperature.",
+    "a height above ground level corrected for non-standard temperature."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-053",
+   "q": "Which instrument can be affected by the hysteresis error?",
+   "image": null,
+   "options": [
+    "Vertical speed indicator",
+    "Altimeter",
+    "Direct reading compass",
+    "Tachometer"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-054",
+   "q": "Which is the purpose of the altimeter subscale?",
+   "image": null,
+   "options": [
+    "To set the reference level for the altitude decoder of the transponder",
+    "To reference the altimeter reading to a predetermined level such as mean sea level, aerodrome level or pressure level 1013.25 hPa",
+    "To correct the altimeter reading for system errors",
+    "To adjust the altimeter reading for non-standard temperature"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-055",
+   "q": "The measurement of altitude is based on the change of the...",
+   "image": null,
+   "options": [
+    "static pressure.",
+    "total pressure.",
+    "dynamic pressure.",
+    "differential pressure."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-056",
+   "q": "In which way may an altimeter subscale which is set to an incorrect QNH lead to an incorrect altimeter reading?",
+   "image": null,
+   "options": [
+    "If the subscale is set to a lower than actual pressure, the indication is too high. This may lead to much closer proximity to the ground than intended",
+    "If the subscale is set to a lower than actual pressure, the indication is too low. This may lead to much closer proximity to the ground than intended",
+    "If the subscale is set to a higher than actual pressure, the indication is too high. This may lead to much closer proximity to the ground than intended",
+    "If the subscale is set to a higher than actual pressure, the indication is too low. This may lead to much greater heights above the ground than intended"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-057",
+   "q": "When is it necessary to adjust the pressure in the reference scale of an alitimeter?",
+   "image": null,
+   "options": [
+    "After maintance has been finished",
+    "Before every flight and during cross country flights",
+    "Once a month before flight operation",
+    "Every day before the first flight"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-058",
+   "q": "Lower-than-standard temperature may lead to...",
+   "image": null,
+   "options": [
+    "a blockage of the Pitot tube by ice, freezing the altimeter indication to its present value.",
+    "a correct altitude indication as long as the altimeter subscale is set to correct for non-standard temperature.",
+    "an altitude indication which is too high.",
+    "an altitude indication which is too low."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-059",
+   "q": "What difference in altitude is shown by an altimeter, if the reference pressure scale setting is changed from 1000 hPa to 1010 hPa?",
+   "image": null,
+   "options": [
+    "80 m less than before",
+    "Zero",
+    "Values depending on QNH",
+    "80 m more than before"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-060",
+   "q": "Which of the following options states the working principle of a vertical speed indicator?",
+   "image": null,
+   "options": [
+    "Measuring the present static air pressure and comparing it to the static air pressure inside a reservoir",
+    "Static air pressure is measured and compared against a vacuum",
+    "Total air pressure is measured and compared to static pressure",
+    "Measuring the vertical acceleration through the displacement of a gimbal-mounted mass"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-061",
+   "q": "A vertical speed indicator measures the difference between...",
+   "image": null,
+   "options": [
+    "instantaneous static pressure and previous static pressure.",
+    "dynamic pressure and total pressure.",
+    "total pressure and static pressure.",
+    "instantaneous total pressure and previous total pressure."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-062",
+   "q": "A vertical speed indicator connected to a too big equalizing tank results in...",
+   "image": null,
+   "options": [
+    "indication too low",
+    "mechanical overload",
+    "indication too high",
+    "no indication"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-063",
+   "q": "The vertical speed indicator measures the difference of pressure between...",
+   "image": null,
+   "options": [
+    "the present dynamic pressure and the dynamic pressure of a previous moment.",
+    "the present static pressure and the static pressure of a previous moment.",
+    "the present dynamic pressure and the static pressure of a previous moment.",
+    "the present total pressure and the total pressure of a previous moment."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-064",
+   "q": "QNE is the...",
+   "image": null,
+   "options": [
+    "magnetic bearing to a station.",
+    "altitude above the reference pressure level 1013.25 hPa.",
+    "barometric pressure at a reference datum, typically the runway threshold of an airfield.",
+    "barometric pressure adjusted to sea level, using the international standard atmosphere (ISA)."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-065",
+   "q": "QFE is the...",
+   "image": null,
+   "options": [
+    "barometric pressure at a reference datum, typically the runway threshold of an airfield.",
+    "barometric pressure adjusted to sea level, using the international standard atmosphere (ISA).",
+    "altitude above the reference pressure level 1013.25 hPa.",
+    "magnetic bearing to a station."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-066",
+   "q": "Calibrated airspeed (CAS) equals...",
+   "image": null,
+   "options": [
+    "true airspeed (TAS) corrected for wind.",
+    "indicated airspeed (IAS) corrected for instrument and position error.",
+    "equivalent airspeed (EAS) corrected for altitude.",
+    "ground speed (GS) corrected for instrument and position error."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-067",
+   "q": "At higher altitudes, true airspeed (TAS) tends to be higher than calibrated airspeed (CAS). A rough estimate of the TAS can be obtained by...",
+   "image": null,
+   "options": [
+    "subtracting 10 % of the CAS for every 1000 m altitude.",
+    "adding 10 % of the CAS for every 1000 ft altitude.",
+    "subtracting 2 % of the CAS for every 1000 ft altitude.",
+    "adding 2 % of the CAS for every 1000 ft altitude."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-068",
+   "q": "An aircraft cruises on a heading of 180° with a true airspeed of 110 kt. The wind comes from 180° with 30 kt, pressure altitude is 5000 ft. Neglecting instrument and position errors, which will be the approximate reading of the airspeed indicator?",
+   "image": null,
+   "options": [
+    "110 kt",
+    "100 kt",
+    "120 kt",
+    "90 kt"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-069",
+   "q": "What is necessary for the determination of speed (IAS) by the airspeed indicator?",
+   "image": null,
+   "options": [
+    "The difference between the standard pressure and the total pressure",
+    "The difference between the dynamic pressure and the static pressure",
+    "The difference betweeen the total pressure and the static presssure",
+    "The difference between the total pressure and the dynamic pressure"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-070",
+   "q": "Which of the following states the working principle of an airspeed indicator?",
+   "image": null,
+   "options": [
+    "Total air pressure is measured by the static ports and converted into a speed indication by the airspeed indicator",
+    "Static air pressure is measured and compared against a vacuum.",
+    "Total air pressure is measured and compared against static air pressure.",
+    "Dynamic air pressure is measured by the Pitot tube and converted into a speed indication by the airspeed indicator"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-071",
+   "q": "What is the meaning of the white arc on the airspeed indicator?",
+   "image": null,
+   "options": [
+    "Speed range for extended flaps",
+    "Speed range in bumpy air",
+    "Speed range not to exceed",
+    "Speed range in smooth air"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-072",
+   "q": "The red marking at the end of the yellow arc (5) indicates which airspeed?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/PFP-008.jpg",
+   "options": [
+    "VS1: Stall speed with flaps up",
+    "VNE: Never-exceed speed",
+    "VFE: Maximum flap extended speed",
+    "VNO: Maximum speed for normal operations"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-073",
+   "q": "The Caution Area is marked on an airspeed indicator by what color?",
+   "image": null,
+   "options": [
+    "Red",
+    "Yellow",
+    "Green",
+    "White"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-074",
+   "q": "Where does the inclination reach its lowest value?",
+   "image": null,
+   "options": [
+    "At the geographic poles",
+    "At the magnetic equator",
+    "At the geographic equator",
+    "At the magnetic poles"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-075",
+   "q": "The term \"inclination\" is defined as...",
+   "image": null,
+   "options": [
+    "angle between earth's magnetic field lines and horizontal plane.",
+    "deviation induced by electrical fields.",
+    "angle between magnetic and true north.",
+    "angle between airplane's longitudinal axis and true north."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-076",
+   "q": "Electronic devices on board of an aeroplane have influence on the...",
+   "image": null,
+   "options": [
+    "artificial horizon.",
+    "direct reading compass.",
+    "airspeed indicator.",
+    "turn coordinator."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-077",
+   "q": "The compass error caused by the aircraft's magnetic field is called...",
+   "image": null,
+   "options": [
+    "variation.",
+    "deviation.",
+    "declination.",
+    "inclination."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-078",
+   "q": "The indication of a magnetic compass deviates from magnetic north direction due to what errors?",
+   "image": null,
+   "options": [
+    "Deviation, turning and acceleration errors",
+    "Variation, turning and acceleration errors",
+    "Inclination and declination of the earth's magnetic field",
+    "Gravity and magnetism"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-079",
+   "q": "An aircraft in the northern hemisphere intends to turn on the shortest way from a heading of 360° to a heading of 270°. At approximately which indication of the magnetic compass should the turn be terminated?",
+   "image": null,
+   "options": [
+    "300°",
+    "360°",
+    "240°",
+    "270°"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-080",
+   "q": "An aircraft in the northern hemisphere intends to turn on the shortest way from a heading of 030° to a heading of 180°. At approximately which indicated magnetic heading should the turn be terminated?",
+   "image": null,
+   "options": [
+    "180°",
+    "150°",
+    "210°",
+    "360°"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-081",
+   "q": "What behaviour is shown by a rotating gyro in space?",
+   "image": null,
+   "options": [
+    "It moves in accordance with the body surrounding it",
+    "It swings from east to west like a pendulum",
+    "It tends to maintain its position in space",
+    "It moves in circles with a stadily decreasing radius"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-082",
+   "q": "A turn and bank (or turn and slip) coordinator provides information regarding...",
+   "image": null,
+   "options": [
+    "the rate of turn and bank angle of the aircraft.",
+    "the rate of turn and coordination, i.e. slip or skid, of the turn.",
+    "the coordination of the turn and slip angle.",
+    "the pitch and bank angle of the aircraft."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-083",
+   "q": "What does the slip indicator show?",
+   "image": null,
+   "options": [
+    "Vertical to horizon",
+    "Apparent vertical",
+    "Airplane's bank",
+    "Rate of turn"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-084",
+   "q": "The bank angle of a 2-minutes circle depends on the...",
+   "image": null,
+   "options": [
+    "IAS.",
+    "TAS.",
+    "Ground speed.",
+    "CAS."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-085",
+   "q": "The slip indicator's ball (apparent vertical) has moved to the right during a right turn. By what actions may the ball led back to middle position?",
+   "image": null,
+   "options": [
+    "Reduce bank, increase rate of turn",
+    "Reduce speed, increase bank",
+    "Increase bank, increase rate of turn",
+    "Reduce rate of turn, reduce bank"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-086",
+   "q": "A horizontal situation indicator (HSI) combines the information provided by...",
+   "image": null,
+   "options": [
+    "the attitude indicator and the flight director.",
+    "the directional gyro and the VHF navigation receiver.",
+    "the rate gyro and the slip indicator.",
+    "the directional gyro and the flight director."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-087",
+   "q": "Which light colour advises the pilot to the condition \"corrective action may be required in the future\"?",
+   "image": null,
+   "options": [
+    "Red",
+    "Blue",
+    "Amber (orange)",
+    "Green"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-088",
+   "q": "What values are usually marked with a red line on instrument displays?",
+   "image": null,
+   "options": [
+    "Recommended areas",
+    "Caution areas",
+    "Operational limits",
+    "Operational areas"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-089",
+   "q": "Which wing configuration is shown in the attachment?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-002.jpg",
+   "options": [
+    "Strut-braced high wing",
+    "High wing",
+    "Mid wing",
+    "Low wing"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-090",
+   "q": "Which tail assembly is shown in the attachment?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-003.jpg",
+   "options": [
+    "V-tail",
+    "T-tail",
+    "Fuselage-mounted tail",
+    "Cruciform tail"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-091",
+   "q": "What needs to be considered if permissible limitations were exceeded?",
+   "image": null,
+   "options": [
+    "The helicopter must be inspected by the pilot in command and if no defect is found, no appropriate entry in the aircraft technical log is necessary",
+    "The helicopter must be inspected by at least two pilots licensed on the type, one of whom must be the pilot in command",
+    "The helicopter must be inspected by a qualified engineer before the next flight",
+    "The helicopter must be subjected to a duplicate inspected by two engineers"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-092",
+   "q": "What kind of hydraulic oil is used in aeroplane systems today?",
+   "image": null,
+   "options": [
+    "Mineral oil",
+    "Vegetable oil",
+    "Bio-oil",
+    "Synthetic oil"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-093",
+   "q": "Where is the brake system installed to slow the aircraft on ground?",
+   "image": null,
+   "options": [
+    "On the tail wheel",
+    "On the nose and main gear",
+    "Only on the nose gear",
+    "Only on the main gear"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-094",
+   "q": "What is checked by the marking in the attachment?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-006.jpg",
+   "options": [
+    "The tread wear of the tire",
+    "The operating pressure of the carcass",
+    "The correct postion of the tire relative to the rim",
+    "The correct position of the outer isolation layers"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-095",
+   "q": "How are the flight controls on a small single-engine piston aircraft normally controlled and actuated?",
+   "image": null,
+   "options": [
+    "Power-assisted through hydraulic pumps or electric motors",
+    "Hydraulically through hydraulic pumps and actuators",
+    "Manually through rods and control cables",
+    "Electrically through fly-by-wire"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-096",
+   "q": "What happens to a helicopter during cruise when the stick is moved forward without other corrections?",
+   "image": null,
+   "options": [
+    "The speed increases and the sink rate increases",
+    "The speed decreases and the sink rate increases",
+    "The speed increases and the sink rate decreases",
+    "The speed decreases and the sink rate decreases"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-097",
+   "q": "Which of the following options states all primary flight controls of an aircraft?",
+   "image": null,
+   "options": [
+    "All movable parts on the aircraft which aid in controlling the aircraft",
+    "Flaps, slats, speedbrakes",
+    "Elevator, rudder, aileron",
+    "Elevator, rudder, aileron, trim tabs, high-lift wing devices, power controls"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-098",
+   "q": "What is the purpose of a ground adjustable trim tab?",
+   "image": null,
+   "options": [
+    "It is set on the ground to correct an out-of-trim condition arising from the mass and balance situation of an aircraft",
+    "It is preset on the ground and further adjusted in flight to reduce the need to constantly re-trim the aircraft",
+    "It is used to optimize the handling characteristics of an aircraft during ground operations",
+    "It is a non-movable metal tab on a flight control which is adjusted on the ground to optimize the inflight characteristics of an aircraft"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-099",
+   "q": "How does a balance tab move in relation to the flight control surface that it is coupled with?",
+   "image": null,
+   "options": [
+    "In the opposite direction",
+    "At an angle of 90°",
+    "At an angle of 45°",
+    "In the same direction"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-100",
+   "q": "The trim is used to...",
+   "image": null,
+   "options": [
+    "increase adverse yaw.",
+    "move the centre of gravity.",
+    "adapt the control force.",
+    "lock control elements."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-101",
+   "q": "Which of the following are an aircraft's secondary flight controls?",
+   "image": null,
+   "options": [
+    "Elevator, rudder, aileron",
+    "All movable parts on the aircraft which aid in controlling the aircraft",
+    "Elevator, rudder, aileron, trim tabs, high-lift wing devices, power controls",
+    "Wing flaps, leading edge devices, spoilers or speedbrakes, trim systems"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-102",
+   "q": "The primer is...",
+   "image": null,
+   "options": [
+    "an auxiliary pump in the fuel system to facilitate engine starting.",
+    "a mechanical switch in the cockpit to engage the turbocharger.",
+    "a valve in the fuel control system for automatic mixture regulation.",
+    "a nozzle in the Venturi tube of a carburettor for atomising the fuel."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-103",
+   "q": "What must be considered if the alternator fails in a helicopter?",
+   "image": null,
+   "options": [
+    "All instruments and warning systems will fail",
+    "No change as long as the battery provides enough power",
+    "The engine runs roughly and is prone to knocking",
+    "Only high power consumers will failing"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-104",
+   "q": "When using direct current, electrically driven flight instruments are marked with...",
+   "image": null,
+   "options": [
+    "\"EL\".",
+    "\"DC\".",
+    "\"AL\".",
+    "\"CO\"."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-105",
+   "q": "Which cylinder arragement is commonly used on small aircrafts and motor gliders?",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-Q105.jpg",
+   "options": [
+    "Horizontally opposed engine",
+    "Radial engine",
+    "In-line engine",
+    "V-type engine"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-106",
+   "q": "The highest absorbtion of humidity in fuel can be observed in which situation?",
+   "image": null,
+   "options": [
+    "During parking on wet gras areas",
+    "During parking on cold aprons",
+    "Almost empty tanks",
+    "Almost full tanks"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-107",
+   "q": "What does the octane rating or fuel grade describe?",
+   "image": null,
+   "options": [
+    "Anti-knock rating",
+    "Flame front speed",
+    "Ignition timing",
+    "Combustion temperature"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-108",
+   "q": "What is the major task of a carburettor?",
+   "image": null,
+   "options": [
+    "To pump fuel from the tanks into the cylinder",
+    "To control the aircraft's speed through the throttle valve",
+    "To provide additional fuel to cool the engine",
+    "To produce an ignitable air/fuel mixture"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-109",
+   "q": "In which outside air temperature is icing most likely?",
+   "image": null,
+   "options": [
+    "Between -5° C and +20° C",
+    "Between -10° C and +10° C",
+    "Between -20° C and +5° C",
+    "Between -15° C and 0° C"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-110",
+   "q": "Cylinder head temperature indication relates to...",
+   "image": null,
+   "options": [
+    "all Cylinders.",
+    "a random cylinder.",
+    "the critical cylinder.",
+    "the average of all cylinders."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-111",
+   "q": "Piston engines of helicopters have...",
+   "image": null,
+   "options": [
+    "one magneto ignition system.",
+    "one electrical ignition system.",
+    "two coupled ignition systems.",
+    "two independent ignition systems."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-112",
+   "q": "The angle indicated by arrow number 1 shows the propeller's... D: Direction of air flow C: Chord line R: Direction of rotation",
+   "image": "https://raw.githubusercontent.com/antiprosynthesis/ppl-a/main/figures/AGK-011.jpg",
+   "options": [
+    "angle of incidence.",
+    "angle of attack.",
+    "geometric wing twist.",
+    "aerodynamic wing twist."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-113",
+   "q": "How should a power increase be executed on a constant-speed propeller, provided that no other procedure is described in the flight manual?",
+   "image": null,
+   "options": [
+    "1) Decrease manifold pressure 2) Increase RPM",
+    "1) Decrease RPM 2) Increase manifold pressure",
+    "1) Increase manifold pressure 2) Increase RPM",
+    "1) Increase RPM 2) Increase manifold pressure"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-114",
+   "q": "How should a power decrease be executed on a constant-speed propeller, provided that no other procedure is described in the flight manual?",
+   "image": null,
+   "options": [
+    "1) Decrease RPM 2) Decrease manifold pressure",
+    "1) Decrease manifold pressure 2) Increase RPM",
+    "1) Decrease RPM 2) Increase manifold pressure",
+    "1) Decrease manifold pressure 2) Decrease RPM"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-115",
+   "q": "With increasing altitude, the power of a carburettor engine...",
+   "image": null,
+   "options": [
+    "remains constant.",
+    "first decreases, from 5000 ft on increases.",
+    "increases.",
+    "decreases."
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-116",
+   "q": "During ignition check the ignition is switched to OFF for a short moment and subsequently back to BOTH. What happens to the RPM if the ignition system is properly grounded?",
+   "image": null,
+   "options": [
+    "The RPM increases once switched to OFF and resumes a value below the previous one when switched back to BOTH",
+    "The RPM decreases once switched to OFF and resumes the previous value when switched back to BOTH",
+    "The RPM increases once switched to OFF and resumes the previous value when switched back to BOTH",
+    "The RPM decreases once switched to OFF and resumes a value below the previous one when switched back to BOTH"
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-117",
+   "q": "Which of the instruments listed below obtain their readings through pressure measurement?",
+   "image": null,
+   "options": [
+    "Oil pressure gauge, fuel pressure gauge, manifold pressure gauge, altimeter, vertical speed indicator, airspeed indicator, suction gauge",
+    "Oil pressure gauge, fuel pressure gauge, fuel quantity gauge, manifold pressure gauge, differential pressure gauge, altimeter",
+    "Airspeed indicator, vertical speed indicator, altimeter, directional gyro, turn and bank coordinator, oil pressure gauge, fuel pressure gauge",
+    "Airspeed indicator, vertical speed indicator, altimeter, magnetic compass, oil pressure gauge, fuel pressure gauge"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-118",
+   "q": "A flight level is a...",
+   "image": null,
+   "options": [
+    "pressure altitude.",
+    "density altitude.",
+    "altitude above ground.",
+    "true altitude."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-119",
+   "q": "During a flight in colder-than-ISA air the indicated altitude is...",
+   "image": null,
+   "options": [
+    "higher than the true altitude.",
+    "lower than the true altitude.",
+    "eqal to the true altitude.",
+    "equal to the standard altitude."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-120",
+   "q": "During a flight in an air mass with a temperature equal to ISA and the QNH set correctly, the indicated altitude is...",
+   "image": null,
+   "options": [
+    "lower than the true altitude.",
+    "equal to the true altitude.",
+    "equal to the standard atmosphere.",
+    "higher than the true altitude."
+   ],
+   "correct": 1
+  },
+  {
+   "id": "80-121",
+   "q": "Which of the following factors could cause an erroneous airspeed indication?",
+   "image": null,
+   "options": [
+    "A circuit breaker was pulled",
+    "The earth wire is still attached",
+    "The boost pressure line is defective",
+    "The aircraft is covered with adhesive foils"
+   ],
+   "correct": 3
+  },
+  {
+   "id": "80-122",
+   "q": "What is the meaning of the red range on the airspeed indicator?",
+   "image": null,
+   "options": [
+    "Speed which must not be exceeded within bumpy air",
+    "Speed which must not be exceeded with flaps extended",
+    "Speed which must not be exceeded regardless of circumstances",
+    "Speed which must not be exceeded in turns with more than 45° bank"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-123",
+   "q": "What is a cause for the dip error on the direct-reading compass?",
+   "image": null,
+   "options": [
+    "Deviation in the cockpit",
+    "Acceleration of the airplane",
+    "Inclination of earth's magnetic field lines",
+    "Temperature variations"
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-124",
+   "q": "A gyro which is rotating in space responds to forces being applied to it by an evasive movement...",
+   "image": null,
+   "options": [
+    "at an angle of 45° to the force being applied.",
+    "in a northern direction.",
+    "at an angle of 90° to the force being applied.",
+    "at an angle of 180° to the force being applied."
+   ],
+   "correct": 2
+  },
+  {
+   "id": "80-125",
+   "q": "The airspeed indicator is unservicable. The airplane may only be operated...",
+   "image": null,
+   "options": [
+    "when the airspeed indicator is fully functional again.",
+    "when a GPS with speed indication is used during flight.",
+    "if no maintenance organisation is around.",
+    "if only airfield patterns are flown."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-126",
+   "q": "An attitude director indicator (ADI) combines the information provided by...",
+   "image": null,
+   "options": [
+    "the attitude indicator and the flight director.",
+    "the directional gyro and the rate gyro.",
+    "the attitude indicator and the relative bearing indicator.",
+    "the attitude indicator and the radio magnetic indicator."
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-127",
+   "q": "What does the abbreviation HSI stand for?",
+   "image": null,
+   "options": [
+    "Horizontal Situation Indicator",
+    "Hybernating System Indication",
+    "Horizontal Slip Indicator",
+    "Horrifying Steep Inclination"
+   ],
+   "correct": 0
+  },
+  {
+   "id": "80-128",
+   "q": "What is the purpose of winglets?",
+   "image": null,
+   "options": [
+    "Increase gliging performance at high speed.",
+    "Increase of lift and turning manoeuvering capabilities.",
+    "To increase efficiency of aspect ratio.",
+    "Reduction of induced drag."
+   ],
+   "correct": 3
+  }
+ ]
+}

@@ -1,0 +1,931 @@
+{
+  "51-001": {
+    "topic": "Pressure and airflow",
+    "why": [
+      "Static pressure acts equally in every direction within a fluid at rest or in local equilibrium.",
+      "Static pressure is not confined to the flow direction; it acts in all directions.",
+      "Total pressure is not a direction of action; static pressure acts in every direction.",
+      "Static pressure is not restricted to the direction perpendicular to airflow; it acts in all directions."
+    ],
+    "note": "Remember: static pressure acts in all directions; dynamic pressure reflects motion."
+  },
+  "51-002": {
+    "topic": "Pressure and airflow",
+    "why": [
+      "The equation has a plus sign: total pressure equals static pressure plus dynamic pressure.",
+      "Dynamic pressure is total minus static pressure, not their sum.",
+      "Static pressure is total minus dynamic pressure, not their sum.",
+      "Bernoulli’s relation is total pressure = static pressure + dynamic pressure."
+    ],
+    "note": "Use total = static + dynamic."
+  },
+  "51-003": {
+    "topic": "Pressure and airflow",
+    "why": [
+      "Airflow around a body creates drag; lift depends on its shape and orientation to the flow.",
+      "Drag is the unavoidable aerodynamic force on a body moving through air.",
+      "A body cannot produce lift without drag; aerodynamic lift is accompanied by resistance.",
+      "Not every arbitrary body or orientation produces lift, although it does produce drag."
+    ]
+  },
+  "51-004": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "Thickness is the distance between the profile surfaces, not the leading-edge-to-trailing-edge length.",
+      "The chord joins the leading and trailing edges; label 2 marks that length.",
+      "A chord line is the straight reference line between the edges; the diagram label identifies the chord itself.",
+      "Angle of attack is an angle to the airflow, not the line marked 2."
+    ]
+  },
+  "51-005": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "Incidence is the fixed angle between the wing chord and aircraft reference axis, not airflow.",
+      "Inclination to the horizon is not the aerodynamic angle shown.",
+      "Angle of attack is between the chord and relative airflow, as shown.",
+      "“Lift angle” is not the standard name for chord-to-airflow angle."
+    ],
+    "note": "Angle of attack uses the airflow; incidence uses the aircraft longitudinal axis."
+  },
+  "51-006": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "Aspect ratio is span divided by mean chord (also span squared divided by wing area).",
+      "Sweep describes the wing’s backward or forward angle, not span-to-chord ratio.",
+      "Taper describes how chord changes from root to tip, not span divided by mean chord.",
+      "A trapezium is a planform shape, not the ratio of span to mean chord."
+    ],
+    "note": "AR = span ÷ mean chord = span² ÷ wing area."
+  },
+  "51-007": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "The centre of pressure is where the resultant aerodynamic force acts, not the flow-splitting point.",
+      "Separation occurs where airflow detaches farther aft, not at the illustrated stagnation point.",
+      "Transition marks laminar-to-turbulent flow farther along the surface.",
+      "At the stagnation point local airflow speed is zero and streamlines divide around the profile."
+    ]
+  },
+  "51-008": {
+    "topic": "Pressure and airflow",
+    "why": [
+      "Positive lift involves a pressure difference; the upper surface does not remain unchanged.",
+      "Lower pressure above and higher pressure below combine to produce positive lift.",
+      "The lower surface also contributes to the pressure difference; it does not remain unchanged.",
+      "This reverses the normal positive-lift pressure pattern: pressure is lower above and higher below."
+    ]
+  },
+  "51-009": {
+    "topic": "Lift and centre of pressure",
+    "why": [
+      "Gravity acts through the centre of gravity, not the aerodynamic centre of pressure.",
+      "The centre of pressure is the point where the resultant aerodynamic force is treated as acting.",
+      "The centre of pressure represents aerodynamic forces, not the combination of gravity and aerodynamics.",
+      "It represents the resultant aerodynamic force, not drag alone."
+    ],
+    "note": "Do not confuse centre of pressure (aerodynamic resultant) with centre of gravity (mass)."
+  },
+  "51-010": {
+    "topic": "Lift and centre of pressure",
+    "why": [
+      "A fixed 25% chord location is not general for a positively cambered profile.",
+      "Centre of pressure changes position as angle of attack changes.",
+      "As angle of attack decreases, the centre of pressure moves aft toward the trailing edge.",
+      "Aft, not forward, is the movement as angle of attack becomes smaller."
+    ]
+  },
+  "51-011": {
+    "topic": "Lift and centre of pressure",
+    "why": [
+      "At and beyond the stall, separation causes lift to fall while drag rises.",
+      "The keyed relationship is lift decreasing and drag increasing at the stall.",
+      "Drag increases rather than decreases as separated flow develops.",
+      "Lift falls rather than continuing to rise once the critical angle is exceeded."
+    ],
+    "note": "The bank key describes the stall itself; before the critical angle, lift can still be increasing (bank key)."
+  },
+  "51-012": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Pressure equalisation from lower to upper surface occurs around the wing tips.",
+      "The leading edge is not where upper/lower pressure compensation primarily occurs.",
+      "The roots are not the free ends where the pressure difference leaks around the wing.",
+      "The fuselage junction can create interference drag, but tip flow causes pressure compensation."
+    ],
+    "note": "Tip pressure leakage produces vortices and induced drag."
+  },
+  "51-013": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Landing gear contributes mainly parasite drag, not wingtip-vortex induced drag.",
+      "The fuselage nose contributes form drag rather than the principal induced drag.",
+      "Wingtip vortices are the principal source associated with induced drag.",
+      "Aileron outer edges are not the main source; induced drag comes from lift-related tip vortices."
+    ]
+  },
+  "51-014": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Induced drag does not disappear; at slower level-flight speed greater lift coefficient is needed.",
+      "It does not remain fixed: slower level flight requires greater lift and induced drag.",
+      "As airspeed decreases in level flight, induced drag rises to provide the required lift.",
+      "The change is an increase, not a slight decrease, as speed falls in level flight."
+    ],
+    "note": "In level flight, slowing down raises induced drag; speeding up raises parasite drag."
+  },
+  "51-015": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Parasite drag varies approximately with speed squared, so doubling speed does not halve it.",
+      "Doubling speed quadruples, rather than doubles, parasite drag when other factors are fixed.",
+      "The square law gives a fourfold increase, not a decrease.",
+      "With speed doubled, q and parasite drag rise by 2² = 4."
+    ],
+    "note": "At fixed density, area and coefficient: drag ∝ V²."
+  },
+  "51-016": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Induced drag does not peak at one speed and fall on both sides; in level flight it rises as speed falls.",
+      "At a fixed level-flight lift requirement, induced drag decreases as airspeed increases.",
+      "It decreases, rather than increases, with increasing speed in level cruise.",
+      "A minimum describes total drag, not induced drag alone; induced drag falls as speed rises."
+    ]
+  },
+  "51-017": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "“Main resistance” is not the standard category; these are parasite-drag components.",
+      "Induced drag comes from lift and tip vortices, not surface/form/interference effects.",
+      "Form/pressure, interference and skin-friction drag are all parasite drag.",
+      "Total drag includes induced drag as well; the listed three are specifically parasite components."
+    ],
+    "note": "Parasite drag = form + skin friction + interference."
+  },
+  "51-018": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "These are parasite components only; induced drag must also be included in total drag.",
+      "This omits interference drag and incorrectly lists components instead of the two totals.",
+      "Interference drag is already part of parasite drag; this option omits induced drag.",
+      "Total drag is the sum of induced drag and parasite drag."
+    ]
+  },
+  "51-019": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Parasite drag rises, rather than falls, with speed; induced drag falls.",
+      "Induced drag falls, rather than rises, as speed increases in level cruise.",
+      "Increasing speed reduces induced drag and increases parasite drag in level flight.",
+      "Parasite drag rises and induced drag falls; this option reverses both trends."
+    ]
+  },
+  "51-020": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "In the standard drag polar, total drag is minimum where induced and parasite drag are equal.",
+      "At twice induced drag, the curves have not reached their equality/minimum-total-drag condition.",
+      "Induced drag being smaller means parasite drag dominates; equality gives minimum total drag.",
+      "Parasite drag twice induced is past the equal-drag minimum toward higher-speed parasite dominance."
+    ],
+    "note": "Minimum total drag occurs where induced drag = parasite drag."
+  },
+  "51-021": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Ground effect reduces induced drag, so lift does not decrease as stated.",
+      "Induced drag decreases, but effective lift increases near the ground.",
+      "Near the ground, weaker wingtip-vortex effects reduce induced drag and increase effective lift.",
+      "Ground effect reduces, rather than increases, induced drag."
+    ]
+  },
+  "51-022": {
+    "topic": "Stall and recovery",
+    "why": [
+      "Before the critical angle, increasing angle of attack normally increases lift; stall comes after it is exceeded.",
+      "Angle of attack varies with flight condition and is not constant throughout a flight.",
+      "Negative angle of attack is possible, although it may produce negative lift.",
+      "Exceeding the critical angle causes separation and can make lift fall."
+    ],
+    "note": "A stall is an angle-of-attack event, not a fixed pitch attitude or speed."
+  },
+  "51-023": {
+    "topic": "Stall and recovery",
+    "why": [
+      "Critical angle of attack is an aerofoil/configuration property and is not changed simply by aircraft weight.",
+      "Aft CG changes stability and recovery characteristics, not the aerofoil’s critical angle.",
+      "Forward CG does not increase the aerofoil’s critical angle of attack.",
+      "Weight changes the speed needed for lift, not the critical angle itself."
+    ]
+  },
+  "51-024": {
+    "topic": "Stall and recovery",
+    "why": [
+      "Lower density mainly raises true stall speed; it does not lower indicated stall speed in this comparison.",
+      "Lower weight means less lift is required, so the aircraft can stall at a lower IAS.",
+      "Lower altitude does not by itself lower the indicated stall speed for the same aircraft condition.",
+      "Higher load factor raises stall speed; it does not reduce it."
+    ],
+    "note": "For the same configuration, Vs varies approximately with the square root of weight."
+  },
+  "51-025": {
+    "topic": "Turns and load factor",
+    "why": [
+      "In a coordinated level turn, load factor exceeds 1 and stall speed rises, not just the latter.",
+      "The load factor is above 1 in a level turn, not below 1.",
+      "Higher load factor raises stall speed; it does not lower it.",
+      "A level coordinated turn requires greater lift, so n > 1 and Vs is higher."
+    ],
+    "note": "Vs in a turn = wings-level Vs × √n."
+  },
+  "51-026": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "Washout is twist that changes incidence spanwise, not primarily a structural stiffener.",
+      "Washout makes the root stall first so the tip ailerons remain effective at high angle of attack.",
+      "Greater torsional strength is not the main aerodynamic benefit of washout.",
+      "Washout is a stall-characteristic feature, not a method of reducing high-speed form drag."
+    ],
+    "note": "Washout: root stalls before tip, preserving aileron control."
+  },
+  "51-027": {
+    "topic": "Stall and recovery",
+    "why": [
+      "Increasing bank while slowing increases load and stall risk instead of recovering.",
+      "A stall recovery requires reducing angle of attack, not increasing it.",
+      "Speed recovery is useful, but increasing angle of attack keeps the wing stalled.",
+      "Reduce angle of attack to unstall the wing, then regain speed with appropriate power."
+    ],
+    "note": "First reduce AoA; use the aircraft’s approved recovery procedure."
+  },
+  "51-028": {
+    "topic": "Stall and recovery",
+    "why": [
+      "Lowering the nose reduces angle of attack; adding power helps restore energy and speed.",
+      "Pulling back increases angle of attack and reducing power worsens the stall risk.",
+      "Power helps, but pulling the elevator raises angle of attack instead of unloading the wing.",
+      "Raising the nose increases angle of attack; it does not reduce airspeed safely after a warning."
+    ],
+    "note": "Unload first; power supports recovery but does not replace reducing AoA."
+  },
+  "51-029": {
+    "topic": "Stall and recovery",
+    "why": [
+      "Crossed/deflected ailerons can worsen the stalled wing’s angle of attack; keep them neutral.",
+      "Neutral ailerons avoid aggravating asymmetric stall during spin recovery; follow the POH.",
+      "Any aeroplane can spin if its stall is sufficiently uncoordinated; age is irrelevant.",
+      "Spin airspeed is generally low; rapid speed increase is characteristic of a spiral dive."
+    ],
+    "note": "Spin recovery is type-specific; use the POH/AFM."
+  },
+  "51-030": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "Flap deployment changes wing lift/drag, not engine torque or propeller effects.",
+      "Flaps do not normally change aileron effectiveness as their primary direct effect.",
+      "Flaps alter lift and pitching moments, so the aircraft’s trim condition changes.",
+      "Deploying flaps does not move aircraft mass or its centre of gravity."
+    ]
+  },
+  "51-031": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "Slots do not enable higher take-off/landing speeds; their role is delaying separation.",
+      "Leading-edge devices chiefly allow greater usable angle of attack rather than increasing camber to lower it.",
+      "Compared with trailing-edge flaps, slots produce less drag while delaying separation to permit higher AoA.",
+      "Slots increase the usable critical angle; they do not reduce it."
+    ],
+    "note": "Flaps increase camber; slots/slats delay separation and extend usable AoA."
+  },
+  "51-032": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "The boundary layer does not continue laminar to the centre of pressure; transition occurs earlier.",
+      "The stagnation point is the forward starting region, not the centre of pressure endpoint.",
+      "This describes the region after transition, not the laminar portion.",
+      "The laminar layer begins near the stagnation point and continues to the transition point."
+    ]
+  },
+  "51-033": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "Typically, flow begins laminar near the leading edge and transitions to turbulent farther aft.",
+      "The layer is not turbulent along the whole surface, and separation is not universal in normal flow.",
+      "Transition normally occurs, so the upper surface is not laminar throughout.",
+      "The usual order is laminar first, turbulent later, not the reverse."
+    ],
+    "note": "Laminar flow is orderly near the front; turbulent flow usually develops farther aft."
+  },
+  "51-034": {
+    "topic": "Stability and centre of gravity",
+    "why": [
+      "The vertical tail mainly stabilises yaw; it does not initiate a curve as the horizontal tail.",
+      "The horizontal tail contributes pitch stability about the lateral axis.",
+      "Yaw stability around the vertical axis is chiefly provided by the vertical tail.",
+      "Roll stability around the longitudinal axis is associated with features such as dihedral."
+    ]
+  },
+  "51-035": {
+    "topic": "Stability and centre of gravity",
+    "why": [
+      "Directional stability about the vertical axis is mainly associated with the vertical tail.",
+      "The longitudinal axis is the roll axis; longitudinal CG shifts chiefly affect pitch stability.",
+      "A longitudinal CG change alters pitching moments and stability about the lateral axis.",
+      "There is no standard “gravity axis” in the aircraft body-axis stability scheme."
+    ],
+    "note": "Longitudinal stability is pitch stability about the lateral axis."
+  },
+  "51-036": {
+    "topic": "Stability and centre of gravity",
+    "why": [
+      "The vertical tail mainly provides directional stability, not lateral/roll stability.",
+      "Differential ailerons reduce adverse yaw; they are not the principal structural source of lateral stability.",
+      "Wing dihedral creates a restoring roll tendency in sideslip and provides lateral stability.",
+      "The elevator controls pitch and does not provide lateral stability."
+    ]
+  },
+  "51-037": {
+    "topic": "Stability and centre of gravity",
+    "why": [
+      "The diagram shows dihedral contributing to lateral stability, not directional lift.",
+      "Lift alone is not the named design feature; the wing’s V-shape is dihedral.",
+      "Differential ailerons are a control-surface arrangement, not the illustrated wing geometry.",
+      "Dihedral mainly improves lateral stability, not longitudinal pitch stability."
+    ]
+  },
+  "51-038": {
+    "topic": "Stability and centre of gravity",
+    "why": [
+      "Vertical-axis stability is directional/yaw stability, not longitudinal stability.",
+      "Longitudinal stability concerns pitching about the lateral axis.",
+      "The longitudinal axis is the roll axis; the stability name refers to pitch, not rotation around it.",
+      "The propeller axis is not one of the three named aircraft body axes."
+    ],
+    "note": "Longitudinal stability = pitch about the lateral axis."
+  },
+  "51-039": {
+    "topic": "Axes and flight controls",
+    "why": [
+      "“Elevator axis” is not a standard aircraft body axis; the elevator pitches the aircraft.",
+      "Yaw about the vertical axis is primarily controlled by the rudder.",
+      "Roll about the longitudinal axis is primarily controlled by the ailerons.",
+      "The elevator produces pitch about the lateral axis."
+    ]
+  },
+  "51-040": {
+    "topic": "Axes and flight controls",
+    "why": [
+      "Rudder deflection produces yaw, not a primary pitch response.",
+      "Left rudder deflection yaws the aircraft to the left.",
+      "Right yaw would require right rudder, not left rudder.",
+      "Rudder acts about the vertical yaw axis, not to pitch the aircraft."
+    ]
+  },
+  "51-041": {
+    "topic": "Axes and flight controls",
+    "why": [
+      "Differential travel does not keep total lift constant; its benefit is reducing adverse yaw.",
+      "The down-going aileron moves less, limiting extra drag and reducing adverse yaw.",
+      "Differential movement reduces adverse yaw rather than increasing it.",
+      "Increasing drag relative to lift is not its purpose; differential travel limits drag asymmetry."
+    ],
+    "note": "Differential ailerons: up-going aileron travels farther than down-going aileron."
+  },
+  "51-042": {
+    "topic": "Axes and flight controls",
+    "why": [
+      "Full deflection does not inherently cancel adverse yaw and can increase it.",
+      "Differential ailerons reduce drag asymmetry and compensate for adverse yaw.",
+      "Aileron trim relieves a steady roll force; it does not coordinate yaw caused by aileron input.",
+      "Dihedral contributes lateral stability, not direct compensation for adverse yaw."
+    ]
+  },
+  "51-043": {
+    "topic": "Trim, balance and limitations",
+    "why": [
+      "Aerodynamic balance does not reduce the control surface itself; it offsets hinge moments.",
+      "Delaying wing stall is not the function of a rudder balance.",
+      "It chiefly reduces control forces; any effectiveness change is not the defining purpose.",
+      "Aerodynamic balance uses airflow forces to reduce the pilot’s control forces."
+    ]
+  },
+  "51-044": {
+    "topic": "Trim, balance and limitations",
+    "why": [
+      "Up-elevator would increase the nose-raising tendency rather than trim it out.",
+      "Moving the CG aft can worsen stability and is not a normal trim adjustment.",
+      "The keyed trim-tab direction for a nose-up tendency is upward, not downward.",
+      "Upward elevator-trim-tab deflection relieves the nose-up control force in the bank convention."
+    ],
+    "note": "Trim relieves sustained force; it does not move the centre of gravity."
+  },
+  "51-045": {
+    "topic": "Trim, balance and limitations",
+    "why": [
+      "Exceeding VNE is not simply an instrument-pressure problem; it risks structural damage.",
+      "Higher speed does not improve glide ratio; parasite drag rises and VNE is a hard limit.",
+      "Above VNE, aeroelastic flutter and damaging structural loads may occur.",
+      "Drag does not reduce with speed, and control forces generally increase."
+    ],
+    "note": "Never exceed the POH/AFM VNE."
+  },
+  "51-046": {
+    "topic": "Lift and centre of pressure",
+    "why": [
+      "Wing loading is weight divided by wing area, not area divided by weight.",
+      "Drag per weight is not wing loading.",
+      "Drag per wing area is not wing loading.",
+      "Wing loading is aircraft weight divided by wing area."
+    ],
+    "note": "Wing loading = W/S."
+  },
+  "51-047": {
+    "topic": "Propeller fundamentals",
+    "why": [
+      "Blade twist compensates for changing rotational speed; it does not maximize tip AoA.",
+      "Twist maintains nearly constant effective AoA and loading along the blade span.",
+      "The tip’s greater rotational speed does not mean twist is intended to maximize tip thrust.",
+      "The root is not the sole thrust-producing region; blade twist balances loading along the span."
+    ],
+    "note": "Blade rotational speed rises from root to tip; pitch is twisted to compensate."
+  },
+  "51-048": {
+    "topic": "Propeller fundamentals",
+    "why": [
+      "Ice degrades blade aerodynamics, so it does not normally increase power or RPM.",
+      "Both effects are reversed: icing reduces power and RPM.",
+      "Ice disturbs the propeller aerofoil and typically reduces power output and RPM.",
+      "Reduced power is expected, not increased output; icing also tends to reduce RPM."
+    ]
+  },
+  "51-049": {
+    "topic": "Turns and load factor",
+    "why": [
+      "This is not the standard force resolution; lift tilts and its components balance weight and provide turn force.",
+      "In a level turn, lift must increase so its vertical component balances weight while its horizontal component turns the aircraft.",
+      "The horizontal lift component supplies centripetal force; it is not the outward centrifugal force in the aircraft frame.",
+      "The aircraft needs greater total lift in a level turn, not less."
+    ],
+    "note": "In a level coordinated turn, n = lift/weight = 1/cos(bank)."
+  },
+  "51-050": {
+    "topic": "Turns and load factor",
+    "why": [
+      "Aircraft weight does not set the bank needed for a given turn rate.",
+      "For a specified rate-one turn, required bank depends on true airspeed.",
+      "Load factor results from bank; it is not the input determining the bank for a given turn rate.",
+      "Wind changes ground track, not the bank required for a given air-relative turn rate."
+    ]
+  },
+  "51-051": {
+    "topic": "Stability and centre of gravity",
+    "why": [
+      "The horizontal stabiliser contributes pitch stability about the lateral axis.",
+      "Ailerons control roll and do not provide the primary cruise pitch stabilisation.",
+      "Flaps alter lift and drag but are not the pitch-stability surface.",
+      "The vertical rudder stabilises yaw, not pitch about the lateral axis."
+    ]
+  },
+  "51-052": {
+    "topic": "Turns and load factor",
+    "why": [
+      "The rearward component of weight along the climb path adds to drag, requiring more thrust/power.",
+      "The vertical weight component is not the additional rearward force along the flight path.",
+      "Thrust acts forward; its component does not add rearward to drag.",
+      "Lift is perpendicular to the flight path, so it has no forward along-path component as stated."
+    ]
+  },
+  "51-053": {
+    "topic": "Lift and centre of pressure",
+    "why": [
+      "The centre of gravity is the balance point of aircraft mass, not the aerodynamic resultant.",
+      "The centre of pressure is the point at which the resultant aerodynamic forces are treated as acting.",
+      "“Lift point” is not the standard term for the resultant aerodynamic-force location.",
+      "The transition point marks boundary-layer change, not the force resultant."
+    ]
+  },
+  "51-054": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "AoA is measured from the chord to relative airflow, not the aircraft longitudinal axis.",
+      "This is the installed incidence/reference-axis angle, not angle of attack.",
+      "Angle of attack is the angle between the chord line and oncoming relative airflow.",
+      "Wing-to-fuselage angle is not the in-flight angle of attack."
+    ],
+    "note": "Relative airflow is opposite the flight path, not necessarily aligned with the fuselage."
+  },
+  "51-055": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Motion alone creates airflow and parasite drag, but wingtip vortices require lift generation.",
+      "Applying take-off power alone does not generate wingtip vortices before the wing produces lift.",
+      "Flap extension changes lift/drag, but vortices arise from lifting-wing pressure differences.",
+      "Wingtip vortices begin once the wing generates lift, such as at rotation."
+    ]
+  },
+  "51-056": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "Flow separation occurs farther aft, not at the stagnation point.",
+      "Laminar-to-turbulent transition occurs downstream, not at the stagnation point.",
+      "Aerodynamic resultant acts at the centre of pressure, not the stagnation point.",
+      "At stagnation the streamlines divide, flowing above and below the aerofoil."
+    ]
+  },
+  "51-057": {
+    "topic": "Lift and centre of pressure",
+    "why": [
+      "With increasing AoA, CP moves forward up to the critical angle, not backward.",
+      "The forward-then-backward pattern is not the keyed trend up to the critical angle.",
+      "On the positively cambered profile, CP moves forward as AoA increases until critical AoA.",
+      "The centre of pressure moves along the chord; it does not move out to the wingtips."
+    ],
+    "note": "Near and beyond stall, pressure changes can cause an abrupt aft movement."
+  },
+  "51-058": {
+    "topic": "Stall and recovery",
+    "why": [
+      "Beyond critical AoA, lift does not increase exponentially; separation makes lift fall.",
+      "Before stall, increasing AoA generally increases lift; the loss occurs when AoA is too large.",
+      "Excessive AoA causes flow separation and may reduce lift.",
+      "Reducing AoA does not generally increase drag; excessive AoA is associated with separation and drag."
+    ]
+  },
+  "51-059": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "As AoA increases, the stagnation point moves down the leading edge.",
+      "The centre of pressure moves along the chord rather than down vertically.",
+      "The centre of pressure does not move vertically upward as a direct AoA rule.",
+      "The stagnation point moves down, not up, the leading edge as AoA increases."
+    ]
+  },
+  "51-060": {
+    "topic": "Lift and centre of pressure",
+    "why": [
+      "As AoA decreases on the cambered profile, the centre of pressure moves aft.",
+      "The stagnation point does not remain fixed when AoA changes.",
+      "A decreasing AoA moves the stagnation point upward rather than down the leading edge.",
+      "Forward CP movement corresponds to increasing, not decreasing, AoA."
+    ]
+  },
+  "51-061": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "Aerodynamic washout uses section/profile changes; the described varying incidence is geometric washout.",
+      "Arrow shape means sweepback, not a spanwise twist in incidence.",
+      "V-form is dihedral, the upward angle of the wings from the fuselage.",
+      "Geometric washout is a physical twist that reduces wing incidence toward the tip."
+    ],
+    "note": "Washout makes the wing root stall before the tip."
+  },
+  "51-062": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Drag coefficient is not determined solely by airspeed; dynamic pressure affects drag force.",
+      "CD is not simply proportional to CL; their relationship depends on aerofoil and condition.",
+      "A drag coefficient has a non-negative minimum; it cannot become negative.",
+      "CD is finite and has a minimum value, not an unlimited range to infinity."
+    ]
+  },
+  "51-063": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Large aspect ratio reduces induced drag for a given lift.",
+      "Taper alone does not imply the greatest induced drag; aspect ratio/lift distribution matter.",
+      "A small aspect ratio increases induced drag because the wing is less efficient at producing lift.",
+      "Low lift coefficient reduces, rather than increases, lift-related induced drag."
+    ]
+  },
+  "51-064": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Interference drag is prominent where airflow patterns meet, especially at the wing-fuselage root.",
+      "Ailerons primarily affect control and profile drag, not the main interference junction.",
+      "Landing gear mainly contributes form drag; the wing root is the typical interference location.",
+      "Wingtip pressure leakage creates induced drag, not the main interference drag."
+    ]
+  },
+  "51-065": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Curve 1 falls as speed rises, the characteristic induced-drag trend in level flight.",
+      "Curve 4 is not the decreasing induced-drag curve identified in the bank figure.",
+      "Curve 2 rises with speed and represents parasite drag, not induced drag.",
+      "Curve 3 is the U-shaped total-drag curve, not induced drag alone."
+    ],
+    "note": "On the standard drag-speed graph: induced falls, parasite rises, total is U-shaped."
+  },
+  "51-066": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Interference drag is one component of parasite drag.",
+      "Skin-friction drag is a parasite-drag component.",
+      "Induced drag is separate from parasite drag; total drag adds the two categories.",
+      "Form/pressure drag is a parasite-drag component."
+    ]
+  },
+  "51-067": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "An elliptical lift distribution has the lowest induced drag among these planforms.",
+      "A double trapezoidal planform does not beat the ideal elliptical distribution in the keyed comparison.",
+      "A rectangular planform does not produce the lowest induced drag in this comparison.",
+      "A trapezoidal planform is not the minimum; the elliptical distribution is."
+    ]
+  },
+  "51-068": {
+    "topic": "Stall and recovery",
+    "why": [
+      "At the stall, lift decreases and drag increases because of flow separation.",
+      "Lift does not rise while drag falls after the critical AoA is exceeded.",
+      "Drag rises, but lift decreases rather than increases during a stall.",
+      "Lift decreases, but drag increases rather than decreases."
+    ]
+  },
+  "51-069": {
+    "topic": "Stall and recovery",
+    "why": [
+      "VNE is the never-exceed speed, far above stall; a stall warning precedes Vs.",
+      "The warning is designed to activate just before the stall speed, Vs.",
+      "Vx is best angle-of-climb speed, not the speed associated with stall warning.",
+      "VR is rotation speed for take-off, not stall speed."
+    ]
+  },
+  "51-070": {
+    "topic": "Stall and recovery",
+    "why": [
+      "The warning vane does not detect centre-of-gravity movement.",
+      "Boundary-layer transition is not the usual trigger specified for this warning.",
+      "Centre of pressure shifts with AoA but is not the usual sensing mechanism.",
+      "A local airflow/stagnation-point change commonly activates the stall warning."
+    ]
+  },
+  "51-071": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "At the same AoA, extending flaps increases lift coefficient rather than decreasing it.",
+      "Before CLmax, the trend is defined: flap camber increases CL at the same AoA.",
+      "Flap deployment increases camber and raises CL before the maximum is reached.",
+      "CL does not stay fixed when flap deflection changes aerofoil camber."
+    ]
+  },
+  "51-072": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "Decreasing AoA generally reduces lift rather than creating the flap’s lift-increasing effect.",
+      "Flaps increase aerofoil camber, raising lift coefficient at a given AoA.",
+      "Reducing form drag is not the flap mechanism for increasing lift.",
+      "Lower induced drag is not how flaps increase lift; they increase camber and CL."
+    ]
+  },
+  "51-073": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "A Fowler flap extends aft from the trailing edge and then deflects, increasing area/camber.",
+      "A simple hinged flap folds down; the key Fowler feature is extension aft.",
+      "A leading-edge device lifting at high AoA describes a slat, not a Fowler flap.",
+      "Folding the rear portion down describes a basic flap, not the defining Fowler extension."
+    ],
+    "note": "Fowler flap: extend aft, then deflect down."
+  },
+  "51-074": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "Take-off flaps can increase lift but added drag does not guarantee a higher climb rate.",
+      "Flaps add drag, so they do not necessarily increase acceleration.",
+      "The lift increase from take-off flap can shorten the ground run when used as specified.",
+      "Flaps increase drag rather than decrease it."
+    ],
+    "note": "Use the aircraft POH take-off flap setting; more flap is not always better for climb."
+  },
+  "51-075": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "This conflicts with the keyed go-around procedure allowing staged retraction before that altitude.",
+      "Retract to an intermediate position to reduce drag while retaining useful lift, absent a different POH procedure.",
+      "Immediate full retraction can cause a sudden lift loss close to the ground.",
+      "Keeping full flap to the traffic pattern leaves unnecessary drag and is not the keyed action."
+    ],
+    "note": "Follow the POH; this question’s default key is intermediate flap, not immediate full retraction."
+  },
+  "51-076": {
+    "topic": "High-lift devices and wing design",
+    "why": [
+      "Lowering flaps increases both lift and drag, not opposite trends.",
+      "Flap extension increases camber and lift, while the deflected surface also increases drag.",
+      "Lift does not decrease when flaps are lowered at the same flight condition.",
+      "Drag rises rather than falls when flaps are extended."
+    ]
+  },
+  "51-077": {
+    "topic": "Aerofoil geometry and flow",
+    "why": [
+      "Both boundary layers influence lift/drag; they are not divided into lift-only and drag-only roles.",
+      "A turbulent layer is thicker and generally has more skin-friction drag, not less.",
+      "Laminar flow is thinner and usually has less, not more, skin-friction drag.",
+      "Turbulent flow has more near-wall energy and can follow the aerofoil at higher AoA before separating."
+    ]
+  },
+  "51-078": {
+    "topic": "Stability and centre of gravity",
+    "why": [
+      "Moving farther from the original position is negative static stability.",
+      "Positive static stability means an initial tendency to return toward the original condition after disturbance.",
+      "Static stability is an aircraft tendency, not a return that requires pilot rudder input.",
+      "Remaining in the displaced position describes neutral, not positive, static stability."
+    ],
+    "note": "Static stability is the initial tendency; dynamic stability describes what follows over time."
+  },
+  "51-079": {
+    "topic": "Axes and flight controls",
+    "why": [
+      "Rolling is rotation about the longitudinal axis.",
+      "Pitching is rotation about the lateral axis.",
+      "Rotation around the vertical axis is yawing.",
+      "Slipping describes uncoordinated lateral motion, not rotation around the vertical axis."
+    ],
+    "note": "Roll-longitudinal, pitch-lateral, yaw-vertical."
+  },
+  "51-080": {
+    "topic": "Axes and flight controls",
+    "why": [
+      "Rolling is around the longitudinal axis, not lateral.",
+      "Stalling is an aerodynamic condition, not an axis rotation.",
+      "Yawing occurs around the vertical axis.",
+      "Pitching is rotation around the lateral axis."
+    ],
+    "note": "Remember: the aircraft rotates about the axis named across the motion."
+  },
+  "51-081": {
+    "topic": "Turns and load factor",
+    "why": [
+      "A climb generally requires greater AoA than level flight to generate the needed lift.",
+      "Take-off is not the comparison defining the steady climb relationship here.",
+      "A descent does not necessarily have smaller AoA than level flight; the keyed comparison is climb.",
+      "In the bank’s simplified comparison, level flight uses smaller AoA than a climb."
+    ]
+  },
+  "51-082": {
+    "topic": "Stability and centre of gravity",
+    "why": [
+      "A forward CG requires more elevator deflection/force to rotate the aircraft nose-up.",
+      "An aft CG generally reduces the elevator demand for rotation, rather than increasing it.",
+      "Elevator deflection is not simply increased by high speed; dynamic pressure affects control force.",
+      "Rotation control demand depends on CG and speed/configuration, so it is not speed-independent."
+    ]
+  },
+  "51-083": {
+    "topic": "Stability and centre of gravity",
+    "why": [
+      "CG position is calculated from loading before flight, not only determined in flight.",
+      "Correct loading is what places the CG within its safe approved range.",
+      "Trim changes control force/attitude, not aircraft mass distribution or CG.",
+      "Aileron trim affects roll forces and cannot shift the aircraft CG."
+    ],
+    "note": "Only loading changes the aircraft’s mass distribution and CG."
+  },
+  "51-084": {
+    "topic": "Axes and flight controls",
+    "why": [
+      "“Rudder axis” is not a standard body axis; rudder produces yaw.",
+      "Pitch around the lateral axis is controlled by elevator.",
+      "Rudder deflection yaws the aircraft around the vertical axis.",
+      "Roll around the longitudinal axis is primarily controlled by ailerons."
+    ]
+  },
+  "51-085": {
+    "topic": "Axes and flight controls",
+    "why": [
+      "Differential ailerons reduce drag asymmetry and keep adverse yaw low.",
+      "They do not prevent a stall; stall depends on exceeding critical AoA.",
+      "They are not a descent-rate control.",
+      "Wake turbulence comes from lift-generated vortices, not aileron differential."
+    ]
+  },
+  "51-086": {
+    "topic": "Axes and flight controls",
+    "why": [
+      "Right aileron up and left down produce a right roll, not left.",
+      "The aircraft rolls right, but the down-going left aileron creates drag that yaws the nose left.",
+      "The right roll is correct; adverse yaw is to the left, not right.",
+      "The yaw is left, but the roll is right with the right aileron raised."
+    ],
+    "note": "Aileron-induced adverse yaw is opposite the commanded roll."
+  },
+  "51-087": {
+    "topic": "Trim, balance and limitations",
+    "why": [
+      "A T-tail is a tailplane layout, not specifically a device to reduce control forces.",
+      "Vortex generators energise boundary-layer flow and delay separation.",
+      "Differential ailerons reduce adverse yaw, not general steering forces on the rudder.",
+      "Aerodynamic rudder balance reduces hinge moment and pilot steering forces."
+    ]
+  },
+  "51-088": {
+    "topic": "Trim, balance and limitations",
+    "why": [
+      "Trimming without force is the purpose of trim tabs, not static mass balance.",
+      "A balance weight does not increase control forces.",
+      "Static balance is not a limiter designed to cap stick forces.",
+      "Mass/static balance counteracts control-surface inertia about its hinge and helps prevent flutter."
+    ],
+    "note": "Aerodynamic balance reduces effort; mass balance guards against flutter."
+  },
+  "51-089": {
+    "topic": "Trim, balance and limitations",
+    "why": [
+      "An upward tab produces a trim indication, not neutral in the keyed convention.",
+      "The corresponding indicator is nose-down, not nose-up.",
+      "The keyed indication for elevator trim tab up is nose-down.",
+      "A lateral trim indication relates to roll, not elevator trim."
+    ]
+  },
+  "51-090": {
+    "topic": "Turns and load factor",
+    "why": [
+      "Forward CG affects pitch stability/control forces, not directly the cruise load factor.",
+      "Weight alone does not increase load factor; n is lift divided by weight.",
+      "An upward gust momentarily increases required lift/load factor on the aircraft.",
+      "Lower density affects performance and TAS, not load factor directly in this comparison."
+    ],
+    "note": "Load factor n = lift ÷ weight; gusts and manoeuvres change the aerodynamic load."
+  },
+  "51-091": {
+    "topic": "Propeller fundamentals",
+    "why": [
+      "A constant-speed propeller governs RPM; it does not hold aircraft airspeed constant.",
+      "As airspeed rises, the governor increases blade pitch to maintain selected RPM.",
+      "Lower airspeed does not by itself require RPM to decrease; the governor adjusts blade pitch.",
+      "The governor, not engine power alone, maintains selected RPM by changing blade angle."
+    ],
+    "note": "Constant-speed means constant selected RPM, not constant airspeed."
+  },
+  "51-092": {
+    "topic": "Propeller fundamentals",
+    "why": [
+      "A windmilling propeller creates substantial drag after engine failure.",
+      "Feathering uses a coarse pitch to reduce drag; it is not a greater pitch than feathered.",
+      "A windmilling propeller produces drag rather than useful thrust after engine failure.",
+      "The windmilling propeller worsens glide performance; feathering can reduce its drag."
+    ]
+  },
+  "51-093": {
+    "topic": "Propeller fundamentals",
+    "why": [
+      "Moving the propeller lever back selects higher pitch, but the keyed sink-rate change is downward.",
+      "A coarser pitch at idle reduces propeller drag and therefore reduces sink rate.",
+      "Moving the lever back does not decrease pitch; it selects coarser pitch.",
+      "Sink rate does not increase in the keyed scenario; reduced propeller drag lowers it."
+    ],
+    "note": "For this question’s constant-speed-propeller setup: lever back → coarser pitch → less drag/sink."
+  },
+  "51-094": {
+    "topic": "Lift/drag polar and finesse",
+    "why": [
+      "Point 1 is not the post-stall region; that is the curve beyond the lift peak.",
+      "Point 1 represents inverted flight on the bank’s aerofoil polar.",
+      "Best glide is the tangent-from-origin maximum L/D point, identified elsewhere on the figure.",
+      "Slow flight is the high-lift/high-AoA region, not point 1."
+    ]
+  },
+  "51-095": {
+    "topic": "Lift/drag polar and finesse",
+    "why": [
+      "Best glide is the maximum L/D tangent point, not the high-AoA point 5.",
+      "Point 5 denotes slow flight at high lift coefficient and high angle of attack.",
+      "The post-stall point is beyond the lift peak, not point 5.",
+      "Inverted flight is the negative-lift portion of the polar, not point 5."
+    ],
+    "note": "The maximum L/D tangent gives best glide; slow flight is higher AoA."
+  },
+  "51-096": {
+    "topic": "Turns and load factor",
+    "why": [
+      "A coordinated level turn has n greater than 1, so stall speed rises.",
+      "Greater load factor raises stall speed according to Vs = Vs₁g√n.",
+      "Load factor is not below 1 in a level turn.",
+      "Stall speed increases, not decreases, when load factor is above 1."
+    ]
+  },
+  "51-097": {
+    "topic": "Induced and parasite drag",
+    "why": [
+      "Wingtip vortices are not laminar flow; they are rotating flow from pressure leakage.",
+      "Profile drag comprises form and skin-friction effects, not tip-vortex effects.",
+      "Pressure equalisation around the tips creates vortices and induced drag.",
+      "The vortices are a drag consequence of lift, not the source of lift itself."
+    ],
+    "note": "Pressure leaks around the tips → vortices → induced drag."
+  },
+  "51-098": {
+    "topic": "Stall and recovery",
+    "why": [
+      "The spiral dive description is right, but a spin typically has the inner wing more stalled in a turn.",
+      "A spin has a stalled inner wing and relatively low/steady airspeed; a spiral dive has unstalled wings and rapidly increasing speed.",
+      "This reverses the spin’s stall location and assigns the rapid speed increase to the spin instead of spiral dive.",
+      "A spin is not defined by rapidly increasing speed, and the spiral dive is not a constant-speed stalled state."
+    ],
+    "note": "Spin = stalled autorotation; spiral dive = unstalled, steepening turn with rising speed."
+  }
+}

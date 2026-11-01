@@ -1,0 +1,1183 @@
+{
+  "90-001": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "The geographic axis joins the geographic poles and is perpendicular to the equatorial plane.",
+      "The polar axis of… conflicts with the rule: The geographic axis joins the geographic poles and is perpendicular to the equatorial plane.",
+      "The polar axis of… conflicts with the rule: The geographic axis joins the geographic poles and is perpendicular to the equatorial plane.",
+      "The polar axis of… conflicts with the rule: The geographic axis joins the geographic poles and is perpendicular to the equatorial plane."
+    ]
+  },
+  "90-002": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "Earth’s rotational axis passes through the geographic poles, not the magnetic poles.",
+      "geographic North Pole and… conflicts with the rule: Earth’s rotational axis passes through the geographic poles, not the magnetic poles.",
+      "magnetic north pole and… conflicts with the rule: Earth’s rotational axis passes through the geographic poles, not the magnetic poles.",
+      "magnetic north pole and… conflicts with the rule: Earth’s rotational axis passes through the geographic poles, not the magnetic poles."
+    ]
+  },
+  "90-003": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "Sphere of ecliptical shape conflicts with the rule: An ellipsoid approximates Earth’s slightly flattened shape for navigation.",
+      "Perfect sphere conflicts with the rule: An ellipsoid approximates Earth’s slightly flattened shape for navigation.",
+      "An ellipsoid approximates Earth’s slightly flattened shape for navigation.",
+      "Flat plate conflicts with the rule: An ellipsoid approximates Earth’s slightly flattened shape for navigation."
+    ]
+  },
+  "90-004": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "12800 km. conflicts with the rule: A full equatorial circle is 360° × 60 NM, or about 21,600 NM.",
+      "10800 km. conflicts with the rule: A full equatorial circle is 360° × 60 NM, or about 21,600 NM.",
+      "40000 NM. conflicts with the rule: A full equatorial circle is 360° × 60 NM, or about 21,600 NM.",
+      "A full equatorial circle is 360° × 60 NM, or about 21,600 NM."
+    ]
+  },
+  "90-005": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "a parallel of latitude. conflicts with the rule: A great-circle arc is the shortest surface route between two points.",
+      "a small circle. conflicts with the rule: A great-circle arc is the shortest surface route between two points.",
+      "a rhumb line. conflicts with the rule: A great-circle arc is the shortest surface route between two points.",
+      "A great-circle arc is the shortest surface route between two points."
+    ]
+  },
+  "90-006": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "120 NM conflicts with the rule: At the equator, 1° of longitude spans 60 NM.",
+      "At the equator, 1° of longitude spans 60 NM.",
+      "400 NM conflicts with the rule: At the equator, 1° of longitude spans 60 NM.",
+      "216 NM conflicts with the rule: At the equator, 1° of longitude spans 60 NM."
+    ]
+  },
+  "90-007": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "1 NM conflicts with the rule: At the equator, one degree of longitude equals 60 NM.",
+      "At the equator, one degree of longitude equals 60 NM.",
+      "60 km conflicts with the rule: At the equator, one degree of longitude equals 60 NM.",
+      "111 NM conflicts with the rule: At the equator, one degree of longitude equals 60 NM."
+    ]
+  },
+  "90-008": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "One degree of latitude is approximately 60 NM along any meridian.",
+      "60 km conflicts with the rule: One degree of latitude is approximately 60 NM along any meridian.",
+      "30 NM conflicts with the rule: One degree of latitude is approximately 60 NM along any meridian.",
+      "1 NM conflicts with the rule: One degree of latitude is approximately 60 NM along any meridian."
+    ]
+  },
+  "90-009": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "The center of a… conflicts with the rule: A rhumb line crosses each meridian at a constant angle.",
+      "The shortest track between… conflicts with the rule: A rhumb line crosses each meridian at a constant angle.",
+      "A rhumb line crosses each meridian at a constant angle.",
+      "A rhumb line is… conflicts with the rule: A rhumb line crosses each meridian at a constant angle."
+    ]
+  },
+  "90-010": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "10 NM conflicts with the rule: One degree of latitude along a meridian is 60 NM.",
+      "One degree of latitude along a meridian is 60 NM.",
+      "1 NM conflicts with the rule: One degree of latitude along a meridian is 60 NM.",
+      "111 NM conflicts with the rule: One degree of latitude along a meridian is 60 NM."
+    ]
+  },
+  "90-011": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "49°50'27''N conflicts with the rule: 240 NM north is 240′ or 4°; adding 4° gives 51°50′27″N.",
+      "240 NM north is 240′ or 4°; adding 4° gives 51°50′27″N.",
+      "43°50'27''N conflicts with the rule: 240 NM north is 240′ or 4°; adding 4° gives 51°50′27″N.",
+      "53°50'27''N conflicts with the rule: 240 NM north is 240′ or 4°; adding 4° gives 51°50′27″N."
+    ]
+  },
+  "90-012": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "Polar circles lie 23.5° from the poles, at approximately 66.5° latitude.",
+      "At a latitude of… conflicts with the rule: Polar circles lie 23.5° from the poles, at approximately 66.5° latitude.",
+      "20.5° south of the… conflicts with the rule: Polar circles lie 23.5° from the poles, at approximately 66.5° latitude.",
+      "23.5° north and south… conflicts with the rule: Polar circles lie 23.5° from the poles, at approximately 66.5° latitude."
+    ]
+  },
+  "90-013": {
+    "topic": "Time, UTC, Longitude and Sun",
+    "why": [
+      "0:30 h conflicts with the rule: Earth rotates 15° per hour, so 10° takes 10 × 4 = 40 minutes.",
+      "0:04 h conflicts with the rule: Earth rotates 15° per hour, so 10° takes 10 × 4 = 40 minutes.",
+      "1:00 h conflicts with the rule: Earth rotates 15° per hour, so 10° takes 10 × 4 = 40 minutes.",
+      "Earth rotates 15° per hour, so 10° takes 10 × 4 = 40 minutes."
+    ]
+  },
+  "90-014": {
+    "topic": "Time, UTC, Longitude and Sun",
+    "why": [
+      "0:40 h conflicts with the rule: At four minutes per degree, 20° is 80 minutes or 1 hour 20 minutes.",
+      "1:00 h conflicts with the rule: At four minutes per degree, 20° is 80 minutes or 1 hour 20 minutes.",
+      "At four minutes per degree, 20° is 80 minutes or 1 hour 20 minutes.",
+      "0:20 h conflicts with the rule: At four minutes per degree, 20° is 80 minutes or 1 hour 20 minutes."
+    ]
+  },
+  "90-015": {
+    "topic": "Time, UTC, Longitude and Sun",
+    "why": [
+      "local mean time at… conflicts with the rule: UTC is the common standard time used for aviation operations.",
+      "UTC is the common standard time used for aviation operations.",
+      "a local time in… conflicts with the rule: UTC is the common standard time used for aviation operations.",
+      "a zonal time. conflicts with the rule: UTC is the common standard time used for aviation operations."
+    ]
+  },
+  "90-016": {
+    "topic": "Time, UTC, Longitude and Sun",
+    "why": [
+      "1700 UTC. conflicts with the rule: CET is UTC+1, so subtract one hour: 1700 CET is 1600 UTC.",
+      "CET is UTC+1, so subtract one hour: 1700 CET is 1600 UTC.",
+      "1500 UTC. conflicts with the rule: CET is UTC+1, so subtract one hour: 1700 CET is 1600 UTC.",
+      "1800 UTC. conflicts with the rule: CET is UTC+1, so subtract one hour: 1700 CET is 1600 UTC."
+    ]
+  },
+  "90-017": {
+    "topic": "Time, UTC, Longitude and Sun",
+    "why": [
+      "CEST is UTC+2, so subtract two hours: 1600 CEST is 1400 UTC.",
+      "1500 UTC. conflicts with the rule: CEST is UTC+2, so subtract two hours: 1600 CEST is 1400 UTC.",
+      "1700 UTC. conflicts with the rule: CEST is UTC+2, so subtract two hours: 1600 CEST is 1400 UTC.",
+      "1600 UTC. conflicts with the rule: CEST is UTC+2, so subtract two hours: 1600 CEST is 1400 UTC."
+    ]
+  },
+  "90-018": {
+    "topic": "Time, UTC, Longitude and Sun",
+    "why": [
+      "the period of time… conflicts with the rule: Civil twilight is when the Sun’s centre is within 6° below the true horizon.",
+      "the period of time… conflicts with the rule: Civil twilight is when the Sun’s centre is within 6° below the true horizon.",
+      "Civil twilight is when the Sun’s centre is within 6° below the true horizon.",
+      "the period of time… conflicts with the rule: Civil twilight is when the Sun’s centre is within 6° below the true horizon."
+    ]
+  },
+  "90-019": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "tthe angle between magnetic… conflicts with the rule: True course is measured from true north to the course line.",
+      "True course is measured from true north to the course line.",
+      "the direction from an… conflicts with the rule: True course is measured from true north to the course line.",
+      "the direction from an… conflicts with the rule: True course is measured from true north to the course line."
+    ]
+  },
+  "90-020": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "inclination. conflicts with the rule: Variation is the angular difference between true and magnetic directions.",
+      "deviation. conflicts with the rule: Variation is the angular difference between true and magnetic directions.",
+      "Variation is the angular difference between true and magnetic directions.",
+      "WCA. conflicts with the rule: Variation is the angular difference between true and magnetic directions."
+    ]
+  },
+  "90-021": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "Runway designators use magnetic direction, which changes as variation changes.",
+      "The true direction of… conflicts with the rule: Runway designators use magnetic direction, which changes as variation changes.",
+      "The direction of the… conflicts with the rule: Runway designators use magnetic direction, which changes as variation changes.",
+      "The magnetic deviation of… conflicts with the rule: Runway designators use magnetic direction, which changes as variation changes."
+    ]
+  },
+  "90-022": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "heading of 0°. conflicts with the rule: An agonic line joins locations where magnetic variation is zero.",
+      "An agonic line joins locations where magnetic variation is zero.",
+      "inclination of 0°. conflicts with the rule: An agonic line joins locations where magnetic variation is zero.",
+      "deviation of 0°. conflicts with the rule: An agonic line joins locations where magnetic variation is zero."
+    ]
+  },
+  "90-023": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "heading. conflicts with the rule: An isogonic line joins points with equal magnetic variation.",
+      "inclination. conflicts with the rule: An isogonic line joins points with equal magnetic variation.",
+      "deviation. conflicts with the rule: An isogonic line joins points with equal magnetic variation.",
+      "An isogonic line joins points with equal magnetic variation."
+    ]
+  },
+  "90-024": {
+    "topic": "Units and Chart Scale",
+    "why": [
+      "feet (ft), inches (in) conflicts with the rule: Nautical miles and kilometres are basic horizontal navigation units.",
+      "Land miles (SM), sea… conflicts with the rule: Nautical miles and kilometres are basic horizontal navigation units.",
+      "Nautical miles and kilometres are basic horizontal navigation units.",
+      "Yards (yd), meters (m) conflicts with the rule: Nautical miles and kilometres are basic horizontal navigation units."
+    ]
+  },
+  "90-025": {
+    "topic": "Units and Chart Scale",
+    "why": [
+      "30000 ft. conflicts with the rule: 5,500 m × 3.281 ≈ 18,045 ft, rounded to 18,000 ft.",
+      "10000 ft. conflicts with the rule: 5,500 m × 3.281 ≈ 18,045 ft, rounded to 18,000 ft.",
+      "7500 ft. conflicts with the rule: 5,500 m × 3.281 ≈ 18,045 ft, rounded to 18,000 ft.",
+      "5,500 m × 3.281 ≈ 18,045 ft, rounded to 18,000 ft."
+    ]
+  },
+  "90-026": {
+    "topic": "Units and Chart Scale",
+    "why": [
+      "30 km. conflicts with the rule: 1,000 ft × 0.3048 = 305 m, approximately 300 m.",
+      "3000 m. conflicts with the rule: 1,000 ft × 0.3048 = 305 m, approximately 300 m.",
+      "1,000 ft × 0.3048 = 305 m, approximately 300 m.",
+      "30 m. conflicts with the rule: 1,000 ft × 0.3048 = 305 m, approximately 300 m."
+    ]
+  },
+  "90-027": {
+    "topic": "Airspeed and Altitude",
+    "why": [
+      "208 kt. conflicts with the rule: At 8,000 ft, the 2% rule gives 150 × 1.16 = 174 kt TAS.",
+      "At 8,000 ft, the 2% rule gives 150 × 1.16 = 174 kt TAS.",
+      "150 kt. conflicts with the rule: At 8,000 ft, the 2% rule gives 150 × 1.16 = 174 kt TAS.",
+      "142 kt. conflicts with the rule: At 8,000 ft, the 2% rule gives 150 × 1.16 = 174 kt TAS."
+    ]
+  },
+  "90-028": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "On Mercator, rhumb lines are straight and great circles generally curve.",
+      "Rhumb lines: curved lines,… conflicts with the rule: On Mercator, rhumb lines are straight and great circles generally curve.",
+      "Rhumb lines: curved lines,… conflicts with the rule: On Mercator, rhumb lines are straight and great circles generally curve.",
+      "Rhumb lines: straight lines,… conflicts with the rule: On Mercator, rhumb lines are straight and great circles generally curve."
+    ]
+  },
+  "90-029": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "magnetic bearing from the… conflicts with the rule: QTE is the true bearing from the station to the aircraft.",
+      "QTE is the true bearing from the station to the aircraft.",
+      "true bearing from the… conflicts with the rule: QTE is the true bearing from the station to the aircraft.",
+      "magnetic bearing from the… conflicts with the rule: QTE is the true bearing from the station to the aircraft."
+    ]
+  },
+  "90-030": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "239°. conflicts with the rule: QTE 229° with 10°W gives QDR239°; reciprocal QDM is 059°.",
+      "049°. conflicts with the rule: QTE 229° with 10°W gives QDR239°; reciprocal QDM is 059°.",
+      "039°. conflicts with the rule: QTE 229° with 10°W gives QDR239°; reciprocal QDM is 059°.",
+      "QTE 229° with 10°W gives QDR239°; reciprocal QDM is 059°."
+    ]
+  },
+  "90-031": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "With 10°W, QTE248° converts to magnetic QDR258°.",
+      "078° conflicts with the rule: With 10°W, QTE248° converts to magnetic QDR258°.",
+      "068° conflicts with the rule: With 10°W, QTE248° converts to magnetic QDR258°.",
+      "238° conflicts with the rule: With 10°W, QTE248° converts to magnetic QDR258°."
+    ]
+  },
+  "90-032": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "317°. conflicts with the rule: QDR152° with 5°W gives QTE147°; reciprocal QUJ is 327°.",
+      "QDR152° with 5°W gives QTE147°; reciprocal QUJ is 327°.",
+      "332°. conflicts with the rule: QDR152° with 5°W gives QTE147°; reciprocal QUJ is 327°.",
+      "147°. conflicts with the rule: QDR152° with 5°W gives QTE147°; reciprocal QUJ is 327°."
+    ]
+  },
+  "90-033": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "213°. conflicts with the rule: With 10°E, QTE203° converts to magnetic QDR193°.",
+      "023°. conflicts with the rule: With 10°E, QTE203° converts to magnetic QDR193°.",
+      "013°. conflicts with the rule: With 10°E, QTE203° converts to magnetic QDR193°.",
+      "With 10°E, QTE203° converts to magnetic QDR193°."
+    ]
+  },
+  "90-034": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "252°. conflicts with the rule: QDM is reciprocal to QDR: 067° + 180° = 247°.",
+      "072°. conflicts with the rule: QDM is reciprocal to QDR: 067° + 180° = 247°.",
+      "QDM is reciprocal to QDR: 067° + 180° = 247°.",
+      "257°. conflicts with the rule: QDM is reciprocal to QDR: 067° + 180° = 247°."
+    ]
+  },
+  "90-035": {
+    "topic": "Units and Chart Scale",
+    "why": [
+      "1 : 500000. conflicts with the rule: 220 NM is about 40,744,000 cm; ÷40.7 cm gives scale 1:1,000,000.",
+      "220 NM is about 40,744,000 cm; ÷40.7 cm gives scale 1:1,000,000.",
+      "1 : 2000000. conflicts with the rule: 220 NM is about 40,744,000 cm; ÷40.7 cm gives scale 1:1,000,000.",
+      "1 : 250000. conflicts with the rule: 220 NM is about 40,744,000 cm; ÷40.7 cm gives scale 1:1,000,000."
+    ]
+  },
+  "90-036": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "The scales increases with… conflicts with the rule: Mercator scale increases with latitude; rhumb lines are straight, great circles curved.",
+      "Mercator scale increases with latitude; rhumb lines are straight, great circles curved.",
+      "The scale is constant,… conflicts with the rule: Mercator scale increases with latitude; rhumb lines are straight, great circles curved.",
+      "The scale is constant,… conflicts with the rule: Mercator scale increases with latitude; rhumb lines are straight, great circles curved."
+    ]
+  },
+  "90-037": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "The chart is conformal… conflicts with the rule: Lambert conformal charts preserve angles and are nearly true to scale locally.",
+      "Lambert conformal charts preserve angles and are nearly true to scale locally.",
+      "Rhumb lines are depicted… conflicts with the rule: Lambert conformal charts preserve angles and are nearly true to scale locally.",
+      "Great circles are depicted… conflicts with the rule: Lambert conformal charts preserve angles and are nearly true to scale locally."
+    ]
+  },
+  "90-038": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "58 km/h. conflicts with the rule: 100 km ÷ (56/60 h) = 107 km/h.",
+      "100 km ÷ (56/60 h) = 107 km/h.",
+      "198 kt. conflicts with the rule: 100 km ÷ (56/60 h) = 107 km/h.",
+      "93 kt. conflicts with the rule: 100 km ÷ (56/60 h) = 107 km/h."
+    ]
+  },
+  "90-039": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "86 kt. conflicts with the rule: 110 NM × 60/85 min = 77.6 kt, rounded to 78 kt.",
+      "110 NM × 60/85 min = 77.6 kt, rounded to 78 kt.",
+      "160 km/h. conflicts with the rule: 110 NM × 60/85 min = 77.6 kt, rounded to 78 kt.",
+      "120 km/h. conflicts with the rule: 110 NM × 60/85 min = 77.6 kt, rounded to 78 kt."
+    ]
+  },
+  "90-040": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "1129 UTC. conflicts with the rule: 100 NM at 107 kt takes about 56 min; 0933 + 56 = 1029 UTC.",
+      "1146 UTC. conflicts with the rule: 100 NM at 107 kt takes about 56 min; 0933 + 56 = 1029 UTC.",
+      "1045 UTC. conflicts with the rule: 100 NM at 107 kt takes about 56 min; 0933 + 56 = 1029 UTC.",
+      "100 NM at 107 kt takes about 56 min; 0933 + 56 = 1029 UTC."
+    ]
+  },
+  "90-041": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "1430 UTC conflicts with the rule: GS=105−12=93 kt; 75/93 h≈48 min; ETA is 1330 UTC.",
+      "1356 UTC conflicts with the rule: GS=105−12=93 kt; 75/93 h≈48 min; ETA is 1330 UTC.",
+      "1320 UTC conflicts with the rule: GS=105−12=93 kt; 75/93 h≈48 min; ETA is 1330 UTC.",
+      "GS=105−12=93 kt; 75/93 h≈48 min; ETA is 1330 UTC."
+    ]
+  },
+  "90-042": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "1330 UTC conflicts with the rule: 70 NM in 30 actual minutes gives 140 kt; 150 NM takes 64 min, so ETA rounds to 1335 UTC.",
+      "70 NM in 30 actual minutes gives 140 kt; 150 NM takes 64 min, so ETA rounds to 1335 UTC.",
+      "1345 UTC conflicts with the rule: 70 NM in 30 actual minutes gives 140 kt; 150 NM takes 64 min, so ETA rounds to 1335 UTC.",
+      "1340 UTC conflicts with the rule: 70 NM in 30 actual minutes gives 140 kt; 150 NM takes 64 min, so ETA rounds to 1335 UTC."
+    ]
+  },
+  "90-043": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "1005 UTC. conflicts with the rule: GS=130−15=115 kt; 210/115 h≈1 h 50 min; ETA is 1105 UTC.",
+      "1115 UTC. conflicts with the rule: GS=130−15=115 kt; 210/115 h≈1 h 50 min; ETA is 1105 UTC.",
+      "GS=130−15=115 kt; 210/115 h≈1 h 50 min; ETA is 1105 UTC.",
+      "1052 UTC. conflicts with the rule: GS=130−15=115 kt; 210/115 h≈1 h 50 min; ETA is 1105 UTC."
+    ]
+  },
+  "90-044": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "0:34 h conflicts with the rule: 236/134 h × 60 ≈106 min, or 1 hour 46 minutes.",
+      "236/134 h × 60 ≈106 min, or 1 hour 46 minutes.",
+      "1:34 h conflicts with the rule: 236/134 h × 60 ≈106 min, or 1 hour 46 minutes.",
+      "0:46 h conflicts with the rule: 236/134 h × 60 ≈106 min, or 1 hour 46 minutes."
+    ]
+  },
+  "90-045": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "15 min. conflicts with the rule: 7,500 ft ÷ 1,200 ft/min = 6.25 minutes, nearest bank choice 6 min.",
+      "12 min. conflicts with the rule: 7,500 ft ÷ 1,200 ft/min = 6.25 minutes, nearest bank choice 6 min.",
+      "7,500 ft ÷ 1,200 ft/min = 6.25 minutes, nearest bank choice 6 min (bank key).",
+      "8 min. conflicts with the rule: 7,500 ft ÷ 1,200 ft/min = 6.25 minutes, nearest bank choice 6 min."
+    ],
+    "note": "The calculation gives 6.25 minutes; the bank rounds to the nearest listed choice, 6 minutes."
+  },
+  "90-046": {
+    "topic": "Airspeed and Altitude",
+    "why": [
+      "Warm air correction is about +500 ft, so 6,500 ft becomes about 7,000 ft.",
+      "6750 ft. conflicts with the rule: Warm air correction is about +500 ft, so 6,500 ft becomes about 7,000 ft.",
+      "6500 ft. conflicts with the rule: Warm air correction is about +500 ft, so 6,500 ft becomes about 7,000 ft.",
+      "6250 ft. conflicts with the rule: Warm air correction is about +500 ft, so 6,500 ft becomes about 7,000 ft."
+    ]
+  },
+  "90-047": {
+    "topic": "Airspeed and Altitude",
+    "why": [
+      "6500 ft conflicts with the rule: At FL75, −9°C is about 9°C below ISA; cold correction puts true altitude near 6,250 ft.",
+      "At FL75, −9°C is about 9°C below ISA; cold correction puts true altitude near 6,250 ft.",
+      "6750 ft conflicts with the rule: At FL75, −9°C is about 9°C below ISA; cold correction puts true altitude near 6,250 ft.",
+      "7000 ft conflicts with the rule: At FL75, −9°C is about 9°C below ISA; cold correction puts true altitude near 6,250 ft."
+    ]
+  },
+  "90-048": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "Overhead EDCK conflicts with the rule: 51.83°N, 12.19°E converts to 51°49.8′N, 12°11.4′E, overhead EDAD.",
+      "51.83°N, 12.19°E converts to 51°49.8′N, 12°11.4′E, overhead EDAD.",
+      "Overhead the village of… conflicts with the rule: 51.83°N, 12.19°E converts to 51°49.8′N, 12°11.4′E, overhead EDAD.",
+      "Overhead the village of… conflicts with the rule: 51.83°N, 12.19°E converts to 51°49.8′N, 12°11.4′E, overhead EDAD."
+    ]
+  },
+  "90-049": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "7° right. conflicts with the rule: Wind from 350° is left of track; 23 kt crosswind requires about 7° left WCA.",
+      "Wind from 350° is left of track; 23 kt crosswind requires about 7° left WCA.",
+      "3° right. conflicts with the rule: Wind from 350° is left of track; 23 kt crosswind requires about 7° left WCA.",
+      "3° left. conflicts with the rule: Wind from 350° is left of track; 23 kt crosswind requires about 7° left WCA."
+    ]
+  },
+  "90-050": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "155 kt. conflicts with the rule: Resolving wind 350°/30 against TC040° gives approximately 159 kt groundspeed.",
+      "168 kt. conflicts with the rule: Resolving wind 350°/30 against TC040° gives approximately 159 kt groundspeed.",
+      "Resolving wind 350°/30 against TC040° gives approximately 159 kt groundspeed.",
+      "172 kt. conflicts with the rule: Resolving wind 350°/30 against TC040° gives approximately 159 kt groundspeed."
+    ]
+  },
+  "90-051": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "275°. conflicts with the rule: Wind from 200° is left of TC255°; about 5° left correction gives TH250°.",
+      "245°. conflicts with the rule: Wind from 200° is left of TC255°; about 5° left correction gives TH250°.",
+      "265°. conflicts with the rule: Wind from 200° is left of TC255°; about 5° left correction gives TH250°.",
+      "Wind from 200° is left of TC255°; about 5° left correction gives TH250°."
+    ]
+  },
+  "90-052": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "Wind from 130° is right of TC165°; correct left to a heading near 158°.",
+      "165°. conflicts with the rule: Wind from 130° is right of TC165°; correct left to a heading near 158°.",
+      "152°. conflicts with the rule: Wind from 130° is right of TC165°; correct left to a heading near 158°.",
+      "126°. conflicts with the rule: Wind from 130° is right of TC165°; correct left to a heading near 158°."
+    ]
+  },
+  "90-053": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "A 7° left correction is negative under the stated convention: WCA −7°.",
+      "+ 5° conflicts with the rule: A 7° left correction is negative under the stated convention: WCA −7°.",
+      "+ 11° conflicts with the rule: A 7° left correction is negative under the stated convention: WCA −7°.",
+      "- 9° conflicts with the rule: A 7° left correction is negative under the stated convention: WCA −7°."
+    ]
+  },
+  "90-054": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "135 kt. conflicts with the rule: Wind 270° is mostly a headwind on TC220°; vector resolution gives GS about 185 kt.",
+      "170 kt. conflicts with the rule: Wind 270° is mostly a headwind on TC220°; vector resolution gives GS about 185 kt.",
+      "Wind 270° is mostly a headwind on TC220°; vector resolution gives GS about 185 kt.",
+      "255 kt. conflicts with the rule: Wind 270° is mostly a headwind on TC220°; vector resolution gives GS about 185 kt."
+    ]
+  },
+  "90-055": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "Wind from 090° blows toward 270°, a 25 kt tailwind; GS=100+25=125 kt.",
+      "120 kt. conflicts with the rule: Wind from 090° blows toward 270°, a 25 kt tailwind; GS=100+25=125 kt.",
+      "117 kt. conflicts with the rule: Wind from 090° blows toward 270°, a 25 kt tailwind; GS=100+25=125 kt.",
+      "131 kt. conflicts with the rule: Wind from 090° blows toward 270°, a 25 kt tailwind; GS=100+25=125 kt."
+    ]
+  },
+  "90-056": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "deviation. conflicts with the rule: The angle between true course and true heading is the wind correction angle.",
+      "inclination. conflicts with the rule: The angle between true course and true heading is the wind correction angle.",
+      "The angle between true course and true heading is the wind correction angle.",
+      "variation. conflicts with the rule: The angle between true course and true heading is the wind correction angle."
+    ]
+  },
+  "90-057": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "Orientation by ground celestial… conflicts with the rule: Terrestrial navigation uses ground features to determine position in visual flight.",
+      "Terrestrial navigation uses ground features to determine position in visual flight.",
+      "Orientation by instrument readings… conflicts with the rule: Terrestrial navigation uses ground features to determine position in visual flight.",
+      "Orientation by GPS during… conflicts with the rule: Terrestrial navigation uses ground features to determine position in visual flight."
+    ]
+  },
+  "90-058": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "007°. conflicts with the rule: For true-to-magnetic conversion, add west variation: 245°+7°=252°.",
+      "245°. conflicts with the rule: For true-to-magnetic conversion, add west variation: 245°+7°=252°.",
+      "238°. conflicts with the rule: For true-to-magnetic conversion, add west variation: 245°+7°=252°.",
+      "For true-to-magnetic conversion, add west variation: 245°+7°=252°."
+    ]
+  },
+  "90-059": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "TC: 137°. MH: 139°.… conflicts with the rule: TH=TC+WCA gives TC137°; the keyed sequence is MH127° and CH125°.",
+      "TC: 113°. MH: 127°.… conflicts with the rule: TH=TC+WCA gives TC137°; the keyed sequence is MH127° and CH125°.",
+      "TC: 113°. MH: 139°.… conflicts with the rule: TH=TC+WCA gives TC137°; the keyed sequence is MH127° and CH125°.",
+      "TH=TC+WCA gives TC137°; the keyed sequence is MH127° and CH125°."
+    ]
+  },
+  "90-060": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "MH: 163°. MC: 161°. conflicts with the rule: TH=179°−12°=167°; east variation gives MC175° and MH163°.",
+      "TH=179°−12°=167°; east variation gives MC175° and MH163°.",
+      "MH: 167°. MC: 175°. conflicts with the rule: TH=179°−12°=167°; east variation gives MC175° and MH163°.",
+      "MH: 167°. MC: 161°. conflicts with the rule: TH=179°−12°=167°; east variation gives MC175° and MH163°."
+    ]
+  },
+  "90-061": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "Rivers, railways and major highways are prominent stable visual references.",
+      "Power lines conflicts with the rule: Rivers, railways and major highways are prominent stable visual references.",
+      "Farm tracks and creeks conflicts with the rule: Rivers, railways and major highways are prominent stable visual references.",
+      "Border lines conflicts with the rule: Rivers, railways and major highways are prominent stable visual references."
+    ]
+  },
+  "90-062": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "6° left conflicts with the rule: Track error≈60×7/55=7.6°; closing≈60×7/65=6.5°; correction≈14° left.",
+      "Track error≈60×7/55=7.6°; closing≈60×7/65=6.5°; correction≈14° left.",
+      "8° left conflicts with the rule: Track error≈60×7/55=7.6°; closing≈60×7/65=6.5°; correction≈14° left.",
+      "15° left conflicts with the rule: Track error≈60×7/55=7.6°; closing≈60×7/65=6.5°; correction≈14° left."
+    ]
+  },
+  "90-063": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "4.5 NM off after 45 NM gives 6° track error plus 6° closing: 12° right.",
+      "18° to the right conflicts with the rule: 4.5 NM off after 45 NM gives 6° track error plus 6° closing: 12° right.",
+      "9° to the right conflicts with the rule: 4.5 NM off after 45 NM gives 6° track error plus 6° closing: 12° right.",
+      "6° to the right conflicts with the rule: 4.5 NM off after 45 NM gives 6° track error plus 6° closing: 12° right."
+    ]
+  },
+  "90-064": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "62 Min. conflicts with the rule: Tailwind gives GS125 kt; 100 NM at 125 kt takes 48 minutes.",
+      "37 Min. conflicts with the rule: Tailwind gives GS125 kt; 100 NM at 125 kt takes 48 minutes.",
+      "Tailwind gives GS125 kt; 100 NM at 125 kt takes 48 minutes.",
+      "84 Min. conflicts with the rule: Tailwind gives GS125 kt; 100 NM at 125 kt takes 48 minutes."
+    ]
+  },
+  "90-065": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "TH: 173°. MH: 184°.… conflicts with the rule: The flight-plan table gives TH185°; variation yields MH184° and MC178°.",
+      "TH: 185°. MH: 185°.… conflicts with the rule: The flight-plan table gives TH185°; variation yields MH184° and MC178°.",
+      "The flight-plan table gives TH185°; variation yields MH184° and MC178°.",
+      "TH: 173°. MH: 174°.… conflicts with the rule: The flight-plan table gives TH185°; variation yields MH184° and MC178°."
+    ]
+  },
+  "90-066": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "693 NM. conflicts with the rule: GS=180−25=155 kt; 2 h 25 min=2.4167 h; distance≈375 NM.",
+      "GS=180−25=155 kt; 2 h 25 min=2.4167 h; distance≈375 NM.",
+      "435 NM. conflicts with the rule: GS=180−25=155 kt; 2 h 25 min=2.4167 h; distance≈375 NM.",
+      "202 NM. conflicts with the rule: GS=180−25=155 kt; 2 h 25 min=2.4167 h; distance≈375 NM."
+    ]
+  },
+  "90-067": {
+    "topic": "Radio Waves and Propagation",
+    "why": [
+      "300000 ft/s. conflicts with the rule: Electromagnetic waves travel approximately 300,000 km/s.",
+      "Electromagnetic waves travel approximately 300,000 km/s.",
+      "300000 m/s. conflicts with the rule: Electromagnetic waves travel approximately 300,000 km/s.",
+      "300000 NM/s. conflicts with the rule: Electromagnetic waves travel approximately 300,000 km/s."
+    ]
+  },
+  "90-068": {
+    "topic": "Radio Waves and Propagation",
+    "why": [
+      "the frequency varies, but… conflicts with the rule: Separation between transmitter and receiver lowers received frequency by Doppler effect.",
+      "Separation between transmitter and receiver lowers received frequency by Doppler effect.",
+      "the perceived frequency increases. conflicts with the rule: Separation between transmitter and receiver lowers received frequency by Doppler effect.",
+      "the perceived frequency equals… conflicts with the rule: Separation between transmitter and receiver lowers received frequency by Doppler effect."
+    ]
+  },
+  "90-069": {
+    "topic": "Radio Waves and Propagation",
+    "why": [
+      "the frequency varies, but… conflicts with the rule: Closing motion raises perceived frequency through the Doppler effect.",
+      "the perceived frequency equals… conflicts with the rule: Closing motion raises perceived frequency through the Doppler effect.",
+      "Closing motion raises perceived frequency through the Doppler effect.",
+      "the perceived frequency decreases. conflicts with the rule: Closing motion raises perceived frequency through the Doppler effect."
+    ]
+  },
+  "90-070": {
+    "topic": "Radio Waves and Propagation",
+    "why": [
+      "sky wave. conflicts with the rule: LF/MF NDB signals propagate as both ground/surface waves and sky waves.",
+      "ground / surface wave. conflicts with the rule: LF/MF NDB signals propagate as both ground/surface waves and sky waves.",
+      "LF/MF NDB signals propagate as both ground/surface waves and sky waves.",
+      "space wave (quasi-optical) only. conflicts with the rule: LF/MF NDB signals propagate as both ground/surface waves and sky waves."
+    ]
+  },
+  "90-071": {
+    "topic": "Radio Waves and Propagation",
+    "why": [
+      "VHF VOR signals travel by direct quasi-optical line-of-sight propagation.",
+      "sky wave. conflicts with the rule: VHF VOR signals travel by direct quasi-optical line-of-sight propagation.",
+      "ground / surface wave. conflicts with the rule: VHF VOR signals travel by direct quasi-optical line-of-sight propagation.",
+      "sky wave and ground… conflicts with the rule: VHF VOR signals travel by direct quasi-optical line-of-sight propagation."
+    ]
+  },
+  "90-072": {
+    "topic": "NDB and ADF",
+    "why": [
+      "slant ranges. conflicts with the rule: VDF can determine magnetic bearings to or from the aircraft.",
+      "VDF can determine magnetic bearings to or from the aircraft.",
+      "approach speeds. conflicts with the rule: VDF can determine magnetic bearings to or from the aircraft.",
+      "true courses. conflicts with the rule: VDF can determine magnetic bearings to or from the aircraft."
+    ]
+  },
+  "90-073": {
+    "topic": "NDB and ADF",
+    "why": [
+      "Northwest conflicts with the rule: QDR135° points southeast from the ground station to the aircraft.",
+      "QDR135° points southeast from the ground station to the aircraft.",
+      "Southwest. conflicts with the rule: QDR135° points southeast from the ground station to the aircraft.",
+      "Northeast conflicts with the rule: QDR135° points southeast from the ground station to the aircraft."
+    ]
+  },
+  "90-074": {
+    "topic": "NDB and ADF",
+    "why": [
+      "QDR225° points southwest from the ground station to the aircraft.",
+      "Southeast conflicts with the rule: QDR225° points southwest from the ground station to the aircraft.",
+      "Northwest conflicts with the rule: QDR225° points southwest from the ground station to the aircraft.",
+      "Northeast conflicts with the rule: QDR225° points southwest from the ground station to the aircraft."
+    ]
+  },
+  "90-075": {
+    "topic": "NDB and ADF",
+    "why": [
+      "Northeast conflicts with the rule: QDR315° points northwest from the ground station to the aircraft.",
+      "QDR315° points northwest from the ground station to the aircraft.",
+      "Southeast conflicts with the rule: QDR315° points northwest from the ground station to the aircraft.",
+      "Southwest conflicts with the rule: QDR315° points northwest from the ground station to the aircraft."
+    ]
+  },
+  "90-076": {
+    "topic": "NDB and ADF",
+    "why": [
+      "Course deviation indicator (CDI) conflicts with the rule: An ADF receives NDB signals and indicates their direction.",
+      "Secondary surveillance radar (SSR) conflicts with the rule: An ADF receives NDB signals and indicates their direction.",
+      "An ADF receives NDB signals and indicates their direction.",
+      "Horizontal situation indicator (HSI) conflicts with the rule: An ADF receives NDB signals and indicates their direction."
+    ]
+  },
+  "90-077": {
+    "topic": "NDB and ADF",
+    "why": [
+      "230 conflicts with the rule: The figure’s QDM is 260°; in calm wind fly the magnetic bearing to the beacon.",
+      "200 conflicts with the rule: The figure’s QDM is 260°; in calm wind fly the magnetic bearing to the beacon.",
+      "080 conflicts with the rule: The figure’s QDM is 260°; in calm wind fly the magnetic bearing to the beacon.",
+      "The figure’s QDM is 260°; in calm wind fly the magnetic bearing to the beacon."
+    ]
+  },
+  "90-078": {
+    "topic": "NDB and ADF",
+    "why": [
+      "The crosswind component decreased;… conflicts with the rule: RBI moving 355° to 358° shows increasing drift; increase MH to regain QDM090°.",
+      "RBI moving 355° to 358° shows increasing drift; increase MH to regain QDM090°.",
+      "The crosswind component decreased;… conflicts with the rule: RBI moving 355° to 358° shows increasing drift; increase MH to regain QDM090°.",
+      "The crosswind component increased;… conflicts with the rule: RBI moving 355° to 358° shows increasing drift; increase MH to regain QDM090°."
+    ]
+  },
+  "90-079": {
+    "topic": "NDB and ADF",
+    "why": [
+      "before midday. conflicts with the rule: Night-time sky-wave propagation gives MF NDBs their greatest apparent range.",
+      "Night-time sky-wave propagation gives MF NDBs their greatest apparent range.",
+      "on midday. conflicts with the rule: Night-time sky-wave propagation gives MF NDBs their greatest apparent range.",
+      "in the daytime. conflicts with the rule: Night-time sky-wave propagation gives MF NDBs their greatest apparent range."
+    ]
+  },
+  "90-080": {
+    "topic": "NDB and ADF",
+    "why": [
+      "at a right angle… conflicts with the rule: Shoreline effect is strongest at acute crossing angles and below 6,000 ft.",
+      "Shoreline effect is strongest at acute crossing angles and below 6,000 ft.",
+      "at an acute angle… conflicts with the rule: Shoreline effect is strongest at acute crossing angles and below 6,000 ft.",
+      "at a right angle… conflicts with the rule: Shoreline effect is strongest at acute crossing angles and below 6,000 ft."
+    ]
+  },
+  "90-081": {
+    "topic": "VOR and DME",
+    "why": [
+      "pulse comparison of two… conflicts with the rule: VOR determines bearing by phase comparison of reference and variable signals.",
+      "amplitude comparison of two… conflicts with the rule: VOR determines bearing by phase comparison of reference and variable signals.",
+      "VOR determines bearing by phase comparison of reference and variable signals.",
+      "frequency comparison of two… conflicts with the rule: VOR determines bearing by phase comparison of reference and variable signals."
+    ]
+  },
+  "90-082": {
+    "topic": "VOR and DME",
+    "why": [
+      "QDM. conflicts with the rule: A VOR radial is a magnetic bearing from the station, equivalent to QDR.",
+      "QTE. conflicts with the rule: A VOR radial is a magnetic bearing from the station, equivalent to QDR.",
+      "QUJ. conflicts with the rule: A VOR radial is a magnetic bearing from the station, equivalent to QDR.",
+      "A VOR radial is a magnetic bearing from the station, equivalent to QDR."
+    ]
+  },
+  "90-083": {
+    "topic": "VOR and DME",
+    "why": [
+      "2° beside the selected… conflicts with the rule: In this bank, full CDI deflection means at least 10° off course.",
+      "In this bank, full CDI deflection means at least 10° off course.",
+      "10 NM beside the… conflicts with the rule: In this bank, full CDI deflection means at least 10° off course.",
+      "2 NM beside the… conflicts with the rule: In this bank, full CDI deflection means at least 10° off course."
+    ]
+  },
+  "90-084": {
+    "topic": "VOR and DME",
+    "why": [
+      "NAV-022’s course, flag and CDI place the aircraft northeast of the VOR.",
+      "Southwest conflicts with the rule: NAV-022’s course, flag and CDI place the aircraft northeast of the VOR.",
+      "Southeast conflicts with the rule: NAV-022’s course, flag and CDI place the aircraft northeast of the VOR.",
+      "Northwest conflicts with the rule: NAV-022’s course, flag and CDI place the aircraft northeast of the VOR."
+    ]
+  },
+  "90-085": {
+    "topic": "VOR and DME",
+    "why": [
+      "246 conflicts with the rule: NAV-024 indicates outward magnetic radial 234°.",
+      "NAV-024 indicates outward magnetic radial 234°.",
+      "066 conflicts with the rule: NAV-024 indicates outward magnetic radial 234°.",
+      "060 conflicts with the rule: NAV-024 indicates outward magnetic radial 234°."
+    ]
+  },
+  "90-086": {
+    "topic": "VOR and DME",
+    "why": [
+      "VOR is line of sight; transmitter and receiver altitude affect range.",
+      "daylight interference. conflicts with the rule: VOR is line of sight; transmitter and receiver altitude affect range.",
+      "multipath propagation of the… conflicts with the rule: VOR is line of sight; transmitter and receiver altitude affect range.",
+      "reflected sky waves. conflicts with the rule: VOR is line of sight; transmitter and receiver altitude affect range."
+    ]
+  },
+  "90-087": {
+    "topic": "VOR and DME",
+    "why": [
+      "DME converts signal travel time into distance.",
+      "Doppler. conflicts with the rule: DME converts signal travel time into distance.",
+      "laser measurement. conflicts with the rule: DME converts signal travel time into distance.",
+      "phase comparison. conflicts with the rule: DME converts signal travel time into distance."
+    ]
+  },
+  "90-088": {
+    "topic": "VOR and DME",
+    "why": [
+      "radial distance. conflicts with the rule: DME measures slant range, the direct aircraft-to-station distance.",
+      "ground distance. conflicts with the rule: DME measures slant range, the direct aircraft-to-station distance.",
+      "GNSS distance. conflicts with the rule: DME measures slant range, the direct aircraft-to-station distance.",
+      "DME measures slant range, the direct aircraft-to-station distance."
+    ]
+  },
+  "90-089": {
+    "topic": "VOR and DME",
+    "why": [
+      "when descending. conflicts with the rule: Slant-range error is greatest close to or overhead the station, especially at altitude.",
+      "when departing the DME… conflicts with the rule: Slant-range error is greatest close to or overhead the station, especially at altitude.",
+      "Slant-range error is greatest close to or overhead the station, especially at altitude.",
+      "when circling around the… conflicts with the rule: Slant-range error is greatest close to or overhead the station, especially at altitude."
+    ]
+  },
+  "90-090": {
+    "topic": "Radar and Transponder",
+    "why": [
+      "Direction and airspeed (TAS) conflicts with the rule: Ground radar provides instantaneous range and direction from its antenna.",
+      "Airspeed (TAS) and heading conflicts with the rule: Ground radar provides instantaneous range and direction from its antenna.",
+      "Airspeed (TAS) and distance conflicts with the rule: Ground radar provides instantaneous range and direction from its antenna.",
+      "Ground radar provides instantaneous range and direction from its antenna."
+    ]
+  },
+  "90-091": {
+    "topic": "Radar and Transponder",
+    "why": [
+      "The primary radar is… conflicts with the rule: Primary radar receives aircraft reflections; SSR receives transponder replies.",
+      "The pulses of a… conflicts with the rule: Primary radar receives aircraft reflections; SSR receives transponder replies.",
+      "The pulses of a… conflicts with the rule: Primary radar receives aircraft reflections; SSR receives transponder replies.",
+      "Primary radar receives aircraft reflections; SSR receives transponder replies."
+    ]
+  },
+  "90-092": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "Opposite-hemisphere latitudes add: 12°53′30″+7°34′30″=20°28′00″.",
+      "05,19° conflicts with the rule: Opposite-hemisphere latitudes add: 12°53′30″+7°34′30″=20°28′00″.",
+      "20,28° conflicts with the rule: Opposite-hemisphere latitudes add: 12°53′30″+7°34′30″=20°28′00″.",
+      "05°19'00'' conflicts with the rule: Opposite-hemisphere latitudes add: 12°53′30″+7°34′30″=20°28′00″."
+    ]
+  },
+  "90-093": {
+    "topic": "Earth, Coordinates and Distances",
+    "why": [
+      "more than 600 NM. conflicts with the rule: At non-equatorial latitude, longitude distance is below 60 NM/degree by the cosine factor.",
+      "At non-equatorial latitude, longitude distance is below 60 NM/degree by the cosine factor.",
+      "more than 300 NM. conflicts with the rule: At non-equatorial latitude, longitude distance is below 60 NM/degree by the cosine factor.",
+      "less than 300 NM. conflicts with the rule: At non-equatorial latitude, longitude distance is below 60 NM/degree by the cosine factor."
+    ]
+  },
+  "90-094": {
+    "topic": "Time, UTC, Longitude and Sun",
+    "why": [
+      "Vienna is 3°34′ east; 3.57×4≈14 minutes earlier for sunrise and sunset in UTC.",
+      "In Vienna the sunrise… conflicts with the rule: Vienna is 3°34′ east; 3.57×4≈14 minutes earlier for sunrise and sunset in UTC.",
+      "In Vienna the sunrise… conflicts with the rule: Vienna is 3°34′ east; 3.57×4≈14 minutes earlier for sunrise and sunset in UTC.",
+      "In Vienna the sunrise… conflicts with the rule: Vienna is 3°34′ east; 3.57×4≈14 minutes earlier for sunrise and sunset in UTC."
+    ]
+  },
+  "90-095": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "TH=194°; MH198° differs by 4°W variation.",
+      "TH: 194°. VAR: 004°… conflicts with the rule: TH=194°; MH198° differs by 4°W variation.",
+      "TH: 172°. VAR: 004°… conflicts with the rule: TH=194°; MH198° differs by 4°W variation.",
+      "TH: 172°. VAR: 004°… conflicts with the rule: TH=194°; MH198° differs by 4°W variation."
+    ]
+  },
+  "90-096": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "TH: 172°. DEV: +002°. conflicts with the rule: TH=194°; CH200° is 2° above MH198°, giving bank DEV −2°.",
+      "TH: 172°. DEV: -002°. conflicts with the rule: TH=194°; CH200° is 2° above MH198°, giving bank DEV −2°.",
+      "TH=194°; CH200° is 2° above MH198°, giving bank DEV −2°.",
+      "TH: 194°. DEV: +002°. conflicts with the rule: TH=194°; CH200° is 2° above MH198°, giving bank DEV −2°."
+    ]
+  },
+  "90-097": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "VAR: 004° W. DEV:… conflicts with the rule: TH194° to MH198° gives 4°W; MH198° to CH200° gives DEV −2°.",
+      "TH194° to MH198° gives 4°W; MH198° to CH200° gives DEV −2°.",
+      "VAR: 004° E. DEV:… conflicts with the rule: TH194° to MH198° gives 4°W; MH198° to CH200° gives DEV −2°.",
+      "VAR: 004° E. DEV:… conflicts with the rule: TH194° to MH198° gives 4°W; MH198° to CH200° gives DEV −2°."
+    ]
+  },
+  "90-098": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "Magnetic inclination is lowest, about zero, at the magnetic equator.",
+      "At the magnetic poles conflicts with the rule: Magnetic inclination is lowest, about zero, at the magnetic equator.",
+      "At the geographic equator conflicts with the rule: Magnetic inclination is lowest, about zero, at the magnetic equator.",
+      "At the geographic poles conflicts with the rule: Magnetic inclination is lowest, about zero, at the magnetic equator."
+    ]
+  },
+  "90-099": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "The most northerly part… conflicts with the rule: Compass north is where the compass aligns under Earth’s and aircraft’s magnetic fields.",
+      "The direction from an… conflicts with the rule: Compass north is where the compass aligns under Earth’s and aircraft’s magnetic fields.",
+      "The angle between the… conflicts with the rule: Compass north is where the compass aligns under Earth’s and aircraft’s magnetic fields.",
+      "Compass north is where the compass aligns under Earth’s and aircraft’s magnetic fields."
+    ]
+  },
+  "90-100": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "\"Turning Instruments\" only conflicts with the rule: The keyed checklist combination is “Gyro” and “Turning Instruments.”",
+      "\"Gyro\" and \"Circuit Breaker\" conflicts with the rule: The keyed checklist combination is “Gyro” and “Turning Instruments.”",
+      "The bank-key checklist combination is “Gyro” and “Turning Instruments” (bank key).",
+      "\"Turning Instruments\" and \"Circuit… conflicts with the rule: The keyed checklist combination is “Gyro” and “Turning Instruments.”"
+    ],
+    "note": "(bank key) The checklist labels “Gyro” and “Turning Instruments” are keyed; these are not ordinarily the direct-reading magnetic compass itself."
+  },
+  "90-101": {
+    "topic": "Direction References and Compass",
+    "why": [
+      "turn coordinator. conflicts with the rule: Electrical devices can interfere with the direct-reading magnetic compass.",
+      "airspeed indicator. conflicts with the rule: Electrical devices can interfere with the direct-reading magnetic compass.",
+      "artificial horizon. conflicts with the rule: Electrical devices can interfere with the direct-reading magnetic compass.",
+      "Electrical devices can interfere with the direct-reading magnetic compass."
+    ]
+  },
+  "90-102": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "True bearings from known points provide chartable lines of position.",
+      "Magnetic bearings (QDR) conflicts with the rule: True bearings from known points provide chartable lines of position.",
+      "Relative bearings (RB) conflicts with the rule: True bearings from known points provide chartable lines of position.",
+      "Magnetic headings (MH) conflicts with the rule: True bearings from known points provide chartable lines of position."
+    ]
+  },
+  "90-103": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "024° conflicts with the rule: Coordinates give BKD-to-Pritzwalk radial about 068°.",
+      "204° conflicts with the rule: Coordinates give BKD-to-Pritzwalk radial about 068°.",
+      "248° conflicts with the rule: Coordinates give BKD-to-Pritzwalk radial about 068°.",
+      "Coordinates give BKD-to-Pritzwalk radial about 068°."
+    ]
+  },
+  "90-104": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "52°20'N, 10°10'E conflicts with the rule: The 119° HAM and 320° BKD radials intersect at 53°20′N, 11°10′E.",
+      "54°40'N, 12°50'E conflicts with the rule: The 119° HAM and 320° BKD radials intersect at 53°20′N, 11°10′E.",
+      "52°10'N, 10°20'E conflicts with the rule: The 119° HAM and 320° BKD radials intersect at 53°20′N, 11°10′E.",
+      "The 119° HAM and 320° BKD radials intersect at 53°20′N, 11°10′E."
+    ]
+  },
+  "90-105": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "24 km conflicts with the rule: At 53°N the components are about 9 NM north and 23 NM east; distance is about 24 NM.",
+      "42 NM conflicts with the rule: At 53°N the components are about 9 NM north and 23 NM east; distance is about 24 NM.",
+      "At 53°N the components are about 9 NM north and 23 NM east; distance is about 24 NM.",
+      "42 km conflicts with the rule: At 53°N the components are about 9 NM north and 23 NM east; distance is about 24 NM."
+    ]
+  },
+  "90-106": {
+    "topic": "Units and Chart Scale",
+    "why": [
+      "1 : 500000 conflicts with the rule: 60.745 NM≈11,250,000 cm; ÷7.5 cm gives scale 1:1,500,000.",
+      "1 : 1 000000 conflicts with the rule: 60.745 NM≈11,250,000 cm; ÷7.5 cm gives scale 1:1,500,000.",
+      "1 : 150000 conflicts with the rule: 60.745 NM≈11,250,000 cm; ÷7.5 cm gives scale 1:1,500,000.",
+      "60.745 NM≈11,250,000 cm; ÷7.5 cm gives scale 1:1,500,000."
+    ]
+  },
+  "90-107": {
+    "topic": "Flight Planning and ETA",
+    "why": [
+      "1 h 32 min conflicts with the rule: Tailwind gives GS155 kt; 185/155 hours is about 1 h 12 min.",
+      "0 h 50 min conflicts with the rule: Tailwind gives GS155 kt; 185/155 hours is about 1 h 12 min.",
+      "Tailwind gives GS155 kt; 185/155 hours is about 1 h 12 min.",
+      "2 h 11 min conflicts with the rule: Tailwind gives GS155 kt; 185/155 hours is about 1 h 12 min."
+    ]
+  },
+  "90-108": {
+    "topic": "Airspeed and Altitude",
+    "why": [
+      "155 kts. conflicts with the rule: At FL80 with +15°C, the bank’s correction gives TAS approximately 180 kt.",
+      "170 kts. conflicts with the rule: At FL80 with +15°C, the bank’s correction gives TAS approximately 180 kt.",
+      "At FL80 with +15°C, the bank’s correction gives TAS approximately 180 kt.",
+      "134 kts. conflicts with the rule: At FL80 with +15°C, the bank’s correction gives TAS approximately 180 kt."
+    ]
+  },
+  "90-109": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "241° conflicts with the rule: Coordinates give a northeast TC of approximately 061° from Uelzen to Neustadt.",
+      "235° conflicts with the rule: Coordinates give a northeast TC of approximately 061° from Uelzen to Neustadt.",
+      "Coordinates give a northeast TC of approximately 061° from Uelzen to Neustadt.",
+      "055° conflicts with the rule: Coordinates give a northeast TC of approximately 061° from Uelzen to Neustadt."
+    ]
+  },
+  "90-110": {
+    "topic": "Maps and Visual Navigation",
+    "why": [
+      "Latitude-adjusted coordinate components give a route distance of about 46 NM.",
+      "78 km conflicts with the rule: Latitude-adjusted coordinate components give a route distance of about 46 NM.",
+      "46 km conflicts with the rule: Latitude-adjusted coordinate components give a route distance of about 46 NM.",
+      "78 NM conflicts with the rule: Latitude-adjusted coordinate components give a route distance of about 46 NM."
+    ]
+  },
+  "90-111": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "169°. conflicts with the rule: Wind from 140° creates a small left correction from TC177°; TH≈173°.",
+      "Wind from 140° creates a small left correction from TC177°; TH≈173°.",
+      "184°. conflicts with the rule: Wind from 140° creates a small left correction from TC177°; TH≈173°.",
+      "180°. conflicts with the rule: Wind from 140° creates a small left correction from TC177°; TH≈173°."
+    ]
+  },
+  "90-112": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "6° to the right. conflicts with the rule: Wind from 150° is right of TC120°; a 12 kt crosswind gives about 3° right WCA.",
+      "3° to the left. conflicts with the rule: Wind from 150° is right of TC120°; a 12 kt crosswind gives about 3° right WCA.",
+      "Wind from 150° is right of TC120°; a 12 kt crosswind gives about 3° right WCA.",
+      "6° to the left. conflicts with the rule: Wind from 150° is right of TC120°; a 12 kt crosswind gives about 3° right WCA."
+    ]
+  },
+  "90-113": {
+    "topic": "Wind Triangle and 1:60 Corrections",
+    "why": [
+      "6 NM lateral offset… conflicts with the rule: The 1:60 rule gives 1 NM cross-track error after 60 NM at 1° error.",
+      "60 NM lateral offset… conflicts with the rule: The 1:60 rule gives 1 NM cross-track error after 60 NM at 1° error.",
+      "The 1:60 rule gives 1 NM cross-track error after 60 NM at 1° error.",
+      "10 NM lateral offset… conflicts with the rule: The 1:60 rule gives 1 NM cross-track error after 60 NM at 1° error."
+    ]
+  },
+  "90-114": {
+    "topic": "NDB and ADF",
+    "why": [
+      "VOR conflicts with the rule: The pictured loop-style aerial is used for NDB/ADF reception.",
+      "DME conflicts with the rule: The pictured loop-style aerial is used for NDB/ADF reception.",
+      "The pictured loop-style aerial is used for NDB/ADF reception.",
+      "VDF conflicts with the rule: The pictured loop-style aerial is used for NDB/ADF reception."
+    ]
+  },
+  "90-115": {
+    "topic": "Radio Waves and Propagation",
+    "why": [
+      "along the surface of… conflicts with the rule: Quasi-optical VHF waves travel directly through air within line of sight.",
+      "Quasi-optical VHF waves travel directly through air within line of sight.",
+      "through the air and… conflicts with the rule: Quasi-optical VHF waves travel directly through air within line of sight.",
+      "along the surface of… conflicts with the rule: Quasi-optical VHF waves travel directly through air within line of sight."
+    ]
+  },
+  "90-116": {
+    "topic": "NDB and ADF",
+    "why": [
+      "At least two VHF… conflicts with the rule: An aircraft uses its VHF radio to transmit for ground VDF bearing measurement.",
+      "An aircraft uses its VHF radio to transmit for ground VDF bearing measurement.",
+      "A relative bearing indicator… conflicts with the rule: An aircraft uses its VHF radio to transmit for ground VDF bearing measurement.",
+      "A VDF receiver conflicts with the rule: An aircraft uses its VHF radio to transmit for ground VDF bearing measurement."
+    ]
+  },
+  "90-117": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "168°. conflicts with the rule: QDM138° plus 10°E gives true QUJ148° to the station.",
+      "318°. conflicts with the rule: QDM138° plus 10°E gives true QUJ148° to the station.",
+      "328°. conflicts with the rule: QDM138° plus 10°E gives true QUJ148° to the station.",
+      "QDM138° plus 10°E gives true QUJ148° to the station."
+    ]
+  },
+  "90-118": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "212°. conflicts with the rule: QTE=QDR+VAR; 022°+10°E gives true bearing 032°.",
+      "202°. conflicts with the rule: QTE=QDR+VAR; 022°+10°E gives true bearing 032°.",
+      "052°. conflicts with the rule: QTE=QDR+VAR; 022°+10°E gives true bearing 032°.",
+      "QTE=QDR+VAR; 022°+10°E gives true bearing 032°."
+    ]
+  },
+  "90-119": {
+    "topic": "Radio Bearings and Q-Codes",
+    "why": [
+      "314°. conflicts with the rule: QDM134° reverses to QDR314°; 5°W gives QTE309°.",
+      "299°. conflicts with the rule: QDM134° reverses to QDR314°; 5°W gives QTE309°.",
+      "129°. conflicts with the rule: QDM134° reverses to QDR314°; 5°W gives QTE309°.",
+      "QDM134° reverses to QDR314°; 5°W gives QTE309°."
+    ]
+  },
+  "90-120": {
+    "topic": "NDB and ADF",
+    "why": [
+      "the aircraft's speed. conflicts with the rule: VDF is line-of-sight VHF, so its range depends on aircraft altitude.",
+      "the condition of the… conflicts with the rule: VDF is line-of-sight VHF, so its range depends on aircraft altitude.",
+      "the range of the… conflicts with the rule: VDF is line-of-sight VHF, so its range depends on aircraft altitude.",
+      "VDF is line-of-sight VHF, so its range depends on aircraft altitude."
+    ]
+  },
+  "90-121": {
+    "topic": "NDB and ADF",
+    "why": [
+      "Very low frequency (VLF)… conflicts with the rule: NDBs transmit in the low-frequency and medium-frequency bands.",
+      "NDBs transmit in the low-frequency and medium-frequency bands.",
+      "High frequency (HF) conflicts with the rule: NDBs transmit in the low-frequency and medium-frequency bands.",
+      "Very high frequency (VHF) conflicts with the rule: NDBs transmit in the low-frequency and medium-frequency bands."
+    ]
+  },
+  "90-122": {
+    "topic": "NDB and ADF",
+    "why": [
+      "Locator beacons transmit more… conflicts with the rule: Locator beacons have lower range than full NDBs.",
+      "Locator beacons have a… conflicts with the rule: Locator beacons have lower range than full NDBs.",
+      "Locator beacons transmit on… conflicts with the rule: Locator beacons have lower range than full NDBs.",
+      "Locator beacons have lower range than full NDBs."
+    ]
+  },
+  "90-123": {
+    "topic": "NDB and ADF",
+    "why": [
+      "in the late afternoon. conflicts with the rule: LF/MF fading occurs mainly at night due to sky-wave interference.",
+      "at midday. conflicts with the rule: LF/MF fading occurs mainly at night due to sky-wave interference.",
+      "LF/MF fading occurs mainly at night due to sky-wave interference.",
+      "in the daytime. conflicts with the rule: LF/MF fading occurs mainly at night due to sky-wave interference."
+    ]
+  },
+  "90-124": {
+    "topic": "Radio Waves and Propagation",
+    "why": [
+      "Phase angle describes the progress of an electromagnetic oscillation through its cycle.",
+      "amplitude angle. conflicts with the rule: Phase angle describes the progress of an electromagnetic oscillation through its cycle.",
+      "wave angle. conflicts with the rule: Phase angle describes the progress of an electromagnetic oscillation through its cycle.",
+      "frequency angle. conflicts with the rule: Phase angle describes the progress of an electromagnetic oscillation through its cycle."
+    ]
+  },
+  "90-125": {
+    "topic": "Radar and Transponder",
+    "why": [
+      "the pulse pair interval. conflicts with the rule: Primary radar gets bearing from the orientation of its antenna.",
+      "Primary radar gets bearing from the orientation of its antenna.",
+      "the frequency shift of… conflicts with the rule: Primary radar gets bearing from the orientation of its antenna.",
+      "time measurement. conflicts with the rule: Primary radar gets bearing from the orientation of its antenna."
+    ]
+  },
+  "90-126": {
+    "topic": "Radar and Transponder",
+    "why": [
+      "course indicator. conflicts with the rule: The aircraft’s SSR reply equipment is the transponder.",
+      "The aircraft’s SSR reply equipment is the transponder.",
+      "interrogator. conflicts with the rule: The aircraft’s SSR reply equipment is the transponder.",
+      "decoder. conflicts with the rule: The aircraft’s SSR reply equipment is the transponder."
+    ]
+  },
+  "90-127": {
+    "topic": "Radar and Transponder",
+    "why": [
+      "7000. conflicts with the rule: Transponder code 7500 signals unlawful interference or hijacking.",
+      "7600. conflicts with the rule: Transponder code 7500 signals unlawful interference or hijacking.",
+      "Transponder code 7500 signals unlawful interference or hijacking.",
+      "7700. conflicts with the rule: Transponder code 7500 signals unlawful interference or hijacking."
+    ]
+  },
+  "90-128": {
+    "topic": "Radar and Transponder",
+    "why": [
+      "7700. conflicts with the rule: Transponder code 7600 signals radio communication failure.",
+      "7500. conflicts with the rule: Transponder code 7600 signals radio communication failure.",
+      "7000. conflicts with the rule: Transponder code 7600 signals radio communication failure.",
+      "Transponder code 7600 signals radio communication failure."
+    ]
+  },
+  "90-129": {
+    "topic": "Radar and Transponder",
+    "why": [
+      "QFE altitude conflicts with the rule: Mode C transmits pressure altitude referenced to standard pressure.",
+      "Mode C transmits pressure altitude referenced to standard pressure.",
+      "QNH altitude conflicts with the rule: Mode C transmits pressure altitude referenced to standard pressure.",
+      "Radio altitude conflicts with the rule: Mode C transmits pressure altitude referenced to standard pressure."
+    ]
+  },
+  "90-130": {
+    "topic": "GNSS and GPS",
+    "why": [
+      "Two conflicts with the rule: Four satellites provide 3D position plus receiver-clock correction.",
+      "Three conflicts with the rule: Four satellites provide 3D position plus receiver-clock correction.",
+      "Five conflicts with the rule: Four satellites provide 3D position plus receiver-clock correction.",
+      "Four satellites provide 3D position plus receiver-clock correction."
+    ]
+  },
+  "90-131": {
+    "topic": "GNSS and GPS",
+    "why": [
+      "The deviation of the… conflicts with the rule: GPS deviation indicates lateral distance in NM; full-scale sensitivity varies with operating mode.",
+      "The deviation of the… conflicts with the rule: GPS deviation indicates lateral distance in NM; full-scale sensitivity varies with operating mode.",
+      "The deviation of the… conflicts with the rule: GPS deviation indicates lateral distance in NM; full-scale sensitivity varies with operating mode.",
+      "GPS deviation indicates lateral distance in NM; full-scale sensitivity varies with operating mode."
+    ]
+  }
+}
