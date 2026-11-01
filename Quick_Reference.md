@@ -1,17 +1,17 @@
 # PPL(A) Quick Reference — Index
 
-The quick reference is split into **nine subject-specific one-page sheets**. The formulas and memory aids have been drawn from `Notes.md` and checked against the subject guide; approximations and aircraft-specific rules are labelled accordingly.
+The quick reference is split into **nine subject cheat sheets**, built from the question banks, `Notes.md`, the real exam reports and the lesson material (`vakken` folder). Memorise the sheet, then use its HOW-TO-USE lines, worked examples and exam traps to answer any question. Each subject also has detailed lesson notes for understanding.
 
-| Subject | One-page sheet |
-|---|---|
-| 10 — Air Law | [Open quick reference](quick-reference/10_Air_Law.md) |
-| 20 — Human Performance | [Open quick reference](quick-reference/20_Human_Performance.md) |
-| 30 — Meteorology | [Open quick reference](quick-reference/30_Meteorology.md) |
-| 40 — Communication | [Open quick reference](quick-reference/40_Communication.md) |
-| 51 — Principles of Flight (Aeroplane) | [Open quick reference](quick-reference/51_Principles_of_Flight.md) |
-| 60 — Operational Procedures | [Open quick reference](quick-reference/60_Operational_Procedures.md) |
-| 70 — Flight Performance and Planning | [Open quick reference](quick-reference/70_Flight_Performance_and_Planning.md) |
-| 80 — Aircraft General Knowledge | [Open quick reference](quick-reference/80_Aircraft_General_Knowledge.md) |
-| 90 — Navigation | [Open quick reference](quick-reference/90_Navigation.md) |
+| Subject | Cheat sheet | Lesson notes |
+|---|---|---|
+| 10 — Air Law | [Open cheat sheet](quick-reference/10_Air_Law.md) | [Lesson notes](lesson-notes/10_Air_Law.md) |
+| 20 — Human Performance | [Open cheat sheet](quick-reference/20_Human_Performance.md) | [Lesson notes](lesson-notes/20_Human_Performance.md) |
+| 30 — Meteorology | [Open cheat sheet](quick-reference/30_Meteorology.md) | [Lesson notes](lesson-notes/30_Meteorology.md) |
+| 40 — Communication | [Open cheat sheet](quick-reference/40_Communication.md) | [Lesson notes](lesson-notes/40_Communication.md) |
+| 51 — Principles of Flight (Aeroplane) | [Open cheat sheet](quick-reference/51_Principles_of_Flight.md) | [Lesson notes](lesson-notes/51_Principles_of_Flight.md) |
+| 60 — Operational Procedures | [Open cheat sheet](quick-reference/60_Operational_Procedures.md) | [Lesson notes](lesson-notes/60_Operational_Procedures.md) |
+| 70 — Flight Performance and Planning | [Open cheat sheet](quick-reference/70_Flight_Performance_and_Planning.md) | [Lesson notes](lesson-notes/70_Flight_Performance_and_Planning.md) |
+| 80 — Aircraft General Knowledge | [Open cheat sheet](quick-reference/80_Aircraft_General_Knowledge.md) | [Lesson notes](lesson-notes/80_Aircraft_General_Knowledge.md) |
+| 90 — Navigation | [Open cheat sheet](quick-reference/90_Navigation.md) | [Lesson notes](lesson-notes/90_Navigation.md) |
 
-These are rapid-recall aids, not substitutes for current regulations, the State AIP, or your aircraft's POH/AFM. Check units, sign conventions, and local procedures before applying a formula or rule.
+Where the lesson material and the question bank disagree, the sheets follow the bank and flag the difference. These are rapid-recall aids, not substitutes for current regulations, the State AIP, or your aircraft's POH/AFM. Check units, sign conventions, and local procedures before applying a formula or rule.

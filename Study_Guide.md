@@ -4,7 +4,7 @@ This guide turns the repository's example questions into a concept-first revisio
 
 Use the guide to understand and practise the material, not as a substitute for your aircraft's POH/AFM, current regulations, your instructor, or official aeronautical information. Some question-bank answers or regulatory details may be simplified or date-sensitive; verify operational and legal requirements against the current rules and the relevant State AIP.
 
-For rapid revision, use the companion [Quick Reference index](Quick_Reference.md) to open the nine separate, subject-specific one-page sheets. Their formulas and memory aids draw on [Notes.md](Notes.md).
+For rapid revision, use the companion [Quick Reference index](Quick_Reference.md) to open the nine subject cheat sheets and their detailed lesson notes (`lesson-notes/`). Their formulas and memory aids draw on [Notes.md](Notes.md).
 
 ## What the actual exam reports add
 
